@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 20:11 Berlin time (UTC+1)",
-  "newestPostId": "2116608764610806196",
+  "lastUpdated": "Saturday 31 Oct 2026, 20:17 Berlin time (UTC+1)",
+  "newestPostId": "2116610304071414141",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$ANAKIN",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@Charlie_SOL23 (1,697 followers) claimed $ANAKIN went from $12.7K to $629K market cap; @flinttrades_1 and @andr3sky pushed the same contract address within minutes.",
+      "engagement": "1 like, 1 repost, 28 impressions at scan time.",
+      "flags": "Paid-call style promotion with Telegram VIP pitch; market cap claim unverified, very high risk.",
+      "url": "https://x.com/Charlie_SOL23/status/2116609798951120975",
+      "followers": 1697
+    },
+    {
+      "coin": "$HackerTube",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun bonding curve)",
+      "buzz": "@bitecong (38,435 followers) AI signal account flagged HackerTube about two minutes after launch, still on the pump.fun bonding curve.",
+      "engagement": "0 likes, 282 impressions at scan time.",
+      "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
+      "url": "https://x.com/bitecong/status/2116609978111045650",
+      "followers": 38435
+    },
     {
       "coin": "$TRACER",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "317 impressions and 0 likes at scan time.",
       "flags": "Bot-generated signal, celebrity-name token with no sign of involvement by the person. Very high risk, not verified.",
       "url": "https://x.com/bitecong/status/2116564106803302720",
-      "followers": 38436
-    },
-    {
-      "coin": "Pangu Coin (盘古币)",
-      "chain": "BNB Chain",
-      "chainNote": "BNB Chain (Flap), CA 0x7c5f717b5b0285e45baa530341e1bede35347777 as posted by @bitecong",
-      "buzz": "Automated 'AI Signal' account @bitecong (38,436 followers) flagged a Chinese-named token about eight minutes old and 41% along its bonding curve, with no clear theme beyond the name.",
-      "engagement": "Just posted, 22 impressions and 0 likes at scan time.",
-      "flags": "Bot-generated signal, no independent engagement. Very high risk, not verified.",
-      "url": "https://x.com/bitecong/status/2116560121086276063",
-      "followers": 38436
-    },
-    {
-      "coin": "$BTC (BALLS TINGLE COIN)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA 7XtR6SzbVNuQDLvvP2cPd6qVi7h5QPQ5W64K3p1Xpump as posted by @bitecong",
-      "buzz": "@bitecong's AI Signal flagged a pump.fun token about five minutes old using the BTC ticker; it noted 70 of the top 100 buyers had already sold at least half.",
-      "engagement": "Just posted, 244 impressions and 0 likes at scan time.",
-      "flags": "Ticker imitates Bitcoin, early buyers already dumping, bot-generated signal. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116560114182439057",
       "followers": 38436
     }
   ],
