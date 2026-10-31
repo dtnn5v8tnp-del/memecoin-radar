@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:11 Berlin time (UTC+1)",
-  "newestPostId": "2116533390640091557",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:15 Berlin time (UTC+1)",
+  "newestPostId": "2116534428260311188",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$LAURA",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun contract (CA 4kAYSeQDq3VJarmQp74tvMB9QQoikvWTK9EpCSPTpump as posted)",
+      "buzz": "@ReptoldSol1 (1,009 followers) claims a 5.1x gain on their $LAURA call; @_callerhex (1,815 followers) posted the same CA but warned 'watch your entry... gamble for now'.",
+      "engagement": "10 to 13 impressions, no likes per post.",
+      "flags": "Pushed only by Telegram call accounts; gain figures are the callers' own claims, not verified.",
+      "url": "https://x.com/ReptoldSol1/status/2116533793918275744",
+      "followers": 1009
+    },
+    {
+      "coin": "$AMAZON",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun contract (CA 9L2FD9gNEu8h9NdD9VqRWCqhNgh1UznG8Ve7VZWpump as posted)",
+      "buzz": "@Sol_Ficra (5,581 followers) called it at $41K market cap at 15:13 Berlin and posted $145K (about 3.5x) six minutes later.",
+      "engagement": "20 to 31 impressions, 1 like per post.",
+      "flags": "Brand-name ticker unrelated to Amazon; single caller account promoting DMs. Market-cap figures unverified.",
+      "url": "https://x.com/Sol_Ficra/status/2116534232990593227",
+      "followers": 5581
+    },
     {
       "coin": "$Hallowinu (HELLOWIN)",
       "chain": "Solana",
