@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:59 Berlin time (UTC+1)",
-  "newestPostId": "2116560631386030196",
+  "lastUpdated": "Saturday 31 Oct 2026, 17:04 Berlin time (UTC+1)",
+  "newestPostId": "2116561965975810323",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Rug claim",
+      "headline": "Trader says 'The Black Bull' Solana memecoin was a bundled token that slow-rugged toward zero",
+      "coins": "Black Bull (Solana, CA 9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump as posted)",
+      "detail": "Posted by @YokaiCapital (30,429 followers), who says they had warned the token was 'fully bundled' with no real holders and tagged @blknoiz06. A second account, @thetillydog (919 followers), separately said the same contract 'rugged'. 439 impressions and 1 like at scan time. Claims only, not independently verified.",
+      "updated": "31 Oct, 17:04 (Berlin)",
+      "url": "https://x.com/YokaiCapital/status/2116561556477771854"
+    },
+    {
       "topic": "Exchange",
       "headline": "Binance's SAFU fund bitcoin address sent out about 9,140 BTC (about $708M) in six minutes, per an on-chain observer",
       "coins": "BTC (Binance SAFU)",
@@ -536,14 +544,6 @@
       "detail": "Memes and satire after the hack, including 'Lazarus-WSOL' markets and a 1 billion LAZARUS token mint. X's summary says most treat it as satire.",
       "updated": "30 Oct, 12:30 (Berlin)",
       "url": "https://x.com/i/trending/2116072548190548276"
-    },
-    {
-      "topic": "Pump.fun",
-      "headline": "Pump.fun callout rewards, Creator Program and $100K competition",
-      "coins": "PUMP, pump.fun launches",
-      "detail": "Callout rewards pay daily USDC; one trader showed a $32,000 day. A Creator Program and a $100,000 competition start Nov 2. Critics question the payout and funding.",
-      "updated": "31 Oct, 06:47 (Berlin)",
-      "url": "https://x.com/i/trending/2116252950716723365"
     }
   ],
   "hourly": [
