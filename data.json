@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 17:38 Berlin time (UTC+1)",
-  "newestPostId": "2116570357150662851",
+  "lastUpdated": "Saturday 31 Oct 2026, 17:45 Berlin time (UTC+1)",
+  "newestPostId": "2116572285733892491",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$HALLOCAT",
+      "chain": "Solana",
+      "chainNote": "Solana (CA 7sPbWf4X2FAKzHffSbfHoAaoHYonjzyAE8bmWYJ4pump as posted)",
+      "buzz": "Several 'call' accounts posted near-identical templates within minutes: @itsmeflow18 (3,662 followers) and @maxthetrader0 (1,946 followers) both claimed '29.2X from my $HALLOCAT call', and @Annatrader22 (4,729 followers) claimed a $10K to $204K market-cap move with a VIP Telegram pitch.",
+      "engagement": "0 likes on every post; at most 49 impressions at scan time.",
+      "flags": "Copy-paste shill cluster with VIP upsell. Multiples are the posters' own claims, not verified. Very high risk.",
+      "url": "https://x.com/itsmeflow18/status/2116572172239942143",
+      "followers": 3662
+    },
+    {
+      "coin": "$HALLOWTRUMP",
+      "chain": "Solana",
+      "chainNote": "Solana (no contract address in the post text)",
+      "buzz": "@Marco_Alphqx0u (785 followers), the same account pushing $WHITEPAPER, claimed $HALLOWTRUMP went from a $10K call to $689K market cap, with a 'DM me or join my VIP Telegram' pitch.",
+      "engagement": "0 likes, 0 impressions at scan time.",
+      "flags": "Single-account shill with VIP upsell; Halloween plus Trump name-bait. Figures unverified. Very high risk.",
+      "url": "https://x.com/Marco_Alphqx0u/status/2116572021039505757",
+      "followers": 785
+    },
     {
       "coin": "$WHITEPAPER",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "The signal itself says one post ties it to Coinbase but nothing backs that up. Minutes old; automated signal account. Not verified.",
       "url": "https://x.com/bitecong/status/2116510394722418808",
       "followers": 38428
-    },
-    {
-      "coin": "$Champy",
-      "chain": "Solana",
-      "chainNote": "Solana (address BVqiLaqbK48xGygbxUwLbDVAwPCF4spdP6gHAWnjNRip)",
-      "buzz": "An animal memecoin flagged by @bitecong's AI signal; it was past the halfway mark to pump.fun graduation about five minutes after launch.",
-      "engagement": "440 impressions, 1 like.",
-      "flags": "The post says most of the top hundred wallets had already sold at least half. Minutes old; automated signal account. Not verified.",
-      "url": "https://x.com/bitecong/status/2116504865476317297",
-      "followers": 38429
-    },
-    {
-      "coin": "$COMPUTE",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun address iBNEQnNPCCknSzgbemD9BR5W3MxaepeiXy3iMaMpump)",
-      "buzz": "'Compute', flagged by @bitecong's AI signal about three minutes after launch; it graduated from pump.fun to PumpSwap 2 min 15 s after launch.",
-      "engagement": "269 impressions, no likes or reposts yet.",
-      "flags": "The post says the deployer has already sold out. Minutes old; automated signal account. Not verified.",
-      "url": "https://x.com/bitecong/status/2116500381438189958",
-      "followers": 38430
     }
   ],
   "news": [
