@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 20:41 Berlin time (UTC+1)",
-  "newestPostId": "2116616493374861724",
+  "lastUpdated": "Saturday 31 Oct 2026, 20:48 Berlin time (UTC+1)",
+  "newestPostId": "2116618173495615501",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$AGENCY",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@bitecong (38,434 followers) AI signal account flagged $AGENCY about two minutes after its pump.fun launch, pointing to how the biggest early wallets traded.",
+      "engagement": "0 likes, 320 impressions at scan time.",
+      "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
+      "url": "https://x.com/bitecong/status/2116617287327473779",
+      "followers": 38434
+    },
     {
       "coin": "$THOR",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Looks like a coordinated shill campaign. Gains are the posters' own claims, not verified. Very high risk.",
       "url": "https://x.com/_hillscaller/status/2116567321619628114",
       "followers": 1641
-    },
-    {
-      "coin": "Doughbriks Coin ($DOUGHBRIKS)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA 6RmPC7ia7CKHBcTFQMzyERnM3GgimrZhh3y1BQWypump as posted by @bitecong",
-      "buzz": "Automated 'AI Signal' account @bitecong (38,436 followers) flagged a doughnut-shop themed pump.fun token, about two minutes old and most of the way along its bonding curve.",
-      "engagement": "242 impressions and 0 likes at scan time.",
-      "flags": "Bot-generated signal with no organic engagement yet. Very high risk, not verified.",
-      "url": "https://x.com/bitecong/status/2116566498001162631",
-      "followers": 38436
     }
   ],
   "news": [
