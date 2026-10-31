@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:33 Berlin time (UTC+1)",
-  "newestPostId": "2116553989596553612",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:38 Berlin time (UTC+1)",
+  "newestPostId": "2116555228254474627",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "$SI",
+      "headline": "$SI on Solana flagged as up 284% in 24h at about $154.8K market cap, per an automated alert",
+      "coins": "SI",
+      "detail": "Posted by small bot alert account @popmemecoin (688 followers), CA 64vVGiNa4MefL4rq3mHzLiq8APfyc8iWLbumsFNfpump as posted. 12 impressions at scan time; figures are the bot's, not verified.",
+      "updated": "31 Oct, 16:38 (Berlin)",
+      "url": "https://x.com/popmemecoin/status/2116554917011706226"
+    },
+    {
       "topic": "Dogecoin",
       "headline": "Elon Musk marks 14 years since his first tweet about Dogecoin, per a 'JUST IN' post",
       "coins": "DOGE",
@@ -536,14 +544,6 @@
       "detail": "Launched on Ethereum in Aug 2023. Price about $0.36, a $900K+ spot buy, and holders posting daily dollar-cost-averaging buys.",
       "updated": "31 Oct, 01:55 (Berlin)",
       "url": "https://x.com/i/trending/2116331796266889712"
-    },
-    {
-      "topic": "Market and holders",
-      "headline": "Murad: community memecoins will outlast utility tokens",
-      "coins": "SPX6900",
-      "detail": "Argues that culture and real-world meetups can't be automated by AI. Skeptics warn most memecoins fade.",
-      "updated": "30 Oct, 11:45 (Berlin)",
-      "url": "https://x.com/i/trending/2116117744966160790"
     }
   ],
   "hourly": [
