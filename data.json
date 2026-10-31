@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:13 Berlin time (UTC+1)",
-  "newestPostId": "2116548987251478915",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:22 Berlin time (UTC+1)",
+  "newestPostId": "2116551192834724170",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$GTAVI",
+      "chain": "Robinhood (per post)",
+      "chainNote": "Robinhood chain per the post, CA 0x522105E252E8F6eab08b79e53D92C96FeaE35510 as posted by @popmemecoin",
+      "buzz": "Automated 'Trending DEX Twitter Alpha Alert' from @popmemecoin (688 followers) says $GTAVI (@gtavionrobin_x) is surging with strong social momentum, +6210.0% in 24h at a $176.0K market cap.",
+      "engagement": "11 impressions, 0 likes, 1 reply.",
+      "flags": "Bot-generated alert promoting a signals service; GTA 6 hype ticker. Tiny market cap; treat as high risk. Not verified.",
+      "url": "https://x.com/popmemecoin/status/2116550655888212072",
+      "followers": 688
+    },
     {
       "coin": "$SI (suicidal intelligence)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Paid-call pattern: caller accounts advertise private Telegram or VIP groups and quote the same contract. Bot says the liquidity pool was only minutes old.",
       "url": "https://x.com/bitecong/status/2116450288861352188",
       "followers": 38421
-    },
-    {
-      "coin": "$JEFF",
-      "chain": "Solana",
-      "chainNote": "Solana (pump-suffix contract)",
-      "buzz": "On Dexvra's 'top gainers' list for Oct 31 (#2). The creator says he launched it and posts about the 'honesty paradox' in memecoins.",
-      "engagement": "97 impressions, 5 likes, 2 reposts, 5 replies. @Jeff_Funnyguy, 441 followers.",
-      "flags": "Creator account was created 2 Oct 2026. Self-promotion by the launcher.",
-      "url": "https://x.com/Jeff_Funnyguy/status/2116445871046803863",
-      "followers": 441
     }
   ],
   "news": [
+    {
+      "topic": "Binance hack",
+      "headline": "Binance co-CEO Yi He posts a four-minute video on the $6.3B exploit; about $3B of stolen funds frozen by industry partners",
+      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
+      "detail": "Relayed by small account @niuyeye945a (81 followers), referring to the October 30 exploit. Very low engagement (3 impressions); secondhand, not independently verified.",
+      "updated": "31 Oct, 16:20 (Berlin)",
+      "url": "https://x.com/niuyeye945a/status/2116550845449842946"
+    },
     {
       "topic": "Rug",
       "headline": "MegaPump warns a rugger launched a copycat token using its name and socials",
