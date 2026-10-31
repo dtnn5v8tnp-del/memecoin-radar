@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 11:35 Berlin time (UTC+1)",
-  "newestPostId": "2116478771083497594",
+  "lastUpdated": "Saturday 31 Oct 2026, 11:39 Berlin time (UTC+1)",
+  "newestPostId": "2116479794145525802",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -135,6 +135,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Dev blunder",
+      "headline": "Memecoin dev accidentally burns own tokens live on stream",
+      "coins": "Unnamed memecoin (no ticker given)",
+      "detail": "@chadscabal (25K followers) says a memecoin dev burned his own tokens on a livestream, wiping out $1M+ in seconds. Video post; 18 likes, 7 reposts so far. Coin not named in the post.",
+      "updated": "31 Oct, 11:37 (Berlin)",
+      "url": "https://x.com/chadscabal/status/2116479543980556746"
+    },
     {
       "topic": "Binance hack",
       "headline": "CoinDesk trace: how 18,270 BTC left Binance",
