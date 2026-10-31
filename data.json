@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 20:04 Berlin time (UTC+1)",
-  "newestPostId": "2116607164873691172",
+  "lastUpdated": "Saturday 31 Oct 2026, 20:11 Berlin time (UTC+1)",
+  "newestPostId": "2116608764610806196",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$TRACER",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@sol_t01 (9,127 followers) claimed $TRACER ran 142.94x from $1.7K to $243K market cap; several other small caller accounts pushed the same contract address within minutes.",
+      "engagement": "1 like, 22 impressions at scan time.",
+      "flags": "Coordinated paid-call style promotion with VIP/Telegram pitches; claims unverified, very high risk.",
+      "url": "https://x.com/sol_t01/status/2116608277635362937",
+      "followers": 9127
+    },
+    {
+      "coin": "$AAPLCAT",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@popmemecoin (691 followers) posted an automated alert saying $AAPLCAT is up 468.0% in 24h with a $245.8K market cap.",
+      "engagement": "0 likes, 16 impressions at scan time.",
+      "flags": "Bot-style alert account; also pushed by VIP-call accounts; very high risk.",
+      "url": "https://x.com/popmemecoin/status/2116608097707827219",
+      "followers": 691
+    },
     {
       "coin": "$HALLOWEEN (Halloween Coin)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Ticker imitates Bitcoin, early buyers already dumping, bot-generated signal. Very high risk.",
       "url": "https://x.com/bitecong/status/2116560114182439057",
       "followers": 38436
-    },
-    {
-      "coin": "$MUNINN",
-      "chain": "Solana",
-      "chainNote": "Solana, CA Ch8cTQfV9qtp6HyYcFMbbx85FF5W3JxVYrb3fo9Tpump as posted by @bitecong",
-      "buzz": "Automated 'AI Signal' account @bitecong (38,435 followers) flagged Muninn Network (MUNINN), named after Norse myth, about two and a half hours after its Solana launch.",
-      "engagement": "Just posted, 218 impressions and 0 likes at scan time.",
-      "flags": "Bot-generated signal, no independent engagement yet. Very high risk, not verified.",
-      "url": "https://x.com/bitecong/status/2116556275429646646",
-      "followers": 38435
-    },
-    {
-      "coin": "$billy",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun to PumpSwap), CA BtrUpKSdeV7mJfth8LfW6pQL9PSdRXMYeKyo2zodpump as posted by @bitecong",
-      "buzz": "Automated 'AI Signal' account @bitecong (38,434 followers) called it the third billy-themed launch on Solana today, saying it left the pump.fun bonding curve for PumpSwap about a minute after launch and flagging the dev wallet.",
-      "engagement": "Just posted, 0 impressions at scan time.",
-      "flags": "Bot-generated signal; third copycat $billy ticker today alongside GL7L...pump (heavily shilled by 'call' accounts) and DUTx...pump. Very high risk, not verified.",
-      "url": "https://x.com/bitecong/status/2116553984395919709",
-      "followers": 38434
     }
   ],
   "news": [
