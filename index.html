@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Memecoin Radar</title>
+<style>
+:root{--bg:#0e1116;--card:#161b22;--line:#2a313c;--text:#e6e9ef;--muted:#9aa4b2;--accent:#6ab0ff;--warn:#f0b24a;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1280px;margin:0 auto;padding:20px 16px 48px}
+h1{margin:0 0 4px;font-size:28px}
+h2{margin:32px 0 12px;font-size:20px}
+.sub{color:var(--muted);margin:0 0 8px}
+.updated{color:var(--muted);font-size:13px;margin:0 0 16px}
+.callout{border:1px solid var(--warn);border-left-width:4px;border-radius:10px;background:var(--card);padding:12px 14px;margin:12px 0}
+.controls{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin:0 0 12px}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg button{background:var(--card);color:var(--text);border:1px solid var(--line);border-radius:999px;padding:6px 12px;cursor:pointer;font:inherit;font-size:13px}
+.seg button.on{background:var(--accent);color:#06101c;border-color:var(--accent);font-weight:600}
+.seg button .n{opacity:.7;margin-left:4px}
+label.tog{display:flex;gap:8px;align-items:center;font-size:13px;color:var(--muted);cursor:pointer}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+table{border-collapse:collapse;width:100%;min-width:900px;font-size:13.5px}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap;background:#12161d;position:sticky;top:0}
+tr:last-child td{border-bottom:none}
+td.coin{font-weight:600;min-width:160px}
+td.flags{color:var(--warn)}
+a{color:var(--accent)}
+.chart{border:1px solid var(--line);border-radius:12px;background:var(--card);padding:12px}
+.chart svg{width:100%;height:auto;display:block}
+.cap{color:var(--muted);font-size:12.5px;margin:6px 0 0}
+.empty{padding:16px;color:var(--muted)}
+@media (max-width:600px){h1{font-size:23px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Memecoin Radar</h1>
+<p class="sub">First sweep of X for fresh memecoin launches and news on existing memecoins. Information only, not financial advice.</p>
+<p class="updated" id="updated">Loading data…</p>
+<div class="callout"><strong>Treat every launch as unvetted.</strong> Most new-coin posts came from accounts with very few followers or from signal bots, and engagement was mostly 0 to 5 likes. The big story is the Binance hack, which is spawning SAFU and Lazarus joke coins.</div>
+
+<h2>Fresh launches and new memes</h2>
+<div class="controls">
+<div class="seg" id="chainSeg"></div>
+<label class="tog"><input type="checkbox" id="hideSmall"> Hide accounts under 500 followers</label>
+</div>
+<div class="tablewrap"><table>
+<thead><tr><th>Coin</th><th>Chain</th><th>Why it's buzzing</th><th>Engagement</th><th>Red flags</th><th>X post</th></tr></thead>
+<tbody id="launchBody"></tbody></table></div>
+
+<h2>News on existing memecoins and the sector</h2>
+<div class="controls"><div class="seg" id="topicSeg"></div></div>
+<div class="tablewrap"><table>
+<thead><tr><th>Story</th><th>Coins</th><th>What happened</th><th>Updated (Berlin)</th><th>Link</th></tr></thead>
+<tbody id="newsBody"></tbody></table></div>
+
+<h2>Memecoin post volume on X, last 23 hours</h2>
+<div class="chart"><svg id="chart" viewBox="0 0 800 300" role="img" aria-label="Hourly memecoin post volume"></svg>
+<p class="cap">Posts per hour matching memecoin, pump.fun or bonk.fun, excluding reposts. Times are Berlin (UTC+1).</p></div>
+
+<h2>About this data</h2>
+<p class="sub" id="note"></p>
+</div>
+
+<script>
+(function(){
+var D={launches:[],news:[],hourly:[],note:'',lastUpdated:'loading…',newestPostId:''};
+var chain='All',topic='All';
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;}
+function link(url,label){var a=el('a',null,label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';return a;}
+function seg(host,opts,get,set){
+  host.innerHTML='';
+  opts.forEach(function(o){
+    var b=el('button',get()===o.v?'on':'',o.v);
+    var n=el('span','n',String(o.n));b.appendChild(n);
+    b.onclick=function(){set(o.v);render();};
+    host.appendChild(b);
+  });
+}
+function td(c,x){return el('td',c,x);}
+function render(){
+  var chains=['All','Solana','BSC','Base','Other'];
+  seg(document.getElementById('chainSeg'),chains.map(function(c){return{v:c,n:c==='All'?D.launches.length:D.launches.filter(function(l){return l.chain===c}).length}}),function(){return chain},function(v){chain=v});
+  var topics=['All'];D.news.forEach(function(n){if(topics.indexOf(n.topic)<0)topics.push(n.topic)});
+  seg(document.getElementById('topicSeg'),topics.map(function(t){return{v:t,n:t==='All'?D.news.length:D.news.filter(function(n){return n.topic===t}).length}}),function(){return topic},function(v){topic=v});
+  var hide=document.getElementById('hideSmall').checked;
+  var lb=document.getElementById('launchBody');lb.innerHTML='';
+  var rows=D.launches.filter(function(l){return(chain==='All'||l.chain===chain)&&(!hide||l.followers===null||l.followers>=500)});
+  if(!rows.length){var r=el('tr');var c=el('td','empty','No rows match these filters.');c.colSpan=6;r.appendChild(c);lb.appendChild(r);}
+  rows.forEach(function(l){
+    var r=el('tr');
+    r.appendChild(td('coin',l.coin));r.appendChild(td('',l.chainNote||l.chain));r.appendChild(td('',l.buzz));
+    r.appendChild(td('',l.engagement));r.appendChild(td('flags',l.flags));
+    var c=td('');c.appendChild(link(l.url,'View post'));r.appendChild(c);lb.appendChild(r);
+  });
+  var nb=document.getElementById('newsBody');nb.innerHTML='';
+  D.news.filter(function(n){return topic==='All'||n.topic===topic}).forEach(function(n){
+    var r=el('tr');
+    r.appendChild(td('coin',n.headline));r.appendChild(td('',n.coins));r.appendChild(td('',n.detail));r.appendChild(td('',n.updated));
+    var c=td('');c.appendChild(link(n.url,'View story'));r.appendChild(c);nb.appendChild(r);
+  });
+}
+document.getElementById('hideSmall').onchange=render;
+function header(extra){
+  document.getElementById('updated').textContent='Data last updated: '+D.lastUpdated+'. Newest post id seen: '+D.newestPostId+'.'+(extra||'');
+  document.getElementById('note').textContent=D.note+' Market caps and gains are quoted from the posts and DexScreener at sweep time and change fast. Engagement figures are as returned by X. Nothing here is financial advice.';
+}
+// chart
+function chartDraw(){
+  var s=document.getElementById('chart'),NS='http://www.w3.org/2000/svg',W=800,H=300,L=48,R=16,T=16,B=36;
+  var pts=D.hourly,mv=Math.max.apply(null,pts.map(function(p){return p.value}).concat([1])),step=Math.pow(10,Math.floor(Math.log10(mv/3))),step=[1,2,5,10].map(function(m){return m*step}).filter(function(s){return mv/s<=5})[0]||step,max=Math.ceil(mv/step)*step,iw=W-L-R,ih=H-T-B;
+  function mk(n,a){var e=document.createElementNS(NS,n);for(var k in a)e.setAttribute(k,a[k]);return e;}
+  for(var v=0;v<=max;v+=step)(function(v){
+    var y=T+ih-(v/max)*ih;
+    s.appendChild(mk('line',{x1:L,x2:W-R,y1:y,y2:y,stroke:'#2a313c','stroke-width':1}));
+    var t=mk('text',{x:L-8,y:y+4,'text-anchor':'end',fill:'#9aa4b2','font-size':11});t.textContent=String(v);s.appendChild(t);
+  })(v);
+  var d='';
+  pts.forEach(function(p,i){
+    var x=L+(i/(pts.length-1))*iw,y=T+ih-(p.value/max)*ih;
+    d+=(i?'L':'M')+x.toFixed(1)+' '+y.toFixed(1);
+  });
+  s.appendChild(mk('path',{d:d+'L'+(L+iw)+' '+(T+ih)+'L'+L+' '+(T+ih)+'Z',fill:'#6ab0ff','fill-opacity':.15}));
+  s.appendChild(mk('path',{d:d,fill:'none',stroke:'#6ab0ff','stroke-width':2.5,'stroke-linejoin':'round'}));
+  pts.forEach(function(p,i){
+    var x=L+(i/(pts.length-1))*iw,y=T+ih-(p.value/max)*ih;
+    var c=mk('circle',{cx:x,cy:y,r:3,fill:'#6ab0ff'});var tt=mk('title',{});tt.textContent=(p.label||'')+' '+p.value+' posts';c.appendChild(tt);s.appendChild(c);
+    if(p.label){var t=mk('text',{x:x,y:H-12,'text-anchor':'middle',fill:'#9aa4b2','font-size':11});t.textContent=p.label;s.appendChild(t);}
+  });
+}
+function load(){
+  fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}).then(function(d){
+    var changed=JSON.stringify(d)!==JSON.stringify(D);
+    D=d;
+    if(changed){var s=document.getElementById('chart');while(s.firstChild)s.removeChild(s.firstChild);chartDraw();render();}
+    header(' Checked '+new Date().toLocaleTimeString('de-DE',{timeZone:'Europe/Berlin'})+' Berlin; refreshes every 60s.');
+  }).catch(function(e){
+    header(' Could not refresh ('+e.message+'); will retry.');
+  });
+}
+header();render();load();setInterval(load,60000);
+})();
+</script>
+</body>
+</html>
