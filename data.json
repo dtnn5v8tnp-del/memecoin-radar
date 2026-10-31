@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 10:35 Berlin time (UTC+1)",
-  "newestPostId": "2116463713616113707",
+  "lastUpdated": "Saturday 31 Oct 2026, 10:42 Berlin time (UTC+1)",
+  "newestPostId": "2116465402666742109",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -135,6 +135,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Binance hack",
+      "headline": "Binance second update: full compensation from user-protection fund, withdrawals expected to reopen in about 34 hours",
+      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
+      "detail": "Per a Vietnamese crypto community post (@TCCLCommunity, 8.1K followers) relaying Binance's second update on the $6.3B theft. A separate overnight recap (@tomcio_w) says BTC is holding around $77K and claims the hacker now holds 18,270 BTC. Low engagement so far; unverified details.",
+      "updated": "31 Oct, 10:38 (Berlin)",
+      "url": "https://x.com/TCCLCommunity/status/2116464843918319907"
+    },
     {
       "topic": "Binance hack",
       "headline": "Binance reveals record $6.3B hot-wallet theft",
