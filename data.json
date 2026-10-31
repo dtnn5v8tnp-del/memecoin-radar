@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 17:24 Berlin time (UTC+1)",
-  "newestPostId": "2116566873068175427",
+  "lastUpdated": "Saturday 31 Oct 2026, 17:28 Berlin time (UTC+1)",
+  "newestPostId": "2116567936198476197",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "David Dobrik Coin ($DAVID, third David-themed launch)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, graduated to PumpSwap), CA 4ibvhHwgMbQzyRzqT2Jn78BFGYMyLyHsMrPXiPErpump as posted by @bitecong",
+      "buzz": "Automated 'AI Signal' account @bitecong (38,437 followers) says this is the third David-themed launch on Solana today and that it graduated from pump.fun to PumpSwap 54 seconds after launch.",
+      "engagement": "326 impressions and 0 likes at scan time.",
+      "flags": "The same post says the single largest wallet holds 73.2% of supply. Extreme concentration risk, different contract from the other $DAVID tokens, not verified.",
+      "url": "https://x.com/bitecong/status/2116567496748909027",
+      "followers": 38437
+    },
+    {
+      "coin": "$SPEED",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA etmpKh4nzExgWTW3AYAs19Je779Wuv92RWUJgYQpump as posted",
+      "buzz": "A cluster of 'call' accounts (@EvansOnSolana, @Annatrader22, @Davide_Alp5y2, @_hillscaller) posted repeated '174x to 258x up on my call $SPEED' claims within about four minutes, mostly with 'DM for entry' or VIP Telegram pitches.",
+      "engagement": "Zero likes on every post; at most 40 impressions.",
+      "flags": "Looks like a coordinated shill campaign. Gains are the posters' own claims, not verified. Very high risk.",
+      "url": "https://x.com/_hillscaller/status/2116567321619628114",
+      "followers": 1641
+    },
     {
       "coin": "Doughbriks Coin ($DOUGHBRIKS)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Creator-launched coin with promised buys and airdrop incentives; no ticker stated. Just launched, not verified.",
       "url": "https://x.com/_rise/status/2116500266153586908",
       "followers": 19928
-    },
-    {
-      "coin": "$TENURE",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun address Caf2L9BC6NxGcJ13AuwJbES2eBXA9Mg2CjTY8otenure)",
-      "buzz": "'Tenure', flagged by @bitecong's AI signal; minutes old and already graduated from the pump.fun bonding curve to PumpSwap. The post says no clear theme is stated in the name or posts.",
-      "engagement": "251 impressions, no likes or reposts yet.",
-      "flags": "Minutes old; automated signal account, no theme or community yet. Not verified.",
-      "url": "https://x.com/bitecong/status/2116498040332906895",
-      "followers": 38429
-    },
-    {
-      "coin": "$LBS",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun address 3vMWnjPLqktRG73cWKvwn3SoeWf4vitwviAncM2vpump)",
-      "buzz": "'Low Budget Stories', flagged by @bitecong's AI signal 40 seconds after launch, still on the pump.fun bonding curve and about four fifths of the way to graduation. A separate tracker (@SolanaMemesScan) posted a 'Low Budget Stories' coin as $STORIES with a different address, $18.5K market cap and 91 holders.",
-      "engagement": "322 impressions, 1 repost, no likes yet.",
-      "flags": "Minutes old; two posts list different tickers and addresses for the same name, and the tracker counted 106 bundlers. Automated signal accounts, not verified.",
-      "url": "https://x.com/bitecong/status/2116493681507401877",
-      "followers": 38428
     }
   ],
   "news": [
