@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 21:22 Berlin time (UTC+1)",
-  "newestPostId": "2116626818174169472",
+  "lastUpdated": "Saturday 31 Oct 2026, 21:24 Berlin time (UTC+1)",
+  "newestPostId": "2116627347650576807",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$CREDIT",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@bitecong (38,431 followers) AI signal account flagged $CREDIT, saying it graduated from the pump.fun bonding curve to PumpSwap about 2 min 41 s after launch.",
+      "engagement": "0 likes, 327 impressions at scan time.",
+      "flags": "Automated signal post; also pushed by paid 'call' accounts. Very early and very high risk.",
+      "url": "https://x.com/bitecong/status/2116626940564328539",
+      "followers": 38431
+    },
     {
       "coin": "$AGENCY",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "The same post says the single largest wallet holds 73.2% of supply. Extreme concentration risk, different contract from the other $DAVID tokens, not verified.",
       "url": "https://x.com/bitecong/status/2116567496748909027",
       "followers": 38437
-    },
-    {
-      "coin": "$SPEED",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA etmpKh4nzExgWTW3AYAs19Je779Wuv92RWUJgYQpump as posted",
-      "buzz": "A cluster of 'call' accounts (@EvansOnSolana, @Annatrader22, @Davide_Alp5y2, @_hillscaller) posted repeated '174x to 258x up on my call $SPEED' claims within about four minutes, mostly with 'DM for entry' or VIP Telegram pitches.",
-      "engagement": "Zero likes on every post; at most 40 impressions.",
-      "flags": "Looks like a coordinated shill campaign. Gains are the posters' own claims, not verified. Very high risk.",
-      "url": "https://x.com/_hillscaller/status/2116567321619628114",
-      "followers": 1641
     }
   ],
   "news": [
