@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:59 Berlin time (UTC+1)",
-  "newestPostId": "2116545547058163970",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:06 Berlin time (UTC+1)",
+  "newestPostId": "2116547224842711347",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$PIKMIN",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA 2MXhpKgHBREgYYj3bSdorqbuJjkPAve1LTNHtk8Lpump as posted by @whalebullups; other callers posted different or linked CAs",
+      "buzz": "Pushed by several caller accounts within minutes (@MoonSniper__ 13,727 followers, @Sammwolff_, @Davide_Alp5y2, @burntMeme01, @whalebullups); callers claim moves like $24.6k to $153k (6.1x) and $6.5k to $58k.",
+      "engagement": "Each post under 60 impressions and at most 1 like.",
+      "flags": "Templated Telegram 'call' accounts; @burntMeme01 reuses the same CA for different tickers, and CAs conflict across posts. Gain figures are the callers' own claims. Not verified.",
+      "url": "https://x.com/MoonSniper__/status/2116546408681497027",
+      "followers": 13727
+    },
     {
       "coin": "$LEGO",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Low engagement for the follower count. A promotional contract-address post.",
       "url": "https://x.com/Doumacrypto/status/2116450894548246677",
       "followers": 9983
-    },
-    {
-      "coin": "Dexvra top gainers: DESSA, JEFF, LAUNCH, GLITCH, CBUCKS, WORM",
-      "chain": "Other",
-      "chainNote": "Not stated",
-      "buzz": "Daily gainers list from a Telegram-bot account for Oct 31.",
-      "engagement": "1,821 impressions, 7 likes, 5 reposts. @dexvraio, 41.8K followers.",
-      "flags": "The account sells token listings on its own bot, so the list is promotional. No prices or chains were given.",
-      "url": "https://x.com/dexvraio/status/2116427044443844977",
-      "followers": 41800
     }
   ],
   "news": [
+    {
+      "topic": "Rug",
+      "headline": "MegaPump warns a rugger launched a copycat token using its name and socials",
+      "coins": "MegaPump",
+      "detail": "@megapumpio (44 followers, account days old) pinned what it says is its real CA (EU5xmKyzvPmMvUEnYeYvrpcACiTfaAXFzSGraxyypump) and says an impostor token was rugged. 90 impressions, 7 likes. Not verified.",
+      "updated": "31 Oct, 16:06 (Berlin)",
+      "url": "https://x.com/megapumpio/status/2116546724659638436"
+    },
     {
       "topic": "Pump",
       "headline": "Fourtis listing bot says Dessa is up 1400% since listing on Fourtis",
