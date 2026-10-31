@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 22:27 Berlin time (UTC+1)",
-  "newestPostId": "2116643200358338781",
+  "lastUpdated": "Saturday 31 Oct 2026, 22:32 Berlin time (UTC+1)",
+  "newestPostId": "2116644316596809779",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$AE (KIM JU AE COIN)",
+      "chain": "Solana",
+      "chainNote": "Solana (graduated from pump.fun to PumpSwap, CA in post)",
+      "buzz": "@bitecong (38,432 followers) AI signal account flagged $AE, a person-themed coin that per the post graduated to PumpSwap about 3.5 minutes after launch, with a smart-wallet cluster buying.",
+      "engagement": "0 likes, 232 impressions at scan time.",
+      "flags": "Automated signal post with no organic engagement; another Kim-themed launch in a wave of copycats; very early and very high risk.",
+      "url": "https://x.com/bitecong/status/2116644187412250807",
+      "followers": 38432
+    },
     {
       "coin": "$KIM (Kim Jong Un Coin)",
       "chain": "BSC",
@@ -292,16 +302,6 @@
       "flags": "Brand-new pump.fun token promoted by signal and call accounts; figures are the posters' claims, not verified. Very high risk.",
       "url": "https://x.com/bitecong/status/2116576809081086089",
       "followers": 38434
-    },
-    {
-      "coin": "$JOB",
-      "chain": "Solana",
-      "chainNote": "Solana (CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump as posted)",
-      "buzz": "Call account @DegenFlow_ (6,451 followers) claimed an 829.3x move from its $JOB call; @WeHave1DFacts (1,630 followers) repeated the same 829.3X figure.",
-      "engagement": "At most 1 like and 197 impressions at scan time.",
-      "flags": "Identical gain claims from multiple 'call' accounts look like coordinated shilling. Figures are the posters' claims, not verified. Very high risk.",
-      "url": "https://x.com/DegenFlow_/status/2116574810062962895",
-      "followers": 6451
     }
   ],
   "news": [
