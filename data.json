@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 19:02 Berlin time (UTC+1)",
-  "newestPostId": "2116591422719824270",
+  "lastUpdated": "Saturday 31 Oct 2026, 19:06 Berlin time (UTC+1)",
+  "newestPostId": "2116592470419034244",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$TRICK (Trick or Trade)",
+      "chain": "Solana",
+      "chainNote": "Solana (launch platform link in post)",
+      "buzz": "@0x_NFT (1,193 followers) announced TRICK OR TRADE ($TRICK), a Halloween-themed memecoin launching on Solana.",
+      "engagement": "3 likes, 1 reply, 15 impressions at scan time.",
+      "flags": "Self-announced by the creator; no contract address in the post text; seasonal Halloween meme with very early, thin engagement.",
+      "url": "https://x.com/0x_NFT/status/2116591670024401088",
+      "followers": 1193
+    },
     {
       "coin": "$DACITY",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Templated Telegram 'call' accounts; @burntMeme01 reuses the same CA for different tickers, and CAs conflict across posts. Gain figures are the callers' own claims. Not verified.",
       "url": "https://x.com/MoonSniper__/status/2116546408681497027",
       "followers": 13727
-    },
-    {
-      "coin": "$LEGO",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA 8fddMvev8qRg1xdYR6ZNFzrdWVpdC4WMeMiaLWVpump as posted",
-      "buzz": "Several caller accounts (@flinttrades_1, @BadManLeek, @caller_fredd9, @doganayodabass) pushed it within minutes; @flinttrades_1 (570 followers) claims it went from $80k to $488k (6.1x).",
-      "engagement": "Each post under 35 impressions and at most 1 like.",
-      "flags": "Brand-name ticker unrelated to LEGO; promoted only by templated Telegram call accounts; gain figures are the callers' own claims. Not verified.",
-      "url": "https://x.com/flinttrades_1/status/2116545185710567841",
-      "followers": 570
     }
   ],
   "news": [
