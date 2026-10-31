@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 17:48 Berlin time (UTC+1)",
-  "newestPostId": "2116572873145962723",
+  "lastUpdated": "Saturday 31 Oct 2026, 17:58 Berlin time (UTC+1)",
+  "newestPostId": "2116575356022931636",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$JOB",
+      "chain": "Solana",
+      "chainNote": "Solana (CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump as posted)",
+      "buzz": "Call account @DegenFlow_ (6,451 followers) claimed an 829.3x move from its $JOB call; @WeHave1DFacts (1,630 followers) repeated the same 829.3X figure.",
+      "engagement": "At most 1 like and 197 impressions at scan time.",
+      "flags": "Identical gain claims from multiple 'call' accounts look like coordinated shilling. Figures are the posters' claims, not verified. Very high risk.",
+      "url": "https://x.com/DegenFlow_/status/2116574810062962895",
+      "followers": 6451
+    },
     {
       "coin": "$MAX (Max)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Minutes old; automated signal account; concentrated early buying. Not verified.",
       "url": "https://x.com/bitecong/status/2116529393720053941",
       "followers": 38428
-    },
-    {
-      "coin": "$Kitty",
-      "chain": "Solana",
-      "chainNote": "Solana (address 2KjHYeA4XjZ53dGaTyMm23pchiq8zs1c8aHXJQRepump)",
-      "buzz": "Witch Kitty, a Halloween cat coin flagged by @bitecong's AI signal minutes after launch; the signal calls it the eighth kitty-themed Solana launch today.",
-      "engagement": "374 impressions, 0 likes.",
-      "flags": "The signal says the deployer has already sold out and holds nothing. Minutes old; automated signal account. Not verified.",
-      "url": "https://x.com/bitecong/status/2116515879827706087",
-      "followers": 38429
     }
   ],
   "news": [
