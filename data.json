@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 23:14 Berlin time (UTC+1)",
-  "newestPostId": "2116654905611927965",
+  "lastUpdated": "Saturday 31 Oct 2026, 23:23 Berlin time (UTC+1)",
+  "newestPostId": "2116657087547666812",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,30 @@
   ],
   "news": [
     {
+      "topic": "Exploit",
+      "headline": "X News: Binance says it has restored about 90% of funds after the record $6.3B North Korea-linked hack",
+      "coins": "BTC, ETH, BNB, wider market",
+      "detail": "Per the X News story, Binance drew over $6.34B from its treasury, SAFU fund and insurance, froze about $3B of stolen assets with partners, and says BTC, ETH and BNB are now 100% backed while it buys remaining altcoins via markets and OTC.",
+      "updated": "31 Oct, 22:29 (Berlin)",
+      "url": "https://x.com/i/trending/2116061652080832855"
+    },
+    {
+      "topic": "Exploit",
+      "headline": "X News: Ethereum reorg made THORChain pause swaps, stalling laundering of the Binance hack funds",
+      "coins": "RUNE, ETH",
+      "detail": "Per the X News story, a reorg caused THORChain to double-refund a 10 ETH deposit and pause swaps on 12 of 13 chains, which blocked laundering by the TraderTraitor group behind the $6.4B Binance theft.",
+      "updated": "31 Oct, 20:47 (Berlin)",
+      "url": "https://x.com/i/trending/2116616118135607790"
+    },
+    {
+      "topic": "Platform news",
+      "headline": "X News: Pump.fun has powered over 24M launches, but only 312 topped a $100K market cap",
+      "coins": "Pump.fun ecosystem",
+      "detail": "Per the X News story, 99.998% of 43.4M memecoins overall went to zero, while traders keep pointing to outlier wins and PEPE/BONK-style late runs.",
+      "updated": "31 Oct, 17:34 (Berlin)",
+      "url": "https://x.com/i/trending/2116526619175383438"
+    },
+    {
       "topic": "Platform news",
       "headline": "Pump.fun app opened Hyperliquid perps to its users, with about $82M in volume routed in 2 days",
       "coins": "Pump.fun ecosystem",
@@ -520,30 +544,6 @@
       "detail": "@Langerius (133K followers) shares a view of the attackers moving funds stolen in the Binance exploit, saying they're making thousands of transactions through agents. 388 impressions so far; not independently verified.",
       "updated": "31 Oct, 13:03 (Berlin)",
       "url": "https://x.com/Langerius/status/2116501363685536246"
-    },
-    {
-      "topic": "Safety tools",
-      "headline": "Solana launches a token fact-checker list to help avoid fake assets",
-      "coins": "None specific (Solana real-world assets)",
-      "detail": "@marinonchain (23.1K followers) says Solana launched a verified list of every real-world asset on the chain (stablecoins, treasuries, tokenized stocks, private funds) so users don't get rugged by fakes. 291 impressions so far; not independently verified.",
-      "updated": "31 Oct, 12:18 (Berlin)",
-      "url": "https://x.com/marinonchain/status/2116489936413352408"
-    },
-    {
-      "topic": "Wash trading",
-      "headline": "Thread claims $6B+ in memecoin volume came almost entirely from non-outside traders",
-      "coins": "\"Anthropic\" token on BNB Chain (no ticker given)",
-      "detail": "@cryptoblaney (5.6K followers) says someone generated over $6 billion in memecoin trading volume, nearly none from real outside traders, starting with a trending token called Anthropic on BNB Chain. Early thread; 99 impressions, 2 likes so far. Claim not independently verified.",
-      "updated": "31 Oct, 11:51 (Berlin)",
-      "url": "https://x.com/cryptoblaney/status/2116483275673698461"
-    },
-    {
-      "topic": "Dev blunder",
-      "headline": "Memecoin dev accidentally burns own tokens live on stream",
-      "coins": "Unnamed memecoin (no ticker given)",
-      "detail": "@chadscabal (25K followers) says a memecoin dev burned his own tokens on a livestream, wiping out $1M+ in seconds. Video post; 18 likes, 7 reposts so far. Coin not named in the post.",
-      "updated": "31 Oct, 11:37 (Berlin)",
-      "url": "https://x.com/chadscabal/status/2116479543980556746"
     }
   ],
   "hourly": [
