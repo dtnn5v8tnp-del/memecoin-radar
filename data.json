@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 22:58 Berlin time (UTC+1)",
-  "newestPostId": "2116650841608278440",
+  "lastUpdated": "Saturday 31 Oct 2026, 23:00 Berlin time (UTC+1)",
+  "newestPostId": "2116651400679792683",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$KIM",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "Call accounts @WeHave1DFacts (1,629 followers) and @dyt5050 (3,146 followers) both posted $KIM as a big winner within seconds of each other, claiming runs to about $423K to $430K market cap (from $2K and $39K entries respectively).",
+      "engagement": "1 like each and under 20 impressions per post at scan time.",
+      "flags": "Coordinated call-account promo with self-reported, inconsistent entry numbers and almost no organic engagement; very high risk.",
+      "url": "https://x.com/WeHave1DFacts/status/2116651229233213480",
+      "followers": 1629
+    },
+    {
+      "coin": "$Beaver",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, graduated to PumpSwap)",
+      "buzz": "@bitecong (38,432 followers) AI signal account flagged Beaver's Mini Mart ($Beaver), a storefront-named memecoin that per the post graduated from pump.fun to PumpSwap about 39 minutes after launch.",
+      "engagement": "0 likes, 275 impressions at scan time.",
+      "flags": "Automated signal post with no organic engagement; very high risk.",
+      "url": "https://x.com/bitecong/status/2116651022131368339",
+      "followers": 38432
+    },
     {
       "coin": "$NNN",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Duplicate same-name launches are a classic copycat pattern; check the contract carefully. Very high risk.",
       "url": "https://x.com/bitecong/status/2116581959933784092",
       "followers": 38434
-    },
-    {
-      "coin": "$SPEED-VERSE",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA UJBHR5qp7S4PXbT1WtBFCXskpxSwqiGyQE1EBmrpump as posted)",
-      "buzz": "Call account @WikiKol1 (1,536 followers) posted 'watch your entry' and then claimed a 2x gain on its own call minutes later, using hashtag-stuffed promo text.",
-      "engagement": "0 likes; 416 and 254 impressions at scan time.",
-      "flags": "Single call account promoting its own pick with a Telegram funnel; the 2x figure is the poster's claim, not verified. Very high risk.",
-      "url": "https://x.com/WikiKol1/status/2116580144865563056",
-      "followers": 1536
-    },
-    {
-      "coin": "$DAVID",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA AFqw58vGV6vdP5WyqeE4C7aj7qirPpG9dByFGXMYpump as posted), another contract using the $DAVID name",
-      "buzz": "A wave of call accounts pushed $DAVID: @ReptoldSol1 (1,009 followers) claimed a 103x gain, @Marco_Alphqx0u (785 followers) claimed 27x on the same contract, and @Sol_masteri (981 followers) claimed a $39K to $618K market-cap run. @MoonSniper__ (13,725 followers) and @Sammwolff_ (3,923 followers) posted identical 'maxing good on my alpha tg' text.",
-      "engagement": "At most 1 like and 23 impressions at scan time.",
-      "flags": "Copy-paste posts from Telegram 'alpha' call accounts look like coordinated shilling; several different contracts share the $DAVID name. Figures are the posters' claims, not verified. Very high risk.",
-      "url": "https://x.com/ReptoldSol1/status/2116578635083558973",
-      "followers": 1009
     }
   ],
   "news": [
