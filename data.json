@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 18:20 Berlin time (UTC+1)",
-  "newestPostId": "2116581025845252473",
+  "lastUpdated": "Saturday 31 Oct 2026, 18:26 Berlin time (UTC+1)",
+  "newestPostId": "2116582475895914520",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$PUMPKIN",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun, graduated to PumpSwap (CA dNViuFd68mMktfDHnJFFFeYUKo6mZSsxzXhBN31pump as posted)",
+      "buzz": "AI signal account @bitecong (38,434 followers) flagged a pumpkin-themed Halloween coin under an hour old that graduated from pump.fun to PumpSwap; call account @cerrocoso (2,383 followers) claimed a move from $7K to $44K market cap.",
+      "engagement": "0 likes; 136 and 52 impressions at scan time.",
+      "flags": "Signal bot itself says there is no story beyond the name; the market-cap figures are poster claims, not verified. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116582439787364609",
+      "followers": 38434
+    },
+    {
+      "coin": "$KIM",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (two separate Kim Jong Un Coin contracts posted: GnKLBDBSBUpfRDtLiLPgFDdvGRUiPtjffwy5Cwmn9CMZ and J19PfsQAUrgEbBdG56CMthThKYDmoP2NDf4GUqqHpump)",
+      "buzz": "@bitecong (38,434 followers) flagged two Kim Jong Un-themed launches within minutes, one 89% and the other 82% of the way along the pump.fun bonding curve shortly after launch.",
+      "engagement": "0 likes; 323 and 260 impressions at scan time.",
+      "flags": "Duplicate same-name launches are a classic copycat pattern; check the contract carefully. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116581959933784092",
+      "followers": 38434
+    },
     {
       "coin": "$SPEED-VERSE",
       "chain": "Solana",
@@ -282,29 +302,17 @@
       "flags": "Automated signal account; the post itself says there is no clear theme. Brand-name ticker.",
       "url": "https://x.com/bitecong/status/2116534906537099620",
       "followers": 38432
-    },
-    {
-      "coin": "$Hallowinu",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun contract (CA 5YREyyZig2rjst2rZv5e5UtNqP5FrWSjCdPNMcm7pump as posted)",
-      "buzz": "Halloween-themed coin; @DegenFlow_ (6,443 followers) called it at 11K and claimed a 21.5x gain minutes later.",
-      "engagement": "156 to 179 impressions, 1 like per post.",
-      "flags": "Templated caller posts (same wording used by other accounts for other coins); gain figures unverified.",
-      "url": "https://x.com/DegenFlow_/status/2116535387275284631",
-      "followers": 6443
-    },
-    {
-      "coin": "$LAURA",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun contract (CA 4kAYSeQDq3VJarmQp74tvMB9QQoikvWTK9EpCSPTpump as posted)",
-      "buzz": "@ReptoldSol1 (1,009 followers) claims a 5.1x gain on their $LAURA call; @_callerhex (1,815 followers) posted the same CA but warned 'watch your entry... gamble for now'.",
-      "engagement": "10 to 13 impressions, no likes per post.",
-      "flags": "Pushed only by Telegram call accounts; gain figures are the callers' own claims, not verified.",
-      "url": "https://x.com/ReptoldSol1/status/2116533793918275744",
-      "followers": 1009
     }
   ],
   "news": [
+    {
+      "topic": "Exploit follow-up",
+      "headline": "The Observer reports crypto prices tumbled after the $6.3B Binance hack",
+      "coins": "Broad market (no memecoin named)",
+      "detail": "@ObserverUK (45,611 followers) posted its story saying exchanges are beefing up security and the heist fuels fears that AI is helping groups like North Korea-linked TraderTraitors exploit vulnerabilities. 20 impressions at scan time.",
+      "updated": "31 Oct, 18:26 (Berlin)",
+      "url": "https://x.com/ObserverUK/status/2116582475895914520"
+    },
     {
       "topic": "Exploit follow-up",
       "headline": "Small alert account claims Binance has covered 90% of the assets stolen in the $6.3B exploit",
@@ -536,14 +544,6 @@
       "detail": "Relayed by @MicNguyenn105 (33K followers), who adds that Binance has committed to covering all losses from its SAFU fund and company reserves. Very low engagement so far; secondhand report.",
       "updated": "31 Oct, 10:51 (Berlin)",
       "url": "https://x.com/MicNguyenn105/status/2116468072504807808"
-    },
-    {
-      "topic": "Binance hack",
-      "headline": "Binance second update: full compensation from user-protection fund, withdrawals expected to reopen in about 34 hours",
-      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
-      "detail": "Per a Vietnamese crypto community post (@TCCLCommunity, 8.1K followers) relaying Binance's second update on the $6.3B theft. A separate overnight recap (@tomcio_w) says BTC is holding around $77K and claims the hacker now holds 18,270 BTC. Low engagement so far; unverified details.",
-      "updated": "31 Oct, 10:38 (Berlin)",
-      "url": "https://x.com/TCCLCommunity/status/2116464843918319907"
     }
   ],
   "hourly": [
