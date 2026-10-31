@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 21:44 Berlin time (UTC+1)",
-  "newestPostId": "2116632240046379377",
+  "lastUpdated": "Saturday 31 Oct 2026, 21:51 Berlin time (UTC+1)",
+  "newestPostId": "2116634034122215632",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Unnamed (CA BhF2…Cpump)",
+      "chain": "Solana",
+      "chainNote": "Solana (Pump.fun launch, CA in post)",
+      "buzz": "@_rise (19,932 followers) said their own memecoin is live on Pump.fun, promising to airdrop 60% of supply to the top 15 holders at bonding and add a $7,000 buy in 15 minutes.",
+      "engagement": "1 like, 239 impressions at scan time.",
+      "flags": "Creator-promoted launch with promised dev buy and airdrop; ticker not named in post; very early and very high risk.",
+      "url": "https://x.com/_rise/status/2116633626842726443",
+      "followers": 19932
+    },
     {
       "coin": "$SOLX",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Copy-paste shill cluster with VIP upsell. Multiples are the posters' own claims, not verified. Very high risk.",
       "url": "https://x.com/itsmeflow18/status/2116572172239942143",
       "followers": 3662
-    },
-    {
-      "coin": "$HALLOWTRUMP",
-      "chain": "Solana",
-      "chainNote": "Solana (no contract address in the post text)",
-      "buzz": "@Marco_Alphqx0u (785 followers), the same account pushing $WHITEPAPER, claimed $HALLOWTRUMP went from a $10K call to $689K market cap, with a 'DM me or join my VIP Telegram' pitch.",
-      "engagement": "0 likes, 0 impressions at scan time.",
-      "flags": "Single-account shill with VIP upsell; Halloween plus Trump name-bait. Figures unverified. Very high risk.",
-      "url": "https://x.com/Marco_Alphqx0u/status/2116572021039505757",
-      "followers": 785
     }
   ],
   "news": [
