@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 19:41 Berlin time (UTC+1)",
-  "newestPostId": "2116601432178929907",
+  "lastUpdated": "Saturday 31 Oct 2026, 19:43 Berlin time (UTC+1)",
+  "newestPostId": "2116601956286321056",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$HALLOWEEN (Halloween Coin)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@solhousesignals (3,013 followers) posted an automated signal saying $HALLOWEEN did 2x, with a $36.2K market cap, $14.1K liquidity, $19.8K 24h volume and 344 buys versus 185 sells.",
+      "engagement": "0 likes, 56 impressions at scan time.",
+      "flags": "Bot-style signal account; tiny liquidity; holiday-themed micro-cap, very high risk.",
+      "url": "https://x.com/solhousesignals/status/2116601444069409217",
+      "followers": 3013
+    },
     {
       "coin": "$Satoshi (Satoshi Nakamoto)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Bot-generated signal; third copycat $billy ticker today alongside GL7L...pump (heavily shilled by 'call' accounts) and DUTx...pump. Very high risk, not verified.",
       "url": "https://x.com/bitecong/status/2116553984395919709",
       "followers": 38434
-    },
-    {
-      "coin": "$ugly",
-      "chain": "Robinhood chain (per post)",
-      "chainNote": "Not launched yet; no contract address posted.",
-      "buzz": "@kastrosan says @uglyonrobinhood will launch a memecoin soon (November), attributing it to @NotEnoughEth, founder of @GROWBLOCKSXYZ (previously efrogs).",
-      "engagement": "11 impressions, 0 likes, 1 reply.",
-      "flags": "Upcoming, unverified claim from a small account (456 followers). Watch for fake contract addresses.",
-      "url": "https://x.com/kastrosan/status/2116553734625095939",
-      "followers": 456
     }
   ],
   "news": [
