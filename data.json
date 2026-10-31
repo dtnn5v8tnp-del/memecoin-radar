@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 14:58 Berlin time (UTC+1)",
-  "newestPostId": "2116529937851277492",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:05 Berlin time (UTC+1)",
+  "newestPostId": "2116531882661687417",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$SIS (Super Intelligence Satellite)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun graduate to Pump AMM (callers posted differing contract addresses, so verify which is real)",
+      "buzz": "@JohnCryptopeow flagged a Pump Fun to Pump AMM breakout with an all-time-high market cap of $42.9K, $10.1K liquidity and 551 holders; several call accounts piled in within minutes.",
+      "engagement": "42 impressions, 0 likes on the breakout post; other mentions under 25 impressions.",
+      "flags": "Minutes old; pushed mainly by paid-call and Telegram-promo accounts; mismatched contract addresses. Not verified.",
+      "url": "https://x.com/JohnCryptopeow/status/2116531309019374001",
+      "followers": 1211
+    },
     {
       "coin": "$SI",
       "chain": "Solana",
