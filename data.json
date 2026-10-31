@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 13:01 Berlin time (UTC+1)",
-  "newestPostId": "2116500560417554860",
+  "lastUpdated": "Saturday 31 Oct 2026, 13:04 Berlin time (UTC+1)",
+  "newestPostId": "2116501403246248273",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -205,6 +205,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Exploits",
+      "headline": "Binance hack follow-up: stolen funds being moved through thousands of transactions",
+      "coins": "None specific (Binance exploit funds)",
+      "detail": "@Langerius (133K followers) shares a view of the attackers moving funds stolen in the Binance exploit, saying they're making thousands of transactions through agents. 388 impressions so far; not independently verified.",
+      "updated": "31 Oct, 13:03 (Berlin)",
+      "url": "https://x.com/Langerius/status/2116501363685536246"
+    },
     {
       "topic": "Safety tools",
       "headline": "Solana launches a token fact-checker list to help avoid fake assets",
