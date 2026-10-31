@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:05 Berlin time (UTC+1)",
-  "newestPostId": "2116531882661687417",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:11 Berlin time (UTC+1)",
+  "newestPostId": "2116533390640091557",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$Hallowinu (HELLOWIN)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun contract (CA 5YREyyZig2rjst2rZv5e5UtNqP5FrWSjCdPNMcm7pump as posted)",
+      "buzz": "Halloween-themed dog coin. @cerrocoso spotted it at $9K market cap and later posted $9K to $176K (about 19.6x); @EarlyRada and @popmemecoin also pushed it as trending, citing $176K to $177K market cap.",
+      "engagement": "Under 70 impressions and 2 likes per post.",
+      "flags": "Hours-old at most; promoted almost entirely by Telegram call and alert accounts. Market-cap figures are the callers' own claims, not verified.",
+      "url": "https://x.com/cerrocoso/status/2116532877760377242",
+      "followers": 2381
+    },
     {
       "coin": "$SIS (Super Intelligence Satellite)",
       "chain": "Solana",
