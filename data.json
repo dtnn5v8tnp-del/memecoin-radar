@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:10 Berlin time (UTC+1)",
-  "newestPostId": "2116548375923368021",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:13 Berlin time (UTC+1)",
+  "newestPostId": "2116548987251478915",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$SI (suicidal intelligence)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA 6R5xpJJe9X3yJ6dKEm5cVaMfFz8ef7VYvXPDnwbWpump as posted by @bitecong",
+      "buzz": "Automated 'AI Signal' account @bitecong (38,432 followers) flagged it as a pump.fun launch about a minute old, framed as 'stable AI infrastructure'.",
+      "engagement": "319 impressions, 0 likes.",
+      "flags": "The same post says the dev wallet has already sold out entirely. Bot-generated signal; treat as high risk. Not verified.",
+      "url": "https://x.com/bitecong/status/2116548489551433746",
+      "followers": 38432
+    },
     {
       "coin": "$iCoin",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Creator account was created 2 Oct 2026. Self-promotion by the launcher.",
       "url": "https://x.com/Jeff_Funnyguy/status/2116445871046803863",
       "followers": 441
-    },
-    {
-      "coin": "$DACITY and other GTA6-themed coins (GTA6, GATO)",
-      "chain": "Other",
-      "chainNote": "Not stated",
-      "buzz": "GTA VI launches Nov 19. A promo claims $DACITY has an $8.47M market cap and $702K 24h volume. CryptoBubbles' post lists GTA6 at +5,814% in 24h.",
-      "engagement": "$DACITY post: 81 impressions, 4 likes, 1 repost. @gta6dacity, 135 followers.",
-      "flags": "Market cap and gain figures come from promo accounts and are unverified. The CryptoBubbles account has 2 followers. Other posts call a coin 'the only safe GTA6 meme coin', a shill-style claim.",
-      "url": "https://x.com/gta6dacity/status/2116424940685603303",
-      "followers": 135
     }
   ],
   "news": [
