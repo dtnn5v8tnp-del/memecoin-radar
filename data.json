@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 17:28 Berlin time (UTC+1)",
-  "newestPostId": "2116567936198476197",
+  "lastUpdated": "Saturday 31 Oct 2026, 17:35 Berlin time (UTC+1)",
+  "newestPostId": "2116569780282941637",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$WHITEPAPER",
+      "chain": "Solana",
+      "chainNote": "Solana (no contract address in the posts)",
+      "buzz": "A single 'call' account, @Marco_Alphqx0u (785 followers), posted four escalating updates in about three minutes claiming $WHITEPAPER went from a $10K 'call' to $268K, then $429K, then $565K market cap, each with a 'DM me or join my VIP' pitch.",
+      "engagement": "At most 1 like and 1 impression per post at scan time.",
+      "flags": "One-account shill pattern with VIP upsell. Market-cap figures are the poster's own claims, not verified. Very high risk.",
+      "url": "https://x.com/Marco_Alphqx0u/status/2116569764101239187",
+      "followers": 785
+    },
     {
       "coin": "David Dobrik Coin ($DAVID, third David-themed launch)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "The post says the deployer has already sold out. Minutes old; automated signal account. Not verified.",
       "url": "https://x.com/bitecong/status/2116500381438189958",
       "followers": 38430
-    },
-    {
-      "coin": "Unnamed (no ticker given)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun address GzmnZc9JXvqNyzwsj5PR2He6hzJGCsHcr6PoUVJepump)",
-      "buzz": "@_rise (19.9K followers) says 'my version of a memecoin' is now live on pump.fun, with 60% of supply to be airdropped to the top 15 holders at bonding and a promised $7,000 buy 15 minutes after posting.",
-      "engagement": "289 impressions, 1 like so far.",
-      "flags": "Creator-launched coin with promised buys and airdrop incentives; no ticker stated. Just launched, not verified.",
-      "url": "https://x.com/_rise/status/2116500266153586908",
-      "followers": 19928
     }
   ],
   "news": [
