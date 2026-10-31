@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 12:18 Berlin time (UTC+1)",
-  "newestPostId": "2116489723594379740",
+  "lastUpdated": "Saturday 31 Oct 2026, 12:21 Berlin time (UTC+1)",
+  "newestPostId": "2116490270749433894",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$ONBOARD",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun address)",
+      "buzz": "New pump.fun coin being pushed by a 'call' account. Within about a minute, @DegenFlow_ posted '5k to $ONBOARD', then claimed 43.8x and 62x gains from its call.",
+      "engagement": "Three posts by @DegenFlow_ (6.4K followers), each around 180 to 200 impressions with 1 like.",
+      "flags": "Single paid-group 'call' account advertising its own gains; the same account shilled $VAMPCAT earlier. Classic shill pattern, no organic engagement yet.",
+      "url": "https://x.com/DegenFlow_/status/2116490006986416335",
+      "followers": 6433
+    },
     {
       "coin": "$VAMPCAT (Vamp Cat)",
       "chain": "Solana",
@@ -145,6 +155,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Safety tools",
+      "headline": "Solana launches a token fact-checker list to help avoid fake assets",
+      "coins": "None specific (Solana real-world assets)",
+      "detail": "@marinonchain (23.1K followers) says Solana launched a verified list of every real-world asset on the chain (stablecoins, treasuries, tokenized stocks, private funds) so users don't get rugged by fakes. 291 impressions so far; not independently verified.",
+      "updated": "31 Oct, 12:18 (Berlin)",
+      "url": "https://x.com/marinonchain/status/2116489936413352408"
+    },
     {
       "topic": "Wash trading",
       "headline": "Thread claims $6B+ in memecoin volume came almost entirely from non-outside traders",
