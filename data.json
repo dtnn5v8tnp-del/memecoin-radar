@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 00:16 Berlin time (UTC+1)",
-  "newestPostId": "2116670559442579919",
+  "lastUpdated": "Sunday 1 Nov 2026, 00:23 Berlin time (UTC+1)",
+  "newestPostId": "2116672193140863034",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Rug risk",
+      "headline": "X News: Crypto investors demand doxxed founders amid rug pull fears",
+      "coins": "New token launches (memecoins broadly)",
+      "detail": "Per the X News story, investors are swearing off projects without fully doxxed founders, citing data from 8.2 million token launches showing developers often grab early supply and exit fast, pocketing $579 million in profits, with 65% starting sales in the first minute.",
+      "updated": "1 Nov, 00:06 (Berlin)",
+      "url": "https://x.com/i/trending/2116666826285556006"
+    },
+    {
+      "topic": "Viral meme",
+      "headline": "X News: Pump.fun's Halloween goat-costume post divides memecoin users",
+      "coins": "$Sheep (mentioned), Pump.fun",
+      "detail": "Per the X News story, Pump.fun's Halloween photo was read as poking fun at its users as sacrificial goats or sheep; some took offense, others ran with it, including Kanki promoting a $Sheep token, and rival Baton posted its own squad costume.",
+      "updated": "31 Oct, 21:43 (Berlin)",
+      "url": "https://x.com/i/trending/2116630674388226334"
+    },
+    {
       "topic": "Exploit",
       "headline": "X News: FBI confirms North Korea's TraderTraitor group behind the record $6.3B Binance hack; Binance has replenished about 90%",
       "coins": "BTC, ETH, BNB, wider market",
@@ -528,22 +544,6 @@
       "detail": "@Crypto_Crayak (10.6K followers) says $PENGU saw about $79M in 24h volume while its price barely moved. 44 impressions so far; not verified.",
       "updated": "31 Oct, 13:16 (Berlin)",
       "url": "https://x.com/Crypto_Crayak/status/2116503998802858408"
-    },
-    {
-      "topic": "Market and holders",
-      "headline": "$GTA6CAT up 400% since its Fourtis listing, per listing-alert account",
-      "coins": "$GTA6CAT",
-      "detail": "@fourtislisting (67K followers, a promotional listing-alert account) says $GTA6CAT went from about $1.2M to $5.9M market cap since listing on Fourtis. 511 impressions, 1 like so far; self-reported and not verified.",
-      "updated": "31 Oct, 13:10 (Berlin)",
-      "url": "https://x.com/fourtislisting/status/2116502071545413928"
-    },
-    {
-      "topic": "Exploits",
-      "headline": "Binance hack follow-up: stolen funds being moved through thousands of transactions",
-      "coins": "None specific (Binance exploit funds)",
-      "detail": "@Langerius (133K followers) shares a view of the attackers moving funds stolen in the Binance exploit, saying they're making thousands of transactions through agents. 388 impressions so far; not independently verified.",
-      "updated": "31 Oct, 13:03 (Berlin)",
-      "url": "https://x.com/Langerius/status/2116501363685536246"
     }
   ],
   "hourly": [
