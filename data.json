@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 22:37 Berlin time (UTC+1)",
-  "newestPostId": "2116645622464074121",
+  "lastUpdated": "Saturday 31 Oct 2026, 22:40 Berlin time (UTC+1)",
+  "newestPostId": "2116646370769600644",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$svmLLM",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, two different CAs posted for the same ticker)",
+      "buzz": "@bitecong (38,432 followers) AI signal account flagged two separate pump.fun tokens both named $svmLLM within a minute; per the post, one was already most of the way to graduation about half a minute after launch, with notes on bundler activity in the buyer list.",
+      "engagement": "0 likes, about 200 impressions per post at scan time.",
+      "flags": "Duplicate tickers with different contracts suggest copycat launches; automated signal posts with no organic engagement; bundler activity mentioned; very high risk.",
+      "url": "https://x.com/bitecong/status/2116646293993042194",
+      "followers": 38432
+    },
     {
       "coin": "$AE (KIM JU AE COIN)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Scanner's own data points to heavy bundling and paid promotion with no smart money. Claims from an automated account, not verified. Very high risk.",
       "url": "https://x.com/SolanaMemesScan/status/2116578776737870188",
       "followers": 4257
-    },
-    {
-      "coin": "$ICECAT",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA 6SCBgkk4rm3y6GpBEHpQVeN258UsfmQGj4KChmC3pump as posted)",
-      "buzz": "Signal account @bitecong (38,434 followers) flagged $ICECAT, an ice-cat themed pump.fun coin launched about nine minutes before its signal; @cerrocoso (2,383 followers) claimed a $4K to $34K market-cap move.",
-      "engagement": "At most 1 like and 379 impressions at scan time.",
-      "flags": "Brand-new pump.fun token promoted by signal and call accounts; figures are the posters' claims, not verified. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116576809081086089",
-      "followers": 38434
     }
   ],
   "news": [
