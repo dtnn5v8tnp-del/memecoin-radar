@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 13:58 Berlin time (UTC+1)",
-  "newestPostId": "2116514902823285214",
+  "lastUpdated": "Saturday 31 Oct 2026, 14:04 Berlin time (UTC+1)",
+  "newestPostId": "2116516523854483491",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$Kitty",
+      "chain": "Solana",
+      "chainNote": "Solana (address 2KjHYeA4XjZ53dGaTyMm23pchiq8zs1c8aHXJQRepump)",
+      "buzz": "Witch Kitty, a Halloween cat coin flagged by @bitecong's AI signal minutes after launch; the signal calls it the eighth kitty-themed Solana launch today.",
+      "engagement": "374 impressions, 0 likes.",
+      "flags": "The signal says the deployer has already sold out and holds nothing. Minutes old; automated signal account. Not verified.",
+      "url": "https://x.com/bitecong/status/2116515879827706087",
+      "followers": 38429
+    },
     {
       "coin": "$PUMPE",
       "chain": "Solana",
