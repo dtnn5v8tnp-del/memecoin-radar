@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:15 Berlin time (UTC+1)",
-  "newestPostId": "2116534428260311188",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:20 Berlin time (UTC+1)",
+  "newestPostId": "2116535555865686095",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$Pikmin",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun contract (CA 2MXhpKgHBREgYYj3bSdorqbuJjkPAve1LTNHtk8Lpump as posted)",
+      "buzz": "@bitecong (38,432 followers, automated 'AI Signal' account) flagged it about three minutes after launch, still on the pump.fun bonding curve and most of the way to graduation.",
+      "engagement": "416 impressions, no likes.",
+      "flags": "Automated signal account; the post itself says there is no clear theme. Brand-name ticker.",
+      "url": "https://x.com/bitecong/status/2116534906537099620",
+      "followers": 38432
+    },
+    {
+      "coin": "$Hallowinu",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun contract (CA 5YREyyZig2rjst2rZv5e5UtNqP5FrWSjCdPNMcm7pump as posted)",
+      "buzz": "Halloween-themed coin; @DegenFlow_ (6,443 followers) called it at 11K and claimed a 21.5x gain minutes later.",
+      "engagement": "156 to 179 impressions, 1 like per post.",
+      "flags": "Templated caller posts (same wording used by other accounts for other coins); gain figures unverified.",
+      "url": "https://x.com/DegenFlow_/status/2116535387275284631",
+      "followers": 6443
+    },
     {
       "coin": "$LAURA",
       "chain": "Solana",
@@ -285,6 +305,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Pump",
+      "headline": "$AMAZON on Solana claimed at $1.2M market cap, about 29x from a $41K call",
+      "coins": "$AMAZON (CA 9L2FD9gNEu8h9NdD9VqRWCqhNgh1UznG8Ve7VZWpump)",
+      "detail": "@Sol_Ficra (5,582 followers) posted $1.1M then $1.2M market cap within a minute. 23 to 33 impressions, 1 to 2 likes; single caller promoting DMs, figures not verified.",
+      "updated": "31 Oct, 15:17 (Berlin)",
+      "url": "https://x.com/Sol_Ficra/status/2116535047767396370"
+    },
     {
       "topic": "ETF",
       "headline": "Spot SOL ETFs post a fifth straight day of outflows on Oct 30",
