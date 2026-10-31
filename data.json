@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:30 Berlin time (UTC+1)",
-  "newestPostId": "2116538256485482873",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:35 Berlin time (UTC+1)",
+  "newestPostId": "2116539528265822710",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "PUMPE (Pepe in Halloween clothes)",
+      "chain": "Base",
+      "chainNote": "Base, contract 0xb200000000000000000000a873a273d0b513dc01 as posted",
+      "buzz": "@pumpe_base (25 followers, the project's own new account) posted a Halloween-themed Pepe meme coin for All Hallows Eve.",
+      "engagement": "1 impression, no likes.",
+      "flags": "Self-promotion from a brand-new account with almost no following; no independent buzz. Not verified.",
+      "url": "https://x.com/pumpe_base/status/2116539371470127224",
+      "followers": 25
+    },
     {
       "coin": "$MTGA (Make Toilets Great Again)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Brand-new account with 3 followers. A launchpad rather than a coin.",
       "url": "https://x.com/buildingkeep70/status/2116433686346526946",
       "followers": 3
-    },
-    {
-      "coin": "$CHUD (Chuddy the teddy bear)",
-      "chain": "Solana",
-      "chainNote": "Solana",
-      "buzz": "X news says a stoic teddy-bear meme tied to a token launched in late September, at a $260K market cap, with a plush drop being discussed.",
-      "engagement": "Engagement not given: this is an X news summary, not a single post.",
-      "flags": "Figures come from an auto-generated news summary; X notes it can make mistakes.",
-      "url": "https://x.com/i/trending/2116336872569872698",
-      "followers": null
     }
   ],
   "news": [
