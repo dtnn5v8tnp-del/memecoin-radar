@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:06 Berlin time (UTC+1)",
-  "newestPostId": "2116547224842711347",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:10 Berlin time (UTC+1)",
+  "newestPostId": "2116548375923368021",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$iCoin",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump as posted by @Massivepumpmast",
+      "buzz": "Caller @Massivepumpmast (2,415 followers) posted it twice in a minute, claiming it was shared at $9.0K market cap and later reached $417K.",
+      "engagement": "201 and 115 impressions, 1 like each.",
+      "flags": "Paid-TG 'call' account; the market-cap move is the caller's own claim. Not verified.",
+      "url": "https://x.com/Massivepumpmast/status/2116548005369090378",
+      "followers": 2415
+    },
     {
       "coin": "$PIKMIN",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Market cap and gain figures come from promo accounts and are unverified. The CryptoBubbles account has 2 followers. Other posts call a coin 'the only safe GTA6 meme coin', a shill-style claim.",
       "url": "https://x.com/gta6dacity/status/2116424940685603303",
       "followers": 135
-    },
-    {
-      "coin": "$ONECOIN",
-      "chain": "Other",
-      "chainNote": "EVM address; chain not stated",
-      "buzz": "Posted as the 'first meme coin launched on $pangea'.",
-      "engagement": "41 impressions, 1 like. @Doumacrypto, 10.0K followers.",
-      "flags": "Low engagement for the follower count. A promotional contract-address post.",
-      "url": "https://x.com/Doumacrypto/status/2116450894548246677",
-      "followers": 9983
     }
   ],
   "news": [
