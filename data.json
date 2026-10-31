@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:20 Berlin time (UTC+1)",
-  "newestPostId": "2116535555865686095",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:27 Berlin time (UTC+1)",
+  "newestPostId": "2116537328743465318",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -305,6 +305,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Pump",
+      "headline": "Halloween-themed $HALLOWINU on Solana claimed at $236K market cap, about 15.7x from a $15K call",
+      "coins": "$HALLOWINU (CA 5YREyyZig2rjst2rZv5e5UtNqP5FrWSjCdPNMcm7pump)",
+      "detail": "@EarlyChad_ (5,597 followers) called it at $15K at 15:22, then posted $158K and $236K within minutes; @BadManLeek (3,122 followers) separately claimed 21.5x. 11 to 104 impressions, about 1 like each; caller posts, figures not verified.",
+      "updated": "31 Oct, 15:27 (Berlin)",
+      "url": "https://x.com/EarlyChad_/status/2116537178331250789"
+    },
     {
       "topic": "Pump",
       "headline": "$AMAZON on Solana claimed at $1.2M market cap, about 29x from a $41K call",
