@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 12:21 Berlin time (UTC+1)",
-  "newestPostId": "2116490270749433894",
+  "lastUpdated": "Saturday 31 Oct 2026, 12:28 Berlin time (UTC+1)",
+  "newestPostId": "2116492289250050542",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$GARRETT",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun address 7H69zC4jZXBqrHQYT2KZUoatSizMJpp26V7H3SAkpump)",
+      "buzz": "'Garrett the Apple Cat', a 21-minute-old pump.fun coin. @VolumeOnMEMES reported a $425.4K market cap, $34.6K liquidity, 3,817 holders and a paid DexScreener listing; @popmemecoin separately flagged it at +441% in 24h with a $236.2K market cap.",
+      "engagement": "Two tracker-bot posts, 82 and 20 impressions, no likes yet. Linked X account @GarrettAppleCat.",
+      "flags": "Very new; tracker reported 21 bundlers and only 3 'smart' wallets, and thin liquidity versus market cap. Figures come from automated signal accounts, not verified.",
+      "url": "https://x.com/VolumeOnMEMES/status/2116491776001179731",
+      "followers": 2680
+    },
     {
       "coin": "$ONBOARD",
       "chain": "Solana",
