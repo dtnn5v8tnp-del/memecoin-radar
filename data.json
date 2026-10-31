@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 19:06 Berlin time (UTC+1)",
-  "newestPostId": "2116592470419034244",
+  "lastUpdated": "Saturday 31 Oct 2026, 19:11 Berlin time (UTC+1)",
+  "newestPostId": "2116593777607668020",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$GIMMIGHOUL (Gimmighoul)",
+      "chain": "Solana",
+      "chainNote": "Solana (Pump.fun, graduated to Pump AMM)",
+      "buzz": "@bitecong (38,436 followers) posted an AI signal on Gimmighoul, a Pokémon-named Pump.fun token about three minutes old and 98% of the way to graduation; @SolTokenScan then flagged its move to Pump AMM with a $52.0K all-time-high market cap, $16.6K liquidity and 286 holders.",
+      "engagement": "0 likes on both posts; 332 and 87 impressions at scan time.",
+      "flags": "Automated alert accounts only, no organic buzz; very early and thin liquidity.",
+      "url": "https://x.com/bitecong/status/2116593024948175174",
+      "followers": 38436
+    },
     {
       "coin": "$TRICK (Trick or Trade)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Paid-TG 'call' account; the market-cap move is the caller's own claim. Not verified.",
       "url": "https://x.com/Massivepumpmast/status/2116548005369090378",
       "followers": 2415
-    },
-    {
-      "coin": "$PIKMIN",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA 2MXhpKgHBREgYYj3bSdorqbuJjkPAve1LTNHtk8Lpump as posted by @whalebullups; other callers posted different or linked CAs",
-      "buzz": "Pushed by several caller accounts within minutes (@MoonSniper__ 13,727 followers, @Sammwolff_, @Davide_Alp5y2, @burntMeme01, @whalebullups); callers claim moves like $24.6k to $153k (6.1x) and $6.5k to $58k.",
-      "engagement": "Each post under 60 impressions and at most 1 like.",
-      "flags": "Templated Telegram 'call' accounts; @burntMeme01 reuses the same CA for different tickers, and CAs conflict across posts. Gain figures are the callers' own claims. Not verified.",
-      "url": "https://x.com/MoonSniper__/status/2116546408681497027",
-      "followers": 13727
     }
   ],
   "news": [
