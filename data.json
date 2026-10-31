@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 21:30 Berlin time (UTC+1)",
-  "newestPostId": "2116628837056352354",
+  "lastUpdated": "Saturday 31 Oct 2026, 21:36 Berlin time (UTC+1)",
+  "newestPostId": "2116630290903031913",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$SOLX",
+      "chain": "Solana",
+      "chainNote": "Solana (StonkFun launch, CA in post)",
+      "buzz": "@bitecong (38,432 followers) AI signal account flagged $SOLX, saying it graduated to Raydium CPMM 27 seconds after launch, with no clear theme in its name or description.",
+      "engagement": "0 likes, 324 impressions at scan time.",
+      "flags": "Automated signal post with no organic engagement; very early and very high risk.",
+      "url": "https://x.com/bitecong/status/2116629799821250965",
+      "followers": 38432
+    },
+    {
+      "coin": "$PAWCAT",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in posts)",
+      "buzz": "@popmemecoin (692 followers) alert bot said $PAWCAT was up 574% in 24h at about $324.4K market cap; @EarlyChad_ (5,605 followers) claimed a 44x from a $10K entry market cap.",
+      "engagement": "0 to 1 likes, under 60 impressions per post at scan time.",
+      "flags": "Pushed mainly by paid 'call' accounts; figures are self-reported and unverified. Very high risk.",
+      "url": "https://x.com/popmemecoin/status/2116629547894648895",
+      "followers": 692
+    },
     {
       "coin": "$CREDIT",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Single-account shill with VIP upsell; Halloween plus Trump name-bait. Figures unverified. Very high risk.",
       "url": "https://x.com/Marco_Alphqx0u/status/2116572021039505757",
       "followers": 785
-    },
-    {
-      "coin": "$WHITEPAPER",
-      "chain": "Solana",
-      "chainNote": "Solana (no contract address in the posts)",
-      "buzz": "A single 'call' account, @Marco_Alphqx0u (785 followers), posted four escalating updates in about three minutes claiming $WHITEPAPER went from a $10K 'call' to $268K, then $429K, then $565K market cap, each with a 'DM me or join my VIP' pitch.",
-      "engagement": "At most 1 like and 1 impression per post at scan time.",
-      "flags": "One-account shill pattern with VIP upsell. Market-cap figures are the poster's own claims, not verified. Very high risk.",
-      "url": "https://x.com/Marco_Alphqx0u/status/2116569764101239187",
-      "followers": 785
-    },
-    {
-      "coin": "David Dobrik Coin ($DAVID, third David-themed launch)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun, graduated to PumpSwap), CA 4ibvhHwgMbQzyRzqT2Jn78BFGYMyLyHsMrPXiPErpump as posted by @bitecong",
-      "buzz": "Automated 'AI Signal' account @bitecong (38,437 followers) says this is the third David-themed launch on Solana today and that it graduated from pump.fun to PumpSwap 54 seconds after launch.",
-      "engagement": "326 impressions and 0 likes at scan time.",
-      "flags": "The same post says the single largest wallet holds 73.2% of supply. Extreme concentration risk, different contract from the other $DAVID tokens, not verified.",
-      "url": "https://x.com/bitecong/status/2116567496748909027",
-      "followers": 38437
     }
   ],
   "news": [
