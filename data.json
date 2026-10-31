@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 12:29 Berlin time (UTC+1)",
-  "newestPostId": "2116492608021110890",
+  "lastUpdated": "Saturday 31 Oct 2026, 12:35 Berlin time (UTC+1)",
+  "newestPostId": "2116493935782854859",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$LBS",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun address 3vMWnjPLqktRG73cWKvwn3SoeWf4vitwviAncM2vpump)",
+      "buzz": "'Low Budget Stories', flagged by @bitecong's AI signal 40 seconds after launch, still on the pump.fun bonding curve and about four fifths of the way to graduation. A separate tracker (@SolanaMemesScan) posted a 'Low Budget Stories' coin as $STORIES with a different address, $18.5K market cap and 91 holders.",
+      "engagement": "322 impressions, 1 repost, no likes yet.",
+      "flags": "Minutes old; two posts list different tickers and addresses for the same name, and the tracker counted 106 bundlers. Automated signal accounts, not verified.",
+      "url": "https://x.com/bitecong/status/2116493681507401877",
+      "followers": 38428
+    },
     {
       "coin": "$GARRETT",
       "chain": "Solana",
