@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 18:26 Berlin time (UTC+1)",
-  "newestPostId": "2116582475895914520",
+  "lastUpdated": "Saturday 31 Oct 2026, 18:32 Berlin time (UTC+1)",
+  "newestPostId": "2116584071036031007",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$PROS",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun, graduated to PumpSwap (CA 2Uwte4c9ZnRACas6Miq6bR8zx8n8Psgu11Vn5htHpump as posted)",
+      "buzz": "AI signal account @bitecong (38,434 followers) flagged ELO PROS, an e-sports-tagged coin that graduated from pump.fun to PumpSwap about 14 h 49 min after launch, and called its bundler count the oddest fact.",
+      "engagement": "0 likes; 247 impressions at scan time.",
+      "flags": "Signal account itself highlights bundler activity, a common red flag. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116583958540665182",
+      "followers": 38434
+    },
     {
       "coin": "$PUMPKIN",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated alert account; no community takeover, DEX profile not updated. Figures as posted, not verified.",
       "url": "https://x.com/SolanaTren59241/status/2116537672730857655",
       "followers": 2710
-    },
-    {
-      "coin": "$Pikmin",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun contract (CA 2MXhpKgHBREgYYj3bSdorqbuJjkPAve1LTNHtk8Lpump as posted)",
-      "buzz": "@bitecong (38,432 followers, automated 'AI Signal' account) flagged it about three minutes after launch, still on the pump.fun bonding curve and most of the way to graduation.",
-      "engagement": "416 impressions, no likes.",
-      "flags": "Automated signal account; the post itself says there is no clear theme. Brand-name ticker.",
-      "url": "https://x.com/bitecong/status/2116534906537099620",
-      "followers": 38432
     }
   ],
   "news": [
