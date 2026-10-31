@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 11:45 Berlin time (UTC+1)",
-  "newestPostId": "2116481531128500576",
+  "lastUpdated": "Saturday 31 Oct 2026, 11:52 Berlin time (UTC+1)",
+  "newestPostId": "2116483114776080690",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$VAMPCAT (Vamp Cat)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, graduated to PumpSwap)",
+      "buzz": "Halloween vampire-cat coin. A signal bot says it was under half an hour old and had already graduated from pump.fun to PumpSwap. Call accounts claim 4.5x to 16x gains (one says $15K to $68K market cap).",
+      "engagement": "Signal-bot post: 400 impressions, 0 likes. Poster @bitecong, 38.4K followers.",
+      "flags": "Very new, low engagement; most mentions come from paid-group 'call' accounts.",
+      "url": "https://x.com/bitecong/status/2116482344580456633",
+      "followers": 38425
+    },
     {
       "coin": "SAFU Fund / Funds Are Safu (dozens of copycats)",
       "chain": "BSC",
