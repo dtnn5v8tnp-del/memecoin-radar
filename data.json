@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:58 Berlin time (UTC+1)",
-  "newestPostId": "2116560208776294606",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:59 Berlin time (UTC+1)",
+  "newestPostId": "2116560631386030196",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exchange",
+      "headline": "Binance's SAFU fund bitcoin address sent out about 9,140 BTC (about $708M) in six minutes, per an on-chain observer",
+      "coins": "BTC (Binance SAFU)",
+      "detail": "Posted by @zacodil (14,840 followers): Binance's update 3 said SAFU would be 'partially deployed over the next 24 hours', and the public SAFU address sent 1,315 and 7,825 BTC at 14:45 and 14:51 UTC (15:45 and 15:51 Berlin), out of 16,640 BTC held before. Just posted, 0 likes at scan time. Not independently verified.",
+      "updated": "31 Oct, 16:59 (Berlin)",
+      "url": "https://x.com/zacodil/status/2116560624876507268"
+    },
+    {
       "topic": "Exploit",
       "headline": "Wallet described as the 'Binance exploiter' launched another token, this time named DPRK",
       "coins": "DPRK",
@@ -536,14 +544,6 @@
       "detail": "Callout rewards pay daily USDC; one trader showed a $32,000 day. A Creator Program and a $100,000 competition start Nov 2. Critics question the payout and funding.",
       "updated": "31 Oct, 06:47 (Berlin)",
       "url": "https://x.com/i/trending/2116252950716723365"
-    },
-    {
-      "topic": "Pump.fun",
-      "headline": "Analysis: dev wallets buy early on 21% of 8.2M Pump.fun launches",
-      "coins": "Pump.fun launches",
-      "detail": "Dev-linked wallets bought in the first block, taking a median 10% of supply. Trader losses average 88.5% across 12 platforms and 97% on Pump.fun. ZeruAI pitches 'Activity Markets' as an alternative.",
-      "updated": "30 Oct, 09:51 (Berlin)",
-      "url": "https://x.com/i/trending/2115473675747287460"
     }
   ],
   "hourly": [
