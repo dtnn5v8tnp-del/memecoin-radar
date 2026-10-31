@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 14:53 Berlin time (UTC+1)",
-  "newestPostId": "2116528940164472971",
+  "lastUpdated": "Saturday 31 Oct 2026, 14:58 Berlin time (UTC+1)",
+  "newestPostId": "2116529937851277492",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$SI",
+      "chain": "Solana",
+      "chainNote": "Solana (address 13pDKk45nJ6bVPmKdAfyDfXPuhaQqFtHe6Dtqx1hpump)",
+      "buzz": "StableAInfra, flagged by @bitecong's AI signal as graduating from the pump.fun bonding curve to PumpSwap within a couple of minutes of launch, with a large block bought early.",
+      "engagement": "410 impressions, 0 likes.",
+      "flags": "Minutes old; automated signal account; concentrated early buying. Not verified.",
+      "url": "https://x.com/bitecong/status/2116529393720053941",
+      "followers": 38428
+    },
     {
       "coin": "$Kitty",
       "chain": "Solana",
