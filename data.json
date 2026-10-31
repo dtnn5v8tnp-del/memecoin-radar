@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 17:14 Berlin time (UTC+1)",
-  "newestPostId": "2116564477734801730",
+  "lastUpdated": "Saturday 31 Oct 2026, 17:23 Berlin time (UTC+1)",
+  "newestPostId": "2116566575327158681",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Doughbriks Coin ($DOUGHBRIKS)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA 6RmPC7ia7CKHBcTFQMzyERnM3GgimrZhh3y1BQWypump as posted by @bitecong",
+      "buzz": "Automated 'AI Signal' account @bitecong (38,436 followers) flagged a doughnut-shop themed pump.fun token, about two minutes old and most of the way along its bonding curve.",
+      "engagement": "242 impressions and 0 likes at scan time.",
+      "flags": "Bot-generated signal with no organic engagement yet. Very high risk, not verified.",
+      "url": "https://x.com/bitecong/status/2116566498001162631",
+      "followers": 38436
+    },
     {
       "coin": "David Dobrik Coin ($DAVID)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Minutes old; two posts list different tickers and addresses for the same name, and the tracker counted 106 bundlers. Automated signal accounts, not verified.",
       "url": "https://x.com/bitecong/status/2116493681507401877",
       "followers": 38428
-    },
-    {
-      "coin": "$GARRETT",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun address 7H69zC4jZXBqrHQYT2KZUoatSizMJpp26V7H3SAkpump)",
-      "buzz": "'Garrett the Apple Cat', a 21-minute-old pump.fun coin. @VolumeOnMEMES reported a $425.4K market cap, $34.6K liquidity, 3,817 holders and a paid DexScreener listing; @popmemecoin separately flagged it at +441% in 24h with a $236.2K market cap.",
-      "engagement": "Two tracker-bot posts, 82 and 20 impressions, no likes yet. Linked X account @GarrettAppleCat.",
-      "flags": "Very new; tracker reported 21 bundlers and only 3 'smart' wallets, and thin liquidity versus market cap. Figures come from automated signal accounts, not verified.",
-      "url": "https://x.com/VolumeOnMEMES/status/2116491776001179731",
-      "followers": 2680
     }
   ],
   "news": [
+    {
+      "topic": "Pump claim",
+      "headline": "Alert accounts say a second $DAVID token on Solana ran to about $1M market cap",
+      "coins": "$DAVID (Solana, CA 6a81PfhejwCM3bB4F3Rnbzk9ALNmg4YGeyjKd5Nxpump as posted), a different contract from the $DAVID launch listed earlier",
+      "detail": "@cerrocoso (2,383 followers) posted '$2K to $1.1M MCAP', and alert bot @popmemecoin (689 followers) claimed +1420% in 24h and a $1.00M market cap. Both posts had almost no engagement (1 like, 40 impressions at most). Figures are the posters' claims, not verified; same-name tokens with different contracts are common.",
+      "updated": "31 Oct, 17:23 (Berlin)",
+      "url": "https://x.com/cerrocoso/status/2116566458251517996"
+    },
     {
       "topic": "Rug claim",
       "headline": "Trader says 'The Black Bull' Solana memecoin was a bundled token that slow-rugged toward zero",
@@ -536,14 +544,6 @@
       "detail": "Attributed to North Korea's TraderTraitor group. About $3B frozen; Binance says it will cover losses from its Secure Asset Fund. Bitcoin dipped toward $76K. This is the backdrop for the SAFU and Lazarus joke coins.",
       "updated": "31 Oct, 09:18 (Berlin)",
       "url": "https://x.com/i/trending/2116443129406455930"
-    },
-    {
-      "topic": "Binance hack",
-      "headline": "Users joke about pointing the hackers at Pump.fun",
-      "coins": "Pump.fun, LAZARUS tokens",
-      "detail": "Memes and satire after the hack, including 'Lazarus-WSOL' markets and a 1 billion LAZARUS token mint. X's summary says most treat it as satire.",
-      "updated": "30 Oct, 12:30 (Berlin)",
-      "url": "https://x.com/i/trending/2116072548190548276"
     }
   ],
   "hourly": [
