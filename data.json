@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:55 Berlin time (UTC+1)",
-  "newestPostId": "2116544503850877084",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:59 Berlin time (UTC+1)",
+  "newestPostId": "2116545547058163970",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$LEGO",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA 8fddMvev8qRg1xdYR6ZNFzrdWVpdC4WMeMiaLWVpump as posted",
+      "buzz": "Several caller accounts (@flinttrades_1, @BadManLeek, @caller_fredd9, @doganayodabass) pushed it within minutes; @flinttrades_1 (570 followers) claims it went from $80k to $488k (6.1x).",
+      "engagement": "Each post under 35 impressions and at most 1 like.",
+      "flags": "Brand-name ticker unrelated to LEGO; promoted only by templated Telegram call accounts; gain figures are the callers' own claims. Not verified.",
+      "url": "https://x.com/flinttrades_1/status/2116545185710567841",
+      "followers": 570
+    },
     {
       "coin": "$billy",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "The account sells token listings on its own bot, so the list is promotional. No prices or chains were given.",
       "url": "https://x.com/dexvraio/status/2116427044443844977",
       "followers": 41800
-    },
-    {
-      "coin": "Baby Whale (pre-launch)",
-      "chain": "Solana",
-      "chainNote": "Solana (hashtag only)",
-      "buzz": "Teaser says it launches 6 Nov 2026 at 18:00 UTC.",
-      "engagement": "32 impressions, 2 likes. @Bwhalememecoin, 25 followers.",
-      "flags": "Account created 29 Oct 2026 with 25 followers. Looks like a shill.",
-      "url": "https://x.com/Bwhalememecoin/status/2116443264639262965",
-      "followers": 25
     }
   ],
   "news": [
