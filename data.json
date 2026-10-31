@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:27 Berlin time (UTC+1)",
-  "newestPostId": "2116537328743465318",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:30 Berlin time (UTC+1)",
+  "newestPostId": "2116538256485482873",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$MTGA (Make Toilets Great Again)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun contract migrated to Pump AMM (CA EDM8ynBGuaxXex6Lx78Q4WYDNtH6F6ANPvmi72Mspump as posted)",
+      "buzz": "@SolanaTren59241 (2,710 followers, automated migration-alert account) reported it graduating from pump.fun to Pump AMM with about 529 holders and $12.1K liquidity.",
+      "engagement": "79 impressions, no likes.",
+      "flags": "Automated alert account; no community takeover, DEX profile not updated. Figures as posted, not verified.",
+      "url": "https://x.com/SolanaTren59241/status/2116537672730857655",
+      "followers": 2710
+    },
     {
       "coin": "$Pikmin",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Figures come from an auto-generated news summary; X notes it can make mistakes.",
       "url": "https://x.com/i/trending/2116336872569872698",
       "followers": null
-    },
-    {
-      "coin": "$BNB LZRS (Lazarus joke coin)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun)",
-      "buzz": "Joke coin riding the Binance hack and the Lazarus Group attribution.",
-      "engagement": "9 impressions, 0 likes. @Mnkycrypto, 2 followers.",
-      "flags": "Account named 'Binance was stolen' with 2 followers, created Jan 2026. Pure hype.",
-      "url": "https://x.com/Mnkycrypto/status/2116271389795832209",
-      "followers": 2
     }
   ],
   "news": [
+    {
+      "topic": "Pump",
+      "headline": "$MONEKO on Solana claimed at $204K market cap, about 6.8x from a $30K call",
+      "coins": "$MONEKO (CA 49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump)",
+      "detail": "@EarlyChad_ (5,597 followers) called it at $30K at 15:27, then posted $204K about a minute later. 66 to 85 impressions, 1 to 2 likes; caller posts, figures not verified.",
+      "updated": "31 Oct, 15:30 (Berlin)",
+      "url": "https://x.com/EarlyChad_/status/2116537732314931216"
+    },
     {
       "topic": "Pump",
       "headline": "Halloween-themed $HALLOWINU on Solana claimed at $236K market cap, about 15.7x from a $15K call",
