@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 12:53 Berlin time (UTC+1)",
-  "newestPostId": "2116498779583263204",
+  "lastUpdated": "Saturday 31 Oct 2026, 13:01 Berlin time (UTC+1)",
+  "newestPostId": "2116500560417554860",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$COMPUTE",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun address iBNEQnNPCCknSzgbemD9BR5W3MxaepeiXy3iMaMpump)",
+      "buzz": "'Compute', flagged by @bitecong's AI signal about three minutes after launch; it graduated from pump.fun to PumpSwap 2 min 15 s after launch.",
+      "engagement": "269 impressions, no likes or reposts yet.",
+      "flags": "The post says the deployer has already sold out. Minutes old; automated signal account. Not verified.",
+      "url": "https://x.com/bitecong/status/2116500381438189958",
+      "followers": 38430
+    },
+    {
+      "coin": "Unnamed (no ticker given)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun address GzmnZc9JXvqNyzwsj5PR2He6hzJGCsHcr6PoUVJepump)",
+      "buzz": "@_rise (19.9K followers) says 'my version of a memecoin' is now live on pump.fun, with 60% of supply to be airdropped to the top 15 holders at bonding and a promised $7,000 buy 15 minutes after posting.",
+      "engagement": "289 impressions, 1 like so far.",
+      "flags": "Creator-launched coin with promised buys and airdrop incentives; no ticker stated. Just launched, not verified.",
+      "url": "https://x.com/_rise/status/2116500266153586908",
+      "followers": 19928
+    },
     {
       "coin": "$TENURE",
       "chain": "Solana",
