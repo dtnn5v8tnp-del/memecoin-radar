@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:38 Berlin time (UTC+1)",
-  "newestPostId": "2116555228254474627",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:42 Berlin time (UTC+1)",
+  "newestPostId": "2116556333256155642",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$MUNINN",
+      "chain": "Solana",
+      "chainNote": "Solana, CA Ch8cTQfV9qtp6HyYcFMbbx85FF5W3JxVYrb3fo9Tpump as posted by @bitecong",
+      "buzz": "Automated 'AI Signal' account @bitecong (38,435 followers) flagged Muninn Network (MUNINN), named after Norse myth, about two and a half hours after its Solana launch.",
+      "engagement": "Just posted, 218 impressions and 0 likes at scan time.",
+      "flags": "Bot-generated signal, no independent engagement yet. Very high risk, not verified.",
+      "url": "https://x.com/bitecong/status/2116556275429646646",
+      "followers": 38435
+    },
     {
       "coin": "$billy",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "Signal-bot post: 1,309 impressions, 1 like. Poster @bitecong, 38.4K followers.",
       "flags": "Many copycat tokens with tiny liquidity. Bot says the deployer created 75 tokens. The 'Funds Are Safu' pair was -75% in 24h.",
       "url": "https://x.com/bitecong/status/2116354750715433084",
-      "followers": 38421
-    },
-    {
-      "coin": "$NOT SAFU (Funds are not SAFU)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun)",
-      "buzz": "Launched about 02:05 UTC; sat at a $37.5K market cap a minute after launch. Posts claim the Binance hacker deployed it.",
-      "engagement": "Signal-bot post: 876 impressions, 0 likes.",
-      "flags": "The 'hacker deployed it' proof is disputed as a staged transfer by @Chobazo. Several promo accounts have 5 or fewer followers.",
-      "url": "https://x.com/bitecong/status/2116351307531604192",
       "followers": 38421
     }
   ],
