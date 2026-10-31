@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 00:04 Berlin time (UTC+1)",
-  "newestPostId": "2116667521277272205",
+  "lastUpdated": "Sunday 1 Nov 2026, 00:13 Berlin time (UTC+1)",
+  "newestPostId": "2116669792065098103",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -307,10 +307,10 @@
   "news": [
     {
       "topic": "Exploit",
-      "headline": "X News: Binance says it has restored about 90% of funds after the record $6.3B North Korea-linked hack",
+      "headline": "X News: FBI confirms North Korea's TraderTraitor group behind the record $6.3B Binance hack; Binance has replenished about 90%",
       "coins": "BTC, ETH, BNB, wider market",
-      "detail": "Per the X News story, Binance drew over $6.34B from its treasury, SAFU fund and insurance, froze about $3B of stolen assets with partners, and says BTC, ETH and BNB are now 100% backed while it buys remaining altcoins via markets and OTC.",
-      "updated": "31 Oct, 22:29 (Berlin)",
+      "detail": "Per the X News story, the FBI confirmed on 31 Oct that North Korea's TraderTraitor group drained Binance hot wallets across chains in about 20 minutes around 29 Oct. Binance used its SAFU fund, futures insurance and treasury to buy back about 90% of assets, says BTC, ETH and USDT are fully backed, and plans to resume withdrawals on 1 Nov with full proofs by 3 Nov.",
+      "updated": "31 Oct, 23:39 (Berlin)",
       "url": "https://x.com/i/trending/2116061652080832855"
     },
     {
