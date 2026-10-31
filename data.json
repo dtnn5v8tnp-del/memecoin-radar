@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 20:48 Berlin time (UTC+1)",
-  "newestPostId": "2116618173495615501",
+  "lastUpdated": "Saturday 31 Oct 2026, 20:49 Berlin time (UTC+1)",
+  "newestPostId": "2116618565499457588",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Platform news",
+      "headline": "Pump.fun app opened Hyperliquid perps to its users, with about $82M in volume routed in 2 days",
+      "coins": "Pump.fun ecosystem",
+      "detail": "Per the post, only about 1k of 60 to 90k daily app traders have used perps so far. 28 likes, about 2,200 impressions at scan time; @bubblesonchain (22,641 followers) quoted it. Claims not independently verified.",
+      "updated": "31 Oct, 20:06 (Berlin)",
+      "url": "https://x.com/i/status/2116607718719209905"
+    },
+    {
       "topic": "Whale trade",
       "headline": "Small account claims the Binance hacker dumped 7.77 trillion $PEPE (about $32M) while an early whale bought 45B PEPE",
       "coins": "$PEPE",
@@ -536,14 +544,6 @@
       "detail": "@chadscabal (25K followers) says a memecoin dev burned his own tokens on a livestream, wiping out $1M+ in seconds. Video post; 18 likes, 7 reposts so far. Coin not named in the post.",
       "updated": "31 Oct, 11:37 (Berlin)",
       "url": "https://x.com/chadscabal/status/2116479543980556746"
-    },
-    {
-      "topic": "Binance hack",
-      "headline": "CoinDesk trace: how 18,270 BTC left Binance",
-      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
-      "detail": "Small account @dev_kratos (613 followers) summarizes a CoinDesk trace: 11 validly signed transactions built like normal Binance withdrawals, then split into 19 wallets, 17 of them holding exactly 1,000 BTC. Very low engagement so far.",
-      "updated": "31 Oct, 11:10 (Berlin)",
-      "url": "https://x.com/dev_kratos/status/2116472882628829517"
     }
   ],
   "hourly": [
