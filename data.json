@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 18:39 Berlin time (UTC+1)",
-  "newestPostId": "2116585695598833869",
+  "lastUpdated": "Saturday 31 Oct 2026, 18:46 Berlin time (UTC+1)",
+  "newestPostId": "2116587486587867260",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$TEXR",
+      "chain": "Solana",
+      "chainNote": "Solana (as announced; no contract address posted)",
+      "buzz": "@TexrTrades (104,243 followers) announced launching their own memecoin $TEXR, calling it 'the biggest Solana memecoin', with a stated launch of 'Friday 30th October at 1 PM EST'.",
+      "engagement": "4 likes, 530 impressions at scan time.",
+      "flags": "Stated date (Fri 30 Oct) doesn't match today (Sat 31 Oct), so this may be a recycled or engagement-bait post; no CA given. Influencer self-launches carry high dump risk.",
+      "url": "https://x.com/TexrTrades/status/2116587253996675565",
+      "followers": 104243
+    },
     {
       "coin": "$PROS",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Self-promotion from a brand-new account with almost no following; no independent buzz. Not verified.",
       "url": "https://x.com/pumpe_base/status/2116539371470127224",
       "followers": 25
-    },
-    {
-      "coin": "$MTGA (Make Toilets Great Again)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun contract migrated to Pump AMM (CA EDM8ynBGuaxXex6Lx78Q4WYDNtH6F6ANPvmi72Mspump as posted)",
-      "buzz": "@SolanaTren59241 (2,710 followers, automated migration-alert account) reported it graduating from pump.fun to Pump AMM with about 529 holders and $12.1K liquidity.",
-      "engagement": "79 impressions, no likes.",
-      "flags": "Automated alert account; no community takeover, DEX profile not updated. Figures as posted, not verified.",
-      "url": "https://x.com/SolanaTren59241/status/2116537672730857655",
-      "followers": 2710
     }
   ],
   "news": [
