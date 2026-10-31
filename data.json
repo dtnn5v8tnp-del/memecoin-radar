@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 23:06 Berlin time (UTC+1)",
-  "newestPostId": "2116652853083230634",
+  "lastUpdated": "Saturday 31 Oct 2026, 23:09 Berlin time (UTC+1)",
+  "newestPostId": "2116653606342664381",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$Beamish",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@bitecong (38,431 followers) AI signal account flagged Justice for Beamish ($Beamish), which per the post is the fourth justice-themed launch on Solana today and was a few minutes old and climbing when flagged.",
+      "engagement": "0 likes, 317 impressions at scan time.",
+      "flags": "Automated signal post with no organic engagement; very high risk.",
+      "url": "https://x.com/bitecong/status/2116653177387037024",
+      "followers": 38431
+    },
     {
       "coin": "$KIM",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes; 136 and 52 impressions at scan time.",
       "flags": "Signal bot itself says there is no story beyond the name; the market-cap figures are poster claims, not verified. Very high risk.",
       "url": "https://x.com/bitecong/status/2116582439787364609",
-      "followers": 38434
-    },
-    {
-      "coin": "$KIM",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (two separate Kim Jong Un Coin contracts posted: GnKLBDBSBUpfRDtLiLPgFDdvGRUiPtjffwy5Cwmn9CMZ and J19PfsQAUrgEbBdG56CMthThKYDmoP2NDf4GUqqHpump)",
-      "buzz": "@bitecong (38,434 followers) flagged two Kim Jong Un-themed launches within minutes, one 89% and the other 82% of the way along the pump.fun bonding curve shortly after launch.",
-      "engagement": "0 likes; 323 and 260 impressions at scan time.",
-      "flags": "Duplicate same-name launches are a classic copycat pattern; check the contract carefully. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116581959933784092",
       "followers": 38434
     }
   ],
