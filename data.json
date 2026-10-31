@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 18:46 Berlin time (UTC+1)",
-  "newestPostId": "2116587486587867260",
+  "lastUpdated": "Saturday 31 Oct 2026, 18:49 Berlin time (UTC+1)",
+  "newestPostId": "2116588187409604788",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Unnamed memecoin (no ticker given)",
+      "chain": "Unknown",
+      "chainNote": "Not stated in the post",
+      "buzz": "@drarjantit (65,481 followers) said a memecoin is 'Launching Monday', pitching 'no artificial scarcity' and 'no burn stories dressed up as value'.",
+      "engagement": "3 likes, 150 impressions at scan time.",
+      "flags": "No ticker, chain, or contract address yet; pre-launch teaser only.",
+      "url": "https://x.com/drarjantit/status/2116587708713709974",
+      "followers": 65481
+    },
     {
       "coin": "$TEXR",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal account; still on bonding curve, not graduated. Not verified.",
       "url": "https://x.com/bitecong/status/2116541080648995280",
       "followers": 38431
-    },
-    {
-      "coin": "PUMPE (Pepe in Halloween clothes)",
-      "chain": "Base",
-      "chainNote": "Base, contract 0xb200000000000000000000a873a273d0b513dc01 as posted",
-      "buzz": "@pumpe_base (25 followers, the project's own new account) posted a Halloween-themed Pepe meme coin for All Hallows Eve.",
-      "engagement": "1 impression, no likes.",
-      "flags": "Self-promotion from a brand-new account with almost no following; no independent buzz. Not verified.",
-      "url": "https://x.com/pumpe_base/status/2116539371470127224",
-      "followers": 25
     }
   ],
   "news": [
