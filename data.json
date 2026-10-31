@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 12:46 Berlin time (UTC+1)",
-  "newestPostId": "2116496928447906098",
+  "lastUpdated": "Saturday 31 Oct 2026, 12:51 Berlin time (UTC+1)",
+  "newestPostId": "2116498047995941156",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$TENURE",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun address Caf2L9BC6NxGcJ13AuwJbES2eBXA9Mg2CjTY8otenure)",
+      "buzz": "'Tenure', flagged by @bitecong's AI signal; minutes old and already graduated from the pump.fun bonding curve to PumpSwap. The post says no clear theme is stated in the name or posts.",
+      "engagement": "251 impressions, no likes or reposts yet.",
+      "flags": "Minutes old; automated signal account, no theme or community yet. Not verified.",
+      "url": "https://x.com/bitecong/status/2116498040332906895",
+      "followers": 38429
+    },
     {
       "coin": "$LBS",
       "chain": "Solana",
