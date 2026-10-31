@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 13:04 Berlin time (UTC+1)",
-  "newestPostId": "2116501403246248273",
+  "lastUpdated": "Saturday 31 Oct 2026, 13:10 Berlin time (UTC+1)",
+  "newestPostId": "2116502932602466760",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -205,6 +205,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Market and holders",
+      "headline": "$GTA6CAT up 400% since its Fourtis listing, per listing-alert account",
+      "coins": "$GTA6CAT",
+      "detail": "@fourtislisting (67K followers, a promotional listing-alert account) says $GTA6CAT went from about $1.2M to $5.9M market cap since listing on Fourtis. 511 impressions, 1 like so far; self-reported and not verified.",
+      "updated": "31 Oct, 13:10 (Berlin)",
+      "url": "https://x.com/fourtislisting/status/2116502071545413928"
+    },
     {
       "topic": "Exploits",
       "headline": "Binance hack follow-up: stolen funds being moved through thousands of transactions",
