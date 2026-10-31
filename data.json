@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 18:49 Berlin time (UTC+1)",
-  "newestPostId": "2116588187409604788",
+  "lastUpdated": "Saturday 31 Oct 2026, 18:55 Berlin time (UTC+1)",
+  "newestPostId": "2116589686550405429",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Whale trade",
+      "headline": "@enzocooks says a trader turned a $27k buy of $PONS into over $1.0M",
+      "coins": "$PONS",
+      "detail": "@enzocooks (441,916 followers) posted that a wallet aped $27k into $PONS and is up +$4,072,898 from it. Claim not independently verified; 3 likes, 920 impressions at scan time.",
+      "updated": "31 Oct, 18:51 (Berlin)",
+      "url": "https://x.com/enzocooks/status/2116588768149000223"
+    },
+    {
       "topic": "Exploit follow-up",
       "headline": "The Observer reports crypto prices tumbled after the $6.3B Binance hack",
       "coins": "Broad market (no memecoin named)",
@@ -536,14 +544,6 @@
       "detail": "Headline-only post from German crypto outlet @btcecho (48K followers); the post gives no further detail. Very early, low engagement so far.",
       "updated": "31 Oct, 10:57 (Berlin)",
       "url": "https://x.com/btcecho/status/2116469609276613040"
-    },
-    {
-      "topic": "Binance hack",
-      "headline": "CZ: the $6.3B Binance incident is the largest crypto hack by dollar value, though not in BTC terms versus Mt. Gox",
-      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
-      "detail": "Relayed by @MicNguyenn105 (33K followers), who adds that Binance has committed to covering all losses from its SAFU fund and company reserves. Very low engagement so far; secondhand report.",
-      "updated": "31 Oct, 10:51 (Berlin)",
-      "url": "https://x.com/MicNguyenn105/status/2116468072504807808"
     }
   ],
   "hourly": [
