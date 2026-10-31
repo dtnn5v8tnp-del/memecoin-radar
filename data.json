@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 13:37 Berlin time (UTC+1)",
-  "newestPostId": "2116509840298160307",
+  "lastUpdated": "Saturday 31 Oct 2026, 13:40 Berlin time (UTC+1)",
+  "newestPostId": "2116510618278851008",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$PUMPE",
+      "chain": "Solana",
+      "chainNote": "Solana (address FYJnGwFNieXHoUNRpAPfzbjwJcWPk1wGmzyosjuupump)",
+      "buzz": "A Halloween-themed Pepe coin flagged by @bitecong's AI signal; it launched on pump.fun about three minutes before the signal and was still on the bonding curve.",
+      "engagement": "336 impressions, 0 likes.",
+      "flags": "The signal itself says one post ties it to Coinbase but nothing backs that up. Minutes old; automated signal account. Not verified.",
+      "url": "https://x.com/bitecong/status/2116510394722418808",
+      "followers": 38428
+    },
     {
       "coin": "$Champy",
       "chain": "Solana",
@@ -215,6 +225,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Market and holders",
+      "headline": "@stitchdegen recaps a Robinhood-named token launched Oct 29, calling it one of the hottest on crypto Twitter",
+      "coins": "robinhood (0xacc8de336f5d2366fa7334383d8fab73499f582a)",
+      "detail": "@stitchdegen (31.5K followers) covers the token in a memecoin recap series after many requests. 682 impressions, 3 likes so far; not verified.",
+      "updated": "31 Oct, 13:38 (Berlin)",
+      "url": "https://x.com/stitchdegen/status/2116510232931377528"
+    },
     {
       "topic": "Market and holders",
       "headline": "$PENGU is the busiest Solana meme coin this morning, about $79M traded in a day",
