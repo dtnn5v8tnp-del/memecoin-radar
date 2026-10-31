@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 18:05 Berlin time (UTC+1)",
-  "newestPostId": "2116577211142611053",
+  "lastUpdated": "Saturday 31 Oct 2026, 18:11 Berlin time (UTC+1)",
+  "newestPostId": "2116578777333711051",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$DAVID",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (CA AFqw58vGV6vdP5WyqeE4C7aj7qirPpG9dByFGXMYpump as posted), another contract using the $DAVID name",
+      "buzz": "A wave of call accounts pushed $DAVID: @ReptoldSol1 (1,009 followers) claimed a 103x gain, @Marco_Alphqx0u (785 followers) claimed 27x on the same contract, and @Sol_masteri (981 followers) claimed a $39K to $618K market-cap run. @MoonSniper__ (13,725 followers) and @Sammwolff_ (3,923 followers) posted identical 'maxing good on my alpha tg' text.",
+      "engagement": "At most 1 like and 23 impressions at scan time.",
+      "flags": "Copy-paste posts from Telegram 'alpha' call accounts look like coordinated shilling; several different contracts share the $DAVID name. Figures are the posters' claims, not verified. Very high risk.",
+      "url": "https://x.com/ReptoldSol1/status/2116578635083558973",
+      "followers": 1009
+    },
+    {
+      "coin": "HALLOWEENIE",
+      "chain": "Solana",
+      "chainNote": "Solana (address 683a9KvDJZvhkXb9Q6nT12MEb2rksmxXkpukHMjAuJqL as posted)",
+      "buzz": "Scanner account @SolanaMemesScan (4,257 followers) flagged a Halloween-themed token with a paid DexScreener push, 0 smart-wallet activity, 26 bundler clusters and 9 fresh wallets.",
+      "engagement": "0 likes and 58 impressions at scan time.",
+      "flags": "Scanner's own data points to heavy bundling and paid promotion with no smart money. Claims from an automated account, not verified. Very high risk.",
+      "url": "https://x.com/SolanaMemesScan/status/2116578776737870188",
+      "followers": 4257
+    },
     {
       "coin": "$ICECAT",
       "chain": "Solana",
@@ -282,29 +302,17 @@
       "flags": "Brand-name ticker unrelated to Amazon; single caller account promoting DMs. Market-cap figures unverified.",
       "url": "https://x.com/Sol_Ficra/status/2116534232990593227",
       "followers": 5581
-    },
-    {
-      "coin": "$Hallowinu (HELLOWIN)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun contract (CA 5YREyyZig2rjst2rZv5e5UtNqP5FrWSjCdPNMcm7pump as posted)",
-      "buzz": "Halloween-themed dog coin. @cerrocoso spotted it at $9K market cap and later posted $9K to $176K (about 19.6x); @EarlyRada and @popmemecoin also pushed it as trending, citing $176K to $177K market cap.",
-      "engagement": "Under 70 impressions and 2 likes per post.",
-      "flags": "Hours-old at most; promoted almost entirely by Telegram call and alert accounts. Market-cap figures are the callers' own claims, not verified.",
-      "url": "https://x.com/cerrocoso/status/2116532877760377242",
-      "followers": 2381
-    },
-    {
-      "coin": "$SIS (Super Intelligence Satellite)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun graduate to Pump AMM (callers posted differing contract addresses, so verify which is real)",
-      "buzz": "@JohnCryptopeow flagged a Pump Fun to Pump AMM breakout with an all-time-high market cap of $42.9K, $10.1K liquidity and 551 holders; several call accounts piled in within minutes.",
-      "engagement": "42 impressions, 0 likes on the breakout post; other mentions under 25 impressions.",
-      "flags": "Minutes old; pushed mainly by paid-call and Telegram-promo accounts; mismatched contract addresses. Not verified.",
-      "url": "https://x.com/JohnCryptopeow/status/2116531309019374001",
-      "followers": 1211
     }
   ],
   "news": [
+    {
+      "topic": "Exploit follow-up",
+      "headline": "Small alert account claims Binance has covered 90% of the assets stolen in the $6.3B exploit",
+      "coins": "$BNB (no memecoin named)",
+      "detail": "Posted as 'JUST IN' by alert account @popmemecoin (690 followers) with 12 impressions and no likes; a domain-seller account, @AniverseAI (217 followers), separately praised Binance for promising to replace stolen funds. No source linked in the post text, so treat the 90% figure as an unverified claim.",
+      "updated": "31 Oct, 18:11 (Berlin)",
+      "url": "https://x.com/popmemecoin/status/2116578359350079588"
+    },
     {
       "topic": "Pump claim",
       "headline": "Alert accounts say a second $DAVID token on Solana ran to about $1M market cap",
@@ -536,14 +544,6 @@
       "detail": "Per a Vietnamese crypto community post (@TCCLCommunity, 8.1K followers) relaying Binance's second update on the $6.3B theft. A separate overnight recap (@tomcio_w) says BTC is holding around $77K and claims the hacker now holds 18,270 BTC. Low engagement so far; unverified details.",
       "updated": "31 Oct, 10:38 (Berlin)",
       "url": "https://x.com/TCCLCommunity/status/2116464843918319907"
-    },
-    {
-      "topic": "Binance hack",
-      "headline": "Binance reveals record $6.3B hot-wallet theft",
-      "coins": "BTC, ETH, TRX, USDT and meme spin-offs",
-      "detail": "Attributed to North Korea's TraderTraitor group. About $3B frozen; Binance says it will cover losses from its Secure Asset Fund. Bitcoin dipped toward $76K. This is the backdrop for the SAFU and Lazarus joke coins.",
-      "updated": "31 Oct, 09:18 (Berlin)",
-      "url": "https://x.com/i/trending/2116443129406455930"
     }
   ],
   "hourly": [
