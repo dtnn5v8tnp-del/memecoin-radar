@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 13:16 Berlin time (UTC+1)",
-  "newestPostId": "2116504587314077770",
+  "lastUpdated": "Saturday 31 Oct 2026, 13:20 Berlin time (UTC+1)",
+  "newestPostId": "2116505433883959446",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$Champy",
+      "chain": "Solana",
+      "chainNote": "Solana (address BVqiLaqbK48xGygbxUwLbDVAwPCF4spdP6gHAWnjNRip)",
+      "buzz": "An animal memecoin flagged by @bitecong's AI signal; it was past the halfway mark to pump.fun graduation about five minutes after launch.",
+      "engagement": "440 impressions, 1 like.",
+      "flags": "The post says most of the top hundred wallets had already sold at least half. Minutes old; automated signal account. Not verified.",
+      "url": "https://x.com/bitecong/status/2116504865476317297",
+      "followers": 38429
+    },
     {
       "coin": "$COMPUTE",
       "chain": "Solana",
