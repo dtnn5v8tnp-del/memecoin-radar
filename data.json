@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 19:21 Berlin time (UTC+1)",
-  "newestPostId": "2116596431490289903",
+  "lastUpdated": "Saturday 31 Oct 2026, 19:27 Berlin time (UTC+1)",
+  "newestPostId": "2116597878126743632",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$DUTCH (DUTCH LAUNCH)",
+      "chain": "Solana",
+      "chainNote": "Solana (CA in post)",
+      "buzz": "@bitecong (38,436 followers) posted an automated AI signal for $DUTCH, saying its pair was about five minutes old and it's the second \"launch\"-themed token on Solana today. The post flags 71 bundler wallets on the holder side.",
+      "engagement": "0 likes, 274 impressions at scan time.",
+      "flags": "Bot-style signal account; bundled holders flagged by the poster itself; brand-new pair, very high risk.",
+      "url": "https://x.com/bitecong/status/2116597383568232800",
+      "followers": 38436
+    },
     {
       "coin": "$TIGRINO (Tigrino)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Bot-generated signal; no clear theme. Treat as high risk. Not verified. A different $billy token (CA GL7L...pump) was flagged earlier, so this may be a copycat ticker.",
       "url": "https://x.com/bitecong/status/2116551601657938358",
       "followers": 38434
-    },
-    {
-      "coin": "$GTAVI",
-      "chain": "Robinhood (per post)",
-      "chainNote": "Robinhood chain per the post, CA 0x522105E252E8F6eab08b79e53D92C96FeaE35510 as posted by @popmemecoin",
-      "buzz": "Automated 'Trending DEX Twitter Alpha Alert' from @popmemecoin (688 followers) says $GTAVI (@gtavionrobin_x) is surging with strong social momentum, +6210.0% in 24h at a $176.0K market cap.",
-      "engagement": "11 impressions, 0 likes, 1 reply.",
-      "flags": "Bot-generated alert promoting a signals service; GTA 6 hype ticker. Tiny market cap; treat as high risk. Not verified.",
-      "url": "https://x.com/popmemecoin/status/2116550655888212072",
-      "followers": 688
     }
   ],
   "news": [
