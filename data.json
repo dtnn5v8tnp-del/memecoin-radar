@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 18:55 Berlin time (UTC+1)",
-  "newestPostId": "2116589686550405429",
+  "lastUpdated": "Saturday 31 Oct 2026, 19:02 Berlin time (UTC+1)",
+  "newestPostId": "2116591422719824270",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$DACITY",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun-style CA posted)",
+      "buzz": "@gta6dacity (138 followers) is pushing $DACITY, a GTA 6 meme about a hidden plane in Leonida, claiming 21,670 holders and a $9.15M market cap.",
+      "engagement": "0 likes, 4 impressions at scan time.",
+      "flags": "Holder and market-cap figures are the project's own claims, not verified; promoted by a small project-linked account; GTA 6 memecoins are a crowded, hype-driven niche.",
+      "url": "https://x.com/gta6dacity/status/2116591035103015262",
+      "followers": 138
+    },
     {
       "coin": "Unnamed memecoin (no ticker given)",
       "chain": "Unknown",
@@ -292,16 +302,6 @@
       "flags": "Brand-name ticker unrelated to LEGO; promoted only by templated Telegram call accounts; gain figures are the callers' own claims. Not verified.",
       "url": "https://x.com/flinttrades_1/status/2116545185710567841",
       "followers": 570
-    },
-    {
-      "coin": "$billy",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA GL7LbqwtKE6rxzzoJk5D9eD1Morp5kvESQen1ANfpump as posted",
-      "buzz": "@bitecong (38,431 followers) posted an automated 'AI Signal' calling it a fresh pump.fun launch still on the bonding curve.",
-      "engagement": "312 impressions, no likes or reposts.",
-      "flags": "Automated signal account; still on bonding curve, not graduated. Not verified.",
-      "url": "https://x.com/bitecong/status/2116541080648995280",
-      "followers": 38431
     }
   ],
   "news": [
