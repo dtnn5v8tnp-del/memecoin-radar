@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 20:36 Berlin time (UTC+1)",
-  "newestPostId": "2116615281955242054",
+  "lastUpdated": "Saturday 31 Oct 2026, 20:41 Berlin time (UTC+1)",
+  "newestPostId": "2116616493374861724",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -307,6 +307,14 @@
   "news": [
     {
       "topic": "Whale trade",
+      "headline": "Small account claims the Binance hacker dumped 7.77 trillion $PEPE (about $32M) while an early whale bought 45B PEPE",
+      "coins": "$PEPE",
+      "detail": "@Aiworldtrack (70 followers) posted the claim; no on-chain link was given and it is not independently verified. 0 likes, 8 impressions at scan time.",
+      "updated": "31 Oct, 20:40 (Berlin)",
+      "url": "https://x.com/Aiworldtrack/status/2116616299266900171"
+    },
+    {
+      "topic": "Whale trade",
       "headline": "@enzocooks says a trader turned a $27k buy of $PONS into over $1.0M",
       "coins": "$PONS",
       "detail": "@enzocooks (441,916 followers) posted that a wallet aped $27k into $PONS and is up +$4,072,898 from it. Claim not independently verified; 3 likes, 920 impressions at scan time.",
@@ -536,14 +544,6 @@
       "detail": "Small account @dev_kratos (613 followers) summarizes a CoinDesk trace: 11 validly signed transactions built like normal Binance withdrawals, then split into 19 wallets, 17 of them holding exactly 1,000 BTC. Very low engagement so far.",
       "updated": "31 Oct, 11:10 (Berlin)",
       "url": "https://x.com/dev_kratos/status/2116472882628829517"
-    },
-    {
-      "topic": "Binance hack",
-      "headline": "BTC-ECHO: Elon Musk trolls Changpeng Zhao over the Binance hack",
-      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
-      "detail": "Headline-only post from German crypto outlet @btcecho (48K followers); the post gives no further detail. Very early, low engagement so far.",
-      "updated": "31 Oct, 10:57 (Berlin)",
-      "url": "https://x.com/btcecho/status/2116469609276613040"
     }
   ],
   "hourly": [
