@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 13:10 Berlin time (UTC+1)",
-  "newestPostId": "2116502932602466760",
+  "lastUpdated": "Saturday 31 Oct 2026, 13:16 Berlin time (UTC+1)",
+  "newestPostId": "2116504587314077770",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -205,6 +205,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Market and holders",
+      "headline": "$PENGU is the busiest Solana meme coin this morning, about $79M traded in a day",
+      "coins": "$PENGU",
+      "detail": "@Crypto_Crayak (10.6K followers) says $PENGU saw about $79M in 24h volume while its price barely moved. 44 impressions so far; not verified.",
+      "updated": "31 Oct, 13:16 (Berlin)",
+      "url": "https://x.com/Crypto_Crayak/status/2116503998802858408"
+    },
     {
       "topic": "Market and holders",
       "headline": "$GTA6CAT up 400% since its Fourtis listing, per listing-alert account",
