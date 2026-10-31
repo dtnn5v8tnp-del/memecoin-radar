@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:25 Berlin time (UTC+1)",
-  "newestPostId": "2116552077140754593",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:33 Berlin time (UTC+1)",
+  "newestPostId": "2116553989596553612",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$billy",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun to PumpSwap), CA BtrUpKSdeV7mJfth8LfW6pQL9PSdRXMYeKyo2zodpump as posted by @bitecong",
+      "buzz": "Automated 'AI Signal' account @bitecong (38,434 followers) called it the third billy-themed launch on Solana today, saying it left the pump.fun bonding curve for PumpSwap about a minute after launch and flagging the dev wallet.",
+      "engagement": "Just posted, 0 impressions at scan time.",
+      "flags": "Bot-generated signal; third copycat $billy ticker today alongside GL7L...pump (heavily shilled by 'call' accounts) and DUTx...pump. Very high risk, not verified.",
+      "url": "https://x.com/bitecong/status/2116553984395919709",
+      "followers": 38434
+    },
+    {
+      "coin": "$ugly",
+      "chain": "Robinhood chain (per post)",
+      "chainNote": "Not launched yet; no contract address posted.",
+      "buzz": "@kastrosan says @uglyonrobinhood will launch a memecoin soon (November), attributing it to @NotEnoughEth, founder of @GROWBLOCKSXYZ (previously efrogs).",
+      "engagement": "11 impressions, 0 likes, 1 reply.",
+      "flags": "Upcoming, unverified claim from a small account (456 followers). Watch for fake contract addresses.",
+      "url": "https://x.com/kastrosan/status/2116553734625095939",
+      "followers": 456
+    },
     {
       "coin": "$billy",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "The 'hacker deployed it' proof is disputed as a staged transfer by @Chobazo. Several promo accounts have 5 or fewer followers.",
       "url": "https://x.com/bitecong/status/2116351307531604192",
       "followers": 38421
-    },
-    {
-      "coin": "Hack Neko ($HN)",
-      "chain": "BSC",
-      "chainNote": "BSC (four.meme)",
-      "buzz": "Fifth hack-themed launch on BSC today, per a signal bot. Sat well along the bonding curve 15 minutes after launch.",
-      "engagement": "Signal-bot post: 738 impressions, 1 like.",
-      "flags": "Bot notes three wallets bought within seconds of launch (possible sniping). Influencer-style repost accounts with 4 followers.",
-      "url": "https://x.com/bitecong/status/2116438643829354752",
-      "followers": 38421
-    },
-    {
-      "coin": "$LUCIA (Halloween / Vice City theme)",
-      "chain": "Other",
-      "chainNote": "Not stated",
-      "buzz": "Highest-reach new-coin promo found: a Halloween and Vice City themed meme project.",
-      "engagement": "28,890 impressions, 23 likes, 4 reposts, 5 replies. @ElaraVayneX, 53.3K followers.",
-      "flags": "Promo post; the coin was not independently verified.",
-      "url": "https://x.com/ElaraVayneX/status/2116432893241344159",
-      "followers": 53271
     }
   ],
   "news": [
