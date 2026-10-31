@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 17:58 Berlin time (UTC+1)",
-  "newestPostId": "2116575356022931636",
+  "lastUpdated": "Saturday 31 Oct 2026, 18:05 Berlin time (UTC+1)",
+  "newestPostId": "2116577211142611053",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$ICECAT",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (CA 6SCBgkk4rm3y6GpBEHpQVeN258UsfmQGj4KChmC3pump as posted)",
+      "buzz": "Signal account @bitecong (38,434 followers) flagged $ICECAT, an ice-cat themed pump.fun coin launched about nine minutes before its signal; @cerrocoso (2,383 followers) claimed a $4K to $34K market-cap move.",
+      "engagement": "At most 1 like and 379 impressions at scan time.",
+      "flags": "Brand-new pump.fun token promoted by signal and call accounts; figures are the posters' claims, not verified. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116576809081086089",
+      "followers": 38434
+    },
     {
       "coin": "$JOB",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Minutes old; pushed mainly by paid-call and Telegram-promo accounts; mismatched contract addresses. Not verified.",
       "url": "https://x.com/JohnCryptopeow/status/2116531309019374001",
       "followers": 1211
-    },
-    {
-      "coin": "$SI",
-      "chain": "Solana",
-      "chainNote": "Solana (address 13pDKk45nJ6bVPmKdAfyDfXPuhaQqFtHe6Dtqx1hpump)",
-      "buzz": "StableAInfra, flagged by @bitecong's AI signal as graduating from the pump.fun bonding curve to PumpSwap within a couple of minutes of launch, with a large block bought early.",
-      "engagement": "410 impressions, 0 likes.",
-      "flags": "Minutes old; automated signal account; concentrated early buying. Not verified.",
-      "url": "https://x.com/bitecong/status/2116529393720053941",
-      "followers": 38428
     }
   ],
   "news": [
