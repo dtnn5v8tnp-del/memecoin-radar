@@ -1,297 +1,297 @@
 {
- "lastUpdated": "Saturday 31 Oct 2026, 09:45 Berlin time (UTC+1)",
- "newestPostId": "2116451569763827776",
- "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
- "launches": [
-  {
-   "coin": "SAFU Fund / Funds Are Safu (dozens of copycats)",
-   "chain": "BSC",
-   "chainNote": "BSC (also Solana, Robinhood chain, Arc)",
-   "buzz": "Binance-hack joke coins. X news says a SAFU memecoin launched right after the hack; a signal bot logged the 11th SAFU-themed launch of the day. DexScreener's biggest pair: about $947K market cap, $6.4M 24h volume, +2,133% over 24h but -24% over 1h.",
-   "engagement": "Signal-bot post: 1,309 impressions, 1 like. Poster @bitecong, 38.4K followers.",
-   "flags": "Many copycat tokens with tiny liquidity. Bot says the deployer created 75 tokens. The 'Funds Are Safu' pair was -75% in 24h.",
-   "url": "https://x.com/bitecong/status/2116354750715433084",
-   "followers": 38421
-  },
-  {
-   "coin": "$NOT SAFU (Funds are not SAFU)",
-   "chain": "Solana",
-   "chainNote": "Solana (pump.fun)",
-   "buzz": "Launched about 02:05 UTC; sat at a $37.5K market cap a minute after launch. Posts claim the Binance hacker deployed it.",
-   "engagement": "Signal-bot post: 876 impressions, 0 likes.",
-   "flags": "The 'hacker deployed it' proof is disputed as a staged transfer by @Chobazo. Several promo accounts have 5 or fewer followers.",
-   "url": "https://x.com/bitecong/status/2116351307531604192",
-   "followers": 38421
-  },
-  {
-   "coin": "Hack Neko ($HN)",
-   "chain": "BSC",
-   "chainNote": "BSC (four.meme)",
-   "buzz": "Fifth hack-themed launch on BSC today, per a signal bot. Sat well along the bonding curve 15 minutes after launch.",
-   "engagement": "Signal-bot post: 738 impressions, 1 like.",
-   "flags": "Bot notes three wallets bought within seconds of launch (possible sniping). Influencer-style repost accounts with 4 followers.",
-   "url": "https://x.com/bitecong/status/2116438643829354752",
-   "followers": 38421
-  },
-  {
-   "coin": "$LUCIA (Halloween / Vice City theme)",
-   "chain": "Other",
-   "chainNote": "Not stated",
-   "buzz": "Highest-reach new-coin promo found: a Halloween and Vice City themed meme project.",
-   "engagement": "28,890 impressions, 23 likes, 4 reposts, 5 replies. @ElaraVayneX, 53.3K followers.",
-   "flags": "Promo post; the coin was not independently verified.",
-   "url": "https://x.com/ElaraVayneX/status/2116432893241344159",
-   "followers": 53271
-  },
-  {
-   "coin": "$FĀFĀ (发发)",
-   "chain": "Solana",
-   "chainNote": "Solana (pump.fun, PumpSwap)",
-   "buzz": "Graduated to PumpSwap 42 minutes after launch, per a signal bot. In the last hour many 'call' accounts posted '2x / 5x from my call' on the same contract.",
-   "engagement": "Signal-bot post: 429 impressions, 0 likes. Caller posts mostly 0-43 impressions.",
-   "flags": "Paid-call pattern: caller accounts advertise private Telegram or VIP groups and quote the same contract. Bot says the liquidity pool was only minutes old.",
-   "url": "https://x.com/bitecong/status/2116450288861352188",
-   "followers": 38421
-  },
-  {
-   "coin": "$JEFF",
-   "chain": "Solana",
-   "chainNote": "Solana (pump-suffix contract)",
-   "buzz": "On Dexvra's 'top gainers' list for Oct 31 (#2). The creator says he launched it and posts about the 'honesty paradox' in memecoins.",
-   "engagement": "97 impressions, 5 likes, 2 reposts, 5 replies. @Jeff_Funnyguy, 441 followers.",
-   "flags": "Creator account was created 2 Oct 2026. Self-promotion by the launcher.",
-   "url": "https://x.com/Jeff_Funnyguy/status/2116445871046803863",
-   "followers": 441
-  },
-  {
-   "coin": "$DACITY and other GTA6-themed coins (GTA6, GATO)",
-   "chain": "Other",
-   "chainNote": "Not stated",
-   "buzz": "GTA VI launches Nov 19. A promo claims $DACITY has an $8.47M market cap and $702K 24h volume. CryptoBubbles' post lists GTA6 at +5,814% in 24h.",
-   "engagement": "$DACITY post: 81 impressions, 4 likes, 1 repost. @gta6dacity, 135 followers.",
-   "flags": "Market cap and gain figures come from promo accounts and are unverified. The CryptoBubbles account has 2 followers. Other posts call a coin 'the only safe GTA6 meme coin', a shill-style claim.",
-   "url": "https://x.com/gta6dacity/status/2116424940685603303",
-   "followers": 135
-  },
-  {
-   "coin": "$ONECOIN",
-   "chain": "Other",
-   "chainNote": "EVM address; chain not stated",
-   "buzz": "Posted as the 'first meme coin launched on $pangea'.",
-   "engagement": "41 impressions, 1 like. @Doumacrypto, 10.0K followers.",
-   "flags": "Low engagement for the follower count. A promotional contract-address post.",
-   "url": "https://x.com/Doumacrypto/status/2116450894548246677",
-   "followers": 9983
-  },
-  {
-   "coin": "Dexvra top gainers: DESSA, JEFF, LAUNCH, GLITCH, CBUCKS, WORM",
-   "chain": "Other",
-   "chainNote": "Not stated",
-   "buzz": "Daily gainers list from a Telegram-bot account for Oct 31.",
-   "engagement": "1,821 impressions, 7 likes, 5 reposts. @dexvraio, 41.8K followers.",
-   "flags": "The account sells token listings on its own bot, so the list is promotional. No prices or chains were given.",
-   "url": "https://x.com/dexvraio/status/2116427044443844977",
-   "followers": 41800
-  },
-  {
-   "coin": "Baby Whale (pre-launch)",
-   "chain": "Solana",
-   "chainNote": "Solana (hashtag only)",
-   "buzz": "Teaser says it launches 6 Nov 2026 at 18:00 UTC.",
-   "engagement": "32 impressions, 2 likes. @Bwhalememecoin, 25 followers.",
-   "flags": "Account created 29 Oct 2026 with 25 followers. Looks like a shill.",
-   "url": "https://x.com/Bwhalememecoin/status/2116443264639262965",
-   "followers": 25
-  },
-  {
-   "coin": "KEEP70 (Base launchpad)",
-   "chain": "Base",
-   "chainNote": "Base",
-   "buzz": "A launchpad that gives creators 70% of trading fees. It says it launches 2 Nov and is recruiting its first 10 creators.",
-   "engagement": "15 impressions, 2 likes. @buildingkeep70, 3 followers.",
-   "flags": "Brand-new account with 3 followers. A launchpad rather than a coin.",
-   "url": "https://x.com/buildingkeep70/status/2116433686346526946",
-   "followers": 3
-  },
-  {
-   "coin": "$CHUD (Chuddy the teddy bear)",
-   "chain": "Solana",
-   "chainNote": "Solana",
-   "buzz": "X news says a stoic teddy-bear meme tied to a token launched in late September, at a $260K market cap, with a plush drop being discussed.",
-   "engagement": "Engagement not given: this is an X news summary, not a single post.",
-   "flags": "Figures come from an auto-generated news summary; X notes it can make mistakes.",
-   "url": "https://x.com/i/trending/2116336872569872698",
-   "followers": null
-  },
-  {
-   "coin": "$BNB LZRS (Lazarus joke coin)",
-   "chain": "Solana",
-   "chainNote": "Solana (pump.fun)",
-   "buzz": "Joke coin riding the Binance hack and the Lazarus Group attribution.",
-   "engagement": "9 impressions, 0 likes. @Mnkycrypto, 2 followers.",
-   "flags": "Account named 'Binance was stolen' with 2 followers, created Jan 2026. Pure hype.",
-   "url": "https://x.com/Mnkycrypto/status/2116271389795832209",
-   "followers": 2
-  }
- ],
- "news": [
-  {
-   "topic": "Binance hack",
-   "headline": "Binance reveals record $6.3B hot-wallet theft",
-   "coins": "BTC, ETH, TRX, USDT and meme spin-offs",
-   "detail": "Attributed to North Korea's TraderTraitor group. About $3B frozen; Binance says it will cover losses from its Secure Asset Fund. Bitcoin dipped toward $76K. This is the backdrop for the SAFU and Lazarus joke coins.",
-   "updated": "31 Oct, 09:18 (Berlin)",
-   "url": "https://x.com/i/trending/2116443129406455930"
-  },
-  {
-   "topic": "Binance hack",
-   "headline": "Users joke about pointing the hackers at Pump.fun",
-   "coins": "Pump.fun, LAZARUS tokens",
-   "detail": "Memes and satire after the hack, including 'Lazarus-WSOL' markets and a 1 billion LAZARUS token mint. X's summary says most treat it as satire.",
-   "updated": "30 Oct, 12:30 (Berlin)",
-   "url": "https://x.com/i/trending/2116072548190548276"
-  },
-  {
-   "topic": "Pump.fun",
-   "headline": "Pump.fun callout rewards, Creator Program and $100K competition",
-   "coins": "PUMP, pump.fun launches",
-   "detail": "Callout rewards pay daily USDC; one trader showed a $32,000 day. A Creator Program and a $100,000 competition start Nov 2. Critics question the payout and funding.",
-   "updated": "31 Oct, 06:47 (Berlin)",
-   "url": "https://x.com/i/trending/2116252950716723365"
-  },
-  {
-   "topic": "Pump.fun",
-   "headline": "Analysis: dev wallets buy early on 21% of 8.2M Pump.fun launches",
-   "coins": "Pump.fun launches",
-   "detail": "Dev-linked wallets bought in the first block, taking a median 10% of supply. Trader losses average 88.5% across 12 platforms and 97% on Pump.fun. ZeruAI pitches 'Activity Markets' as an alternative.",
-   "updated": "30 Oct, 09:51 (Berlin)",
-   "url": "https://x.com/i/trending/2115473675747287460"
-  },
-  {
-   "topic": "Market and holders",
-   "headline": "Trader Frank closes $12.3M of shorts amid a memecoin cooldown",
-   "coins": "BTC, ZEC, NEAR, PUMP",
-   "detail": "The summary says memecoin market cap is about $30B, versus $150B at the late-2024 peak, and most tokens are down 90% or more from highs.",
-   "updated": "30 Oct, 22:46 (Berlin)",
-   "url": "https://x.com/i/trending/2116283600807354755"
-  },
-  {
-   "topic": "Market and holders",
-   "headline": "SPX6900 holders keep buying; token around $340M",
-   "coins": "SPX6900",
-   "detail": "Launched on Ethereum in Aug 2023. Price about $0.36, a $900K+ spot buy, and holders posting daily dollar-cost-averaging buys.",
-   "updated": "31 Oct, 01:55 (Berlin)",
-   "url": "https://x.com/i/trending/2116331796266889712"
-  },
-  {
-   "topic": "Market and holders",
-   "headline": "Murad: community memecoins will outlast utility tokens",
-   "coins": "SPX6900",
-   "detail": "Argues that culture and real-world meetups can't be automated by AI. Skeptics warn most memecoins fade.",
-   "updated": "30 Oct, 11:45 (Berlin)",
-   "url": "https://x.com/i/trending/2116117744966160790"
-  },
-  {
-   "topic": "Market and holders",
-   "headline": "Beepzfun launchpad draws attention on Robinhood Chain",
-   "coins": "beepz-20 inscriptions",
-   "detail": "Fixed-price listings via smart contracts; over 100 inscriptions launched so far, per the summary.",
-   "updated": "30 Oct, 13:13 (Berlin)",
-   "url": "https://x.com/i/trending/2116140159104123196"
-  }
- ],
- "hourly": [
-  {
-   "label": "10:00",
-   "value": 1132
-  },
-  {
-   "label": "",
-   "value": 1080
-  },
-  {
-   "label": "",
-   "value": 758
-  },
-  {
-   "label": "",
-   "value": 669
-  },
-  {
-   "label": "",
-   "value": 767
-  },
-  {
-   "label": "15:00",
-   "value": 1015
-  },
-  {
-   "label": "",
-   "value": 1315
-  },
-  {
-   "label": "",
-   "value": 1064
-  },
-  {
-   "label": "",
-   "value": 874
-  },
-  {
-   "label": "",
-   "value": 856
-  },
-  {
-   "label": "20:00",
-   "value": 1081
-  },
-  {
-   "label": "",
-   "value": 910
-  },
-  {
-   "label": "",
-   "value": 832
-  },
-  {
-   "label": "",
-   "value": 763
-  },
-  {
-   "label": "",
-   "value": 634
-  },
-  {
-   "label": "01:00",
-   "value": 847
-  },
-  {
-   "label": "",
-   "value": 788
-  },
-  {
-   "label": "",
-   "value": 674
-  },
-  {
-   "label": "",
-   "value": 454
-  },
-  {
-   "label": "",
-   "value": 396
-  },
-  {
-   "label": "06:00",
-   "value": 546
-  },
-  {
-   "label": "",
-   "value": 583
-  },
-  {
-   "label": "08:00",
-   "value": 709
-  }
- ]
+  "lastUpdated": "Saturday 31 Oct 2026, 10:00 Berlin time (UTC+1)",
+  "newestPostId": "2116455267793826039",
+  "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
+  "launches": [
+    {
+      "coin": "SAFU Fund / Funds Are Safu (dozens of copycats)",
+      "chain": "BSC",
+      "chainNote": "BSC (also Solana, Robinhood chain, Arc)",
+      "buzz": "Binance-hack joke coins. X news says a SAFU memecoin launched right after the hack; a signal bot logged the 11th SAFU-themed launch of the day. DexScreener's biggest pair: about $947K market cap, $6.4M 24h volume, +2,133% over 24h but -24% over 1h.",
+      "engagement": "Signal-bot post: 1,309 impressions, 1 like. Poster @bitecong, 38.4K followers.",
+      "flags": "Many copycat tokens with tiny liquidity. Bot says the deployer created 75 tokens. The 'Funds Are Safu' pair was -75% in 24h.",
+      "url": "https://x.com/bitecong/status/2116354750715433084",
+      "followers": 38421
+    },
+    {
+      "coin": "$NOT SAFU (Funds are not SAFU)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun)",
+      "buzz": "Launched about 02:05 UTC; sat at a $37.5K market cap a minute after launch. Posts claim the Binance hacker deployed it.",
+      "engagement": "Signal-bot post: 876 impressions, 0 likes.",
+      "flags": "The 'hacker deployed it' proof is disputed as a staged transfer by @Chobazo. Several promo accounts have 5 or fewer followers.",
+      "url": "https://x.com/bitecong/status/2116351307531604192",
+      "followers": 38421
+    },
+    {
+      "coin": "Hack Neko ($HN)",
+      "chain": "BSC",
+      "chainNote": "BSC (four.meme)",
+      "buzz": "Fifth hack-themed launch on BSC today, per a signal bot. Sat well along the bonding curve 15 minutes after launch.",
+      "engagement": "Signal-bot post: 738 impressions, 1 like.",
+      "flags": "Bot notes three wallets bought within seconds of launch (possible sniping). Influencer-style repost accounts with 4 followers.",
+      "url": "https://x.com/bitecong/status/2116438643829354752",
+      "followers": 38421
+    },
+    {
+      "coin": "$LUCIA (Halloween / Vice City theme)",
+      "chain": "Other",
+      "chainNote": "Not stated",
+      "buzz": "Highest-reach new-coin promo found: a Halloween and Vice City themed meme project.",
+      "engagement": "28,890 impressions, 23 likes, 4 reposts, 5 replies. @ElaraVayneX, 53.3K followers.",
+      "flags": "Promo post; the coin was not independently verified.",
+      "url": "https://x.com/ElaraVayneX/status/2116432893241344159",
+      "followers": 53271
+    },
+    {
+      "coin": "$FĀFĀ (发发)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, PumpSwap)",
+      "buzz": "Graduated to PumpSwap 42 minutes after launch, per a signal bot. In the last hour many 'call' accounts posted '2x / 5x from my call' on the same contract.",
+      "engagement": "Signal-bot post: 429 impressions, 0 likes. Caller posts mostly 0-43 impressions.",
+      "flags": "Paid-call pattern: caller accounts advertise private Telegram or VIP groups and quote the same contract. Bot says the liquidity pool was only minutes old.",
+      "url": "https://x.com/bitecong/status/2116450288861352188",
+      "followers": 38421
+    },
+    {
+      "coin": "$JEFF",
+      "chain": "Solana",
+      "chainNote": "Solana (pump-suffix contract)",
+      "buzz": "On Dexvra's 'top gainers' list for Oct 31 (#2). The creator says he launched it and posts about the 'honesty paradox' in memecoins.",
+      "engagement": "97 impressions, 5 likes, 2 reposts, 5 replies. @Jeff_Funnyguy, 441 followers.",
+      "flags": "Creator account was created 2 Oct 2026. Self-promotion by the launcher.",
+      "url": "https://x.com/Jeff_Funnyguy/status/2116445871046803863",
+      "followers": 441
+    },
+    {
+      "coin": "$DACITY and other GTA6-themed coins (GTA6, GATO)",
+      "chain": "Other",
+      "chainNote": "Not stated",
+      "buzz": "GTA VI launches Nov 19. A promo claims $DACITY has an $8.47M market cap and $702K 24h volume. CryptoBubbles' post lists GTA6 at +5,814% in 24h.",
+      "engagement": "$DACITY post: 81 impressions, 4 likes, 1 repost. @gta6dacity, 135 followers.",
+      "flags": "Market cap and gain figures come from promo accounts and are unverified. The CryptoBubbles account has 2 followers. Other posts call a coin 'the only safe GTA6 meme coin', a shill-style claim.",
+      "url": "https://x.com/gta6dacity/status/2116424940685603303",
+      "followers": 135
+    },
+    {
+      "coin": "$ONECOIN",
+      "chain": "Other",
+      "chainNote": "EVM address; chain not stated",
+      "buzz": "Posted as the 'first meme coin launched on $pangea'.",
+      "engagement": "41 impressions, 1 like. @Doumacrypto, 10.0K followers.",
+      "flags": "Low engagement for the follower count. A promotional contract-address post.",
+      "url": "https://x.com/Doumacrypto/status/2116450894548246677",
+      "followers": 9983
+    },
+    {
+      "coin": "Dexvra top gainers: DESSA, JEFF, LAUNCH, GLITCH, CBUCKS, WORM",
+      "chain": "Other",
+      "chainNote": "Not stated",
+      "buzz": "Daily gainers list from a Telegram-bot account for Oct 31.",
+      "engagement": "1,821 impressions, 7 likes, 5 reposts. @dexvraio, 41.8K followers.",
+      "flags": "The account sells token listings on its own bot, so the list is promotional. No prices or chains were given.",
+      "url": "https://x.com/dexvraio/status/2116427044443844977",
+      "followers": 41800
+    },
+    {
+      "coin": "Baby Whale (pre-launch)",
+      "chain": "Solana",
+      "chainNote": "Solana (hashtag only)",
+      "buzz": "Teaser says it launches 6 Nov 2026 at 18:00 UTC.",
+      "engagement": "32 impressions, 2 likes. @Bwhalememecoin, 25 followers.",
+      "flags": "Account created 29 Oct 2026 with 25 followers. Looks like a shill.",
+      "url": "https://x.com/Bwhalememecoin/status/2116443264639262965",
+      "followers": 25
+    },
+    {
+      "coin": "KEEP70 (Base launchpad)",
+      "chain": "Base",
+      "chainNote": "Base",
+      "buzz": "A launchpad that gives creators 70% of trading fees. It says it launches 2 Nov and is recruiting its first 10 creators.",
+      "engagement": "15 impressions, 2 likes. @buildingkeep70, 3 followers.",
+      "flags": "Brand-new account with 3 followers. A launchpad rather than a coin.",
+      "url": "https://x.com/buildingkeep70/status/2116433686346526946",
+      "followers": 3
+    },
+    {
+      "coin": "$CHUD (Chuddy the teddy bear)",
+      "chain": "Solana",
+      "chainNote": "Solana",
+      "buzz": "X news says a stoic teddy-bear meme tied to a token launched in late September, at a $260K market cap, with a plush drop being discussed.",
+      "engagement": "Engagement not given: this is an X news summary, not a single post.",
+      "flags": "Figures come from an auto-generated news summary; X notes it can make mistakes.",
+      "url": "https://x.com/i/trending/2116336872569872698",
+      "followers": null
+    },
+    {
+      "coin": "$BNB LZRS (Lazarus joke coin)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun)",
+      "buzz": "Joke coin riding the Binance hack and the Lazarus Group attribution.",
+      "engagement": "9 impressions, 0 likes. @Mnkycrypto, 2 followers.",
+      "flags": "Account named 'Binance was stolen' with 2 followers, created Jan 2026. Pure hype.",
+      "url": "https://x.com/Mnkycrypto/status/2116271389795832209",
+      "followers": 2
+    }
+  ],
+  "news": [
+    {
+      "topic": "Binance hack",
+      "headline": "Binance reveals record $6.3B hot-wallet theft",
+      "coins": "BTC, ETH, TRX, USDT and meme spin-offs",
+      "detail": "Attributed to North Korea's TraderTraitor group. About $3B frozen; Binance says it will cover losses from its Secure Asset Fund. Bitcoin dipped toward $76K. This is the backdrop for the SAFU and Lazarus joke coins.",
+      "updated": "31 Oct, 09:18 (Berlin)",
+      "url": "https://x.com/i/trending/2116443129406455930"
+    },
+    {
+      "topic": "Binance hack",
+      "headline": "Users joke about pointing the hackers at Pump.fun",
+      "coins": "Pump.fun, LAZARUS tokens",
+      "detail": "Memes and satire after the hack, including 'Lazarus-WSOL' markets and a 1 billion LAZARUS token mint. X's summary says most treat it as satire.",
+      "updated": "30 Oct, 12:30 (Berlin)",
+      "url": "https://x.com/i/trending/2116072548190548276"
+    },
+    {
+      "topic": "Pump.fun",
+      "headline": "Pump.fun callout rewards, Creator Program and $100K competition",
+      "coins": "PUMP, pump.fun launches",
+      "detail": "Callout rewards pay daily USDC; one trader showed a $32,000 day. A Creator Program and a $100,000 competition start Nov 2. Critics question the payout and funding.",
+      "updated": "31 Oct, 06:47 (Berlin)",
+      "url": "https://x.com/i/trending/2116252950716723365"
+    },
+    {
+      "topic": "Pump.fun",
+      "headline": "Analysis: dev wallets buy early on 21% of 8.2M Pump.fun launches",
+      "coins": "Pump.fun launches",
+      "detail": "Dev-linked wallets bought in the first block, taking a median 10% of supply. Trader losses average 88.5% across 12 platforms and 97% on Pump.fun. ZeruAI pitches 'Activity Markets' as an alternative.",
+      "updated": "30 Oct, 09:51 (Berlin)",
+      "url": "https://x.com/i/trending/2115473675747287460"
+    },
+    {
+      "topic": "Market and holders",
+      "headline": "Trader Frank closes $12.3M of shorts amid a memecoin cooldown",
+      "coins": "BTC, ZEC, NEAR, PUMP",
+      "detail": "The summary says memecoin market cap is about $30B, versus $150B at the late-2024 peak, and most tokens are down 90% or more from highs.",
+      "updated": "30 Oct, 22:46 (Berlin)",
+      "url": "https://x.com/i/trending/2116283600807354755"
+    },
+    {
+      "topic": "Market and holders",
+      "headline": "SPX6900 holders keep buying; token around $340M",
+      "coins": "SPX6900",
+      "detail": "Launched on Ethereum in Aug 2023. Price about $0.36, a $900K+ spot buy, and holders posting daily dollar-cost-averaging buys.",
+      "updated": "31 Oct, 01:55 (Berlin)",
+      "url": "https://x.com/i/trending/2116331796266889712"
+    },
+    {
+      "topic": "Market and holders",
+      "headline": "Murad: community memecoins will outlast utility tokens",
+      "coins": "SPX6900",
+      "detail": "Argues that culture and real-world meetups can't be automated by AI. Skeptics warn most memecoins fade.",
+      "updated": "30 Oct, 11:45 (Berlin)",
+      "url": "https://x.com/i/trending/2116117744966160790"
+    },
+    {
+      "topic": "Market and holders",
+      "headline": "Beepzfun launchpad draws attention on Robinhood Chain",
+      "coins": "beepz-20 inscriptions",
+      "detail": "Fixed-price listings via smart contracts; over 100 inscriptions launched so far, per the summary.",
+      "updated": "30 Oct, 13:13 (Berlin)",
+      "url": "https://x.com/i/trending/2116140159104123196"
+    }
+  ],
+  "hourly": [
+    {
+      "label": "10:00",
+      "value": 1132
+    },
+    {
+      "label": "",
+      "value": 1080
+    },
+    {
+      "label": "",
+      "value": 758
+    },
+    {
+      "label": "",
+      "value": 669
+    },
+    {
+      "label": "",
+      "value": 767
+    },
+    {
+      "label": "15:00",
+      "value": 1015
+    },
+    {
+      "label": "",
+      "value": 1315
+    },
+    {
+      "label": "",
+      "value": 1064
+    },
+    {
+      "label": "",
+      "value": 874
+    },
+    {
+      "label": "",
+      "value": 856
+    },
+    {
+      "label": "20:00",
+      "value": 1081
+    },
+    {
+      "label": "",
+      "value": 910
+    },
+    {
+      "label": "",
+      "value": 832
+    },
+    {
+      "label": "",
+      "value": 763
+    },
+    {
+      "label": "",
+      "value": 634
+    },
+    {
+      "label": "01:00",
+      "value": 847
+    },
+    {
+      "label": "",
+      "value": 788
+    },
+    {
+      "label": "",
+      "value": 674
+    },
+    {
+      "label": "",
+      "value": 454
+    },
+    {
+      "label": "",
+      "value": 396
+    },
+    {
+      "label": "06:00",
+      "value": 546
+    },
+    {
+      "label": "",
+      "value": 583
+    },
+    {
+      "label": "08:00",
+      "value": 709
+    }
+  ]
 }
