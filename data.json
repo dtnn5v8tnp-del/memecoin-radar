@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 23:09 Berlin time (UTC+1)",
-  "newestPostId": "2116653606342664381",
+  "lastUpdated": "Saturday 31 Oct 2026, 23:14 Berlin time (UTC+1)",
+  "newestPostId": "2116654905611927965",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Unnamed (announced)",
+      "chain": "Solana",
+      "chainNote": "Solana (per the post; no CA yet)",
+      "buzz": "@WangMarkets (15,032 followers) said they are launching a memecoin on Solana, with a 12-hour sign-up form and a bonus airdrop for anyone who reposts and drops their SOL address.",
+      "engagement": "3 likes, 3 reposts, 230 impressions at scan time.",
+      "flags": "Pre-launch with no contract address; asks people to post wallet addresses for an airdrop. Treat as very high risk.",
+      "url": "https://x.com/WangMarkets/status/2116653661841744341",
+      "followers": 15032
+    },
     {
       "coin": "$Beamish",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes; 247 impressions at scan time.",
       "flags": "Signal account itself highlights bundler activity, a common red flag. Very high risk.",
       "url": "https://x.com/bitecong/status/2116583958540665182",
-      "followers": 38434
-    },
-    {
-      "coin": "$PUMPKIN",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun, graduated to PumpSwap (CA dNViuFd68mMktfDHnJFFFeYUKo6mZSsxzXhBN31pump as posted)",
-      "buzz": "AI signal account @bitecong (38,434 followers) flagged a pumpkin-themed Halloween coin under an hour old that graduated from pump.fun to PumpSwap; call account @cerrocoso (2,383 followers) claimed a move from $7K to $44K market cap.",
-      "engagement": "0 likes; 136 and 52 impressions at scan time.",
-      "flags": "Signal bot itself says there is no story beyond the name; the market-cap figures are poster claims, not verified. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116582439787364609",
       "followers": 38434
     }
   ],
