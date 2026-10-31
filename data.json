@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:42 Berlin time (UTC+1)",
-  "newestPostId": "2116556333256155642",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:48 Berlin time (UTC+1)",
+  "newestPostId": "2116557756560019902",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Exploit",
+      "headline": "Wallet described as the 'Binance exploiter' launched another token, this time named DPRK",
+      "coins": "DPRK",
+      "detail": "Posted by @0xrooter (24,348 followers): 'binance exploiter just launched another token, this time DPRK'. No contract address in the post text; 116 impressions and 0 likes at scan time. Claim not verified.",
+      "updated": "31 Oct, 16:47 (Berlin)",
+      "url": "https://x.com/0xrooter/status/2116557624737137146"
+    },
+    {
+      "topic": "Pump.fun",
+      "headline": "Traders question a sudden surge of fake volume on coins migrating from Pump.fun",
+      "coins": "OVER, ACTD",
+      "detail": "X News story: Jack Duval posted that every coin migrating from Pump.fun in the last hour showed fake volume, naming OVER and ACTD as examples. Critics flag wash trading; some defend the activity as genuine community pushes.",
+      "updated": "31 Oct, 15:39 (Berlin)",
+      "url": "https://x.com/i/trending/2116538622786896145"
+    },
+    {
       "topic": "$SI",
       "headline": "$SI on Solana flagged as up 284% in 24h at about $154.8K market cap, per an automated alert",
       "coins": "SI",
@@ -528,22 +544,6 @@
       "detail": "Dev-linked wallets bought in the first block, taking a median 10% of supply. Trader losses average 88.5% across 12 platforms and 97% on Pump.fun. ZeruAI pitches 'Activity Markets' as an alternative.",
       "updated": "30 Oct, 09:51 (Berlin)",
       "url": "https://x.com/i/trending/2115473675747287460"
-    },
-    {
-      "topic": "Market and holders",
-      "headline": "Trader Frank closes $12.3M of shorts amid a memecoin cooldown",
-      "coins": "BTC, ZEC, NEAR, PUMP",
-      "detail": "The summary says memecoin market cap is about $30B, versus $150B at the late-2024 peak, and most tokens are down 90% or more from highs.",
-      "updated": "30 Oct, 22:46 (Berlin)",
-      "url": "https://x.com/i/trending/2116283600807354755"
-    },
-    {
-      "topic": "Market and holders",
-      "headline": "SPX6900 holders keep buying; token around $340M",
-      "coins": "SPX6900",
-      "detail": "Launched on Ethereum in Aug 2023. Price about $0.36, a $900K+ spot buy, and holders posting daily dollar-cost-averaging buys.",
-      "updated": "31 Oct, 01:55 (Berlin)",
-      "url": "https://x.com/i/trending/2116331796266889712"
     }
   ],
   "hourly": [
