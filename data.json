@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 16:22 Berlin time (UTC+1)",
-  "newestPostId": "2116551192834724170",
+  "lastUpdated": "Saturday 31 Oct 2026, 16:25 Berlin time (UTC+1)",
+  "newestPostId": "2116552077140754593",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$billy",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump as posted by @bitecong",
+      "buzz": "Automated 'AI Signal' account @bitecong (38,434 followers) flagged it as a pump.fun token minutes old and most of the way to graduation on the bonding curve, with no clear theme beyond the name.",
+      "engagement": "333 impressions, 0 likes.",
+      "flags": "Bot-generated signal; no clear theme. Treat as high risk. Not verified.",
+      "url": "https://x.com/bitecong/status/2116551601657938358",
+      "followers": 38434
+    },
     {
       "coin": "$GTAVI",
       "chain": "Robinhood (per post)",
@@ -292,19 +302,17 @@
       "flags": "Promo post; the coin was not independently verified.",
       "url": "https://x.com/ElaraVayneX/status/2116432893241344159",
       "followers": 53271
-    },
-    {
-      "coin": "$FĀFĀ (发发)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun, PumpSwap)",
-      "buzz": "Graduated to PumpSwap 42 minutes after launch, per a signal bot. In the last hour many 'call' accounts posted '2x / 5x from my call' on the same contract.",
-      "engagement": "Signal-bot post: 429 impressions, 0 likes. Caller posts mostly 0-43 impressions.",
-      "flags": "Paid-call pattern: caller accounts advertise private Telegram or VIP groups and quote the same contract. Bot says the liquidity pool was only minutes old.",
-      "url": "https://x.com/bitecong/status/2116450288861352188",
-      "followers": 38421
     }
   ],
   "news": [
+    {
+      "topic": "Dogecoin",
+      "headline": "Elon Musk marks 14 years since his first tweet about Dogecoin, per a 'JUST IN' post",
+      "coins": "DOGE",
+      "detail": "Posted by small alert account @popmemecoin (688 followers). Very low engagement (8 impressions); not independently verified.",
+      "updated": "31 Oct, 16:25 (Berlin)",
+      "url": "https://x.com/popmemecoin/status/2116551785242583227"
+    },
     {
       "topic": "Binance hack",
       "headline": "Binance co-CEO Yi He posts a four-minute video on the $6.3B exploit; about $3B of stolen funds frozen by industry partners",
@@ -536,14 +544,6 @@
       "detail": "Argues that culture and real-world meetups can't be automated by AI. Skeptics warn most memecoins fade.",
       "updated": "30 Oct, 11:45 (Berlin)",
       "url": "https://x.com/i/trending/2116117744966160790"
-    },
-    {
-      "topic": "Market and holders",
-      "headline": "Beepzfun launchpad draws attention on Robinhood Chain",
-      "coins": "beepz-20 inscriptions",
-      "detail": "Fixed-price listings via smart contracts; over 100 inscriptions launched so far, per the summary.",
-      "updated": "30 Oct, 13:13 (Berlin)",
-      "url": "https://x.com/i/trending/2116140159104123196"
     }
   ],
   "hourly": [
