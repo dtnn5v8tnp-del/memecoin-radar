@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 12:06 Berlin time (UTC+1)",
-  "newestPostId": "2116486741783888269",
+  "lastUpdated": "Saturday 31 Oct 2026, 12:12 Berlin time (UTC+1)",
+  "newestPostId": "2116488044639400163",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
       "coin": "$VAMPCAT (Vamp Cat)",
       "chain": "Solana",
       "chainNote": "Solana (pump.fun, graduated to PumpSwap)",
-      "buzz": "Halloween vampire-cat coin. A signal bot says it was under half an hour old and had already graduated from pump.fun to PumpSwap. Call accounts claim 4.5x to 16x gains (one says $15K to $68K market cap).",
-      "engagement": "Signal-bot post: 400 impressions, 0 likes. Poster @bitecong, 38.4K followers.",
-      "flags": "Very new, low engagement; most mentions come from paid-group 'call' accounts.",
+      "buzz": "Halloween vampire-cat coin. A signal bot said it graduated from pump.fun to PumpSwap within half an hour. By about 12:10 Berlin time, a wave of paid-group 'call' accounts were claiming 5x to 51x gains from their entries.",
+      "engagement": "Most-seen recent call post: 192 impressions, 1 like (@DegenFlow_, 6.4K followers). Original signal-bot post by @bitecong (38.4K followers) had 400 impressions.",
+      "flags": "Very new. Almost all mentions are copy-paste 'call' accounts advertising VIP Telegram groups, which is a common shill pattern.",
       "url": "https://x.com/bitecong/status/2116482344580456633",
       "followers": 38425
     },
