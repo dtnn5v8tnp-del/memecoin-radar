@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 19:11 Berlin time (UTC+1)",
-  "newestPostId": "2116593777607668020",
+  "lastUpdated": "Saturday 31 Oct 2026, 19:17 Berlin time (UTC+1)",
+  "newestPostId": "2116595277192978584",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$TIGRINO (Tigrino)",
+      "chain": "Solana",
+      "chainNote": "Solana (link in post)",
+      "buzz": "@CryptoAndrew_1 (75,044 followers) promoted $TIGRINO, a memecoin built on news of Tigrino, described as the only known living member of Leopardus tilcayo, a newly discovered cat species at a Bolivian sanctuary. The post says 100% of creator fees are locked on-chain.",
+      "engagement": "0 likes, 43 impressions at scan time.",
+      "flags": "Promotional post from a large account with no engagement yet; fee-lock claim not verified; fresh viral-animal meme.",
+      "url": "https://x.com/CryptoAndrew_1/status/2116594402219176376",
+      "followers": 75044
+    },
+    {
+      "coin": "$Puffen (The paper trader)",
+      "chain": "Solana",
+      "chainNote": "Solana (Pump.fun, graduated to PumpSwap)",
+      "buzz": "@bitecong (38,436 followers) posted an AI signal saying Puffen, a paper-trader-themed token, graduated from Pump.fun to PumpSwap eight minutes and fifty-nine seconds after launch; @AutorunAlert also flagged it as a new token.",
+      "engagement": "0 likes; 163 impressions at scan time.",
+      "flags": "Automated alert accounts only, no organic buzz; very early.",
+      "url": "https://x.com/bitecong/status/2116595277192978584",
+      "followers": 38436
+    },
     {
       "coin": "$GIMMIGHOUL (Gimmighoul)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Bot-generated alert promoting a signals service; GTA 6 hype ticker. Tiny market cap; treat as high risk. Not verified.",
       "url": "https://x.com/popmemecoin/status/2116550655888212072",
       "followers": 688
-    },
-    {
-      "coin": "$SI (suicidal intelligence)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA 6R5xpJJe9X3yJ6dKEm5cVaMfFz8ef7VYvXPDnwbWpump as posted by @bitecong",
-      "buzz": "Automated 'AI Signal' account @bitecong (38,432 followers) flagged it as a pump.fun launch about a minute old, framed as 'stable AI infrastructure'.",
-      "engagement": "319 impressions, 0 likes.",
-      "flags": "The same post says the dev wallet has already sold out entirely. Bot-generated signal; treat as high risk. Not verified.",
-      "url": "https://x.com/bitecong/status/2116548489551433746",
-      "followers": 38432
-    },
-    {
-      "coin": "$iCoin",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump as posted by @Massivepumpmast",
-      "buzz": "Caller @Massivepumpmast (2,415 followers) posted it twice in a minute, claiming it was shared at $9.0K market cap and later reached $417K.",
-      "engagement": "201 and 115 impressions, 1 like each.",
-      "flags": "Paid-TG 'call' account; the market-cap move is the caller's own claim. Not verified.",
-      "url": "https://x.com/Massivepumpmast/status/2116548005369090378",
-      "followers": 2415
     }
   ],
   "news": [
