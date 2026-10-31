@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 17:45 Berlin time (UTC+1)",
-  "newestPostId": "2116572285733892491",
+  "lastUpdated": "Saturday 31 Oct 2026, 17:48 Berlin time (UTC+1)",
+  "newestPostId": "2116572873145962723",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$MAX (Max)",
+      "chain": "Solana",
+      "chainNote": "Solana (CA 2pSQXSwa1FMgAHjZc1oJByQhp8JFJDfqzoRGjPjwpump as posted)",
+      "buzz": "Signal account @solhousesignals (3,013 followers) posted '2x' with MC $14.2K, liquidity $9.2K, 24h volume $317.4K and 3,187 buys / 3,154 sells; @cerrocoso (2,383 followers) claimed a $10K to $64K market-cap move.",
+      "engagement": "At most 1 like and 75 impressions at scan time.",
+      "flags": "Tiny liquidity versus volume and near-equal buy/sell counts suggest bot-driven trading. Figures are the posters' claims, not verified. Very high risk.",
+      "url": "https://x.com/solhousesignals/status/2116572425206841521",
+      "followers": 3013
+    },
     {
       "coin": "$HALLOCAT",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "The signal says the deployer has already sold out and holds nothing. Minutes old; automated signal account. Not verified.",
       "url": "https://x.com/bitecong/status/2116515879827706087",
       "followers": 38429
-    },
-    {
-      "coin": "$PUMPE",
-      "chain": "Solana",
-      "chainNote": "Solana (address FYJnGwFNieXHoUNRpAPfzbjwJcWPk1wGmzyosjuupump)",
-      "buzz": "A Halloween-themed Pepe coin flagged by @bitecong's AI signal; it launched on pump.fun about three minutes before the signal and was still on the bonding curve.",
-      "engagement": "336 impressions, 0 likes.",
-      "flags": "The signal itself says one post ties it to Coinbase but nothing backs that up. Minutes old; automated signal account. Not verified.",
-      "url": "https://x.com/bitecong/status/2116510394722418808",
-      "followers": 38428
     }
   ],
   "news": [
