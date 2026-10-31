@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 15:35 Berlin time (UTC+1)",
-  "newestPostId": "2116539528265822710",
+  "lastUpdated": "Saturday 31 Oct 2026, 15:43 Berlin time (UTC+1)",
+  "newestPostId": "2116541294310785174",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$billy",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun), CA GL7LbqwtKE6rxzzoJk5D9eD1Morp5kvESQen1ANfpump as posted",
+      "buzz": "@bitecong (38,431 followers) posted an automated 'AI Signal' calling it a fresh pump.fun launch still on the bonding curve.",
+      "engagement": "312 impressions, no likes or reposts.",
+      "flags": "Automated signal account; still on bonding curve, not graduated. Not verified.",
+      "url": "https://x.com/bitecong/status/2116541080648995280",
+      "followers": 38431
+    },
     {
       "coin": "PUMPE (Pepe in Halloween clothes)",
       "chain": "Base",
@@ -292,19 +302,25 @@
       "flags": "Account created 29 Oct 2026 with 25 followers. Looks like a shill.",
       "url": "https://x.com/Bwhalememecoin/status/2116443264639262965",
       "followers": 25
-    },
-    {
-      "coin": "KEEP70 (Base launchpad)",
-      "chain": "Base",
-      "chainNote": "Base",
-      "buzz": "A launchpad that gives creators 70% of trading fees. It says it launches 2 Nov and is recruiting its first 10 creators.",
-      "engagement": "15 impressions, 2 likes. @buildingkeep70, 3 followers.",
-      "flags": "Brand-new account with 3 followers. A launchpad rather than a coin.",
-      "url": "https://x.com/buildingkeep70/status/2116433686346526946",
-      "followers": 3
     }
   ],
   "news": [
+    {
+      "topic": "Exploit",
+      "headline": "DNS hijacks hit Flap, StonkFun, Kintsu and other DeFi and launchpad sites on Halloween",
+      "coins": "No specific token named",
+      "detail": "X news summary: visitors were redirected to wallet-draining pages; Blockaid warned users, teams took sites offline or moved domains (e.g. flap.cool). No on-chain activity reported affected. Don't connect wallets to these sites until confirmed safe.",
+      "updated": "31 Oct, 15:23 (Berlin)",
+      "url": "https://x.com/i/trending/2116359578120274100"
+    },
+    {
+      "topic": "Pump",
+      "headline": "$LEVERHEDGE on Solana claimed at $1.6M market cap, about 36x from a $44K call",
+      "coins": "$LEVERHEDGE (CA FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump)",
+      "detail": "@EarlyChad_ (5,596 followers) posted the claim twice within a minute. 66 to 67 impressions, 1 like each; caller posts, figures not verified.",
+      "updated": "31 Oct, 15:41 (Berlin)",
+      "url": "https://x.com/EarlyChad_/status/2116540993054924945"
+    },
     {
       "topic": "Pump",
       "headline": "$MONEKO on Solana claimed at $204K market cap, about 6.8x from a $30K call",
