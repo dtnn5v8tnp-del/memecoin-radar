@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 22:48 Berlin time (UTC+1)",
-  "newestPostId": "2116648381418512564",
+  "lastUpdated": "Saturday 31 Oct 2026, 22:58 Berlin time (UTC+1)",
+  "newestPostId": "2116650841608278440",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$NNN",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "Two call accounts, @cerrocoso (2,387 followers) and @WeHave1DFacts (1,629 followers), posted near-identical claims that $NNN ran from $8.6K to $133K market cap, about 15.5x from their entry.",
+      "engagement": "3 likes and 71 impressions on the top post at scan time; 0 likes on the other.",
+      "flags": "Copy-paste promo from call accounts with almost no organic engagement; numbers are self-reported; very high risk.",
+      "url": "https://x.com/cerrocoso/status/2116650220327252215",
+      "followers": 2387
+    },
     {
       "coin": "$svmLLM",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Copy-paste posts from Telegram 'alpha' call accounts look like coordinated shilling; several different contracts share the $DAVID name. Figures are the posters' claims, not verified. Very high risk.",
       "url": "https://x.com/ReptoldSol1/status/2116578635083558973",
       "followers": 1009
-    },
-    {
-      "coin": "HALLOWEENIE",
-      "chain": "Solana",
-      "chainNote": "Solana (address 683a9KvDJZvhkXb9Q6nT12MEb2rksmxXkpukHMjAuJqL as posted)",
-      "buzz": "Scanner account @SolanaMemesScan (4,257 followers) flagged a Halloween-themed token with a paid DexScreener push, 0 smart-wallet activity, 26 bundler clusters and 9 fresh wallets.",
-      "engagement": "0 likes and 58 impressions at scan time.",
-      "flags": "Scanner's own data points to heavy bundling and paid promotion with no smart money. Claims from an automated account, not verified. Very high risk.",
-      "url": "https://x.com/SolanaMemesScan/status/2116578776737870188",
-      "followers": 4257
     }
   ],
   "news": [
