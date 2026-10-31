@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 10:52 Berlin time (UTC+1)",
-  "newestPostId": "2116468142775873788",
+  "lastUpdated": "Saturday 31 Oct 2026, 10:58 Berlin time (UTC+1)",
+  "newestPostId": "2116469679652778370",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -135,6 +135,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Binance hack",
+      "headline": "BTC-ECHO: Elon Musk trolls Changpeng Zhao over the Binance hack",
+      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
+      "detail": "Headline-only post from German crypto outlet @btcecho (48K followers); the post gives no further detail. Very early, low engagement so far.",
+      "updated": "31 Oct, 10:57 (Berlin)",
+      "url": "https://x.com/btcecho/status/2116469609276613040"
+    },
     {
       "topic": "Binance hack",
       "headline": "CZ: the $6.3B Binance incident is the largest crypto hack by dollar value, though not in BTC terms versus Mt. Gox",
