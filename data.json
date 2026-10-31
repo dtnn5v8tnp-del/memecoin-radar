@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 14:19 Berlin time (UTC+1)",
-  "newestPostId": "2116520232668012903",
+  "lastUpdated": "Saturday 31 Oct 2026, 14:24 Berlin time (UTC+1)",
+  "newestPostId": "2116521582575100033",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -235,6 +235,14 @@
     }
   ],
   "news": [
+    {
+      "topic": "Viral",
+      "headline": "@0xMrPinky shares a story of a dev who threatened a goldfish if his memecoin didn't hit $1M market cap",
+      "coins": "Not named in the post",
+      "detail": "@0xMrPinky (158K followers) says the coin pumped and the dev made over $200,000. 2.1K impressions, 17 likes so far; not verified.",
+      "updated": "31 Oct, 14:24 (Berlin)",
+      "url": "https://x.com/0xMrPinky/status/2116520595164676490"
+    },
     {
       "topic": "Market and holders",
       "headline": "@stitchdegen recaps a Robinhood-named token launched Oct 29, calling it one of the hottest on crypto Twitter",
