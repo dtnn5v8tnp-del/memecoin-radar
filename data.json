@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 31 Oct 2026, 19:27 Berlin time (UTC+1)",
-  "newestPostId": "2116597878126743632",
+  "lastUpdated": "Saturday 31 Oct 2026, 19:31 Berlin time (UTC+1)",
+  "newestPostId": "2116598755525099554",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$Satoshi (Satoshi Nakamoto)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun CA in post)",
+      "buzz": "@bitecong (38,436 followers) posted an automated AI signal saying this is the third Satoshi-themed launch today and it graduated from pump.fun to PumpSwap about 7 minutes after launch. It says 203 wallets were tagged as bundlers at signal time and only four remain.",
+      "engagement": "0 likes, 248 impressions at scan time.",
+      "flags": "Bot-style signal account; heavy bundling flagged by the poster; brand-new pair, very high risk.",
+      "url": "https://x.com/bitecong/status/2116598551279202771",
+      "followers": 38436
+    },
     {
       "coin": "$DUTCH (DUTCH LAUNCH)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Upcoming, unverified claim from a small account (456 followers). Watch for fake contract addresses.",
       "url": "https://x.com/kastrosan/status/2116553734625095939",
       "followers": 456
-    },
-    {
-      "coin": "$billy",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun), CA DUTxGHL2LmpfjQaoK6LdZp8WQPoDiwvtDHVDf4fMpump as posted by @bitecong",
-      "buzz": "Automated 'AI Signal' account @bitecong (38,434 followers) flagged it as a pump.fun token minutes old and most of the way to graduation on the bonding curve, with no clear theme beyond the name.",
-      "engagement": "333 impressions, 0 likes.",
-      "flags": "Bot-generated signal; no clear theme. Treat as high risk. Not verified. A different $billy token (CA GL7L...pump) was flagged earlier, so this may be a copycat ticker.",
-      "url": "https://x.com/bitecong/status/2116551601657938358",
-      "followers": 38434
     }
   ],
   "news": [
