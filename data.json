@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 14:27 Berlin time (UTC+1)",
-  "newestPostId": "2116884724945957164",
+  "lastUpdated": "Sunday 1 Nov 2026, 14:29 Berlin time (UTC+1)",
+  "newestPostId": "2116885270566183319",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "DONK ($DONK)",
+      "chain": "Solana",
+      "chainNote": "No contract address in the post; it points buyers to an external link or Phantom.",
+      "buzz": "Project account @kadonkadonkmeme announced at 14:27 Berlin that $DONK is live, in a multi-language launch post.",
+      "engagement": "39 impressions, 0 likes, 1 reply at scan time.",
+      "flags": "Self-promotion from a 753-follower project account with no organic engagement yet. Very early, high risk.",
+      "url": "https://x.com/kadonkadonkmeme/status/2116884857649324067",
+      "followers": 753
+    },
     {
       "coin": "CHILL MECH ($CHILLMECH)",
       "chain": "Robinhood Chain",
@@ -292,16 +302,6 @@
       "flags": "Unverified claim from a tiny account; no confirmation from Solana. Very high risk.",
       "url": "https://x.com/Apedwithghost/status/2116770909025616014",
       "followers": 67
-    },
-    {
-      "coin": "Rudolph / Rudy coin (no ticker stated)",
-      "chain": "Solana",
-      "chainNote": "pump.fun contract (ends in 'pump')",
-      "buzz": "@onchainscar (16,930 followers) floated a Rudolph/Rudy memecoin as a 'Christmas runner', tied to a Christmas horror-comedy film whose subplot has a futures trader talked into buying a Rudolph memecoin. Contract posted: 635MGwH377EQyGGwNuEEB7VAC1mGyAbXec6BTQRxpump.",
-      "engagement": "0 likes, 19 impressions at scan time.",
-      "flags": "Single speculative post, no traction yet; ticker not stated. High risk.",
-      "url": "https://x.com/onchainscar/status/2116765861910282400",
-      "followers": 16930
     }
   ],
   "news": [
