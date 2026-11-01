@@ -4,16 +4,6 @@
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
-      "coin": "$BLUE",
-      "chain": "Solana",
-      "chainNote": "pump.fun",
-      "buzz": "Call accounts @CipherEdgeCalls and @Charlie_SOL23 claim $BLUE ran from roughly $7.7K–$10K to about $344K–$357K market cap. CA: CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
-      "engagement": "0 likes, 0 reposts, 16–32 impressions per post at scan time.",
-      "flags": "Promoted only by repeat 'call' accounts pitching VIP Telegram groups; looks like a shill farm. Extremely high risk.",
-      "url": "https://x.com/CipherEdgeCalls/status/2116762238275006860",
-      "followers": 4077
-    },
-    {
       "coin": "$OTC",
       "chain": "Solana",
       "chainNote": "pump.fun",
