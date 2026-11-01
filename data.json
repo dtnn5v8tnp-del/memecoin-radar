@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 15:45 Berlin time (UTC+1)",
-  "newestPostId": "2116904224214946192",
+  "lastUpdated": "Sunday 1 Nov 2026, 15:52 Berlin time (UTC+1)",
+  "newestPostId": "2116906205989966284",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Numbat ($Numbat)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address nSp46rtPzZoHCqe87fLGNzXsXeyEdQVUE7g6oeJZCxQ (pump.fun).",
+      "buzz": "Signal account @bitecong (38,463 followers) posted at 15:51 Berlin that this coin was almost at pump.fun graduation three minutes after launch, with a large bundle of wallets in the first buy.",
+      "engagement": "394 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Bundled first buy per the post (a common sign of insider supply); only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2116905929916764546",
+      "followers": 38463
+    },
+    {
+      "coin": "$SA",
+      "chain": "Solana",
+      "chainNote": "Posts give contract address DgkKGYiJZMCah6iphatZeqCGJ5S51ND7qxQZQdP5pump (pump.fun).",
+      "buzz": "Several call accounts posted between 15:48 and 15:50 Berlin claiming $SA ran from roughly $6K-19K to about $583K-629K market cap (claims of 30x to 105x), including @DegenFlow_ (6,473 followers) and @CipherEdgeCalls (4,095 followers).",
+      "engagement": "About 200 impressions and 1 like per post at scan time.",
+      "flags": "Only paid-group 'call' accounts so far, with conflicting numbers; unverified. Treat as shill activity, high risk.",
+      "url": "https://x.com/DegenFlow_/status/2116905395973214244",
+      "followers": 6473
+    },
     {
       "coin": "Maxxmas ($Maxxmas)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Automated signal post riding the Binance hack news cycle. High risk.",
       "url": "https://x.com/bitecong/status/2116799127615053895",
       "followers": 38441
-    },
-    {
-      "coin": "$glorp",
-      "chain": "Solana",
-      "chainNote": "CA 6328FBEXHDbCKyHGvHrw8dVu7h1d9HUboSMB5DjEpump",
-      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a pump.fun launch about five minutes old, already 81% of the way along the bonding curve, with no clear theme.",
-      "engagement": "Low: 0 likes, 363 impressions at scan time.",
-      "flags": "Automated signal post; the account also noted something unusual about the top holders. High risk.",
-      "url": "https://x.com/bitecong/status/2116796805249892819",
-      "followers": 38441
-    },
-    {
-      "coin": "$BALLS",
-      "chain": "Solana",
-      "chainNote": "CA HhBuvegE7Ew2stS5svkMcxL8povkaL8brwt9JUtfpump",
-      "buzz": "Call account @Kaan_Capitug0 (878 followers) posted it at $27.2K market cap, then claimed $756K (27.79x) minutes later, quoting its own call.",
-      "engagement": "Very low: 0 likes, under 10 impressions at scan time.",
-      "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
-      "url": "https://x.com/Kaan_Capitug0/status/2116795689480901100",
-      "followers": 878
     }
   ],
   "news": [
