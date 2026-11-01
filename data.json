@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 06:37 Berlin time (UTC+1)",
-  "newestPostId": "2116766574967226508",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:41 Berlin time (UTC+1)",
+  "newestPostId": "2116767365706739762",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Market",
+      "headline": "Pump.fun reality check: 97% of traders are in loss",
+      "coins": "Pump.fun memecoins (Solana)",
+      "detail": "@Blockcastcc (55,548 followers) posted a headline saying 97% of Pump.fun traders are in loss. 0 likes, 99 impressions at scan time.",
+      "updated": "1 Nov, 06:41 (Berlin)",
+      "url": "https://x.com/Blockcastcc/status/2116767283272167763"
+    },
+    {
       "topic": "Security",
       "headline": "OneKey founder warns older iPhones have unpatchable chip flaws that put stored seed phrases at risk",
       "coins": "General crypto (wallet security, not a memecoin)",
@@ -536,14 +544,6 @@
       "detail": "@megapumpio (44 followers, account days old) pinned what it says is its real CA (EU5xmKyzvPmMvUEnYeYvrpcACiTfaAXFzSGraxyypump) and says an impostor token was rugged. 90 impressions, 7 likes. Not verified.",
       "updated": "31 Oct, 16:06 (Berlin)",
       "url": "https://x.com/megapumpio/status/2116546724659638436"
-    },
-    {
-      "topic": "Pump",
-      "headline": "Fourtis listing bot says Dessa is up 1400% since listing on Fourtis",
-      "coins": "Dessa",
-      "detail": "@fourtislisting (67,273 followers) automated alert: first market cap $1.9M, last $29.8M. 337 impressions, no likes. Automated listing-alert account; figures not verified.",
-      "updated": "31 Oct, 15:55 (Berlin)",
-      "url": "https://x.com/fourtislisting/status/2116544340742865238"
     }
   ],
   "hourly": [
