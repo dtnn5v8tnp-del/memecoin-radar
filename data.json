@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 15:42 Berlin time (UTC+1)",
-  "newestPostId": "2116903526391525584",
+  "lastUpdated": "Sunday 1 Nov 2026, 15:45 Berlin time (UTC+1)",
+  "newestPostId": "2116904224214946192",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -307,6 +307,14 @@
   "news": [
     {
       "topic": "Exchanges / DOGE",
+      "headline": "Binance withdrawals: 8 of the 10 \"100% backed\" coins can now leave the exchange",
+      "coins": "DOGE, ZEC, TON, SUI",
+      "detail": "@MTLabResearch (747 followers) posted that ZEC, TON (incl. USDT) and SUI withdrawals are newly open, joining BTC, ETH, BNB, XRP, Base and DOGE already open. Small account, very low engagement (1 impression); unconfirmed by Binance in this sweep.",
+      "updated": "1 Nov, 15:45 (Berlin)",
+      "url": "https://x.com/MTLabResearch/status/2116903685985091590"
+    },
+    {
+      "topic": "Exchanges / DOGE",
       "headline": "DOGE missing from Binance's \"100% backed\" list after the hack, while withdrawals keep reopening",
       "coins": "DOGE, WIF, BONK",
       "detail": "@ArchibaldBollz (712 followers) noted Dogecoin is not on Binance's list of fully backed coins and that Binance says about 95% of the hack is covered. Separately @greasydaryle (543 followers) posted that withdrawals are reopening after the $6.3B hack and that WIF was up 1.9% with BONK flat. Small accounts, low engagement (4 and 13 impressions).",
@@ -536,14 +544,6 @@
       "detail": "@Blockcastcc (55,548 followers) posted a headline saying 97% of Pump.fun traders are in loss. 0 likes, 99 impressions at scan time.",
       "updated": "1 Nov, 06:41 (Berlin)",
       "url": "https://x.com/Blockcastcc/status/2116767283272167763"
-    },
-    {
-      "topic": "Security",
-      "headline": "OneKey founder warns older iPhones have unpatchable chip flaws that put stored seed phrases at risk",
-      "coins": "General crypto (wallet security, not a memecoin)",
-      "detail": "@WuBlockchain (559,030 followers) reports OneKey founder Yishi warned that factory-resetting an older iPhone and using it offline in airplane mode to store seed phrases may still be unsafe. 3 likes, 4,790 impressions at scan time.",
-      "updated": "1 Nov, 06:29 (Berlin)",
-      "url": "https://x.com/WuBlockchain/status/2116764451538104370"
     }
   ],
   "hourly": [
