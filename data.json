@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:48 Berlin time (UTC+1)",
-  "newestPostId": "2116844632319397956",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:52 Berlin time (UTC+1)",
+  "newestPostId": "2116845676990488657",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "dog wif vibes ($vibedog)",
+      "chain": "Solana",
+      "chainNote": "CA FzTxvp2UkrjCmx2dNM8wDMkBPjTcxTE8RYUyX9rhpump",
+      "buzz": "Automated signal account @bitecong (38,448 followers) flags this pump.fun dog coin as a few minutes old and 81% of the way to bonding-curve graduation at its latest check.",
+      "engagement": "0 likes, about 300 impressions at scan time.",
+      "flags": "Automated signal post; very new token; theme is just the name.",
+      "url": "https://x.com/bitecong/status/2116845148017750465",
+      "followers": 38448
+    },
     {
       "coin": "Dacity Coin ($DACITY)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Paid or automated listing post; price and market cap are the poster's figures, not verified. Very high risk.",
       "url": "https://x.com/fourtislisting/status/2116732359982661667",
       "followers": 67269
-    },
-    {
-      "coin": "$KICK (kickback - launch your ETFs)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA F2xAwqV7oA4GT3S1FSUcjNFDN8ENWY9B4mo3CdqRpump per the post)",
-      "buzz": "@bitecong (38,436 followers, an automated 'AI Signal' account) says the token reached 87% of the pump.fun bonding curve about twelve minutes after launch and flags an unusual buyer list.",
-      "engagement": "0 likes, 0 reposts, 317 impressions at scan time.",
-      "flags": "Very fresh launch flagged by a bot-style signal account; figures are the poster's claims and engagement is minimal. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116729074949529845",
-      "followers": 38436
     }
   ],
   "news": [
+    {
+      "topic": "Exploit / hacker funds",
+      "headline": "About 485k stolen SOL (~$46M) leaves the Binance hacker's Solana wallet, reportedly being swapped into BTC",
+      "coins": "SOL (Binance hack fallout)",
+      "detail": "@williamclay (4,857 followers) says roughly 485k-487k stolen SOL, about $46M, left the Binance hacker's Solana wallet this morning, flagged by Whale Alert and Lookonchain, and that Lookonchain says it's being swapped into BTC via Relay out of a 970k SOL stash. Low engagement at scan time; secondhand report.",
+      "updated": "1 Nov, 11:52 (Berlin)",
+      "url": "https://x.com/williamclay/status/2116845031537737855"
+    },
     {
       "topic": "Rug / dev wallet",
       "headline": "$MIKA dev reportedly leaked the dev wallet's private key, then a KOL-backed relaunch reportedly rugged too",
@@ -536,14 +544,6 @@
       "detail": "Per the post, only about 1k of 60 to 90k daily app traders have used perps so far. 28 likes, about 2,200 impressions at scan time; @bubblesonchain (22,641 followers) quoted it. Claims not independently verified.",
       "updated": "31 Oct, 20:06 (Berlin)",
       "url": "https://x.com/i/status/2116607718719209905"
-    },
-    {
-      "topic": "Whale trade",
-      "headline": "Small account claims the Binance hacker dumped 7.77 trillion $PEPE (about $32M) while an early whale bought 45B PEPE",
-      "coins": "$PEPE",
-      "detail": "@Aiworldtrack (70 followers) posted the claim; no on-chain link was given and it is not independently verified. 0 likes, 8 impressions at scan time.",
-      "updated": "31 Oct, 20:40 (Berlin)",
-      "url": "https://x.com/Aiworldtrack/status/2116616299266900171"
     }
   ],
   "hourly": [
