@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:52 Berlin time (UTC+1)",
-  "newestPostId": "2116845676990488657",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:55 Berlin time (UTC+1)",
+  "newestPostId": "2116846477918027832",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "MarvinCoin ($MARVIN)",
+      "chain": "Solana",
+      "chainNote": "CA 6StLoZfceCvxoBcrkxNeUcMr5pQqgvRWpFbakgaspump",
+      "buzz": "Automated signal account @bitecong (38,448 followers) says this is the second Marvin-themed pump.fun launch on Solana today and was already most of the way along the bonding curve when its tracker found it.",
+      "engagement": "0 likes, about 290 impressions at scan time.",
+      "flags": "Automated signal post; very new token; copycat theme.",
+      "url": "https://x.com/bitecong/status/2116846196350431554",
+      "followers": 38448
+    },
     {
       "coin": "dog wif vibes ($vibedog)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Coordinated paid-promo pattern (identical copy across many accounts). Treat as a shill campaign.",
       "url": "https://x.com/CryptoBullsCom/status/2116734310850199751",
       "followers": 142484
-    },
-    {
-      "coin": "BLOB (#BLOB)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA 8s11PkgQt4ZzdZ7oo84hK5t9HG1EvdgAjcg4W7Lpump per the post)",
-      "buzz": "@fourtislisting (67,269 followers, an automated 'Express Listing' account for the Fourtis platform) listed BLOB at a price of $0.00112 and a market cap of about $1.11M.",
-      "engagement": "5 likes, 2 reposts, 2,553 impressions at scan time.",
-      "flags": "Paid or automated listing post; price and market cap are the poster's figures, not verified. Very high risk.",
-      "url": "https://x.com/fourtislisting/status/2116732359982661667",
-      "followers": 67269
     }
   ],
   "news": [
