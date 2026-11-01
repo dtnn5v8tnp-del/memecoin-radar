@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 02:38 Berlin time (UTC+1)",
-  "newestPostId": "2116705873800134660",
+  "lastUpdated": "Sunday 1 Nov 2026, 02:46 Berlin time (UTC+1)",
+  "newestPostId": "2116707910860316678",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$NUT (NutCoin)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, graduated to PumpSwap; CA 5U7cD5cXVMVFFhYVRhcm1Ruerg6RzVnUQkGcraZepump per the post)",
+      "buzz": "@bitecong (38,435 followers) posted an AI signal saying NutCoin launched on pump.fun minutes earlier and graduated to PumpSwap just after their signal, with no clear theme beyond the name.",
+      "engagement": "0 likes, 0 reposts, 301 impressions at scan time.",
+      "flags": "Posted by a signal/ad account. Brand-new token with no clear narrative. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116707455254269986",
+      "followers": 38435
+    },
     {
       "coin": "$BONKO (The Pudgy Bear)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
       "url": "https://x.com/bitecong/status/2116609978111045650",
       "followers": 38435
-    },
-    {
-      "coin": "$TRACER",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@sol_t01 (9,127 followers) claimed $TRACER ran 142.94x from $1.7K to $243K market cap; several other small caller accounts pushed the same contract address within minutes.",
-      "engagement": "1 like, 22 impressions at scan time.",
-      "flags": "Coordinated paid-call style promotion with VIP/Telegram pitches; claims unverified, very high risk.",
-      "url": "https://x.com/sol_t01/status/2116608277635362937",
-      "followers": 9127
     }
   ],
   "news": [
