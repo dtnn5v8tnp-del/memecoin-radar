@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 06:33 Berlin time (UTC+1)",
-  "newestPostId": "2116765279774560573",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:37 Berlin time (UTC+1)",
+  "newestPostId": "2116766574967226508",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Rudolph / Rudy coin (no ticker stated)",
+      "chain": "Solana",
+      "chainNote": "pump.fun contract (ends in 'pump')",
+      "buzz": "@onchainscar (16,930 followers) floated a Rudolph/Rudy memecoin as a 'Christmas runner', tied to a Christmas horror-comedy film whose subplot has a futures trader talked into buying a Rudolph memecoin. Contract posted: 635MGwH377EQyGGwNuEEB7VAC1mGyAbXec6BTQRxpump.",
+      "engagement": "0 likes, 19 impressions at scan time.",
+      "flags": "Single speculative post, no traction yet; ticker not stated. High risk.",
+      "url": "https://x.com/onchainscar/status/2116765861910282400",
+      "followers": 16930
+    },
     {
       "coin": "$paws",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "No stated purpose per the poster itself; posted by a signal/ad account. Very high risk.",
       "url": "https://x.com/bitecong/status/2116684626165121463",
       "followers": 38432
-    },
-    {
-      "coin": "Unnamed (announced)",
-      "chain": "Solana",
-      "chainNote": "Solana (per the post; no CA yet)",
-      "buzz": "@WangMarkets (15,032 followers) said they are launching a memecoin on Solana, with a 12-hour sign-up form and a bonus airdrop for anyone who reposts and drops their SOL address.",
-      "engagement": "3 likes, 3 reposts, 230 impressions at scan time.",
-      "flags": "Pre-launch with no contract address; asks people to post wallet addresses for an airdrop. Treat as very high risk.",
-      "url": "https://x.com/WangMarkets/status/2116653661841744341",
-      "followers": 15032
     }
   ],
   "news": [
