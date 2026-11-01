@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 02:02 Berlin time (UTC+1)",
-  "newestPostId": "2116697119427850557",
+  "lastUpdated": "Sunday 1 Nov 2026, 02:07 Berlin time (UTC+1)",
+  "newestPostId": "2116698393317663115",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$PUTIN (Vladimir Putin Coin, third Putin-themed launch today)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, graduated to PumpSwap; CA 9ivsveqwXzsCXYba3SDDzaocx27DbfYpLuZPb9Bdpump per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal saying this is the third Putin-themed Solana launch today; it graduated from pump.fun to PumpSwap after about 1h34m, and the early crowd thinned out fast.",
+      "engagement": "0 likes, 0 reposts, 244 impressions at scan time.",
+      "flags": "Copycat name of earlier Putin launches. Posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116698101759320138",
+      "followers": 38433
+    },
     {
       "coin": "$PUTIN (Vladimir Putin Coin)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes, 248 impressions at scan time.",
       "flags": "Bot-style signal account; heavy bundling flagged by the poster; brand-new pair, very high risk.",
       "url": "https://x.com/bitecong/status/2116598551279202771",
-      "followers": 38436
-    },
-    {
-      "coin": "$DUTCH (DUTCH LAUNCH)",
-      "chain": "Solana",
-      "chainNote": "Solana (CA in post)",
-      "buzz": "@bitecong (38,436 followers) posted an automated AI signal for $DUTCH, saying its pair was about five minutes old and it's the second \"launch\"-themed token on Solana today. The post flags 71 bundler wallets on the holder side.",
-      "engagement": "0 likes, 274 impressions at scan time.",
-      "flags": "Bot-style signal account; bundled holders flagged by the poster itself; brand-new pair, very high risk.",
-      "url": "https://x.com/bitecong/status/2116597383568232800",
       "followers": 38436
     }
   ],
