@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 04:31 Berlin time (UTC+1)",
-  "newestPostId": "2116734719131881852",
+  "lastUpdated": "Sunday 1 Nov 2026, 04:36 Berlin time (UTC+1)",
+  "newestPostId": "2116735845478597060",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "tipr ($tipr)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (CA 3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump per the post)",
+      "buzz": "@bitecong (38,437 followers, an automated 'AI Signal' account) flags tipr as a pump.fun launch roughly twenty minutes old and 88% of the way along its bonding curve, with no clear theme in its name, description or links.",
+      "engagement": "1 like, 0 reposts, 343 impressions at scan time.",
+      "flags": "Automated signal account; no stated theme or team. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116735338786009199",
+      "followers": 38437
+    },
     {
       "coin": "Floki ($Floki)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal post with no organic engagement; political meme theme; very early and very high risk.",
       "url": "https://x.com/bitecong/status/2116641328931148137",
       "followers": 38433
-    },
-    {
-      "coin": "Unnamed (CA BhF2…Cpump)",
-      "chain": "Solana",
-      "chainNote": "Solana (Pump.fun launch, CA in post)",
-      "buzz": "@_rise (19,932 followers) said their own memecoin is live on Pump.fun, promising to airdrop 60% of supply to the top 15 holders at bonding and add a $7,000 buy in 15 minutes.",
-      "engagement": "1 like, 239 impressions at scan time.",
-      "flags": "Creator-promoted launch with promised dev buy and airdrop; ticker not named in post; very early and very high risk.",
-      "url": "https://x.com/_rise/status/2116633626842726443",
-      "followers": 19932
     }
   ],
   "news": [
