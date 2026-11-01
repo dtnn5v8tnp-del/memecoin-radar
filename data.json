@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 13:22 Berlin time (UTC+1)",
-  "newestPostId": "2116868290110763449",
+  "lastUpdated": "Sunday 1 Nov 2026, 13:27 Berlin time (UTC+1)",
+  "newestPostId": "2116869550025109564",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Security / DeFi exploit",
+      "headline": "Post claims 12 DeFi websites were hijacked over the weekend, hitting users on the real protocol URLs",
+      "coins": "DeFi front-ends (protocols not named in the post)",
+      "detail": "@IamJaybhee (1,075 followers) says 12 DeFi sites were hijacked this weekend and that some victims were on the protocols' genuine websites rather than phishing links. The post doesn't name the protocols; unverified, and very early (about 12 impressions at scan time). Worth double-checking any dapp URL before signing.",
+      "updated": "1 Nov, 13:27 (Berlin)",
+      "url": "https://x.com/IamJaybhee/status/2116869206226383266"
+    },
+    {
       "topic": "Scam warning",
       "headline": "Copy-paste \"Binance announced $1 TRUMP listing, presale ends in 24 hours\" posts circulating",
       "coins": "TRUMP (impersonation/presale shill)",
@@ -536,14 +544,6 @@
       "detail": "@HoodWhisp4663 (290 followers) says one wallet (0xB90c…A65A, per Blockscout) has run the same loop 1,206 times since 4 Sept: send 30.1 ETH to a new wallet, launch a token with about 30 ETH liquidity, remove liquidity about 45 to 55 minutes later, and return about 37 to 39 ETH. Low engagement so far (5 impressions); unverified claim.",
       "updated": "1 Nov, 01:31 (Berlin)",
       "url": "https://x.com/HoodWhisp4663/status/2116689188792005014"
-    },
-    {
-      "topic": "Rug",
-      "headline": "X News: Crypto investors demand doxxed founders amid rug pull fears",
-      "coins": "New token launches (memecoins broadly)",
-      "detail": "Per the X News story, investors are swearing off projects without fully doxxed founders, citing data from 8.2 million token launches showing developers often grab early supply and exit fast, pocketing $579 million in profits, with 65% starting sales in the first minute.",
-      "updated": "1 Nov, 00:06 (Berlin)",
-      "url": "https://x.com/i/trending/2116666826285556006"
     }
   ],
   "hourly": [
