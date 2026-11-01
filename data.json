@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 14:56 Berlin time (UTC+1)",
-  "newestPostId": "2116892113623277941",
+  "lastUpdated": "Sunday 1 Nov 2026, 15:01 Berlin time (UTC+1)",
+  "newestPostId": "2116893297604243512",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "GTA 1s ($GTA1s)",
+      "chain": "Solana",
+      "chainNote": "Posts give contract address JCPAaUXNnHjFWFG69HcdVh4QNWS1Ec5B1DYwZgsqpump (pump.fun suffix).",
+      "buzz": "Signal account @bitecong (38,459 followers) posted at 14:57 Berlin that this Grand Theft Auto-named coin sat at 90% of the pump.fun bonding curve about a minute and a half into trading; caller @ReptoldSol1 also flagged it as a 'high gamble'.",
+      "engagement": "457 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Uses the GTA name with no sign of any official link; only automated signal and caller posts so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2116892306423046425",
+      "followers": 38459
+    },
     {
       "coin": "AGENTIC BINANCE ($AGENTIC)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Promotion comes almost entirely from repeated paid-group 'call' accounts; gains are self-reported and unverified. High risk.",
       "url": "https://x.com/bitecong/status/2116789256693989757",
       "followers": 38441
-    },
-    {
-      "coin": "$STONK (teaser, no contract yet)",
-      "chain": "Unknown",
-      "chainNote": "No contract posted",
-      "buzz": "Two memecoin devs, @PR0H0S (100,587 followers, bio: '$www (8M) dev') and @sled_o (82,603 followers, bio: '$pistacio dev ($19M)'), posted the identical text 'Launching a memecoin. This would flip $STONK and push it into the billions. Who's in?' one second apart.",
-      "engagement": "About 2 likes and 1 reply each, roughly 700 impressions each at scan time.",
-      "flags": "Identical copy-paste posts suggest coordinated marketing; no ticker or contract given. Low engagement so far. High risk.",
-      "url": "https://x.com/PR0H0S/status/2116779775683604813",
-      "followers": 100587
     }
   ],
   "news": [
+    {
+      "topic": "Exploit / b14g",
+      "headline": "CORE token hits an all-time low after the $1.47 million b14g exploit on a Bitcoin staking protocol",
+      "coins": "CORE",
+      "detail": "Headline shared by news account @hokanewscom (27,346 followers) with an article link. Not a memecoin, but relevant to market risk. 361 impressions, no likes at scan time.",
+      "updated": "1 Nov, 14:59 (Berlin)",
+      "url": "https://x.com/hokanewscom/status/2116892925326242051"
+    },
     {
       "topic": "Exploit / b14g",
       "headline": "b14g exploit sized at about $1.47 million: zero-token withdrawals let attacker drain 97 million CORE",
@@ -536,14 +544,6 @@
       "detail": "@coinbureau (1.13M followers) reports Binance will reopen withdrawals progressively as each asset and network completes security checks, with temporary delays expected. Follows the $6.3B hack attributed to North Korea's TraderTraitor group. 11 likes, about 1,400 impressions at scan time.",
       "updated": "1 Nov, 05:34 (Berlin)",
       "url": "https://x.com/coinbureau/status/2116750588730077231"
-    },
-    {
-      "topic": "Rug claim",
-      "headline": "Holder says Pumpkin Pepe $PUMPE turned out to be a slow rug",
-      "coins": "$PUMPE",
-      "detail": "@DanielLikesArt (1,110 followers) apologises to anyone who followed them into $PUMPE, calling it a slow rug after the team didn't keep up its pumpkin-Pepe meme through October. Single holder's claim with minimal engagement (1 like); not independently confirmed.",
-      "updated": "1 Nov, 05:26 (Berlin)",
-      "url": "https://x.com/DanielLikesArt/status/2116748724064190705"
     }
   ],
   "hourly": [
