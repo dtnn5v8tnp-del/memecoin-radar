@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 06:17 Berlin time (UTC+1)",
-  "newestPostId": "2116761445090083319",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:21 Berlin time (UTC+1)",
+  "newestPostId": "2116762303588942009",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$BLUE",
+      "chain": "Solana",
+      "chainNote": "pump.fun",
+      "buzz": "Call accounts @CipherEdgeCalls and @Charlie_SOL23 claim $BLUE ran from roughly $7.7K–$10K to about $344K–$357K market cap. CA: CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump",
+      "engagement": "0 likes, 0 reposts, 16–32 impressions per post at scan time.",
+      "flags": "Promoted only by repeat 'call' accounts pitching VIP Telegram groups; looks like a shill farm. Extremely high risk.",
+      "url": "https://x.com/CipherEdgeCalls/status/2116762238275006860",
+      "followers": 4077
+    },
     {
       "coin": "$OTC",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Pre-launch with no contract address; asks people to post wallet addresses for an airdrop. Treat as very high risk.",
       "url": "https://x.com/WangMarkets/status/2116653661841744341",
       "followers": 15032
-    },
-    {
-      "coin": "$Beamish",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@bitecong (38,431 followers) AI signal account flagged Justice for Beamish ($Beamish), which per the post is the fourth justice-themed launch on Solana today and was a few minutes old and climbing when flagged.",
-      "engagement": "0 likes, 317 impressions at scan time.",
-      "flags": "Automated signal post with no organic engagement; very high risk.",
-      "url": "https://x.com/bitecong/status/2116653177387037024",
-      "followers": 38431
     }
   ],
   "news": [
