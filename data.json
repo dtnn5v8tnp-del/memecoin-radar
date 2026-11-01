@@ -1,643 +1,643 @@
 {
- "lastUpdated": "Sunday 1 Nov 2026, 14:17 Berlin time (UTC+1)",
- "newestPostId": "2116882293159543179",
- "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
- "launches": [
-  {
-   "coin": "INKKY ($INKKY)",
-   "chain": "Solana (pump.fun)",
-   "chainNote": "CA Jy8kKwumNBdg3VtpvkzKh22kLQSw57Zr8sfdSSjpump (from the posts)",
-   "buzz": "Call account @CipherEdgeCalls flagged $INKKY at $9.5K market cap at 14:14 Berlin, then posted escalating updates within about a minute claiming it touched $1.0M and then $10.5M market cap (1,105x).",
-   "engagement": "38 to 72 impressions and 0 to 1 likes per post at scan time.",
-   "flags": "Single call account with rapid-fire self-updates; the jump from $1M to $10.5M in under a minute is implausible and unverified. Likely shill. High risk.",
-   "url": "https://x.com/CipherEdgeCalls/status/2116881546926072039",
-   "followers": 4085
-  },
-  {
-   "coin": "Regretamine ($REGRET / $REGRETAMINE / 后悔药)",
-   "chain": "Solana (pump.fun to PumpSwap) and BSC (Flap)",
-   "chainNote": "Several copycat CAs, e.g. SOL 5ZxTxQ488EZaynYZUkqqBt4y3H7w5f3KxiTNNZey7tWG and BSC 0x60897d4ea31934ec6a3f6421d0025f5032c87777 (from the posts)",
-   "buzz": "Fresh meme theme spawning coins: signal bot @bitecong flagged at least three Regretamine launches on Solana and a fourth on BSC today. @solhousesignals reports one $REGRET at $66.5K market cap with $20.3K liquidity and $114.4K 24h volume.",
-   "engagement": "Signal posts have about 360 to 405 impressions and 0 to 1 likes each at scan time.",
-   "flags": "Multiple same-name tokens across chains; easy to buy the wrong one. Bot and signal-account coverage only so far. High risk.",
-   "url": "https://x.com/bitecong/status/2116876032271929767",
-   "followers": 38454
-  },
-  {
-   "coin": "ORIGO",
-   "chain": "Robinhood Chain",
-   "chainNote": "No CA in the post",
-   "buzz": "@HoodWhisp4663 says this new Robinhood Chain memecoin did $2.4M volume in about 2 hours from a brand-new pool, up 2,047% since launch but down 22% in the last hour, with $187K liquidity.",
-   "engagement": "0 likes, 2 impressions at scan time.",
-   "flags": "Small account, figures unverified. Big volume on thin liquidity. High risk.",
-   "url": "https://x.com/HoodWhisp4663/status/2116876158310732157",
-   "followers": 290
-  },
-  {
-   "coin": "$SPACEX",
-   "chain": "Solana (pump.fun)",
-   "chainNote": "CA BqmJMm8Z4WitJ4HgNfdC69jRXuiGAHcdomPWCYB7pump (from the post)",
-   "buzz": "Call account @EarlyChad_ claims its $SPACEX call ran from $38K to $126K market cap (3.3x), minutes after similar claims for $CLAUDE and $FOMO.",
-   "engagement": "1 like, about 52 impressions at scan time.",
-   "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
-   "url": "https://x.com/EarlyChad_/status/2116874982651523334",
-   "followers": 5679
-  },
-  {
-   "coin": "$CLAUDE",
-   "chain": "Solana (pump.fun)",
-   "chainNote": "CA BAQQ91EUTdtmhU4yuB579Az2LCagckSSm2XBisdpump (from the posts)",
-   "buzz": "Call account @EarlyChad_ posted it at $39K market cap, then about a minute later claimed $103K (2.6x). The same account also claims a $FOMO call went from $39K to $148K.",
-   "engagement": "1 like each; about 45 to 84 impressions at scan time.",
-   "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
-   "url": "https://x.com/EarlyChad_/status/2116874094482448639",
-   "followers": 5679
-  },
-  {
-   "coin": "$P2P",
-   "chain": "Solana (pump.fun)",
-   "chainNote": "CA 8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump (from the posts)",
-   "buzz": "Flooded in the last few minutes by a ring of near-identical \"12x / 23x up on my call, TG eating massively\" posts from small call accounts (@_Shonsol, @degen_piilot, @solCallermike_ and others). Separately, @p2pventures (70 followers) says all offers on its P2P memecoin OTC listing were filled quickly.",
-   "engagement": "0 to 4 likes per post; the highest-impression post had about 107 impressions at scan time.",
-   "flags": "Coordinated shill-farm promotion with 'DM for entry' Telegram funnels; treat as high risk.",
-   "url": "https://x.com/_Shonsol/status/2116870678523548020",
-   "followers": 1892
-  },
-  {
-   "coin": "Solstars ($SOLSTARS)",
-   "chain": "Solana (pump.fun)",
-   "chainNote": "CA EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump (from the post)",
-   "buzz": "@bitecong (38,453 followers) flags Solstars as a pump.fun launch about 22 minutes old, still on the bonding curve, with no clear theme beyond a team account post and thin attention.",
-   "engagement": "0 likes, about 500 impressions at scan time.",
-   "flags": "Automated on-chain signal account; brand-new micro-cap still on the bonding curve.",
-   "url": "https://x.com/bitecong/status/2116869872479330490",
-   "followers": 38453
-  },
-  {
-   "coin": "Super-Agent (AI agent token)",
-   "chain": "BSC",
-   "chainNote": "CA 0xb832a8c02258059d57ac22d40a232b261ec97777 (from the post)",
-   "buzz": "@bitecong (38,453 followers) reports Super-Agent as the 14th agent-themed BSC launch today; it cleared its bonding curve on Flap and graduated to PancakeSwap 54 minutes after launch, with an unusual concentration in its top buyer list.",
-   "engagement": "0 likes, about 450 impressions at scan time.",
-   "flags": "Automated on-chain signal account; brand-new micro-cap; buyer concentration noted by the poster.",
-   "url": "https://x.com/bitecong/status/2116867511392325711",
-   "followers": 38453
-  },
-  {
-   "coin": "$DODO (Shih Tzu dog coin)",
-   "chain": "Solana",
-   "chainNote": "No contract address in the post",
-   "buzz": "@CryptoAndrew_1 (75,043 followers) promotes $DODO as a Shih Tzu-themed Solana memecoin with 1% locked for pet charity, claiming it crossed $50k market cap within days and is aiming for $100k.",
-   "engagement": "192 likes, about 5,150 impressions at scan time.",
-   "flags": "Promotional post from a large account (possibly paid); market cap and charity lock claims are unverified; very small cap.",
-   "url": "https://x.com/CryptoAndrew_1/status/2116865478945902682",
-   "followers": 75043
-  },
-  {
-   "coin": "Unnamed pump.fun token from @_rise",
-   "chain": "Solana",
-   "chainNote": "CA D8UWQfTvntVkQGUM4y367uzLtGYyUCcYucFqriz7pump",
-   "buzz": "@_rise (19,927 followers) says their own memecoin is live on Pump Fun, promises to airdrop 60% of supply to the top 15 holders at bonding and to add a $7,000 buy in 15 minutes.",
-   "engagement": "1 like, about 270 impressions at scan time.",
-   "flags": "Self-launched by the poster; promised dev buy and airdrop are unverified; brand-new token.",
-   "url": "https://x.com/_rise/status/2116847327021597003",
-   "followers": 19927
-  },
-  {
-   "coin": "MarvinCoin ($MARVIN)",
-   "chain": "Solana",
-   "chainNote": "CA 6StLoZfceCvxoBcrkxNeUcMr5pQqgvRWpFbakgaspump",
-   "buzz": "Automated signal account @bitecong (38,448 followers) says this is the second Marvin-themed pump.fun launch on Solana today and was already most of the way along the bonding curve when its tracker found it.",
-   "engagement": "0 likes, about 290 impressions at scan time.",
-   "flags": "Automated signal post; very new token; copycat theme.",
-   "url": "https://x.com/bitecong/status/2116846196350431554",
-   "followers": 38448
-  },
-  {
-   "coin": "dog wif vibes ($vibedog)",
-   "chain": "Solana",
-   "chainNote": "CA FzTxvp2UkrjCmx2dNM8wDMkBPjTcxTE8RYUyX9rhpump",
-   "buzz": "Automated signal account @bitecong (38,448 followers) flags this pump.fun dog coin as a few minutes old and 81% of the way to bonding-curve graduation at its latest check.",
-   "engagement": "0 likes, about 300 impressions at scan time.",
-   "flags": "Automated signal post; very new token; theme is just the name.",
-   "url": "https://x.com/bitecong/status/2116845148017750465",
-   "followers": 38448
-  },
-  {
-   "coin": "Dacity Coin ($DACITY)",
-   "chain": "Solana",
-   "chainNote": "No contract address in the post.",
-   "buzz": "@madapescall (77,549 followers) calls $DACITY a GTA-inspired meme, saying the GTA 6 launch trailer briefly mentioned a \"Dacity Coin\" and traders are speculating about its role in-game. Describes it as a higher-mcap play with the chart holding.",
-   "engagement": "6 likes, 2 reposts, about 1,200 impressions at scan time.",
-   "flags": "Call-account post; trailer link to the coin is the poster's claim and unverified.",
-   "url": "https://x.com/madapescall/status/2116843587677851703",
-   "followers": 77549
-  },
-  {
-   "coin": "Spermcoin ($Sperm)",
-   "chain": "Solana",
-   "chainNote": "CA 34AB35ETkYqSq4TkyC3b2eiYh6arXkhT3RdtnXaDCAUj",
-   "buzz": "Automated signal account @bitecong (38,447 followers) flags this pump.fun launch as minutes old and still on the bonding curve, with no clear theme beyond the name.",
-   "engagement": "None yet: 0 likes, 0 impressions at scan time.",
-   "flags": "Automated signal post; very new token; no clear theme.",
-   "url": "https://x.com/bitecong/status/2116842759462244429",
-   "followers": 38447
-  },
-  {
-   "coin": "Mighty White Yak (牦牛)",
-   "chain": "Solana",
-   "chainNote": "CA 6jUAqc62fsc1uA671K2WCEiScZmvm78o3rRsUModpump",
-   "buzz": "Automated signal account @bitecong (38,447 followers) says this pump.fun launch is about forty minutes old, themed on a white yak, and has already graduated to PumpSwap.",
-   "engagement": "Low: 0 likes, 384 impressions at scan time.",
-   "flags": "Automated signal post; very new token.",
-   "url": "https://x.com/bitecong/status/2116840918443798890",
-   "followers": 38447
-  },
-  {
-   "coin": "MINTED (Minted)",
-   "chain": "Solana",
-   "chainNote": "CA 9yEKBwczdqoox7Red6GGPTrJ2dUbMvFUagdjxFqHpump",
-   "buzz": "Automated signal account @bitecong (38,446 followers) says this fresh pump.fun token reached 84% of its bonding curve about a minute after launch. Separately, a brand-new account @mintedpad (3 followers) announced 'Minted', a tool to pair any Solana NFT with a memecoin; the link between the two is not confirmed.",
-   "engagement": "Low: 0 likes, 255 impressions at scan time.",
-   "flags": "Automated signal post; no stated theme; very new token.",
-   "url": "https://x.com/bitecong/status/2116840762998673502",
-   "followers": 38446
-  },
-  {
-   "coin": "MUSK (Elon Musk theme)",
-   "chain": "Solana",
-   "chainNote": "CA 7zh4rY6LA14MQcMU9euQhhzh4o9dufQeVNmVXjfpump",
-   "buzz": "Automated signal account @bitecong (38,445 followers) says this Elon-themed coin was 81% along the pump.fun bonding curve six minutes into trading, and that its deployer has launched 256 tokens.",
-   "engagement": "Low: 0 likes, 355 impressions at scan time.",
-   "flags": "Serial deployer (256 tokens per the post); celebrity-name coins are high risk. Automated signal post.",
-   "url": "https://x.com/bitecong/status/2116837456750465210",
-   "followers": 38445
-  },
-  {
-   "coin": "nut (No Nut November theme)",
-   "chain": "Solana",
-   "chainNote": "CA ERXoTjSZ58XdAdeinR4Mp9b3aQr375FvHdE9W5L2pump",
-   "buzz": "Automated signal account @bitecong (38,445 followers) says this No Nut November joke coin graduated from the pump.fun bonding curve to PumpSwap about 1 h 41 min after launch. A separate, unrelated-looking $NONUT account is also shilling a similar theme.",
-   "engagement": "Low: 0 likes, 396 impressions at scan time.",
-   "flags": "Automated signal post; seasonal joke-theme coins draw many copycats and are high risk.",
-   "url": "https://x.com/bitecong/status/2116832378635391135",
-   "followers": 38445
-  },
-  {
-   "coin": "The Dead Bull (ANSEM)",
-   "chain": "Solana",
-   "chainNote": "CA GS6DbJJeNzWJ4SHBrMxh9tGCQJjtACjeyk1E6Qrgpump",
-   "buzz": "Automated signal account @bitecong (38,444 followers) says this is the third ANSEM-themed launch on Solana today, moving from the pump.fun bonding curve to PumpSwap about a quarter hour after launch, and flags something odd in the top-holder list.",
-   "engagement": "Low: 0 likes, 340 impressions at scan time.",
-   "flags": "Automated signal post; copycat name-theme launches and unusual buyer lists are high risk.",
-   "url": "https://x.com/bitecong/status/2116826361126092984",
-   "followers": 38444
-  },
-  {
-   "coin": "LaowuCoin (老吴)",
-   "chain": "BSC",
-   "chainNote": "CA 0xdf8a2cccbff4a15616fc4ea6fd3574645d317777",
-   "buzz": "Automated signal account @bitecong (38,443 followers) flagged a cat-named meme coin launched on Flap a few minutes earlier, noting no clear theme and a buyer base dominated by fresh wallets.",
-   "engagement": "Low: 0 likes, 397 impressions at scan time.",
-   "flags": "Automated signal post; heavy fresh-wallet buying is a common wash or bundle pattern. High risk.",
-   "url": "https://x.com/bitecong/status/2116805308404437081",
-   "followers": 38443
-  },
-  {
-   "coin": "币安 (You Bin An)",
-   "chain": "BSC",
-   "chainNote": "CA 0x91158a7de56ea0279767c0b15756bf17f9ea7777",
-   "buzz": "Automated signal account @bitecong (38,441 followers) flagged a Binance-themed meme coin trading on Flap about twenty minutes after launch, 46% of the way to graduation.",
-   "engagement": "Low: 0 likes, 317 impressions at scan time.",
-   "flags": "Automated signal post riding the Binance hack news cycle. High risk.",
-   "url": "https://x.com/bitecong/status/2116799127615053895",
-   "followers": 38441
-  },
-  {
-   "coin": "$glorp",
-   "chain": "Solana",
-   "chainNote": "CA 6328FBEXHDbCKyHGvHrw8dVu7h1d9HUboSMB5DjEpump",
-   "buzz": "Automated signal account @bitecong (38,441 followers) flagged a pump.fun launch about five minutes old, already 81% of the way along the bonding curve, with no clear theme.",
-   "engagement": "Low: 0 likes, 363 impressions at scan time.",
-   "flags": "Automated signal post; the account also noted something unusual about the top holders. High risk.",
-   "url": "https://x.com/bitecong/status/2116796805249892819",
-   "followers": 38441
-  },
-  {
-   "coin": "$BALLS",
-   "chain": "Solana",
-   "chainNote": "CA HhBuvegE7Ew2stS5svkMcxL8povkaL8brwt9JUtfpump",
-   "buzz": "Call account @Kaan_Capitug0 (878 followers) posted it at $27.2K market cap, then claimed $756K (27.79x) minutes later, quoting its own call.",
-   "engagement": "Very low: 0 likes, under 10 impressions at scan time.",
-   "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
-   "url": "https://x.com/Kaan_Capitug0/status/2116795689480901100",
-   "followers": 878
-  },
-  {
-   "coin": "$BI (Believe InU)",
-   "chain": "BSC",
-   "chainNote": "CA 0x63d21fdbced4facd3f27e8ef3c9bf5ff4bf87777",
-   "buzz": "Automated signal account @bitecong (38,441 followers) flagged a fresh Flap launch about two minutes old, with four wallets buying $658 combined within 2 minutes.",
-   "engagement": "Low: 0 likes, 274 impressions at scan time.",
-   "flags": "Automated signal post; tiny buys, no clear theme. High risk.",
-   "url": "https://x.com/bitecong/status/2116795792015110541",
-   "followers": 38441
-  },
-  {
-   "coin": "$AAPLCAT",
-   "chain": "Solana",
-   "chainNote": "CA GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump",
-   "buzz": "Call account @JEREMYhboo (4,056 followers) claims it was called around $12K market cap and touched about $1.0M (83x), quoting its own call post from minutes earlier.",
-   "engagement": "Very low: 0 to 1 likes, about 12 to 14 impressions at scan time.",
-   "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
-   "url": "https://x.com/JEREMYhboo/status/2116794291263549866",
-   "followers": 4056
-  },
-  {
-   "coin": "$niketyson (Nike Tyson)",
-   "chain": "Solana",
-   "chainNote": "CA nikemwCaTqBamHqfRVqPzwtWsmuwdXb6To25xJ2znwT",
-   "buzz": "Signal account @bitecong (38,441 followers) says the Nike/Mike Tyson-themed coin graduated from pump.fun to PumpSwap about 30 minutes after launch. Call accounts @Sol_Gems00 (1,677 followers) and @erykdiamond (487 followers) claimed 4x to 7x moves, one citing $10K to $71K market cap.",
-   "engagement": "Very low: 0 to 1 likes per post, roughly 50 to 400 impressions at scan time.",
-   "flags": "Promotion comes almost entirely from repeated paid-group 'call' accounts; gains are self-reported and unverified. High risk.",
-   "url": "https://x.com/bitecong/status/2116789256693989757",
-   "followers": 38441
-  },
-  {
-   "coin": "$STONK (teaser, no contract yet)",
-   "chain": "Unknown",
-   "chainNote": "No contract posted",
-   "buzz": "Two memecoin devs, @PR0H0S (100,587 followers, bio: '$www (8M) dev') and @sled_o (82,603 followers, bio: '$pistacio dev ($19M)'), posted the identical text 'Launching a memecoin. This would flip $STONK and push it into the billions. Who's in?' one second apart.",
-   "engagement": "About 2 likes and 1 reply each, roughly 700 impressions each at scan time.",
-   "flags": "Identical copy-paste posts suggest coordinated marketing; no ticker or contract given. Low engagement so far. High risk.",
-   "url": "https://x.com/PR0H0S/status/2116779775683604813",
-   "followers": 100587
-  },
-  {
-   "coin": "$Solanaween",
-   "chain": "Solana",
-   "chainNote": "pump.fun contract (ends in 'pump')",
-   "buzz": "@Apedwithghost (67 followers) claims a wallet visible in an @solana Halloween video was funded and deployed $Solanaween days before Halloween. Contract posted: 8epS8oD66mUFwsEZwK55GyyS2iGPcgY3CDbB75HLpump.",
-   "engagement": "0 likes, 9 replies at scan time.",
-   "flags": "Unverified claim from a tiny account; no confirmation from Solana. Very high risk.",
-   "url": "https://x.com/Apedwithghost/status/2116770909025616014",
-   "followers": 67
-  },
-  {
-   "coin": "Rudolph / Rudy coin (no ticker stated)",
-   "chain": "Solana",
-   "chainNote": "pump.fun contract (ends in 'pump')",
-   "buzz": "@onchainscar (16,930 followers) floated a Rudolph/Rudy memecoin as a 'Christmas runner', tied to a Christmas horror-comedy film whose subplot has a futures trader talked into buying a Rudolph memecoin. Contract posted: 635MGwH377EQyGGwNuEEB7VAC1mGyAbXec6BTQRxpump.",
-   "engagement": "0 likes, 19 impressions at scan time.",
-   "flags": "Single speculative post, no traction yet; ticker not stated. High risk.",
-   "url": "https://x.com/onchainscar/status/2116765861910282400",
-   "followers": 16930
-  },
-  {
-   "coin": "$paws",
-   "chain": "Solana",
-   "chainNote": "pump.fun",
-   "buzz": "@cfm_sol (34,988 followers) shared $paws at about $600K market cap, saying it comes from the 'paws at you' snow-leopard meme template that spread on X and TikTok in late October.",
-   "engagement": "1 like, 1 repost, 784 impressions at scan time.",
-   "flags": "Single promoter post with low engagement so far; 'dyor' call. High risk.",
-   "url": "https://x.com/cfm_sol/status/2116764911678169552",
-   "followers": 34988
-  }
- ],
- "news": [
-  {
-   "topic": "Exploit / b14g",
-   "headline": "Bitcoin staking protocol b14g reportedly exploited, 97 million CORE drained",
-   "coins": "CORE",
-   "detail": "Reported by @WhaleAlertNews (326 followers); not yet confirmed by an official source in this sweep. Not a memecoin, but relevant to market risk. 1 like at scan time.",
-   "updated": "1 Nov, 13:49 (Berlin)",
-   "url": "https://x.com/WhaleAlertNews/status/2116874556530889147"
-  },
-  {
-   "topic": "Pump / ANSEM",
-   "headline": "Call account claims $ANSEM ran from $24K to $420K market cap",
-   "coins": "$ANSEM",
-   "detail": "@Kaan_Capitug0 (881 followers) posted a series of escalating updates ($177K, $314K, then $420K MC) with VIP Telegram funnels. A separate small account (@Dev_Great_dev, 31 followers) claims a big SOL bull opened about an $880K short on a memecoin perps app and $ANSEM dumped; that claim is unverified. Near-zero engagement on all of these posts.",
-   "updated": "1 Nov, 13:45 (Berlin)",
-   "url": "https://x.com/Kaan_Capitug0/status/2116873921446150265"
-  },
-  {
-   "topic": "Exchange / Binance recovery",
-   "headline": "Binance re-enables withdrawals for ZEC, TON (USDT, GRAM) and SUI",
-   "coins": "$DOGE, $ZEC, $SUI, GRAM and other re-enabled assets",
-   "detail": "Official @binance update: newly re-enabled networks are ZEC (ZEC), TON (USDT, GRAM) and SUI (SUI), on top of BTC, ETH, BSC, XRP, Base, DOGE and others already live. Not every asset is back yet. About 27 likes and 1.6k impressions at scan time.",
-   "updated": "1 Nov, 13:36 (Berlin)",
-   "url": "https://x.com/binance/status/2116871932075516174"
-  },
-  {
-   "topic": "Risk flag / $P2P",
-   "headline": "Tracker says $P2P ran 8.9x in under an hour but flags a dev with rug history and a copycat ticker",
-   "coins": "$P2P (Solana, pump.fun)",
-   "detail": "@jbstrategy (1,315 followers) says $P2P went from a $19.3K to a $171.9K peak about 59 minutes after the call, and warns the dev has rug history, the ticker is a copycat and the top holder has about 12%. Tiny reach (8 impressions); the coin is also being pushed by a shill-call ring.",
-   "updated": "1 Nov, 13:35 (Berlin)",
-   "url": "https://x.com/jbstrategy/status/2116871630945153504"
-  },
-  {
-   "topic": "Security / DeFi exploit",
-   "headline": "Post claims 12 DeFi websites were hijacked over the weekend, hitting users on the real protocol URLs",
-   "coins": "DeFi front-ends (protocols not named in the post)",
-   "detail": "@IamJaybhee (1,075 followers) says 12 DeFi sites were hijacked this weekend and that some victims were on the protocols' genuine websites rather than phishing links. The post doesn't name the protocols; unverified, and very early (about 12 impressions at scan time). Worth double-checking any dapp URL before signing.",
-   "updated": "1 Nov, 13:27 (Berlin)",
-   "url": "https://x.com/IamJaybhee/status/2116869206226383266"
-  },
-  {
-   "topic": "Scam warning",
-   "headline": "Copy-paste \"Binance announced $1 TRUMP listing, presale ends in 24 hours\" posts circulating",
-   "coins": "TRUMP (impersonation/presale shill)",
-   "detail": "Identical posts from @arthurcoins (83,749 followers) and @tuyungx (73,245 followers) push an 'official presale' link and Telegram claiming a Binance TRUMP listing. Same text across accounts and a presale link are classic scam signs; no Binance source was cited. Low engagement (0-4 likes).",
-   "updated": "1 Nov, 13:22 (Berlin)",
-   "url": "https://x.com/arthurcoins/status/2116867375366549538"
-  },
-  {
-   "topic": "Exchange / Binance recovery",
-   "headline": "Binance restores withdrawals on Polygon (POL, USDT, USDC) and Avalanche C-Chain (AVAX, USDT, USDC)",
-   "coins": "POL, AVAX and other Binance-listed assets (hack fallout)",
-   "detail": "Verified @BinancePk (Binance Pakistan, 94,085 followers) relays Binance's latest withdrawal update: MATIC (Polygon) and AVAXC networks newly enabled, joining BTC, ETH, BSC, XRP and others already restored. 4 likes, about 1,300 impressions at scan time.",
-   "updated": "1 Nov, 12:50 (Berlin)",
-   "url": "https://x.com/BinancePk/status/2116860365518823593"
-  },
-  {
-   "topic": "Exchange / Binance recovery",
-   "headline": "Binance reportedly re-enables Solana withdrawals (SOL, USDT, USDC)",
-   "coins": "SOL, DOGE and other Binance-listed assets (hack fallout)",
-   "detail": "@MemeGrokbot (1,075 followers) reports Binance has re-enabled Solana withdrawals, adding to BTC, ETH, BSC, XRP, Base, DOGE, OP, ARB and Tron as recovery from the Oct 29 hack continues network by network. Small account, secondhand report, no engagement yet at scan time.",
-   "updated": "1 Nov, 12:31 (Berlin)",
-   "url": "https://x.com/MemeGrokbot/status/2116855410363637813"
-  },
-  {
-   "topic": "Weekly mover / Hyperliquid",
-   "headline": "BSC News says $PURR on Hyperliquid is the fastest-growing major memecoin this week",
-   "coins": "PURR, PEPE",
-   "detail": "@BSCNews (1,374,788 followers) says $PURR is up +23% on the week at time of writing, outpacing $PEPE and other majors. Low engagement at scan time (2 likes, about 3,100 impressions).",
-   "updated": "1 Nov, 12:15 (Berlin)",
-   "url": "https://x.com/BSCNews/status/2116851495207412205"
-  },
-  {
-   "topic": "Exchange / Binance recovery",
-   "headline": "Binance says withdrawals are restored for several networks and assets in its phased recovery",
-   "coins": "Binance-listed assets (hack fallout)",
-   "detail": "@AlexanderXQ_ (10,141 followers) reports Binance officially announced withdrawals re-enabled for several networks and digital assets as the platform continues its phased recovery. Secondhand report, low engagement at scan time.",
-   "updated": "1 Nov, 12:00 (Berlin)",
-   "url": "https://x.com/AlexanderXQ_/status/2116847465554923953"
-  },
-  {
-   "topic": "Exploit / hacker funds",
-   "headline": "About 485k stolen SOL (~$46M) leaves the Binance hacker's Solana wallet, reportedly being swapped into BTC",
-   "coins": "SOL (Binance hack fallout)",
-   "detail": "@williamclay (4,857 followers) says roughly 485k-487k stolen SOL, about $46M, left the Binance hacker's Solana wallet this morning, flagged by Whale Alert and Lookonchain, and that Lookonchain says it's being swapped into BTC via Relay out of a 970k SOL stash. Low engagement at scan time; secondhand report.",
-   "updated": "1 Nov, 11:52 (Berlin)",
-   "url": "https://x.com/williamclay/status/2116845031537737855"
-  },
-  {
-   "topic": "Rug / dev wallet",
-   "headline": "$MIKA dev reportedly leaked the dev wallet's private key, then a KOL-backed relaunch reportedly rugged too",
-   "coins": "MIKA",
-   "detail": "@jumplifey9 (5,261 followers) says @mikadontlouz launched $MIKA with 50% of supply in the dev wallet and posted that wallet's private key instead of the contract address, and that a later KOL-backed relaunch also reportedly rugged. Single-account recap with low engagement (1 like) at scan time; unverified.",
-   "updated": "1 Nov, 11:13 (Berlin)",
-   "url": "https://x.com/jumplifey9/status/2116836105634922974"
-  },
-  {
-   "topic": "Platform stats",
-   "headline": "X News: only 312 of 24.4M Pump.fun coins still trade above $100K market cap",
-   "coins": "Pump.fun / Solana memecoins",
-   "detail": "X news summary: of 24.4 million coins launched on Pump.fun, just 312 remain above a $100,000 market cap (about 0.0013%). Critics call it a 'rug factory'; supporters say low-effort launches drive the failure rate. The platform has generated over $1 billion in fees.",
-   "updated": "1 Nov, 10:26 (Berlin)",
-   "url": "https://x.com/i/trending/2116749869553512459"
-  },
-  {
-   "topic": "Price move",
-   "headline": "crypto.news: $PEPE up 14% this week despite post-Binance-hack turbulence",
-   "coins": "PEPE",
-   "detail": "@cryptodotnews (129K followers, verified) reports PEPE gained 14% on the week, among the market's top performers while broader crypto faces pressure after the Binance hack.",
-   "updated": "1 Nov, 10:34 (Berlin)",
-   "url": "https://x.com/cryptodotnews/status/2116826135048695880"
-  },
-  {
-   "topic": "Exploit follow-up",
-   "headline": "X News: Binance hacker's wallet swapped $5M of PROM for just $71 on Uniswap",
-   "coins": "PROM",
-   "detail": "X News summary: the wallet tied to the Lazarus group behind the $6.3B Binance theft dumped 908,793 PROM into a nearly empty Uniswap V2 pool on Oct 31 and got back only 0.0316 ETH. The summary says the hackers have lost over $100M to bad trades overall but still hold billions; Binance is covering customer losses via SAFU.",
-   "updated": "1 Nov, 09:48 (Berlin)",
-   "url": "https://x.com/i/trending/2116776918066336247"
-  },
-  {
-   "topic": "Whale",
-   "headline": "Small account claims Justin Sun is now PEPE's largest individual holder",
-   "coins": "PEPE",
-   "detail": "@420dotmeme (348 followers) says Justin Sun's PEPE position grew from $267k to $51M in 10 days and credits Arkham for calling him the largest individual holder. Unverified: no engagement at scan time and no larger outlet seen yet.",
-   "updated": "1 Nov, 09:32 (Berlin)",
-   "url": "https://x.com/420dotmeme/status/2116810497505022239"
-  },
-  {
-   "topic": "Price move",
-   "headline": "BSC News: $PEPE up 14% on the week despite the Binance hack turmoil",
-   "coins": "PEPE",
-   "detail": "@BSCNews (1,374,742 followers) says PEPE is among crypto's best performers this week, up 14%, alongside Midnight and Quant. Modest engagement at scan time (1 like, 4,195 impressions).",
-   "updated": "1 Nov, 08:43 (Berlin)",
-   "url": "https://x.com/BSCNews/status/2116798355296993781"
-  },
-  {
-   "topic": "Exchange",
-   "headline": "Post claims Binance withdrawals are live again, phase one covering BTC, ETH, BNB, SOL, XRP and DOGE",
-   "coins": "Market-wide (Binance hack fallout), DOGE",
-   "detail": "@gojoosama (6,708 followers) says phase one of Binance withdrawals opened today after the exchange reached 95% recovery on the $6.3B hack. Single low-engagement source (0 likes, 16 impressions at scan time); not yet confirmed by Binance in this scan.",
-   "updated": "1 Nov, 08:28 (Berlin)",
-   "url": "https://x.com/gojoosama/status/2116794020408271139"
-  },
-  {
-   "topic": "Exploit",
-   "headline": "Trump questions whether North Korea was behind the $6.3B Binance hack, hours after the FBI named TraderTraitor",
-   "coins": "Market-wide (Binance hack fallout)",
-   "detail": "@MarioNawfal (3,975,307 followers) reports Trump questioned North Korea's responsibility for the hack; @cryptothedoggy (55,878 followers) quotes him as 'not concerned' and saying 'We'll talk to North Korea about it.' Low engagement at scan time (1 like each).",
-   "updated": "1 Nov, 08:00 (Berlin)",
-   "url": "https://x.com/MarioNawfal/status/2116787325636080012"
-  },
-  {
-   "topic": "Research",
-   "headline": "Bitquery study: dev wallets, not sniper bots, take most early memecoin launch profits",
-   "coins": "Launchpad memecoins (general)",
-   "detail": "@CryptoAIgoat (1,180 followers) cites a Bitquery analysis of 8.2M launches: 21% had dev wallets already in block 0 holding a median 10% of supply; devs plus bundles made $579M+ after fees (launches to June) versus $31.5M for snipers. 1 like at scan time.",
-   "updated": "1 Nov, 07:47 (Berlin)",
-   "url": "https://x.com/CryptoAIgoat/status/2116784252943769639"
-  },
-  {
-   "topic": "Launchpad",
-   "headline": "windup.fun plans Nov 3 Genesis launch for leveraged memecoin trading on Hyperliquid",
-   "coins": "HYPE, Hyperliquid memecoins",
-   "detail": "@0xSlyth (5,505 followers) says @windupdotfun is building a way to long or short a memecoin the moment it launches on Elysium, and to use native HYPE staking yield to buy memes, with its Genesis launch scheduled for November 3. 12 likes, 7 replies at scan time.",
-   "updated": "1 Nov, 07:31 (Berlin)",
-   "url": "https://x.com/0xSlyth/status/2116779555168178316"
-  },
-  {
-   "topic": "Exchange",
-   "headline": "Commentator says Binance has now fully covered the ~$6B exploit hole",
-   "coins": "BNB, Binance-listed memecoins",
-   "detail": "@TheVictorBuilds (49,542 followers) posted that Binance officially said it has fully covered the 'massive $6B hole' from the recent exploit, framing it as a SAFU power move. Earlier reports on the dashboard said about 90% had been replenished; this post does not link a Binance statement directly in its text. 1 like, 104 impressions at scan time.",
-   "updated": "1 Nov, 06:57 (Berlin)",
-   "url": "https://x.com/TheVictorBuilds/status/2116771503694045546"
-  },
-  {
-   "topic": "Market",
-   "headline": "Launchpad 24h stats: ~62% of 504 graduations were instant bundles",
-   "coins": "Solana launchpad memecoins",
-   "detail": "@baogerbao (4,919 followers) posted 24h stats for a launchpad (link shortened, platform not named): 504 graduations, ~62% instant bundles, bundle DEX volume ~$84M vs organic ~$40M, ~61% fake-official/template clusters, only ~1.5% organic coins still above $200k six hours after graduating, median drawdown from ATH ~95%. 1 like, 37 impressions at scan time.",
-   "updated": "1 Nov, 06:52 (Berlin)",
-   "url": "https://x.com/baogerbao/status/2116769470341644687"
-  },
-  {
-   "topic": "Market",
-   "headline": "Pump.fun reality check: 97% of traders are in loss",
-   "coins": "Pump.fun memecoins (Solana)",
-   "detail": "@Blockcastcc (55,548 followers) posted a headline saying 97% of Pump.fun traders are in loss. 0 likes, 99 impressions at scan time.",
-   "updated": "1 Nov, 06:41 (Berlin)",
-   "url": "https://x.com/Blockcastcc/status/2116767283272167763"
-  },
-  {
-   "topic": "Security",
-   "headline": "OneKey founder warns older iPhones have unpatchable chip flaws that put stored seed phrases at risk",
-   "coins": "General crypto (wallet security, not a memecoin)",
-   "detail": "@WuBlockchain (559,030 followers) reports OneKey founder Yishi warned that factory-resetting an older iPhone and using it offline in airplane mode to store seed phrases may still be unsafe. 3 likes, 4,790 impressions at scan time.",
-   "updated": "1 Nov, 06:29 (Berlin)",
-   "url": "https://x.com/WuBlockchain/status/2116764451538104370"
-  },
-  {
-   "topic": "Exploit",
-   "headline": "Report: Premia options vault exploited for about $400K on Arbitrum",
-   "coins": "Premia (DeFi, not a memecoin)",
-   "detail": "@Trueo_ (6,436 followers) posted an 'exploit watch' alert about a reported $400K exploit of a Premia options vault on Arbitrum. Unconfirmed single-source report; 2 likes, 84 impressions at scan time.",
-   "updated": "1 Nov, 05:59 (Berlin)",
-   "url": "https://x.com/Trueo_/status/2116756036111770065"
-  },
-  {
-   "topic": "Exchange",
-   "headline": "Binance says it will resume withdrawals in phases today, starting between 06:00 and 09:00 UTC",
-   "coins": "Binance (exchange-wide)",
-   "detail": "@coinbureau (1.13M followers) reports Binance will reopen withdrawals progressively as each asset and network completes security checks, with temporary delays expected. Follows the $6.3B hack attributed to North Korea's TraderTraitor group. 11 likes, about 1,400 impressions at scan time.",
-   "updated": "1 Nov, 05:34 (Berlin)",
-   "url": "https://x.com/coinbureau/status/2116750588730077231"
-  },
-  {
-   "topic": "Rug claim",
-   "headline": "Holder says Pumpkin Pepe $PUMPE turned out to be a slow rug",
-   "coins": "$PUMPE",
-   "detail": "@DanielLikesArt (1,110 followers) apologises to anyone who followed them into $PUMPE, calling it a slow rug after the team didn't keep up its pumpkin-Pepe meme through October. Single holder's claim with minimal engagement (1 like); not independently confirmed.",
-   "updated": "1 Nov, 05:26 (Berlin)",
-   "url": "https://x.com/DanielLikesArt/status/2116748724064190705"
-  },
-  {
-   "topic": "Price move",
-   "headline": "$USELESS down about 29% over seven days while $WIF is flat on the day",
-   "coins": "$USELESS, $WIF (Solana)",
-   "detail": "@Crypto_Crayak (10,588 followers) notes $USELESS is the Solana meme taking the biggest hit this week, down about 29% in seven days, while $WIF barely moved today. Market commentary with no engagement yet (0 likes); figures are the poster's claims.",
-   "updated": "1 Nov, 04:16 (Berlin)",
-   "url": "https://x.com/Crypto_Crayak/status/2116730434985808043"
-  },
-  {
-   "topic": "Rug",
-   "headline": "On-chain breakdown claims 'project kimchi' rugged from $15.2M to $49K (-99.7%)",
-   "coins": "project kimchi (Solana, pump.fun CA B1Y2fJW8rtirrBuUcda14pSaeiASHaGqTxQdxU8Mpump per the post)",
-   "detail": "@ruggydotfun (36 followers, a new Solana risk-analysis account) posted a thread saying the token fell from a $15.2M to a $49K market cap, with sellers exiting in three waves rather than one dev dump. Low engagement so far (1 like); figures are the poster's claims, not independently verified.",
-   "updated": "1 Nov, 03:15 (Berlin)",
-   "url": "https://x.com/ruggydotfun/status/2116715681009869118"
-  }
- ],
- "hourly": [
-  {
-   "label": "10:00",
-   "value": 1132
-  },
-  {
-   "label": "",
-   "value": 1080
-  },
-  {
-   "label": "",
-   "value": 758
-  },
-  {
-   "label": "",
-   "value": 669
-  },
-  {
-   "label": "",
-   "value": 767
-  },
-  {
-   "label": "15:00",
-   "value": 1015
-  },
-  {
-   "label": "",
-   "value": 1315
-  },
-  {
-   "label": "",
-   "value": 1064
-  },
-  {
-   "label": "",
-   "value": 874
-  },
-  {
-   "label": "",
-   "value": 856
-  },
-  {
-   "label": "20:00",
-   "value": 1081
-  },
-  {
-   "label": "",
-   "value": 910
-  },
-  {
-   "label": "",
-   "value": 832
-  },
-  {
-   "label": "",
-   "value": 763
-  },
-  {
-   "label": "",
-   "value": 634
-  },
-  {
-   "label": "01:00",
-   "value": 847
-  },
-  {
-   "label": "",
-   "value": 788
-  },
-  {
-   "label": "",
-   "value": 674
-  },
-  {
-   "label": "",
-   "value": 454
-  },
-  {
-   "label": "",
-   "value": 396
-  },
-  {
-   "label": "06:00",
-   "value": 546
-  },
-  {
-   "label": "",
-   "value": 583
-  },
-  {
-   "label": "08:00",
-   "value": 709
-  }
- ]
+  "lastUpdated": "Sunday 1 Nov 2026, 14:19 Berlin time (UTC+1)",
+  "newestPostId": "2116882531760894167",
+  "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
+  "launches": [
+    {
+      "coin": "CHILL MECH ($CHILLMECH)",
+      "chain": "Robinhood Chain",
+      "chainNote": "No contract address in the post.",
+      "buzz": "Project account @justachillmech announced at 14:17 Berlin that $CHILLMECH is live on Robinhood Chain, claiming 500 passes sold out in 4 hours.",
+      "engagement": "13 impressions, 1 like, 1 reply at scan time.",
+      "flags": "Self-promotion from a 117-follower project account; sellout claim unverified. Very early, high risk.",
+      "url": "https://x.com/justachillmech/status/2116882420402364561",
+      "followers": 117
+    },
+    {
+      "coin": "INKKY ($INKKY)",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA Jy8kKwumNBdg3VtpvkzKh22kLQSw57Zr8sfdSSjpump (from the posts)",
+      "buzz": "Call account @CipherEdgeCalls flagged $INKKY at $9.5K market cap at 14:14 Berlin, then posted escalating updates within about a minute claiming it touched $1.0M and then $10.5M market cap (1,105x).",
+      "engagement": "38 to 72 impressions and 0 to 1 likes per post at scan time.",
+      "flags": "Single call account with rapid-fire self-updates; the jump from $1M to $10.5M in under a minute is implausible and unverified. Likely shill. High risk.",
+      "url": "https://x.com/CipherEdgeCalls/status/2116881546926072039",
+      "followers": 4085
+    },
+    {
+      "coin": "Regretamine ($REGRET / $REGRETAMINE / 后悔药)",
+      "chain": "Solana (pump.fun to PumpSwap) and BSC (Flap)",
+      "chainNote": "Several copycat CAs, e.g. SOL 5ZxTxQ488EZaynYZUkqqBt4y3H7w5f3KxiTNNZey7tWG and BSC 0x60897d4ea31934ec6a3f6421d0025f5032c87777 (from the posts)",
+      "buzz": "Fresh meme theme spawning coins: signal bot @bitecong flagged at least three Regretamine launches on Solana and a fourth on BSC today. @solhousesignals reports one $REGRET at $66.5K market cap with $20.3K liquidity and $114.4K 24h volume.",
+      "engagement": "Signal posts have about 360 to 405 impressions and 0 to 1 likes each at scan time.",
+      "flags": "Multiple same-name tokens across chains; easy to buy the wrong one. Bot and signal-account coverage only so far. High risk.",
+      "url": "https://x.com/bitecong/status/2116876032271929767",
+      "followers": 38454
+    },
+    {
+      "coin": "ORIGO",
+      "chain": "Robinhood Chain",
+      "chainNote": "No CA in the post",
+      "buzz": "@HoodWhisp4663 says this new Robinhood Chain memecoin did $2.4M volume in about 2 hours from a brand-new pool, up 2,047% since launch but down 22% in the last hour, with $187K liquidity.",
+      "engagement": "0 likes, 2 impressions at scan time.",
+      "flags": "Small account, figures unverified. Big volume on thin liquidity. High risk.",
+      "url": "https://x.com/HoodWhisp4663/status/2116876158310732157",
+      "followers": 290
+    },
+    {
+      "coin": "$SPACEX",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA BqmJMm8Z4WitJ4HgNfdC69jRXuiGAHcdomPWCYB7pump (from the post)",
+      "buzz": "Call account @EarlyChad_ claims its $SPACEX call ran from $38K to $126K market cap (3.3x), minutes after similar claims for $CLAUDE and $FOMO.",
+      "engagement": "1 like, about 52 impressions at scan time.",
+      "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
+      "url": "https://x.com/EarlyChad_/status/2116874982651523334",
+      "followers": 5679
+    },
+    {
+      "coin": "$CLAUDE",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA BAQQ91EUTdtmhU4yuB579Az2LCagckSSm2XBisdpump (from the posts)",
+      "buzz": "Call account @EarlyChad_ posted it at $39K market cap, then about a minute later claimed $103K (2.6x). The same account also claims a $FOMO call went from $39K to $148K.",
+      "engagement": "1 like each; about 45 to 84 impressions at scan time.",
+      "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
+      "url": "https://x.com/EarlyChad_/status/2116874094482448639",
+      "followers": 5679
+    },
+    {
+      "coin": "$P2P",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA 8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump (from the posts)",
+      "buzz": "Flooded in the last few minutes by a ring of near-identical \"12x / 23x up on my call, TG eating massively\" posts from small call accounts (@_Shonsol, @degen_piilot, @solCallermike_ and others). Separately, @p2pventures (70 followers) says all offers on its P2P memecoin OTC listing were filled quickly.",
+      "engagement": "0 to 4 likes per post; the highest-impression post had about 107 impressions at scan time.",
+      "flags": "Coordinated shill-farm promotion with 'DM for entry' Telegram funnels; treat as high risk.",
+      "url": "https://x.com/_Shonsol/status/2116870678523548020",
+      "followers": 1892
+    },
+    {
+      "coin": "Solstars ($SOLSTARS)",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump (from the post)",
+      "buzz": "@bitecong (38,453 followers) flags Solstars as a pump.fun launch about 22 minutes old, still on the bonding curve, with no clear theme beyond a team account post and thin attention.",
+      "engagement": "0 likes, about 500 impressions at scan time.",
+      "flags": "Automated on-chain signal account; brand-new micro-cap still on the bonding curve.",
+      "url": "https://x.com/bitecong/status/2116869872479330490",
+      "followers": 38453
+    },
+    {
+      "coin": "Super-Agent (AI agent token)",
+      "chain": "BSC",
+      "chainNote": "CA 0xb832a8c02258059d57ac22d40a232b261ec97777 (from the post)",
+      "buzz": "@bitecong (38,453 followers) reports Super-Agent as the 14th agent-themed BSC launch today; it cleared its bonding curve on Flap and graduated to PancakeSwap 54 minutes after launch, with an unusual concentration in its top buyer list.",
+      "engagement": "0 likes, about 450 impressions at scan time.",
+      "flags": "Automated on-chain signal account; brand-new micro-cap; buyer concentration noted by the poster.",
+      "url": "https://x.com/bitecong/status/2116867511392325711",
+      "followers": 38453
+    },
+    {
+      "coin": "$DODO (Shih Tzu dog coin)",
+      "chain": "Solana",
+      "chainNote": "No contract address in the post",
+      "buzz": "@CryptoAndrew_1 (75,043 followers) promotes $DODO as a Shih Tzu-themed Solana memecoin with 1% locked for pet charity, claiming it crossed $50k market cap within days and is aiming for $100k.",
+      "engagement": "192 likes, about 5,150 impressions at scan time.",
+      "flags": "Promotional post from a large account (possibly paid); market cap and charity lock claims are unverified; very small cap.",
+      "url": "https://x.com/CryptoAndrew_1/status/2116865478945902682",
+      "followers": 75043
+    },
+    {
+      "coin": "Unnamed pump.fun token from @_rise",
+      "chain": "Solana",
+      "chainNote": "CA D8UWQfTvntVkQGUM4y367uzLtGYyUCcYucFqriz7pump",
+      "buzz": "@_rise (19,927 followers) says their own memecoin is live on Pump Fun, promises to airdrop 60% of supply to the top 15 holders at bonding and to add a $7,000 buy in 15 minutes.",
+      "engagement": "1 like, about 270 impressions at scan time.",
+      "flags": "Self-launched by the poster; promised dev buy and airdrop are unverified; brand-new token.",
+      "url": "https://x.com/_rise/status/2116847327021597003",
+      "followers": 19927
+    },
+    {
+      "coin": "MarvinCoin ($MARVIN)",
+      "chain": "Solana",
+      "chainNote": "CA 6StLoZfceCvxoBcrkxNeUcMr5pQqgvRWpFbakgaspump",
+      "buzz": "Automated signal account @bitecong (38,448 followers) says this is the second Marvin-themed pump.fun launch on Solana today and was already most of the way along the bonding curve when its tracker found it.",
+      "engagement": "0 likes, about 290 impressions at scan time.",
+      "flags": "Automated signal post; very new token; copycat theme.",
+      "url": "https://x.com/bitecong/status/2116846196350431554",
+      "followers": 38448
+    },
+    {
+      "coin": "dog wif vibes ($vibedog)",
+      "chain": "Solana",
+      "chainNote": "CA FzTxvp2UkrjCmx2dNM8wDMkBPjTcxTE8RYUyX9rhpump",
+      "buzz": "Automated signal account @bitecong (38,448 followers) flags this pump.fun dog coin as a few minutes old and 81% of the way to bonding-curve graduation at its latest check.",
+      "engagement": "0 likes, about 300 impressions at scan time.",
+      "flags": "Automated signal post; very new token; theme is just the name.",
+      "url": "https://x.com/bitecong/status/2116845148017750465",
+      "followers": 38448
+    },
+    {
+      "coin": "Dacity Coin ($DACITY)",
+      "chain": "Solana",
+      "chainNote": "No contract address in the post.",
+      "buzz": "@madapescall (77,549 followers) calls $DACITY a GTA-inspired meme, saying the GTA 6 launch trailer briefly mentioned a \"Dacity Coin\" and traders are speculating about its role in-game. Describes it as a higher-mcap play with the chart holding.",
+      "engagement": "6 likes, 2 reposts, about 1,200 impressions at scan time.",
+      "flags": "Call-account post; trailer link to the coin is the poster's claim and unverified.",
+      "url": "https://x.com/madapescall/status/2116843587677851703",
+      "followers": 77549
+    },
+    {
+      "coin": "Spermcoin ($Sperm)",
+      "chain": "Solana",
+      "chainNote": "CA 34AB35ETkYqSq4TkyC3b2eiYh6arXkhT3RdtnXaDCAUj",
+      "buzz": "Automated signal account @bitecong (38,447 followers) flags this pump.fun launch as minutes old and still on the bonding curve, with no clear theme beyond the name.",
+      "engagement": "None yet: 0 likes, 0 impressions at scan time.",
+      "flags": "Automated signal post; very new token; no clear theme.",
+      "url": "https://x.com/bitecong/status/2116842759462244429",
+      "followers": 38447
+    },
+    {
+      "coin": "Mighty White Yak (牦牛)",
+      "chain": "Solana",
+      "chainNote": "CA 6jUAqc62fsc1uA671K2WCEiScZmvm78o3rRsUModpump",
+      "buzz": "Automated signal account @bitecong (38,447 followers) says this pump.fun launch is about forty minutes old, themed on a white yak, and has already graduated to PumpSwap.",
+      "engagement": "Low: 0 likes, 384 impressions at scan time.",
+      "flags": "Automated signal post; very new token.",
+      "url": "https://x.com/bitecong/status/2116840918443798890",
+      "followers": 38447
+    },
+    {
+      "coin": "MINTED (Minted)",
+      "chain": "Solana",
+      "chainNote": "CA 9yEKBwczdqoox7Red6GGPTrJ2dUbMvFUagdjxFqHpump",
+      "buzz": "Automated signal account @bitecong (38,446 followers) says this fresh pump.fun token reached 84% of its bonding curve about a minute after launch. Separately, a brand-new account @mintedpad (3 followers) announced 'Minted', a tool to pair any Solana NFT with a memecoin; the link between the two is not confirmed.",
+      "engagement": "Low: 0 likes, 255 impressions at scan time.",
+      "flags": "Automated signal post; no stated theme; very new token.",
+      "url": "https://x.com/bitecong/status/2116840762998673502",
+      "followers": 38446
+    },
+    {
+      "coin": "MUSK (Elon Musk theme)",
+      "chain": "Solana",
+      "chainNote": "CA 7zh4rY6LA14MQcMU9euQhhzh4o9dufQeVNmVXjfpump",
+      "buzz": "Automated signal account @bitecong (38,445 followers) says this Elon-themed coin was 81% along the pump.fun bonding curve six minutes into trading, and that its deployer has launched 256 tokens.",
+      "engagement": "Low: 0 likes, 355 impressions at scan time.",
+      "flags": "Serial deployer (256 tokens per the post); celebrity-name coins are high risk. Automated signal post.",
+      "url": "https://x.com/bitecong/status/2116837456750465210",
+      "followers": 38445
+    },
+    {
+      "coin": "nut (No Nut November theme)",
+      "chain": "Solana",
+      "chainNote": "CA ERXoTjSZ58XdAdeinR4Mp9b3aQr375FvHdE9W5L2pump",
+      "buzz": "Automated signal account @bitecong (38,445 followers) says this No Nut November joke coin graduated from the pump.fun bonding curve to PumpSwap about 1 h 41 min after launch. A separate, unrelated-looking $NONUT account is also shilling a similar theme.",
+      "engagement": "Low: 0 likes, 396 impressions at scan time.",
+      "flags": "Automated signal post; seasonal joke-theme coins draw many copycats and are high risk.",
+      "url": "https://x.com/bitecong/status/2116832378635391135",
+      "followers": 38445
+    },
+    {
+      "coin": "The Dead Bull (ANSEM)",
+      "chain": "Solana",
+      "chainNote": "CA GS6DbJJeNzWJ4SHBrMxh9tGCQJjtACjeyk1E6Qrgpump",
+      "buzz": "Automated signal account @bitecong (38,444 followers) says this is the third ANSEM-themed launch on Solana today, moving from the pump.fun bonding curve to PumpSwap about a quarter hour after launch, and flags something odd in the top-holder list.",
+      "engagement": "Low: 0 likes, 340 impressions at scan time.",
+      "flags": "Automated signal post; copycat name-theme launches and unusual buyer lists are high risk.",
+      "url": "https://x.com/bitecong/status/2116826361126092984",
+      "followers": 38444
+    },
+    {
+      "coin": "LaowuCoin (老吴)",
+      "chain": "BSC",
+      "chainNote": "CA 0xdf8a2cccbff4a15616fc4ea6fd3574645d317777",
+      "buzz": "Automated signal account @bitecong (38,443 followers) flagged a cat-named meme coin launched on Flap a few minutes earlier, noting no clear theme and a buyer base dominated by fresh wallets.",
+      "engagement": "Low: 0 likes, 397 impressions at scan time.",
+      "flags": "Automated signal post; heavy fresh-wallet buying is a common wash or bundle pattern. High risk.",
+      "url": "https://x.com/bitecong/status/2116805308404437081",
+      "followers": 38443
+    },
+    {
+      "coin": "币安 (You Bin An)",
+      "chain": "BSC",
+      "chainNote": "CA 0x91158a7de56ea0279767c0b15756bf17f9ea7777",
+      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a Binance-themed meme coin trading on Flap about twenty minutes after launch, 46% of the way to graduation.",
+      "engagement": "Low: 0 likes, 317 impressions at scan time.",
+      "flags": "Automated signal post riding the Binance hack news cycle. High risk.",
+      "url": "https://x.com/bitecong/status/2116799127615053895",
+      "followers": 38441
+    },
+    {
+      "coin": "$glorp",
+      "chain": "Solana",
+      "chainNote": "CA 6328FBEXHDbCKyHGvHrw8dVu7h1d9HUboSMB5DjEpump",
+      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a pump.fun launch about five minutes old, already 81% of the way along the bonding curve, with no clear theme.",
+      "engagement": "Low: 0 likes, 363 impressions at scan time.",
+      "flags": "Automated signal post; the account also noted something unusual about the top holders. High risk.",
+      "url": "https://x.com/bitecong/status/2116796805249892819",
+      "followers": 38441
+    },
+    {
+      "coin": "$BALLS",
+      "chain": "Solana",
+      "chainNote": "CA HhBuvegE7Ew2stS5svkMcxL8povkaL8brwt9JUtfpump",
+      "buzz": "Call account @Kaan_Capitug0 (878 followers) posted it at $27.2K market cap, then claimed $756K (27.79x) minutes later, quoting its own call.",
+      "engagement": "Very low: 0 likes, under 10 impressions at scan time.",
+      "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
+      "url": "https://x.com/Kaan_Capitug0/status/2116795689480901100",
+      "followers": 878
+    },
+    {
+      "coin": "$BI (Believe InU)",
+      "chain": "BSC",
+      "chainNote": "CA 0x63d21fdbced4facd3f27e8ef3c9bf5ff4bf87777",
+      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a fresh Flap launch about two minutes old, with four wallets buying $658 combined within 2 minutes.",
+      "engagement": "Low: 0 likes, 274 impressions at scan time.",
+      "flags": "Automated signal post; tiny buys, no clear theme. High risk.",
+      "url": "https://x.com/bitecong/status/2116795792015110541",
+      "followers": 38441
+    },
+    {
+      "coin": "$AAPLCAT",
+      "chain": "Solana",
+      "chainNote": "CA GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump",
+      "buzz": "Call account @JEREMYhboo (4,056 followers) claims it was called around $12K market cap and touched about $1.0M (83x), quoting its own call post from minutes earlier.",
+      "engagement": "Very low: 0 to 1 likes, about 12 to 14 impressions at scan time.",
+      "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
+      "url": "https://x.com/JEREMYhboo/status/2116794291263549866",
+      "followers": 4056
+    },
+    {
+      "coin": "$niketyson (Nike Tyson)",
+      "chain": "Solana",
+      "chainNote": "CA nikemwCaTqBamHqfRVqPzwtWsmuwdXb6To25xJ2znwT",
+      "buzz": "Signal account @bitecong (38,441 followers) says the Nike/Mike Tyson-themed coin graduated from pump.fun to PumpSwap about 30 minutes after launch. Call accounts @Sol_Gems00 (1,677 followers) and @erykdiamond (487 followers) claimed 4x to 7x moves, one citing $10K to $71K market cap.",
+      "engagement": "Very low: 0 to 1 likes per post, roughly 50 to 400 impressions at scan time.",
+      "flags": "Promotion comes almost entirely from repeated paid-group 'call' accounts; gains are self-reported and unverified. High risk.",
+      "url": "https://x.com/bitecong/status/2116789256693989757",
+      "followers": 38441
+    },
+    {
+      "coin": "$STONK (teaser, no contract yet)",
+      "chain": "Unknown",
+      "chainNote": "No contract posted",
+      "buzz": "Two memecoin devs, @PR0H0S (100,587 followers, bio: '$www (8M) dev') and @sled_o (82,603 followers, bio: '$pistacio dev ($19M)'), posted the identical text 'Launching a memecoin. This would flip $STONK and push it into the billions. Who's in?' one second apart.",
+      "engagement": "About 2 likes and 1 reply each, roughly 700 impressions each at scan time.",
+      "flags": "Identical copy-paste posts suggest coordinated marketing; no ticker or contract given. Low engagement so far. High risk.",
+      "url": "https://x.com/PR0H0S/status/2116779775683604813",
+      "followers": 100587
+    },
+    {
+      "coin": "$Solanaween",
+      "chain": "Solana",
+      "chainNote": "pump.fun contract (ends in 'pump')",
+      "buzz": "@Apedwithghost (67 followers) claims a wallet visible in an @solana Halloween video was funded and deployed $Solanaween days before Halloween. Contract posted: 8epS8oD66mUFwsEZwK55GyyS2iGPcgY3CDbB75HLpump.",
+      "engagement": "0 likes, 9 replies at scan time.",
+      "flags": "Unverified claim from a tiny account; no confirmation from Solana. Very high risk.",
+      "url": "https://x.com/Apedwithghost/status/2116770909025616014",
+      "followers": 67
+    },
+    {
+      "coin": "Rudolph / Rudy coin (no ticker stated)",
+      "chain": "Solana",
+      "chainNote": "pump.fun contract (ends in 'pump')",
+      "buzz": "@onchainscar (16,930 followers) floated a Rudolph/Rudy memecoin as a 'Christmas runner', tied to a Christmas horror-comedy film whose subplot has a futures trader talked into buying a Rudolph memecoin. Contract posted: 635MGwH377EQyGGwNuEEB7VAC1mGyAbXec6BTQRxpump.",
+      "engagement": "0 likes, 19 impressions at scan time.",
+      "flags": "Single speculative post, no traction yet; ticker not stated. High risk.",
+      "url": "https://x.com/onchainscar/status/2116765861910282400",
+      "followers": 16930
+    }
+  ],
+  "news": [
+    {
+      "topic": "Exploit / b14g",
+      "headline": "Bitcoin staking protocol b14g reportedly exploited, 97 million CORE drained",
+      "coins": "CORE",
+      "detail": "Reported by @WhaleAlertNews (326 followers); not yet confirmed by an official source in this sweep. Not a memecoin, but relevant to market risk. 1 like at scan time.",
+      "updated": "1 Nov, 13:49 (Berlin)",
+      "url": "https://x.com/WhaleAlertNews/status/2116874556530889147"
+    },
+    {
+      "topic": "Pump / ANSEM",
+      "headline": "Call account claims $ANSEM ran from $24K to $420K market cap",
+      "coins": "$ANSEM",
+      "detail": "@Kaan_Capitug0 (881 followers) posted a series of escalating updates ($177K, $314K, then $420K MC) with VIP Telegram funnels. A separate small account (@Dev_Great_dev, 31 followers) claims a big SOL bull opened about an $880K short on a memecoin perps app and $ANSEM dumped; that claim is unverified. Near-zero engagement on all of these posts.",
+      "updated": "1 Nov, 13:45 (Berlin)",
+      "url": "https://x.com/Kaan_Capitug0/status/2116873921446150265"
+    },
+    {
+      "topic": "Exchange / Binance recovery",
+      "headline": "Binance re-enables withdrawals for ZEC, TON (USDT, GRAM) and SUI",
+      "coins": "$DOGE, $ZEC, $SUI, GRAM and other re-enabled assets",
+      "detail": "Official @binance update: newly re-enabled networks are ZEC (ZEC), TON (USDT, GRAM) and SUI (SUI), on top of BTC, ETH, BSC, XRP, Base, DOGE and others already live. Not every asset is back yet. About 27 likes and 1.6k impressions at scan time.",
+      "updated": "1 Nov, 13:36 (Berlin)",
+      "url": "https://x.com/binance/status/2116871932075516174"
+    },
+    {
+      "topic": "Risk flag / $P2P",
+      "headline": "Tracker says $P2P ran 8.9x in under an hour but flags a dev with rug history and a copycat ticker",
+      "coins": "$P2P (Solana, pump.fun)",
+      "detail": "@jbstrategy (1,315 followers) says $P2P went from a $19.3K to a $171.9K peak about 59 minutes after the call, and warns the dev has rug history, the ticker is a copycat and the top holder has about 12%. Tiny reach (8 impressions); the coin is also being pushed by a shill-call ring.",
+      "updated": "1 Nov, 13:35 (Berlin)",
+      "url": "https://x.com/jbstrategy/status/2116871630945153504"
+    },
+    {
+      "topic": "Security / DeFi exploit",
+      "headline": "Post claims 12 DeFi websites were hijacked over the weekend, hitting users on the real protocol URLs",
+      "coins": "DeFi front-ends (protocols not named in the post)",
+      "detail": "@IamJaybhee (1,075 followers) says 12 DeFi sites were hijacked this weekend and that some victims were on the protocols' genuine websites rather than phishing links. The post doesn't name the protocols; unverified, and very early (about 12 impressions at scan time). Worth double-checking any dapp URL before signing.",
+      "updated": "1 Nov, 13:27 (Berlin)",
+      "url": "https://x.com/IamJaybhee/status/2116869206226383266"
+    },
+    {
+      "topic": "Scam warning",
+      "headline": "Copy-paste \"Binance announced $1 TRUMP listing, presale ends in 24 hours\" posts circulating",
+      "coins": "TRUMP (impersonation/presale shill)",
+      "detail": "Identical posts from @arthurcoins (83,749 followers) and @tuyungx (73,245 followers) push an 'official presale' link and Telegram claiming a Binance TRUMP listing. Same text across accounts and a presale link are classic scam signs; no Binance source was cited. Low engagement (0-4 likes).",
+      "updated": "1 Nov, 13:22 (Berlin)",
+      "url": "https://x.com/arthurcoins/status/2116867375366549538"
+    },
+    {
+      "topic": "Exchange / Binance recovery",
+      "headline": "Binance restores withdrawals on Polygon (POL, USDT, USDC) and Avalanche C-Chain (AVAX, USDT, USDC)",
+      "coins": "POL, AVAX and other Binance-listed assets (hack fallout)",
+      "detail": "Verified @BinancePk (Binance Pakistan, 94,085 followers) relays Binance's latest withdrawal update: MATIC (Polygon) and AVAXC networks newly enabled, joining BTC, ETH, BSC, XRP and others already restored. 4 likes, about 1,300 impressions at scan time.",
+      "updated": "1 Nov, 12:50 (Berlin)",
+      "url": "https://x.com/BinancePk/status/2116860365518823593"
+    },
+    {
+      "topic": "Exchange / Binance recovery",
+      "headline": "Binance reportedly re-enables Solana withdrawals (SOL, USDT, USDC)",
+      "coins": "SOL, DOGE and other Binance-listed assets (hack fallout)",
+      "detail": "@MemeGrokbot (1,075 followers) reports Binance has re-enabled Solana withdrawals, adding to BTC, ETH, BSC, XRP, Base, DOGE, OP, ARB and Tron as recovery from the Oct 29 hack continues network by network. Small account, secondhand report, no engagement yet at scan time.",
+      "updated": "1 Nov, 12:31 (Berlin)",
+      "url": "https://x.com/MemeGrokbot/status/2116855410363637813"
+    },
+    {
+      "topic": "Weekly mover / Hyperliquid",
+      "headline": "BSC News says $PURR on Hyperliquid is the fastest-growing major memecoin this week",
+      "coins": "PURR, PEPE",
+      "detail": "@BSCNews (1,374,788 followers) says $PURR is up +23% on the week at time of writing, outpacing $PEPE and other majors. Low engagement at scan time (2 likes, about 3,100 impressions).",
+      "updated": "1 Nov, 12:15 (Berlin)",
+      "url": "https://x.com/BSCNews/status/2116851495207412205"
+    },
+    {
+      "topic": "Exchange / Binance recovery",
+      "headline": "Binance says withdrawals are restored for several networks and assets in its phased recovery",
+      "coins": "Binance-listed assets (hack fallout)",
+      "detail": "@AlexanderXQ_ (10,141 followers) reports Binance officially announced withdrawals re-enabled for several networks and digital assets as the platform continues its phased recovery. Secondhand report, low engagement at scan time.",
+      "updated": "1 Nov, 12:00 (Berlin)",
+      "url": "https://x.com/AlexanderXQ_/status/2116847465554923953"
+    },
+    {
+      "topic": "Exploit / hacker funds",
+      "headline": "About 485k stolen SOL (~$46M) leaves the Binance hacker's Solana wallet, reportedly being swapped into BTC",
+      "coins": "SOL (Binance hack fallout)",
+      "detail": "@williamclay (4,857 followers) says roughly 485k-487k stolen SOL, about $46M, left the Binance hacker's Solana wallet this morning, flagged by Whale Alert and Lookonchain, and that Lookonchain says it's being swapped into BTC via Relay out of a 970k SOL stash. Low engagement at scan time; secondhand report.",
+      "updated": "1 Nov, 11:52 (Berlin)",
+      "url": "https://x.com/williamclay/status/2116845031537737855"
+    },
+    {
+      "topic": "Rug / dev wallet",
+      "headline": "$MIKA dev reportedly leaked the dev wallet's private key, then a KOL-backed relaunch reportedly rugged too",
+      "coins": "MIKA",
+      "detail": "@jumplifey9 (5,261 followers) says @mikadontlouz launched $MIKA with 50% of supply in the dev wallet and posted that wallet's private key instead of the contract address, and that a later KOL-backed relaunch also reportedly rugged. Single-account recap with low engagement (1 like) at scan time; unverified.",
+      "updated": "1 Nov, 11:13 (Berlin)",
+      "url": "https://x.com/jumplifey9/status/2116836105634922974"
+    },
+    {
+      "topic": "Platform stats",
+      "headline": "X News: only 312 of 24.4M Pump.fun coins still trade above $100K market cap",
+      "coins": "Pump.fun / Solana memecoins",
+      "detail": "X news summary: of 24.4 million coins launched on Pump.fun, just 312 remain above a $100,000 market cap (about 0.0013%). Critics call it a 'rug factory'; supporters say low-effort launches drive the failure rate. The platform has generated over $1 billion in fees.",
+      "updated": "1 Nov, 10:26 (Berlin)",
+      "url": "https://x.com/i/trending/2116749869553512459"
+    },
+    {
+      "topic": "Price move",
+      "headline": "crypto.news: $PEPE up 14% this week despite post-Binance-hack turbulence",
+      "coins": "PEPE",
+      "detail": "@cryptodotnews (129K followers, verified) reports PEPE gained 14% on the week, among the market's top performers while broader crypto faces pressure after the Binance hack.",
+      "updated": "1 Nov, 10:34 (Berlin)",
+      "url": "https://x.com/cryptodotnews/status/2116826135048695880"
+    },
+    {
+      "topic": "Exploit follow-up",
+      "headline": "X News: Binance hacker's wallet swapped $5M of PROM for just $71 on Uniswap",
+      "coins": "PROM",
+      "detail": "X News summary: the wallet tied to the Lazarus group behind the $6.3B Binance theft dumped 908,793 PROM into a nearly empty Uniswap V2 pool on Oct 31 and got back only 0.0316 ETH. The summary says the hackers have lost over $100M to bad trades overall but still hold billions; Binance is covering customer losses via SAFU.",
+      "updated": "1 Nov, 09:48 (Berlin)",
+      "url": "https://x.com/i/trending/2116776918066336247"
+    },
+    {
+      "topic": "Whale",
+      "headline": "Small account claims Justin Sun is now PEPE's largest individual holder",
+      "coins": "PEPE",
+      "detail": "@420dotmeme (348 followers) says Justin Sun's PEPE position grew from $267k to $51M in 10 days and credits Arkham for calling him the largest individual holder. Unverified: no engagement at scan time and no larger outlet seen yet.",
+      "updated": "1 Nov, 09:32 (Berlin)",
+      "url": "https://x.com/420dotmeme/status/2116810497505022239"
+    },
+    {
+      "topic": "Price move",
+      "headline": "BSC News: $PEPE up 14% on the week despite the Binance hack turmoil",
+      "coins": "PEPE",
+      "detail": "@BSCNews (1,374,742 followers) says PEPE is among crypto's best performers this week, up 14%, alongside Midnight and Quant. Modest engagement at scan time (1 like, 4,195 impressions).",
+      "updated": "1 Nov, 08:43 (Berlin)",
+      "url": "https://x.com/BSCNews/status/2116798355296993781"
+    },
+    {
+      "topic": "Exchange",
+      "headline": "Post claims Binance withdrawals are live again, phase one covering BTC, ETH, BNB, SOL, XRP and DOGE",
+      "coins": "Market-wide (Binance hack fallout), DOGE",
+      "detail": "@gojoosama (6,708 followers) says phase one of Binance withdrawals opened today after the exchange reached 95% recovery on the $6.3B hack. Single low-engagement source (0 likes, 16 impressions at scan time); not yet confirmed by Binance in this scan.",
+      "updated": "1 Nov, 08:28 (Berlin)",
+      "url": "https://x.com/gojoosama/status/2116794020408271139"
+    },
+    {
+      "topic": "Exploit",
+      "headline": "Trump questions whether North Korea was behind the $6.3B Binance hack, hours after the FBI named TraderTraitor",
+      "coins": "Market-wide (Binance hack fallout)",
+      "detail": "@MarioNawfal (3,975,307 followers) reports Trump questioned North Korea's responsibility for the hack; @cryptothedoggy (55,878 followers) quotes him as 'not concerned' and saying 'We'll talk to North Korea about it.' Low engagement at scan time (1 like each).",
+      "updated": "1 Nov, 08:00 (Berlin)",
+      "url": "https://x.com/MarioNawfal/status/2116787325636080012"
+    },
+    {
+      "topic": "Research",
+      "headline": "Bitquery study: dev wallets, not sniper bots, take most early memecoin launch profits",
+      "coins": "Launchpad memecoins (general)",
+      "detail": "@CryptoAIgoat (1,180 followers) cites a Bitquery analysis of 8.2M launches: 21% had dev wallets already in block 0 holding a median 10% of supply; devs plus bundles made $579M+ after fees (launches to June) versus $31.5M for snipers. 1 like at scan time.",
+      "updated": "1 Nov, 07:47 (Berlin)",
+      "url": "https://x.com/CryptoAIgoat/status/2116784252943769639"
+    },
+    {
+      "topic": "Launchpad",
+      "headline": "windup.fun plans Nov 3 Genesis launch for leveraged memecoin trading on Hyperliquid",
+      "coins": "HYPE, Hyperliquid memecoins",
+      "detail": "@0xSlyth (5,505 followers) says @windupdotfun is building a way to long or short a memecoin the moment it launches on Elysium, and to use native HYPE staking yield to buy memes, with its Genesis launch scheduled for November 3. 12 likes, 7 replies at scan time.",
+      "updated": "1 Nov, 07:31 (Berlin)",
+      "url": "https://x.com/0xSlyth/status/2116779555168178316"
+    },
+    {
+      "topic": "Exchange",
+      "headline": "Commentator says Binance has now fully covered the ~$6B exploit hole",
+      "coins": "BNB, Binance-listed memecoins",
+      "detail": "@TheVictorBuilds (49,542 followers) posted that Binance officially said it has fully covered the 'massive $6B hole' from the recent exploit, framing it as a SAFU power move. Earlier reports on the dashboard said about 90% had been replenished; this post does not link a Binance statement directly in its text. 1 like, 104 impressions at scan time.",
+      "updated": "1 Nov, 06:57 (Berlin)",
+      "url": "https://x.com/TheVictorBuilds/status/2116771503694045546"
+    },
+    {
+      "topic": "Market",
+      "headline": "Launchpad 24h stats: ~62% of 504 graduations were instant bundles",
+      "coins": "Solana launchpad memecoins",
+      "detail": "@baogerbao (4,919 followers) posted 24h stats for a launchpad (link shortened, platform not named): 504 graduations, ~62% instant bundles, bundle DEX volume ~$84M vs organic ~$40M, ~61% fake-official/template clusters, only ~1.5% organic coins still above $200k six hours after graduating, median drawdown from ATH ~95%. 1 like, 37 impressions at scan time.",
+      "updated": "1 Nov, 06:52 (Berlin)",
+      "url": "https://x.com/baogerbao/status/2116769470341644687"
+    },
+    {
+      "topic": "Market",
+      "headline": "Pump.fun reality check: 97% of traders are in loss",
+      "coins": "Pump.fun memecoins (Solana)",
+      "detail": "@Blockcastcc (55,548 followers) posted a headline saying 97% of Pump.fun traders are in loss. 0 likes, 99 impressions at scan time.",
+      "updated": "1 Nov, 06:41 (Berlin)",
+      "url": "https://x.com/Blockcastcc/status/2116767283272167763"
+    },
+    {
+      "topic": "Security",
+      "headline": "OneKey founder warns older iPhones have unpatchable chip flaws that put stored seed phrases at risk",
+      "coins": "General crypto (wallet security, not a memecoin)",
+      "detail": "@WuBlockchain (559,030 followers) reports OneKey founder Yishi warned that factory-resetting an older iPhone and using it offline in airplane mode to store seed phrases may still be unsafe. 3 likes, 4,790 impressions at scan time.",
+      "updated": "1 Nov, 06:29 (Berlin)",
+      "url": "https://x.com/WuBlockchain/status/2116764451538104370"
+    },
+    {
+      "topic": "Exploit",
+      "headline": "Report: Premia options vault exploited for about $400K on Arbitrum",
+      "coins": "Premia (DeFi, not a memecoin)",
+      "detail": "@Trueo_ (6,436 followers) posted an 'exploit watch' alert about a reported $400K exploit of a Premia options vault on Arbitrum. Unconfirmed single-source report; 2 likes, 84 impressions at scan time.",
+      "updated": "1 Nov, 05:59 (Berlin)",
+      "url": "https://x.com/Trueo_/status/2116756036111770065"
+    },
+    {
+      "topic": "Exchange",
+      "headline": "Binance says it will resume withdrawals in phases today, starting between 06:00 and 09:00 UTC",
+      "coins": "Binance (exchange-wide)",
+      "detail": "@coinbureau (1.13M followers) reports Binance will reopen withdrawals progressively as each asset and network completes security checks, with temporary delays expected. Follows the $6.3B hack attributed to North Korea's TraderTraitor group. 11 likes, about 1,400 impressions at scan time.",
+      "updated": "1 Nov, 05:34 (Berlin)",
+      "url": "https://x.com/coinbureau/status/2116750588730077231"
+    },
+    {
+      "topic": "Rug claim",
+      "headline": "Holder says Pumpkin Pepe $PUMPE turned out to be a slow rug",
+      "coins": "$PUMPE",
+      "detail": "@DanielLikesArt (1,110 followers) apologises to anyone who followed them into $PUMPE, calling it a slow rug after the team didn't keep up its pumpkin-Pepe meme through October. Single holder's claim with minimal engagement (1 like); not independently confirmed.",
+      "updated": "1 Nov, 05:26 (Berlin)",
+      "url": "https://x.com/DanielLikesArt/status/2116748724064190705"
+    },
+    {
+      "topic": "Price move",
+      "headline": "$USELESS down about 29% over seven days while $WIF is flat on the day",
+      "coins": "$USELESS, $WIF (Solana)",
+      "detail": "@Crypto_Crayak (10,588 followers) notes $USELESS is the Solana meme taking the biggest hit this week, down about 29% in seven days, while $WIF barely moved today. Market commentary with no engagement yet (0 likes); figures are the poster's claims.",
+      "updated": "1 Nov, 04:16 (Berlin)",
+      "url": "https://x.com/Crypto_Crayak/status/2116730434985808043"
+    },
+    {
+      "topic": "Rug",
+      "headline": "On-chain breakdown claims 'project kimchi' rugged from $15.2M to $49K (-99.7%)",
+      "coins": "project kimchi (Solana, pump.fun CA B1Y2fJW8rtirrBuUcda14pSaeiASHaGqTxQdxU8Mpump per the post)",
+      "detail": "@ruggydotfun (36 followers, a new Solana risk-analysis account) posted a thread saying the token fell from a $15.2M to a $49K market cap, with sellers exiting in three waves rather than one dev dump. Low engagement so far (1 like); figures are the poster's claims, not independently verified.",
+      "updated": "1 Nov, 03:15 (Berlin)",
+      "url": "https://x.com/ruggydotfun/status/2116715681009869118"
+    }
+  ],
+  "hourly": [
+    {
+      "label": "10:00",
+      "value": 1132
+    },
+    {
+      "label": "",
+      "value": 1080
+    },
+    {
+      "label": "",
+      "value": 758
+    },
+    {
+      "label": "",
+      "value": 669
+    },
+    {
+      "label": "",
+      "value": 767
+    },
+    {
+      "label": "15:00",
+      "value": 1015
+    },
+    {
+      "label": "",
+      "value": 1315
+    },
+    {
+      "label": "",
+      "value": 1064
+    },
+    {
+      "label": "",
+      "value": 874
+    },
+    {
+      "label": "",
+      "value": 856
+    },
+    {
+      "label": "20:00",
+      "value": 1081
+    },
+    {
+      "label": "",
+      "value": 910
+    },
+    {
+      "label": "",
+      "value": 832
+    },
+    {
+      "label": "",
+      "value": 763
+    },
+    {
+      "label": "",
+      "value": 634
+    },
+    {
+      "label": "01:00",
+      "value": 847
+    },
+    {
+      "label": "",
+      "value": 788
+    },
+    {
+      "label": "",
+      "value": 674
+    },
+    {
+      "label": "",
+      "value": 454
+    },
+    {
+      "label": "",
+      "value": 396
+    },
+    {
+      "label": "06:00",
+      "value": 546
+    },
+    {
+      "label": "",
+      "value": 583
+    },
+    {
+      "label": "08:00",
+      "value": 709
+    }
+  ]
 }
