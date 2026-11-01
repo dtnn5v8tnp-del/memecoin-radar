@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 07:24 Berlin time (UTC+1)",
-  "newestPostId": "2116778152726872451",
+  "lastUpdated": "Sunday 1 Nov 2026, 07:31 Berlin time (UTC+1)",
+  "newestPostId": "2116780010631528800",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$STONK (teaser, no contract yet)",
+      "chain": "Unknown",
+      "chainNote": "No contract posted",
+      "buzz": "Two memecoin devs, @PR0H0S (100,587 followers, bio: '$www (8M) dev') and @sled_o (82,603 followers, bio: '$pistacio dev ($19M)'), posted the identical text 'Launching a memecoin. This would flip $STONK and push it into the billions. Who's in?' one second apart.",
+      "engagement": "About 2 likes and 1 reply each, roughly 700 impressions each at scan time.",
+      "flags": "Identical copy-paste posts suggest coordinated marketing; no ticker or contract given. Low engagement so far. High risk.",
+      "url": "https://x.com/PR0H0S/status/2116779775683604813",
+      "followers": 100587
+    },
     {
       "coin": "$Solanaween",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "No theme, posted by signal/ad accounts. Very high risk.",
       "url": "https://x.com/bitecong/status/2116689112040341546",
       "followers": 38433
-    },
-    {
-      "coin": "$NNN (NO NUT NOVEMBER)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun, still on the bonding curve; CA 7ZHjQAQWEMkMps6YM4J95x1Xnh9FjySP1dxteWyMpump per the post)",
-      "buzz": "@bitecong (38,432 followers) posted an AI signal saying NNN is a minutes-old pump.fun token riding the No Nut November internet joke on 1 November, about 90% of the way to graduation. Other small accounts are posting separate No Nut November coins too.",
-      "engagement": "0 likes, 0 reposts, 340 impressions at scan time.",
-      "flags": "Seasonal meme with several copycat tokens; posted by a signal/ad account. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116686408836583521",
-      "followers": 38432
     }
   ],
   "news": [
+    {
+      "topic": "Launchpad",
+      "headline": "windup.fun plans Nov 3 Genesis launch for leveraged memecoin trading on Hyperliquid",
+      "coins": "HYPE, Hyperliquid memecoins",
+      "detail": "@0xSlyth (5,505 followers) says @windupdotfun is building a way to long or short a memecoin the moment it launches on Elysium, and to use native HYPE staking yield to buy memes, with its Genesis launch scheduled for November 3. 12 likes, 7 replies at scan time.",
+      "updated": "1 Nov, 07:31 (Berlin)",
+      "url": "https://x.com/0xSlyth/status/2116779555168178316"
+    },
     {
       "topic": "Exchange",
       "headline": "Commentator says Binance has now fully covered the ~$6B exploit hole",
@@ -536,14 +544,6 @@
       "detail": "Posted by small bot alert account @popmemecoin (688 followers), CA 64vVGiNa4MefL4rq3mHzLiq8APfyc8iWLbumsFNfpump as posted. 12 impressions at scan time; figures are the bot's, not verified.",
       "updated": "31 Oct, 16:38 (Berlin)",
       "url": "https://x.com/popmemecoin/status/2116554917011706226"
-    },
-    {
-      "topic": "Dogecoin",
-      "headline": "Elon Musk marks 14 years since his first tweet about Dogecoin, per a 'JUST IN' post",
-      "coins": "DOGE",
-      "detail": "Posted by small alert account @popmemecoin (688 followers). Very low engagement (8 impressions); not independently verified.",
-      "updated": "31 Oct, 16:25 (Berlin)",
-      "url": "https://x.com/popmemecoin/status/2116551785242583227"
     }
   ],
   "hourly": [
