@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 05:34 Berlin time (UTC+1)",
-  "newestPostId": "2116750497684095353",
+  "lastUpdated": "Sunday 1 Nov 2026, 05:43 Berlin time (UTC+1)",
+  "newestPostId": "2116752744472060383",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exchange",
+      "headline": "Binance says it will resume withdrawals in phases today, starting between 06:00 and 09:00 UTC",
+      "coins": "Binance (exchange-wide)",
+      "detail": "@coinbureau (1.13M followers) reports Binance will reopen withdrawals progressively as each asset and network completes security checks, with temporary delays expected. Follows the $6.3B hack attributed to North Korea's TraderTraitor group. 11 likes, about 1,400 impressions at scan time.",
+      "updated": "1 Nov, 05:34 (Berlin)",
+      "url": "https://x.com/coinbureau/status/2116750588730077231"
+    },
+    {
       "topic": "Rug claim",
       "headline": "Holder says Pumpkin Pepe $PUMPE turned out to be a slow rug",
       "coins": "$PUMPE",
@@ -536,14 +544,6 @@
       "detail": "@EarlyChad_ (5,596 followers) posted the claim twice within a minute. 66 to 67 impressions, 1 like each; caller posts, figures not verified.",
       "updated": "31 Oct, 15:41 (Berlin)",
       "url": "https://x.com/EarlyChad_/status/2116540993054924945"
-    },
-    {
-      "topic": "Pump",
-      "headline": "$MONEKO on Solana claimed at $204K market cap, about 6.8x from a $30K call",
-      "coins": "$MONEKO (CA 49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump)",
-      "detail": "@EarlyChad_ (5,597 followers) called it at $30K at 15:27, then posted $204K about a minute later. 66 to 85 impressions, 1 to 2 likes; caller posts, figures not verified.",
-      "updated": "31 Oct, 15:30 (Berlin)",
-      "url": "https://x.com/EarlyChad_/status/2116537732314931216"
     }
   ],
   "hourly": [
