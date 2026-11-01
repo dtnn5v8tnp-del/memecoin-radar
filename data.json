@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 13:38 Berlin time (UTC+1)",
-  "newestPostId": "2116872170119061775",
+  "lastUpdated": "Sunday 1 Nov 2026, 13:45 Berlin time (UTC+1)",
+  "newestPostId": "2116874094482448639",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$CLAUDE",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA BAQQ91EUTdtmhU4yuB579Az2LCagckSSm2XBisdpump (from the posts)",
+      "buzz": "Call account @EarlyChad_ posted it at $39K market cap, then about a minute later claimed $103K (2.6x). The same account also claims a $FOMO call went from $39K to $148K.",
+      "engagement": "1 like each; about 45 to 84 impressions at scan time.",
+      "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
+      "url": "https://x.com/EarlyChad_/status/2116874094482448639",
+      "followers": 5679
+    },
     {
       "coin": "$P2P",
       "chain": "Solana (pump.fun)",
@@ -292,19 +302,17 @@
       "flags": "No ticker, chain, or contract; copy-paste Telegram-gated teaser is a common shill pattern. Very high risk.",
       "url": "https://x.com/PR0H0S/status/2116757374820118576",
       "followers": 100567
-    },
-    {
-      "coin": "Unnamed teaser (no ticker yet)",
-      "chain": "Unknown",
-      "chainNote": "Not stated; contract address promised via Telegram only",
-      "buzz": "@sled_o (82,590 followers, bio says they were the dev of $pistacio) teases 'the BIGGEST memecoin of 2026' and points people to a Telegram group for the early contract address.",
-      "engagement": "0 likes, 0 reposts, 479 impressions at scan time.",
-      "flags": "No ticker, chain, or contract yet; Telegram-gated CA is a common shill pattern. Very high risk.",
-      "url": "https://x.com/sled_o/status/2116749824972259466",
-      "followers": 82590
     }
   ],
   "news": [
+    {
+      "topic": "Pump / ANSEM",
+      "headline": "Call account claims $ANSEM ran from $24K to $420K market cap",
+      "coins": "$ANSEM",
+      "detail": "@Kaan_Capitug0 (881 followers) posted a series of escalating updates ($177K, $314K, then $420K MC) with VIP Telegram funnels. A separate small account (@Dev_Great_dev, 31 followers) claims a big SOL bull opened about an $880K short on a memecoin perps app and $ANSEM dumped; that claim is unverified. Near-zero engagement on all of these posts.",
+      "updated": "1 Nov, 13:45 (Berlin)",
+      "url": "https://x.com/Kaan_Capitug0/status/2116873921446150265"
+    },
     {
       "topic": "Exchange / Binance recovery",
       "headline": "Binance re-enables withdrawals for ZEC, TON (USDT, GRAM) and SUI",
@@ -536,14 +544,6 @@
       "detail": "Per the X News story, Ansem (@blknoiz06) shorted $880,610 of SOL on Pump.fun's new Hyperliquid-linked perpetual futures, with a liquidation price of $101.64. $ANSEM sits at about a $45 million market cap, 89% below its peak, and critics are pressing on unfulfilled buyback promises.",
       "updated": "31 Oct, 20:12 (Berlin)",
       "url": "https://x.com/i/trending/2116088121326735441"
-    },
-    {
-      "topic": "Exploit",
-      "headline": "X News: b14g Bitcoin staking protocol on Core loses about 97 million CORE in an unauthorized withdrawal",
-      "coins": "$CORE",
-      "detail": "Per the X News story, roughly 97 million CORE (about $1.36 million midday) moved to attacker-controlled addresses at 09:29 UTC; b14g paused its contracts, exchanges froze about 9 million CORE, staked BTC stayed safe, and CORE dropped about 8%. A post-mortem is promised.",
-      "updated": "31 Oct, 23:09 (Berlin)",
-      "url": "https://x.com/i/trending/2116621590528242007"
     }
   ],
   "hourly": [
