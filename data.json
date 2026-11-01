@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 01:43 Berlin time (UTC+1)",
-  "newestPostId": "2116692421203595638",
+  "lastUpdated": "Sunday 1 Nov 2026, 01:51 Berlin time (UTC+1)",
+  "newestPostId": "2116694224989041049",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$HINA (ヒナ)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun; CA 7Kzn17PVgf7GAfdydcSJ2Q5xMrHoGi1TE1yWAAPtpump per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal calling HINA a Hokkaido chick-themed token that just launched on pump.fun; the name is Japanese for chick and the description just says \"Lets do this!\".",
+      "engagement": "0 likes, 0 reposts, 313 impressions at scan time.",
+      "flags": "Fresh pump.fun launch posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116693619046564249",
+      "followers": 38433
+    },
     {
       "coin": "$BLUEBALLS (Blue Balls)",
       "chain": "Solana",
@@ -292,19 +302,33 @@
       "flags": "Automated alert accounts only, no organic buzz; very early and thin liquidity.",
       "url": "https://x.com/bitecong/status/2116593024948175174",
       "followers": 38436
-    },
-    {
-      "coin": "$TRICK (Trick or Trade)",
-      "chain": "Solana",
-      "chainNote": "Solana (launch platform link in post)",
-      "buzz": "@0x_NFT (1,193 followers) announced TRICK OR TRADE ($TRICK), a Halloween-themed memecoin launching on Solana.",
-      "engagement": "3 likes, 1 reply, 15 impressions at scan time.",
-      "flags": "Self-announced by the creator; no contract address in the post text; seasonal Halloween meme with very early, thin engagement.",
-      "url": "https://x.com/0x_NFT/status/2116591670024401088",
-      "followers": 1193
     }
   ],
   "news": [
+    {
+      "topic": "Whale/celebrity",
+      "headline": "X News: Ansem's $ANSEM memecoin is down 89% from its peak as he opens an $880K SOL short on Pump.fun perps",
+      "coins": "$ANSEM, $SOL",
+      "detail": "Per the X News story, Ansem (@blknoiz06) shorted $880,610 of SOL on Pump.fun's new Hyperliquid-linked perpetual futures, with a liquidation price of $101.64. $ANSEM sits at about a $45 million market cap, 89% below its peak, and critics are pressing on unfulfilled buyback promises.",
+      "updated": "31 Oct, 20:12 (Berlin)",
+      "url": "https://x.com/i/trending/2116088121326735441"
+    },
+    {
+      "topic": "Exploit",
+      "headline": "X News: b14g Bitcoin staking protocol on Core loses about 97 million CORE in an unauthorized withdrawal",
+      "coins": "$CORE",
+      "detail": "Per the X News story, roughly 97 million CORE (about $1.36 million midday) moved to attacker-controlled addresses at 09:29 UTC; b14g paused its contracts, exchanges froze about 9 million CORE, staked BTC stayed safe, and CORE dropped about 8%. A post-mortem is promised.",
+      "updated": "31 Oct, 23:09 (Berlin)",
+      "url": "https://x.com/i/trending/2116621590528242007"
+    },
+    {
+      "topic": "Exploit",
+      "headline": "X News: Iron Fish shuts down after an inflation-bug exploit minted nearly 3 billion fake wIRON",
+      "coins": "$IRON / wIRON",
+      "detail": "Per the X News story, attackers used a bug from a 2019 commit to mint nearly 3 billion wIRON (39 times real supply), bridged out and cashed about $197K, and the market cap fell from $200 million to about $2K. The team ended network support on 31 Oct.",
+      "updated": "31 Oct, 19:35 (Berlin)",
+      "url": "https://x.com/i/trending/2116413213189288300"
+    },
     {
       "topic": "Rug",
       "headline": "Robinhood Chain wallet repeating a create-token, pull-liquidity loop",
@@ -520,30 +544,6 @@
       "detail": "@WOLF_Crypto_X (21,975 followers) reports Oct 30 spot ETF flows of -$643.33M for BTC, -$155.85M for ETH and -$10.74M for SOL (BSOL -$9.26M). 106 impressions; figures not verified.",
       "updated": "31 Oct, 14:51 (Berlin)",
       "url": "https://x.com/WOLF_Crypto_X/status/2116527958223368361"
-    },
-    {
-      "topic": "Pump",
-      "headline": "$UNSAFU on Solana flagged as surging +498% in 24h by a DEX-alert account",
-      "coins": "$UNSAFU (CA 4eq4JfnpdgqZTzeyR3GnRGHJQ3QhQT6Lp7nKnQ2nS7Rv)",
-      "detail": "@popmemecoin (688 followers, automated alerts) reports a $253.2K market cap and +498% 24h change. 9 impressions, 0 likes; figures not verified.",
-      "updated": "31 Oct, 14:43 (Berlin)",
-      "url": "https://x.com/popmemecoin/status/2116526024099860860"
-    },
-    {
-      "topic": "Viral",
-      "headline": "@0xMrPinky shares a story of a dev who threatened a goldfish if his memecoin didn't hit $1M market cap",
-      "coins": "Not named in the post",
-      "detail": "@0xMrPinky (158K followers) says the coin pumped and the dev made over $200,000. 2.1K impressions, 17 likes so far; not verified.",
-      "updated": "31 Oct, 14:24 (Berlin)",
-      "url": "https://x.com/0xMrPinky/status/2116520595164676490"
-    },
-    {
-      "topic": "Market and holders",
-      "headline": "@stitchdegen recaps a Robinhood-named token launched Oct 29, calling it one of the hottest on crypto Twitter",
-      "coins": "robinhood (0xacc8de336f5d2366fa7334383d8fab73499f582a)",
-      "detail": "@stitchdegen (31.5K followers) covers the token in a memecoin recap series after many requests. 682 impressions, 3 likes so far; not verified.",
-      "updated": "31 Oct, 13:38 (Berlin)",
-      "url": "https://x.com/stitchdegen/status/2116510232931377528"
     }
   ],
   "hourly": [
