@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 10:43 Berlin time (UTC+1)",
-  "newestPostId": "2116828508785901803",
+  "lastUpdated": "Sunday 1 Nov 2026, 10:52 Berlin time (UTC+1)",
+  "newestPostId": "2116830574979530931",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Platform stats",
+      "headline": "X News: only 312 of 24.4M Pump.fun coins still trade above $100K market cap",
+      "coins": "Pump.fun / Solana memecoins",
+      "detail": "X news summary: of 24.4 million coins launched on Pump.fun, just 312 remain above a $100,000 market cap (about 0.0013%). Critics call it a 'rug factory'; supporters say low-effort launches drive the failure rate. The platform has generated over $1 billion in fees.",
+      "updated": "1 Nov, 10:26 (Berlin)",
+      "url": "https://x.com/i/trending/2116749869553512459"
+    },
+    {
       "topic": "Price move",
       "headline": "crypto.news: $PEPE up 14% this week despite post-Binance-hack turbulence",
       "coins": "PEPE",
@@ -536,14 +544,6 @@
       "detail": "@enzocooks (441,916 followers) posted that a wallet aped $27k into $PONS and is up +$4,072,898 from it. Claim not independently verified; 3 likes, 920 impressions at scan time.",
       "updated": "31 Oct, 18:51 (Berlin)",
       "url": "https://x.com/enzocooks/status/2116588768149000223"
-    },
-    {
-      "topic": "Exploit follow-up",
-      "headline": "The Observer reports crypto prices tumbled after the $6.3B Binance hack",
-      "coins": "Broad market (no memecoin named)",
-      "detail": "@ObserverUK (45,611 followers) posted its story saying exchanges are beefing up security and the heist fuels fears that AI is helping groups like North Korea-linked TraderTraitors exploit vulnerabilities. 20 impressions at scan time.",
-      "updated": "31 Oct, 18:26 (Berlin)",
-      "url": "https://x.com/ObserverUK/status/2116582475895914520"
     }
   ],
   "hourly": [
