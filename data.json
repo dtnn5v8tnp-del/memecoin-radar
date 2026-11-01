@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 05:54 Berlin time (UTC+1)",
-  "newestPostId": "2116755403870527690",
+  "lastUpdated": "Sunday 1 Nov 2026, 05:59 Berlin time (UTC+1)",
+  "newestPostId": "2116756776125104616",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exploit",
+      "headline": "Report: Premia options vault exploited for about $400K on Arbitrum",
+      "coins": "Premia (DeFi, not a memecoin)",
+      "detail": "@Trueo_ (6,436 followers) posted an 'exploit watch' alert about a reported $400K exploit of a Premia options vault on Arbitrum. Unconfirmed single-source report; 2 likes, 84 impressions at scan time.",
+      "updated": "1 Nov, 05:59 (Berlin)",
+      "url": "https://x.com/Trueo_/status/2116756036111770065"
+    },
+    {
       "topic": "Exchange",
       "headline": "Binance says it will resume withdrawals in phases today, starting between 06:00 and 09:00 UTC",
       "coins": "Binance (exchange-wide)",
@@ -536,14 +544,6 @@
       "detail": "X news summary: visitors were redirected to wallet-draining pages; Blockaid warned users, teams took sites offline or moved domains (e.g. flap.cool). No on-chain activity reported affected. Don't connect wallets to these sites until confirmed safe.",
       "updated": "31 Oct, 15:23 (Berlin)",
       "url": "https://x.com/i/trending/2116359578120274100"
-    },
-    {
-      "topic": "Pump",
-      "headline": "$LEVERHEDGE on Solana claimed at $1.6M market cap, about 36x from a $44K call",
-      "coins": "$LEVERHEDGE (CA FWatMYieKhRuJ1yuTcmVG1njRhZWwqHwjR11pBympump)",
-      "detail": "@EarlyChad_ (5,596 followers) posted the claim twice within a minute. 66 to 67 impressions, 1 like each; caller posts, figures not verified.",
-      "updated": "31 Oct, 15:41 (Berlin)",
-      "url": "https://x.com/EarlyChad_/status/2116540993054924945"
     }
   ],
   "hourly": [
