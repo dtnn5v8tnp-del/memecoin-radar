@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 01:37 Berlin time (UTC+1)",
-  "newestPostId": "2116690922918359494",
+  "lastUpdated": "Sunday 1 Nov 2026, 01:42 Berlin time (UTC+1)",
+  "newestPostId": "2116692144366776529",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$BLUEBALLS (Blue Balls)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, still on the bonding curve; CA FUzY9vpsEesiyzrcoXGN8hxuvwpYZsqq8WmQtsggpump per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal calling BLUEBALLS a fresh pump.fun launch, most of the way to graduation, with the theme carried by the name alone. It fits the No Nut November joke wave alongside $NNN.",
+      "engagement": "1 like, 0 reposts, 212 impressions at scan time.",
+      "flags": "Joke-name token posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116692069494440007",
+      "followers": 38433
+    },
     {
       "coin": "$NICO (The PumpFun Intern)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Self-announced by the creator; no contract address in the post text; seasonal Halloween meme with very early, thin engagement.",
       "url": "https://x.com/0x_NFT/status/2116591670024401088",
       "followers": 1193
-    },
-    {
-      "coin": "$DACITY",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun-style CA posted)",
-      "buzz": "@gta6dacity (138 followers) is pushing $DACITY, a GTA 6 meme about a hidden plane in Leonida, claiming 21,670 holders and a $9.15M market cap.",
-      "engagement": "0 likes, 4 impressions at scan time.",
-      "flags": "Holder and market-cap figures are the project's own claims, not verified; promoted by a small project-linked account; GTA 6 memecoins are a crowded, hype-driven niche.",
-      "url": "https://x.com/gta6dacity/status/2116591035103015262",
-      "followers": 138
     }
   ],
   "news": [
