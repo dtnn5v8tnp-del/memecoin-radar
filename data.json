@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:40 Berlin time (UTC+1)",
-  "newestPostId": "2116842759462244429",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:48 Berlin time (UTC+1)",
+  "newestPostId": "2116844632319397956",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Dacity Coin ($DACITY)",
+      "chain": "Solana",
+      "chainNote": "No contract address in the post.",
+      "buzz": "@madapescall (77,549 followers) calls $DACITY a GTA-inspired meme, saying the GTA 6 launch trailer briefly mentioned a \"Dacity Coin\" and traders are speculating about its role in-game. Describes it as a higher-mcap play with the chart holding.",
+      "engagement": "6 likes, 2 reposts, about 1,200 impressions at scan time.",
+      "flags": "Call-account post; trailer link to the coin is the poster's claim and unverified.",
+      "url": "https://x.com/madapescall/status/2116843587677851703",
+      "followers": 77549
+    },
     {
       "coin": "Spermcoin ($Sperm)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Very fresh launch flagged by a bot-style signal account; figures are the poster's claims and engagement is minimal. Very high risk.",
       "url": "https://x.com/bitecong/status/2116729074949529845",
       "followers": 38436
-    },
-    {
-      "coin": "Unnamed (@_rise's pump.fun coin)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA 4tF68xLoNWWqUjcVtUjcQhucRL7jD9jTwi3NwXmBpump per the post)",
-      "buzz": "@_rise (19,930 followers) says 'my version of a memecoin' is live on Pump Fun, with 60% of supply to be airdropped to the top 15 holders at bonding and a $7,000 buy promised in 15 minutes.",
-      "engagement": "1 like, 0 reposts, 199 impressions at scan time.",
-      "flags": "Fresh launch with very little engagement yet; the dev buy and airdrop are the poster's own promises. Very high risk.",
-      "url": "https://x.com/_rise/status/2116725224813277560",
-      "followers": 19930
     }
   ],
   "news": [
