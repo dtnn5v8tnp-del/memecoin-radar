@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 02:25 Berlin time (UTC+1)",
-  "newestPostId": "2116702760552837561",
+  "lastUpdated": "Sunday 1 Nov 2026, 02:32 Berlin time (UTC+1)",
+  "newestPostId": "2116704570655334420",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$BONKO (The Pudgy Bear)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun; CA 6Y9TFE8ygQBe3dZZicd4RCSCyY6a6nKFhe2zwogrpump per the post)",
+      "buzz": "@bitecong (38,435 followers) posted an AI signal saying the bear-themed $BONKO launched on pump.fun minutes earlier and was most of the way to graduation on the bonding curve.",
+      "engagement": "0 likes, 0 reposts, 258 impressions at scan time.",
+      "flags": "Posted by a signal/ad account. Brand-new pump.fun token. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116704473397789002",
+      "followers": 38435
+    },
     {
       "coin": "Zebra Ándale",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Coordinated paid-call style promotion with VIP/Telegram pitches; claims unverified, very high risk.",
       "url": "https://x.com/sol_t01/status/2116608277635362937",
       "followers": 9127
-    },
-    {
-      "coin": "$AAPLCAT",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@popmemecoin (691 followers) posted an automated alert saying $AAPLCAT is up 468.0% in 24h with a $245.8K market cap.",
-      "engagement": "0 likes, 16 impressions at scan time.",
-      "flags": "Bot-style alert account; also pushed by VIP-call accounts; very high risk.",
-      "url": "https://x.com/popmemecoin/status/2116608097707827219",
-      "followers": 691
     }
   ],
   "news": [
