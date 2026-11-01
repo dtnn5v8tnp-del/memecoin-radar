@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 09:09 Berlin time (UTC+1)",
-  "newestPostId": "2116804695918334359",
+  "lastUpdated": "Sunday 1 Nov 2026, 09:15 Berlin time (UTC+1)",
+  "newestPostId": "2116806142928081187",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "LaowuCoin (老吴)",
+      "chain": "BSC",
+      "chainNote": "CA 0xdf8a2cccbff4a15616fc4ea6fd3574645d317777",
+      "buzz": "Automated signal account @bitecong (38,443 followers) flagged a cat-named meme coin launched on Flap a few minutes earlier, noting no clear theme and a buyer base dominated by fresh wallets.",
+      "engagement": "Low: 0 likes, 397 impressions at scan time.",
+      "flags": "Automated signal post; heavy fresh-wallet buying is a common wash or bundle pattern. High risk.",
+      "url": "https://x.com/bitecong/status/2116805308404437081",
+      "followers": 38443
+    },
     {
       "coin": "币安 (You Bin An)",
       "chain": "BSC",
@@ -291,16 +301,6 @@
       "engagement": "0 likes, 0 reposts, 210 impressions at scan time.",
       "flags": "Heavy wallet bundling per the post. Posted by a signal/ad account. Very high risk.",
       "url": "https://x.com/bitecong/status/2116699011805810824",
-      "followers": 38433
-    },
-    {
-      "coin": "$PUTIN (Vladimir Putin Coin, third Putin-themed launch today)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun, graduated to PumpSwap; CA 9ivsveqwXzsCXYba3SDDzaocx27DbfYpLuZPb9Bdpump per the post)",
-      "buzz": "@bitecong (38,433 followers) posted an AI signal saying this is the third Putin-themed Solana launch today; it graduated from pump.fun to PumpSwap after about 1h34m, and the early crowd thinned out fast.",
-      "engagement": "0 likes, 0 reposts, 244 impressions at scan time.",
-      "flags": "Copycat name of earlier Putin launches. Posted by a signal/ad account. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116698101759320138",
       "followers": 38433
     }
   ],
