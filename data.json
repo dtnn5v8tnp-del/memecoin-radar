@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 02:07 Berlin time (UTC+1)",
-  "newestPostId": "2116698393317663115",
+  "lastUpdated": "Sunday 1 Nov 2026, 02:10 Berlin time (UTC+1)",
+  "newestPostId": "2116699171486921123",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$buni",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun; CA 3aKuEDCKiXGyUAqnsQPGXceNs5ePQ1wuQcQJpLJUpump per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal saying $buni was nearly at pump.fun graduation just over four minutes after launch, with a bundle count running into the hundreds of wallets at signal time.",
+      "engagement": "0 likes, 0 reposts, 210 impressions at scan time.",
+      "flags": "Heavy wallet bundling per the post. Posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116699011805810824",
+      "followers": 38433
+    },
     {
       "coin": "$PUTIN (Vladimir Putin Coin, third Putin-themed launch today)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Bot-style signal account; tiny liquidity; holiday-themed micro-cap, very high risk.",
       "url": "https://x.com/solhousesignals/status/2116601444069409217",
       "followers": 3013
-    },
-    {
-      "coin": "$Satoshi (Satoshi Nakamoto)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@bitecong (38,436 followers) posted an automated AI signal saying this is the third Satoshi-themed launch today and it graduated from pump.fun to PumpSwap about 7 minutes after launch. It says 203 wallets were tagged as bundlers at signal time and only four remain.",
-      "engagement": "0 likes, 248 impressions at scan time.",
-      "flags": "Bot-style signal account; heavy bundling flagged by the poster; brand-new pair, very high risk.",
-      "url": "https://x.com/bitecong/status/2116598551279202771",
-      "followers": 38436
     }
   ],
   "news": [
