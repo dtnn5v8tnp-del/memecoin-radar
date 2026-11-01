@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 09:24 Berlin time (UTC+1)",
-  "newestPostId": "2116808181884362769",
+  "lastUpdated": "Sunday 1 Nov 2026, 09:32 Berlin time (UTC+1)",
+  "newestPostId": "2116810497505022239",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Whale",
+      "headline": "Small account claims Justin Sun is now PEPE's largest individual holder",
+      "coins": "PEPE",
+      "detail": "@420dotmeme (348 followers) says Justin Sun's PEPE position grew from $267k to $51M in 10 days and credits Arkham for calling him the largest individual holder. Unverified: no engagement at scan time and no larger outlet seen yet.",
+      "updated": "1 Nov, 09:32 (Berlin)",
+      "url": "https://x.com/420dotmeme/status/2116810497505022239"
+    },
+    {
       "topic": "Price move",
       "headline": "BSC News: $PEPE up 14% on the week despite the Binance hack turmoil",
       "coins": "PEPE",
@@ -536,14 +544,6 @@
       "detail": "@cerrocoso (2,383 followers) posted '$2K to $1.1M MCAP', and alert bot @popmemecoin (689 followers) claimed +1420% in 24h and a $1.00M market cap. Both posts had almost no engagement (1 like, 40 impressions at most). Figures are the posters' claims, not verified; same-name tokens with different contracts are common.",
       "updated": "31 Oct, 17:23 (Berlin)",
       "url": "https://x.com/cerrocoso/status/2116566458251517996"
-    },
-    {
-      "topic": "Rug claim",
-      "headline": "Trader says 'The Black Bull' Solana memecoin was a bundled token that slow-rugged toward zero",
-      "coins": "Black Bull (Solana, CA 9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump as posted)",
-      "detail": "Posted by @YokaiCapital (30,429 followers), who says they had warned the token was 'fully bundled' with no real holders and tagged @blknoiz06. A second account, @thetillydog (919 followers), separately said the same contract 'rugged'. 439 impressions and 1 like at scan time. Claims only, not independently verified.",
-      "updated": "31 Oct, 17:04 (Berlin)",
-      "url": "https://x.com/YokaiCapital/status/2116561556477771854"
     }
   ],
   "hourly": [
