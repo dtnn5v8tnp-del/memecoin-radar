@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:32 Berlin time (UTC+1)",
-  "newestPostId": "2116840804161601631",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:35 Berlin time (UTC+1)",
+  "newestPostId": "2116841397135221162",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Mighty White Yak (牦牛)",
+      "chain": "Solana",
+      "chainNote": "CA 6jUAqc62fsc1uA671K2WCEiScZmvm78o3rRsUModpump",
+      "buzz": "Automated signal account @bitecong (38,447 followers) says this pump.fun launch is about forty minutes old, themed on a white yak, and has already graduated to PumpSwap.",
+      "engagement": "Low: 0 likes, 384 impressions at scan time.",
+      "flags": "Automated signal post; very new token.",
+      "url": "https://x.com/bitecong/status/2116840918443798890",
+      "followers": 38447
+    },
     {
       "coin": "MINTED (Minted)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Pre-launch announcement only, no CA yet. Repost-for-airdrop engagement bait from a 'memecoin millionaire' account; never post a wallet tied to real funds. Very high risk.",
       "url": "https://x.com/TexrTrades/status/2116723744890851642",
       "followers": 104259
-    },
-    {
-      "coin": "Seamus O'Grady memecoin (no ticker given)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun; CA 6p8S1W9tKjdU3SCTB7chZzNJMnBYdPMdUvfQNRTipump per the post)",
-      "buzz": "@SeamusOGradyMMA (1,074 followers) announced that the 'official Seamus O'Grady memecoin' is live on pump.fun, tagged #ufc #mma.",
-      "engagement": "0 likes, 0 reposts, 9 impressions at scan time.",
-      "flags": "Athlete-branded token from a small account; not verified as the fighter's official account. No traction yet. Very high risk.",
-      "url": "https://x.com/SeamusOGradyMMA/status/2116710261968998408",
-      "followers": 1074
     }
   ],
   "news": [
