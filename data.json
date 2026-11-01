@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 04:05 Berlin time (UTC+1)",
-  "newestPostId": "2116728234775576697",
+  "lastUpdated": "Sunday 1 Nov 2026, 04:11 Berlin time (UTC+1)",
+  "newestPostId": "2116729570133262806",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$KICK (kickback - launch your ETFs)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (CA F2xAwqV7oA4GT3S1FSUcjNFDN8ENWY9B4mo3CdqRpump per the post)",
+      "buzz": "@bitecong (38,436 followers, an automated 'AI Signal' account) says the token reached 87% of the pump.fun bonding curve about twelve minutes after launch and flags an unusual buyer list.",
+      "engagement": "0 likes, 0 reposts, 317 impressions at scan time.",
+      "flags": "Very fresh launch flagged by a bot-style signal account; figures are the poster's claims and engagement is minimal. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116729074949529845",
+      "followers": 38436
+    },
     {
       "coin": "Unnamed (@_rise's pump.fun coin)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal post; also pushed by paid 'call' accounts. Very early and very high risk.",
       "url": "https://x.com/bitecong/status/2116626940564328539",
       "followers": 38431
-    },
-    {
-      "coin": "$AGENCY",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@bitecong (38,434 followers) AI signal account flagged $AGENCY about two minutes after its pump.fun launch, pointing to how the biggest early wallets traded.",
-      "engagement": "0 likes, 320 impressions at scan time.",
-      "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
-      "url": "https://x.com/bitecong/status/2116617287327473779",
-      "followers": 38434
     }
   ],
   "news": [
