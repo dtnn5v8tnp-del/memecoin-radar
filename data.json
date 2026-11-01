@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 10:15 Berlin time (UTC+1)",
-  "newestPostId": "2116821274722713690",
+  "lastUpdated": "Sunday 1 Nov 2026, 10:19 Berlin time (UTC+1)",
+  "newestPostId": "2116822358497648934",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exploit follow-up",
+      "headline": "X News: Binance hacker's wallet swapped $5M of PROM for just $71 on Uniswap",
+      "coins": "PROM",
+      "detail": "X News summary: the wallet tied to the Lazarus group behind the $6.3B Binance theft dumped 908,793 PROM into a nearly empty Uniswap V2 pool on Oct 31 and got back only 0.0316 ETH. The summary says the hackers have lost over $100M to bad trades overall but still hold billions; Binance is covering customer losses via SAFU.",
+      "updated": "1 Nov, 09:48 (Berlin)",
+      "url": "https://x.com/i/trending/2116776918066336247"
+    },
+    {
       "topic": "Whale",
       "headline": "Small account claims Justin Sun is now PEPE's largest individual holder",
       "coins": "PEPE",
@@ -536,14 +544,6 @@
       "detail": "Posted as 'JUST IN' by alert account @popmemecoin (690 followers) with 12 impressions and no likes; a domain-seller account, @AniverseAI (217 followers), separately praised Binance for promising to replace stolen funds. No source linked in the post text, so treat the 90% figure as an unverified claim.",
       "updated": "31 Oct, 18:11 (Berlin)",
       "url": "https://x.com/popmemecoin/status/2116578359350079588"
-    },
-    {
-      "topic": "Pump claim",
-      "headline": "Alert accounts say a second $DAVID token on Solana ran to about $1M market cap",
-      "coins": "$DAVID (Solana, CA 6a81PfhejwCM3bB4F3Rnbzk9ALNmg4YGeyjKd5Nxpump as posted), a different contract from the $DAVID launch listed earlier",
-      "detail": "@cerrocoso (2,383 followers) posted '$2K to $1.1M MCAP', and alert bot @popmemecoin (689 followers) claimed +1420% in 24h and a $1.00M market cap. Both posts had almost no engagement (1 like, 40 impressions at most). Figures are the posters' claims, not verified; same-name tokens with different contracts are common.",
-      "updated": "31 Oct, 17:23 (Berlin)",
-      "url": "https://x.com/cerrocoso/status/2116566458251517996"
     }
   ],
   "hourly": [
