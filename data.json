@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 04:11 Berlin time (UTC+1)",
-  "newestPostId": "2116729570133262806",
+  "lastUpdated": "Sunday 1 Nov 2026, 04:16 Berlin time (UTC+1)",
+  "newestPostId": "2116731063267475749",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Price move",
+      "headline": "$USELESS down about 29% over seven days while $WIF is flat on the day",
+      "coins": "$USELESS, $WIF (Solana)",
+      "detail": "@Crypto_Crayak (10,588 followers) notes $USELESS is the Solana meme taking the biggest hit this week, down about 29% in seven days, while $WIF barely moved today. Market commentary with no engagement yet (0 likes); figures are the poster's claims.",
+      "updated": "1 Nov, 04:16 (Berlin)",
+      "url": "https://x.com/Crypto_Crayak/status/2116730434985808043"
+    },
+    {
       "topic": "Rug",
       "headline": "On-chain breakdown claims 'project kimchi' rugged from $15.2M to $49K (-99.7%)",
       "coins": "project kimchi (Solana, pump.fun CA B1Y2fJW8rtirrBuUcda14pSaeiASHaGqTxQdxU8Mpump per the post)",
@@ -536,14 +544,6 @@
       "detail": "@EarlyChad_ (5,597 followers) called it at $15K at 15:22, then posted $158K and $236K within minutes; @BadManLeek (3,122 followers) separately claimed 21.5x. 11 to 104 impressions, about 1 like each; caller posts, figures not verified.",
       "updated": "31 Oct, 15:27 (Berlin)",
       "url": "https://x.com/EarlyChad_/status/2116537178331250789"
-    },
-    {
-      "topic": "Pump",
-      "headline": "$AMAZON on Solana claimed at $1.2M market cap, about 29x from a $41K call",
-      "coins": "$AMAZON (CA 9L2FD9gNEu8h9NdD9VqRWCqhNgh1UznG8Ve7VZWpump)",
-      "detail": "@Sol_Ficra (5,582 followers) posted $1.1M then $1.2M market cap within a minute. 23 to 33 impressions, 1 to 2 likes; single caller promoting DMs, figures not verified.",
-      "updated": "31 Oct, 15:17 (Berlin)",
-      "url": "https://x.com/Sol_Ficra/status/2116535047767396370"
     }
   ],
   "hourly": [
