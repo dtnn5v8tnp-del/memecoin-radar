@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 13:08 Berlin time (UTC+1)",
-  "newestPostId": "2116864882842964202",
+  "lastUpdated": "Sunday 1 Nov 2026, 13:15 Berlin time (UTC+1)",
+  "newestPostId": "2116866617170710828",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$DODO (Shih Tzu dog coin)",
+      "chain": "Solana",
+      "chainNote": "No contract address in the post",
+      "buzz": "@CryptoAndrew_1 (75,043 followers) promotes $DODO as a Shih Tzu-themed Solana memecoin with 1% locked for pet charity, claiming it crossed $50k market cap within days and is aiming for $100k.",
+      "engagement": "192 likes, about 5,150 impressions at scan time.",
+      "flags": "Promotional post from a large account (possibly paid); market cap and charity lock claims are unverified; very small cap.",
+      "url": "https://x.com/CryptoAndrew_1/status/2116865478945902682",
+      "followers": 75043
+    },
     {
       "coin": "Unnamed pump.fun token from @_rise",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "1 like, 0 reposts, 343 impressions at scan time.",
       "flags": "Automated signal account; no stated theme or team. Very high risk.",
       "url": "https://x.com/bitecong/status/2116735338786009199",
-      "followers": 38437
-    },
-    {
-      "coin": "Floki ($Floki)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA 55DxxXmwW5qmbLqByn7o71PEPXSk2Bpj8cd6Lwf6pump per the post)",
-      "buzz": "@bitecong (38,437 followers, an automated 'AI Signal' account) says this is the third Floki-named launch on Solana today, and that a related coin, Flokicoin, was about 75% of the way to graduating off the pump.fun bonding curve roughly six minutes after launch. The post flags an odd buyer list.",
-      "engagement": "1 like, 0 reposts, 300 impressions at scan time.",
-      "flags": "Automated signal account; copycat-name launch with a suspicious buyer list per the poster. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116734260388442140",
       "followers": 38437
     }
   ],
