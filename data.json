@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 01:51 Berlin time (UTC+1)",
-  "newestPostId": "2116694224989041049",
+  "lastUpdated": "Sunday 1 Nov 2026, 01:57 Berlin time (UTC+1)",
+  "newestPostId": "2116695925871591699",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$AI (Alien inu)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun; CA DQep2JrCBtRuptcBUwK1H8XAjq4CWfAVXbCAe4DJjPTM per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal saying Alien inu is a pump.fun coin that crossed most of its bonding curve in under a minute.",
+      "engagement": "1 like, 0 reposts, 333 impressions at scan time.",
+      "flags": "Fresh pump.fun launch posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116695046250782874",
+      "followers": 38433
+    },
     {
       "coin": "$HINA (ヒナ)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes; 163 impressions at scan time.",
       "flags": "Automated alert accounts only, no organic buzz; very early.",
       "url": "https://x.com/bitecong/status/2116595277192978584",
-      "followers": 38436
-    },
-    {
-      "coin": "$GIMMIGHOUL (Gimmighoul)",
-      "chain": "Solana",
-      "chainNote": "Solana (Pump.fun, graduated to Pump AMM)",
-      "buzz": "@bitecong (38,436 followers) posted an AI signal on Gimmighoul, a Pokémon-named Pump.fun token about three minutes old and 98% of the way to graduation; @SolTokenScan then flagged its move to Pump AMM with a $52.0K all-time-high market cap, $16.6K liquidity and 286 holders.",
-      "engagement": "0 likes on both posts; 332 and 87 impressions at scan time.",
-      "flags": "Automated alert accounts only, no organic buzz; very early and thin liquidity.",
-      "url": "https://x.com/bitecong/status/2116593024948175174",
       "followers": 38436
     }
   ],
