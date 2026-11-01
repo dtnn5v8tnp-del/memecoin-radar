@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 06:08 Berlin time (UTC+1)",
-  "newestPostId": "2116759178828198239",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:17 Berlin time (UTC+1)",
+  "newestPostId": "2116761445090083319",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$OTC",
+      "chain": "Solana",
+      "chainNote": "pump.fun",
+      "buzz": "@otc_bargain (8 followers), the project's own account, says $OTC is now live: a tool to buy and sell large memecoin bags directly between wallets with public bids/asks and private offers, without moving the chart.",
+      "engagement": "3 likes, 0 reposts, 259 impressions at scan time.",
+      "flags": "Brand-new account with almost no followers; self-promotion only. Very high risk.",
+      "url": "https://x.com/otc_bargain/status/2116760658175762606",
+      "followers": 8
+    },
+    {
+      "coin": "$TIPR",
+      "chain": "Solana",
+      "chainNote": "pump.fun",
+      "buzz": "Several 'call' accounts (@CipherEdgeCalls, @AlphaPulsevw, @CristinaCuba1) posted near-identical claims that $TIPR ran from about $21.88K to roughly $248K–$301K market cap within minutes.",
+      "engagement": "0–1 likes per post, under 70 impressions each at scan time.",
+      "flags": "Coordinated call-account promotion with VIP Telegram pitches; looks like a shill farm. Extremely high risk.",
+      "url": "https://x.com/CipherEdgeCalls/status/2116761357576249633",
+      "followers": 4076
+    },
     {
       "coin": "$ELON (The Meme Dealer)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Automated signal post with no organic engagement; very high risk.",
       "url": "https://x.com/bitecong/status/2116653177387037024",
       "followers": 38431
-    },
-    {
-      "coin": "$KIM",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "Call accounts @WeHave1DFacts (1,629 followers) and @dyt5050 (3,146 followers) both posted $KIM as a big winner within seconds of each other, claiming runs to about $423K to $430K market cap (from $2K and $39K entries respectively).",
-      "engagement": "1 like each and under 20 impressions per post at scan time.",
-      "flags": "Coordinated call-account promo with self-reported, inconsistent entry numbers and almost no organic engagement; very high risk.",
-      "url": "https://x.com/WeHave1DFacts/status/2116651229233213480",
-      "followers": 1629
-    },
-    {
-      "coin": "$Beaver",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun, graduated to PumpSwap)",
-      "buzz": "@bitecong (38,432 followers) AI signal account flagged Beaver's Mini Mart ($Beaver), a storefront-named memecoin that per the post graduated from pump.fun to PumpSwap about 39 minutes after launch.",
-      "engagement": "0 likes, 275 impressions at scan time.",
-      "flags": "Automated signal post with no organic engagement; very high risk.",
-      "url": "https://x.com/bitecong/status/2116651022131368339",
-      "followers": 38432
     }
   ],
   "news": [
