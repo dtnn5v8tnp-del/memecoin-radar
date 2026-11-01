@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 04:24 Berlin time (UTC+1)",
-  "newestPostId": "2116732995247939975",
+  "lastUpdated": "Sunday 1 Nov 2026, 04:31 Berlin time (UTC+1)",
+  "newestPostId": "2116734719131881852",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Floki ($Floki)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (CA 55DxxXmwW5qmbLqByn7o71PEPXSk2Bpj8cd6Lwf6pump per the post)",
+      "buzz": "@bitecong (38,437 followers, an automated 'AI Signal' account) says this is the third Floki-named launch on Solana today, and that a related coin, Flokicoin, was about 75% of the way to graduating off the pump.fun bonding curve roughly six minutes after launch. The post flags an odd buyer list.",
+      "engagement": "1 like, 0 reposts, 300 impressions at scan time.",
+      "flags": "Automated signal account; copycat-name launch with a suspicious buyer list per the poster. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116734260388442140",
+      "followers": 38437
+    },
+    {
+      "coin": "RYOMA ($RYOMA)",
+      "chain": "Solana",
+      "chainNote": "Solana (gaming token per the posts; no contract address given)",
+      "buzz": "The same 'GAMING MEETS CRYPTO' promo text was posted within about a minute by several accounts, including @CryptoBullsCom (142,484 followers), @titaniumtalks1, @Crypto_Canvas1, @sunrise_venture and @Metablockchain0.",
+      "engagement": "0 to 1 like per post, 3 to 105 impressions; almost no organic engagement.",
+      "flags": "Coordinated paid-promo pattern (identical copy across many accounts). Treat as a shill campaign.",
+      "url": "https://x.com/CryptoBullsCom/status/2116734310850199751",
+      "followers": 142484
+    },
     {
       "coin": "BLOB (#BLOB)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Creator-promoted launch with promised dev buy and airdrop; ticker not named in post; very early and very high risk.",
       "url": "https://x.com/_rise/status/2116633626842726443",
       "followers": 19932
-    },
-    {
-      "coin": "$SOLX",
-      "chain": "Solana",
-      "chainNote": "Solana (StonkFun launch, CA in post)",
-      "buzz": "@bitecong (38,432 followers) AI signal account flagged $SOLX, saying it graduated to Raydium CPMM 27 seconds after launch, with no clear theme in its name or description.",
-      "engagement": "0 likes, 324 impressions at scan time.",
-      "flags": "Automated signal post with no organic engagement; very early and very high risk.",
-      "url": "https://x.com/bitecong/status/2116629799821250965",
-      "followers": 38432
-    },
-    {
-      "coin": "$PAWCAT",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in posts)",
-      "buzz": "@popmemecoin (692 followers) alert bot said $PAWCAT was up 574% in 24h at about $324.4K market cap; @EarlyChad_ (5,605 followers) claimed a 44x from a $10K entry market cap.",
-      "engagement": "0 to 1 likes, under 60 impressions per post at scan time.",
-      "flags": "Pushed mainly by paid 'call' accounts; figures are self-reported and unverified. Very high risk.",
-      "url": "https://x.com/popmemecoin/status/2116629547894648895",
-      "followers": 692
     }
   ],
   "news": [
