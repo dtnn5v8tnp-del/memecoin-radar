@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 05:59 Berlin time (UTC+1)",
-  "newestPostId": "2116756776125104616",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:04 Berlin time (UTC+1)",
+  "newestPostId": "2116758112183169400",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$ELON (The Meme Dealer)",
+      "chain": "Solana",
+      "chainNote": "pump.fun, graduated to PumpSwap",
+      "buzz": "@bitecong (38,440 followers, automated 'AI Signal' account) reports The Meme Dealer ($ELON) graduated from pump.fun to PumpSwap about five minutes after launch, with an Elon Musk meme theme.",
+      "engagement": "0 likes, 0 reposts, 237 impressions at scan time.",
+      "flags": "Post says the deployer has already sold out. Bot-generated signal; very high risk.",
+      "url": "https://x.com/bitecong/status/2116758112183169400",
+      "followers": 38440
+    },
+    {
+      "coin": "Unnamed teaser (no ticker yet)",
+      "chain": "Unknown",
+      "chainNote": "Not stated; contract address promised via Telegram only",
+      "buzz": "@PR0H0S (100,567 followers, bio says '$www (8M) dev') posts 'I am launching the BIGGEST memecoin of 2026' and points to Telegram for the early contract address. Same wording as an earlier teaser from another account.",
+      "engagement": "0 likes, 0 reposts, 621 impressions at scan time.",
+      "flags": "No ticker, chain, or contract; copy-paste Telegram-gated teaser is a common shill pattern. Very high risk.",
+      "url": "https://x.com/PR0H0S/status/2116757374820118576",
+      "followers": 100567
+    },
     {
       "coin": "Unnamed teaser (no ticker yet)",
       "chain": "Unknown",
@@ -281,26 +301,6 @@
       "engagement": "0 likes, 275 impressions at scan time.",
       "flags": "Automated signal post with no organic engagement; very high risk.",
       "url": "https://x.com/bitecong/status/2116651022131368339",
-      "followers": 38432
-    },
-    {
-      "coin": "$NNN",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "Two call accounts, @cerrocoso (2,387 followers) and @WeHave1DFacts (1,629 followers), posted near-identical claims that $NNN ran from $8.6K to $133K market cap, about 15.5x from their entry.",
-      "engagement": "3 likes and 71 impressions on the top post at scan time; 0 likes on the other.",
-      "flags": "Copy-paste promo from call accounts with almost no organic engagement; numbers are self-reported; very high risk.",
-      "url": "https://x.com/cerrocoso/status/2116650220327252215",
-      "followers": 2387
-    },
-    {
-      "coin": "$svmLLM",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun, two different CAs posted for the same ticker)",
-      "buzz": "@bitecong (38,432 followers) AI signal account flagged two separate pump.fun tokens both named $svmLLM within a minute; per the post, one was already most of the way to graduation about half a minute after launch, with notes on bundler activity in the buyer list.",
-      "engagement": "0 likes, about 200 impressions per post at scan time.",
-      "flags": "Duplicate tickers with different contracts suggest copycat launches; automated signal posts with no organic engagement; bundler activity mentioned; very high risk.",
-      "url": "https://x.com/bitecong/status/2116646293993042194",
       "followers": 38432
     }
   ],
