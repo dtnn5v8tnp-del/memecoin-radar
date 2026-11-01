@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 01:08 Berlin time (UTC+1)",
-  "newestPostId": "2116683730131550346",
+  "lastUpdated": "Sunday 1 Nov 2026, 01:15 Berlin time (UTC+1)",
+  "newestPostId": "2116685418921959905",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$HYPORT (Hyport)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, graduated to PumpSwap; CA 6bnF2VRuZxZfMttSPQ9GJHcPvLLXRcbmamYxMd4Lpump per the post)",
+      "buzz": "@bitecong (38,432 followers) posted an AI signal saying Hyport launched on pump.fun and graduated to PumpSwap about eleven hours in, but has no clear theme: the name, site and X account say nothing about what it is for.",
+      "engagement": "0 likes, 0 reposts, 360 impressions at scan time.",
+      "flags": "No stated purpose per the poster itself; posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116684626165121463",
+      "followers": 38432
+    },
     {
       "coin": "Unnamed (announced)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Stated date (Fri 30 Oct) doesn't match today (Sat 31 Oct), so this may be a recycled or engagement-bait post; no CA given. Influencer self-launches carry high dump risk.",
       "url": "https://x.com/TexrTrades/status/2116587253996675565",
       "followers": 104243
-    },
-    {
-      "coin": "$PROS",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun, graduated to PumpSwap (CA 2Uwte4c9ZnRACas6Miq6bR8zx8n8Psgu11Vn5htHpump as posted)",
-      "buzz": "AI signal account @bitecong (38,434 followers) flagged ELO PROS, an e-sports-tagged coin that graduated from pump.fun to PumpSwap about 14 h 49 min after launch, and called its bundler count the oddest fact.",
-      "engagement": "0 likes; 247 impressions at scan time.",
-      "flags": "Signal account itself highlights bundler activity, a common red flag. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116583958540665182",
-      "followers": 38434
     }
   ],
   "news": [
