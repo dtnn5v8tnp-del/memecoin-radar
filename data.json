@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 10:57 Berlin time (UTC+1)",
-  "newestPostId": "2116831749330133184",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:01 Berlin time (UTC+1)",
+  "newestPostId": "2116832941389021185",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "nut (No Nut November theme)",
+      "chain": "Solana",
+      "chainNote": "CA ERXoTjSZ58XdAdeinR4Mp9b3aQr375FvHdE9W5L2pump",
+      "buzz": "Automated signal account @bitecong (38,445 followers) says this No Nut November joke coin graduated from the pump.fun bonding curve to PumpSwap about 1 h 41 min after launch. A separate, unrelated-looking $NONUT account is also shilling a similar theme.",
+      "engagement": "Low: 0 likes, 396 impressions at scan time.",
+      "flags": "Automated signal post; seasonal joke-theme coins draw many copycats and are high risk.",
+      "url": "https://x.com/bitecong/status/2116832378635391135",
+      "followers": 38445
+    },
     {
       "coin": "The Dead Bull (ANSEM)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Posted by a signal/ad account. Brand-new pump.fun token. Very high risk.",
       "url": "https://x.com/bitecong/status/2116704473397789002",
       "followers": 38435
-    },
-    {
-      "coin": "Zebra Ándale",
-      "chain": "Solana",
-      "chainNote": "Solana (CA FomwYZFCZ2oZATCj9dQEEzTpb6mDv1VD91FkogNrS9nj per the post)",
-      "buzz": "@bitecong (38,434 followers) posted an AI signal saying the zebra-themed Zebra Ándale launch tore most of the way to graduation within a few minutes and was about three minutes old at signal time.",
-      "engagement": "0 likes, 0 reposts, 312 impressions at scan time.",
-      "flags": "Posted by a signal/ad account; the post flags an odd wallet spread. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116702425507869067",
-      "followers": 38434
     }
   ],
   "news": [
