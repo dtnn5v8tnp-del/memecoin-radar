@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 08:28 Berlin time (UTC+1)",
-  "newestPostId": "2116794471316664668",
+  "lastUpdated": "Sunday 1 Nov 2026, 08:34 Berlin time (UTC+1)",
+  "newestPostId": "2116795823719690579",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$BALLS",
+      "chain": "Solana",
+      "chainNote": "CA HhBuvegE7Ew2stS5svkMcxL8povkaL8brwt9JUtfpump",
+      "buzz": "Call account @Kaan_Capitug0 (878 followers) posted it at $27.2K market cap, then claimed $756K (27.79x) minutes later, quoting its own call.",
+      "engagement": "Very low: 0 likes, under 10 impressions at scan time.",
+      "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
+      "url": "https://x.com/Kaan_Capitug0/status/2116795689480901100",
+      "followers": 878
+    },
+    {
+      "coin": "$BI (Believe InU)",
+      "chain": "BSC",
+      "chainNote": "CA 0x63d21fdbced4facd3f27e8ef3c9bf5ff4bf87777",
+      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a fresh Flap launch about two minutes old, with four wallets buying $658 combined within 2 minutes.",
+      "engagement": "Low: 0 likes, 274 impressions at scan time.",
+      "flags": "Automated signal post; tiny buys, no clear theme. High risk.",
+      "url": "https://x.com/bitecong/status/2116795792015110541",
+      "followers": 38441
+    },
     {
       "coin": "$AAPLCAT",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "1 like, 0 reposts, 358 impressions at scan time.",
       "flags": "Fresh pump.fun launch posted by a signal/ad account. Very high risk.",
       "url": "https://x.com/bitecong/status/2116696071384772781",
-      "followers": 38433
-    },
-    {
-      "coin": "$AI (Alien inu)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun; CA DQep2JrCBtRuptcBUwK1H8XAjq4CWfAVXbCAe4DJjPTM per the post)",
-      "buzz": "@bitecong (38,433 followers) posted an AI signal saying Alien inu is a pump.fun coin that crossed most of its bonding curve in under a minute.",
-      "engagement": "1 like, 0 reposts, 333 impressions at scan time.",
-      "flags": "Fresh pump.fun launch posted by a signal/ad account. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116695046250782874",
-      "followers": 38433
-    },
-    {
-      "coin": "$HINA (ヒナ)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun; CA 7Kzn17PVgf7GAfdydcSJ2Q5xMrHoGi1TE1yWAAPtpump per the post)",
-      "buzz": "@bitecong (38,433 followers) posted an AI signal calling HINA a Hokkaido chick-themed token that just launched on pump.fun; the name is Japanese for chick and the description just says \"Lets do this!\".",
-      "engagement": "0 likes, 0 reposts, 313 impressions at scan time.",
-      "flags": "Fresh pump.fun launch posted by a signal/ad account. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116693619046564249",
       "followers": 38433
     }
   ],
