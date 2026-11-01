@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 02:49 Berlin time (UTC+1)",
-  "newestPostId": "2116709085127360752",
+  "lastUpdated": "Sunday 1 Nov 2026, 02:54 Berlin time (UTC+1)",
+  "newestPostId": "2116710341665054746",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Seamus O'Grady memecoin (no ticker given)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun; CA 6p8S1W9tKjdU3SCTB7chZzNJMnBYdPMdUvfQNRTipump per the post)",
+      "buzz": "@SeamusOGradyMMA (1,074 followers) announced that the 'official Seamus O'Grady memecoin' is live on pump.fun, tagged #ufc #mma.",
+      "engagement": "0 likes, 0 reposts, 9 impressions at scan time.",
+      "flags": "Athlete-branded token from a small account; not verified as the fighter's official account. No traction yet. Very high risk.",
+      "url": "https://x.com/SeamusOGradyMMA/status/2116710261968998408",
+      "followers": 1074
+    },
     {
       "coin": "$NUT (NutCoin)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Paid-call style promotion with Telegram VIP pitch; market cap claim unverified, very high risk.",
       "url": "https://x.com/Charlie_SOL23/status/2116609798951120975",
       "followers": 1697
-    },
-    {
-      "coin": "$HackerTube",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun bonding curve)",
-      "buzz": "@bitecong (38,435 followers) AI signal account flagged HackerTube about two minutes after launch, still on the pump.fun bonding curve.",
-      "engagement": "0 likes, 282 impressions at scan time.",
-      "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
-      "url": "https://x.com/bitecong/status/2116609978111045650",
-      "followers": 38435
     }
   ],
   "news": [
