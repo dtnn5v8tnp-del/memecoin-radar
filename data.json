@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 14:34 Berlin time (UTC+1)",
-  "newestPostId": "2116886536297824551",
+  "lastUpdated": "Sunday 1 Nov 2026, 14:39 Berlin time (UTC+1)",
+  "newestPostId": "2116887745247486319",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "AGENTIC BINANCE ($AGENTIC)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GAVeyR7LvQFzyoHvxeVgDnzcMiJhtmSfrPQbdBkEpump (pump.fun suffix).",
+      "buzz": "@ahmedeltofaha2 posted at 14:36 Berlin that the AI-agent meme coin $AGENTIC 'just launched' and is live on Solana.",
+      "engagement": "14 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Uses the Binance name with no sign of any Binance link; promo from a 634-follower account with no organic engagement. Very early, high risk.",
+      "url": "https://x.com/ahmedeltofaha2/status/2116887145025576971",
+      "followers": 634
+    },
     {
       "coin": "DONK ($DONK)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Identical copy-paste posts suggest coordinated marketing; no ticker or contract given. Low engagement so far. High risk.",
       "url": "https://x.com/PR0H0S/status/2116779775683604813",
       "followers": 100587
-    },
-    {
-      "coin": "$Solanaween",
-      "chain": "Solana",
-      "chainNote": "pump.fun contract (ends in 'pump')",
-      "buzz": "@Apedwithghost (67 followers) claims a wallet visible in an @solana Halloween video was funded and deployed $Solanaween days before Halloween. Contract posted: 8epS8oD66mUFwsEZwK55GyyS2iGPcgY3CDbB75HLpump.",
-      "engagement": "0 likes, 9 replies at scan time.",
-      "flags": "Unverified claim from a tiny account; no confirmation from Solana. Very high risk.",
-      "url": "https://x.com/Apedwithghost/status/2116770909025616014",
-      "followers": 67
     }
   ],
   "news": [
