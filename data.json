@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:55 Berlin time (UTC+1)",
-  "newestPostId": "2116846477918027832",
+  "lastUpdated": "Sunday 1 Nov 2026, 12:00 Berlin time (UTC+1)",
+  "newestPostId": "2116847647398977631",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Unnamed pump.fun token from @_rise",
+      "chain": "Solana",
+      "chainNote": "CA D8UWQfTvntVkQGUM4y367uzLtGYyUCcYucFqriz7pump",
+      "buzz": "@_rise (19,927 followers) says their own memecoin is live on Pump Fun, promises to airdrop 60% of supply to the top 15 holders at bonding and to add a $7,000 buy in 15 minutes.",
+      "engagement": "1 like, about 270 impressions at scan time.",
+      "flags": "Self-launched by the poster; promised dev buy and airdrop are unverified; brand-new token.",
+      "url": "https://x.com/_rise/status/2116847327021597003",
+      "followers": 19927
+    },
     {
       "coin": "MarvinCoin ($MARVIN)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Automated signal account; copycat-name launch with a suspicious buyer list per the poster. Very high risk.",
       "url": "https://x.com/bitecong/status/2116734260388442140",
       "followers": 38437
-    },
-    {
-      "coin": "RYOMA ($RYOMA)",
-      "chain": "Solana",
-      "chainNote": "Solana (gaming token per the posts; no contract address given)",
-      "buzz": "The same 'GAMING MEETS CRYPTO' promo text was posted within about a minute by several accounts, including @CryptoBullsCom (142,484 followers), @titaniumtalks1, @Crypto_Canvas1, @sunrise_venture and @Metablockchain0.",
-      "engagement": "0 to 1 like per post, 3 to 105 impressions; almost no organic engagement.",
-      "flags": "Coordinated paid-promo pattern (identical copy across many accounts). Treat as a shill campaign.",
-      "url": "https://x.com/CryptoBullsCom/status/2116734310850199751",
-      "followers": 142484
     }
   ],
   "news": [
+    {
+      "topic": "Exchange / Binance recovery",
+      "headline": "Binance says withdrawals are restored for several networks and assets in its phased recovery",
+      "coins": "Binance-listed assets (hack fallout)",
+      "detail": "@AlexanderXQ_ (10,141 followers) reports Binance officially announced withdrawals re-enabled for several networks and digital assets as the platform continues its phased recovery. Secondhand report, low engagement at scan time.",
+      "updated": "1 Nov, 12:00 (Berlin)",
+      "url": "https://x.com/AlexanderXQ_/status/2116847465554923953"
+    },
     {
       "topic": "Exploit / hacker funds",
       "headline": "About 485k stolen SOL (~$46M) leaves the Binance hacker's Solana wallet, reportedly being swapped into BTC",
@@ -536,14 +544,6 @@
       "detail": "Per the X News story, 99.998% of 43.4M memecoins overall went to zero, while traders keep pointing to outlier wins and PEPE/BONK-style late runs.",
       "updated": "31 Oct, 17:34 (Berlin)",
       "url": "https://x.com/i/trending/2116526619175383438"
-    },
-    {
-      "topic": "Platform news",
-      "headline": "Pump.fun app opened Hyperliquid perps to its users, with about $82M in volume routed in 2 days",
-      "coins": "Pump.fun ecosystem",
-      "detail": "Per the post, only about 1k of 60 to 90k daily app traders have used perps so far. 28 likes, about 2,200 impressions at scan time; @bubblesonchain (22,641 followers) quoted it. Claims not independently verified.",
-      "updated": "31 Oct, 20:06 (Berlin)",
-      "url": "https://x.com/i/status/2116607718719209905"
     }
   ],
   "hourly": [
