@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 05:19 Berlin time (UTC+1)",
-  "newestPostId": "2116746737398534460",
+  "lastUpdated": "Sunday 1 Nov 2026, 05:27 Berlin time (UTC+1)",
+  "newestPostId": "2116748841038803228",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Rug claim",
+      "headline": "Holder says Pumpkin Pepe $PUMPE turned out to be a slow rug",
+      "coins": "$PUMPE",
+      "detail": "@DanielLikesArt (1,110 followers) apologises to anyone who followed them into $PUMPE, calling it a slow rug after the team didn't keep up its pumpkin-Pepe meme through October. Single holder's claim with minimal engagement (1 like); not independently confirmed.",
+      "updated": "1 Nov, 05:26 (Berlin)",
+      "url": "https://x.com/DanielLikesArt/status/2116748724064190705"
+    },
+    {
       "topic": "Price move",
       "headline": "$USELESS down about 29% over seven days while $WIF is flat on the day",
       "coins": "$USELESS, $WIF (Solana)",
@@ -536,14 +544,6 @@
       "detail": "@EarlyChad_ (5,597 followers) called it at $30K at 15:27, then posted $204K about a minute later. 66 to 85 impressions, 1 to 2 likes; caller posts, figures not verified.",
       "updated": "31 Oct, 15:30 (Berlin)",
       "url": "https://x.com/EarlyChad_/status/2116537732314931216"
-    },
-    {
-      "topic": "Pump",
-      "headline": "Halloween-themed $HALLOWINU on Solana claimed at $236K market cap, about 15.7x from a $15K call",
-      "coins": "$HALLOWINU (CA 5YREyyZig2rjst2rZv5e5UtNqP5FrWSjCdPNMcm7pump)",
-      "detail": "@EarlyChad_ (5,597 followers) called it at $15K at 15:22, then posted $158K and $236K within minutes; @BadManLeek (3,122 followers) separately claimed 21.5x. 11 to 104 impressions, about 1 like each; caller posts, figures not verified.",
-      "updated": "31 Oct, 15:27 (Berlin)",
-      "url": "https://x.com/EarlyChad_/status/2116537178331250789"
     }
   ],
   "hourly": [
