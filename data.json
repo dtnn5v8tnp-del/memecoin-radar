@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 15:25 Berlin time (UTC+1)",
-  "newestPostId": "2116899382675243488",
+  "lastUpdated": "Sunday 1 Nov 2026, 15:32 Berlin time (UTC+1)",
+  "newestPostId": "2116900998073503857",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Nad & Tad ($BALLS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FEoRALCYohXj47mCr71mA5f82YMk5GLytEFetZZpump (pump.fun bonding curve).",
+      "buzz": "Signal account @bitecong (38,463 followers) posted at 15:29 Berlin that this coin was about 2 minutes old and already most of the way to pump.fun graduation, calling it the fourth balls-themed launch on Solana today and flagging something odd about the deployer wallet.",
+      "engagement": "403 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Copycat theme (fourth of its kind today) and a questionable wallet per the post; only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2116900335034007940",
+      "followers": 38463
+    },
     {
       "coin": "Dante ($Dante)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal post; tiny buys, no clear theme. High risk.",
       "url": "https://x.com/bitecong/status/2116795792015110541",
       "followers": 38441
-    },
-    {
-      "coin": "$AAPLCAT",
-      "chain": "Solana",
-      "chainNote": "CA GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump",
-      "buzz": "Call account @JEREMYhboo (4,056 followers) claims it was called around $12K market cap and touched about $1.0M (83x), quoting its own call post from minutes earlier.",
-      "engagement": "Very low: 0 to 1 likes, about 12 to 14 impressions at scan time.",
-      "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
-      "url": "https://x.com/JEREMYhboo/status/2116794291263549866",
-      "followers": 4056
     }
   ],
   "news": [
