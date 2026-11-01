@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 13:28 Berlin time (UTC+1)",
-  "newestPostId": "2116869795895480687",
+  "lastUpdated": "Sunday 1 Nov 2026, 13:33 Berlin time (UTC+1)",
+  "newestPostId": "2116871150982635913",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$P2P",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA 8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump (from the posts)",
+      "buzz": "Flooded in the last few minutes by a ring of near-identical \"12x / 23x up on my call, TG eating massively\" posts from small call accounts (@_Shonsol, @degen_piilot, @solCallermike_ and others). Separately, @p2pventures (70 followers) says all offers on its P2P memecoin OTC listing were filled quickly.",
+      "engagement": "0 to 4 likes per post; the highest-impression post had about 107 impressions at scan time.",
+      "flags": "Coordinated shill-farm promotion with 'DM for entry' Telegram funnels; treat as high risk.",
+      "url": "https://x.com/_Shonsol/status/2116870678523548020",
+      "followers": 1892
+    },
+    {
+      "coin": "Solstars ($SOLSTARS)",
+      "chain": "Solana (pump.fun)",
+      "chainNote": "CA EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump (from the post)",
+      "buzz": "@bitecong (38,453 followers) flags Solstars as a pump.fun launch about 22 minutes old, still on the bonding curve, with no clear theme beyond a team account post and thin attention.",
+      "engagement": "0 likes, about 500 impressions at scan time.",
+      "flags": "Automated on-chain signal account; brand-new micro-cap still on the bonding curve.",
+      "url": "https://x.com/bitecong/status/2116869872479330490",
+      "followers": 38453
+    },
     {
       "coin": "Super-Agent (AI agent token)",
       "chain": "BSC",
@@ -282,26 +302,6 @@
       "flags": "No ticker, chain, or contract yet; Telegram-gated CA is a common shill pattern. Very high risk.",
       "url": "https://x.com/sled_o/status/2116749824972259466",
       "followers": 82590
-    },
-    {
-      "coin": "Movember ($Movember)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA 5u8mRy6L3pAxjWL9wG61fsXpTgzMDMSNKYySgKBypump per the post)",
-      "buzz": "@bitecong (38,439 followers, an automated 'AI Signal' account) flags Movember as a pump.fun launch about six minutes old and 87% of the way along its bonding curve, riding the Movember theme as November starts.",
-      "engagement": "0 likes, 0 reposts, 318 impressions at scan time.",
-      "flags": "Automated signal account; seasonal theme, no stated team. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116746366827561407",
-      "followers": 38439
-    },
-    {
-      "coin": "Jadebound ($Jadebound)",
-      "chain": "BSC",
-      "chainNote": "BSC, launched on Flap (CA 0x5f97dda9c7336b58d23cb85a1ac1fcf27fb67777 per the post)",
-      "buzz": "@bitecong (38,438 followers, an automated 'AI Signal' account) flags Jadebound as a Flap launch about four minutes old that nobody on X had posted about yet, with no clear theme in its name or ticker.",
-      "engagement": "0 likes, 0 reposts, 294 impressions at scan time.",
-      "flags": "Automated signal account; no stated theme or team. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116745269043978568",
-      "followers": 38438
     }
   ],
   "news": [
