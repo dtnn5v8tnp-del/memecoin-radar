@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 07:43 Berlin time (UTC+1)",
-  "newestPostId": "2116783082384871568",
+  "lastUpdated": "Sunday 1 Nov 2026, 07:52 Berlin time (UTC+1)",
+  "newestPostId": "2116785266480296248",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Research",
+      "headline": "Bitquery study: dev wallets, not sniper bots, take most early memecoin launch profits",
+      "coins": "Launchpad memecoins (general)",
+      "detail": "@CryptoAIgoat (1,180 followers) cites a Bitquery analysis of 8.2M launches: 21% had dev wallets already in block 0 holding a median 10% of supply; devs plus bundles made $579M+ after fees (launches to June) versus $31.5M for snipers. 1 like at scan time.",
+      "updated": "1 Nov, 07:47 (Berlin)",
+      "url": "https://x.com/CryptoAIgoat/status/2116784252943769639"
+    },
+    {
       "topic": "Launchpad",
       "headline": "windup.fun plans Nov 3 Genesis launch for leveraged memecoin trading on Hyperliquid",
       "coins": "HYPE, Hyperliquid memecoins",
@@ -536,14 +544,6 @@
       "detail": "X News story: Jack Duval posted that every coin migrating from Pump.fun in the last hour showed fake volume, naming OVER and ACTD as examples. Critics flag wash trading; some defend the activity as genuine community pushes.",
       "updated": "31 Oct, 15:39 (Berlin)",
       "url": "https://x.com/i/trending/2116538622786896145"
-    },
-    {
-      "topic": "$SI",
-      "headline": "$SI on Solana flagged as up 284% in 24h at about $154.8K market cap, per an automated alert",
-      "coins": "SI",
-      "detail": "Posted by small bot alert account @popmemecoin (688 followers), CA 64vVGiNa4MefL4rq3mHzLiq8APfyc8iWLbumsFNfpump as posted. 12 impressions at scan time; figures are the bot's, not verified.",
-      "updated": "31 Oct, 16:38 (Berlin)",
-      "url": "https://x.com/popmemecoin/status/2116554917011706226"
     }
   ],
   "hourly": [
