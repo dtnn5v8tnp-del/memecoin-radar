@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 06:28 Berlin time (UTC+1)",
-  "newestPostId": "2116764075443036272",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:33 Berlin time (UTC+1)",
+  "newestPostId": "2116765279774560573",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$paws",
+      "chain": "Solana",
+      "chainNote": "pump.fun",
+      "buzz": "@cfm_sol (34,988 followers) shared $paws at about $600K market cap, saying it comes from the 'paws at you' snow-leopard meme template that spread on X and TikTok in late October.",
+      "engagement": "1 like, 1 repost, 784 impressions at scan time.",
+      "flags": "Single promoter post with low engagement so far; 'dyor' call. High risk.",
+      "url": "https://x.com/cfm_sol/status/2116764911678169552",
+      "followers": 34988
+    },
     {
       "coin": "$OTC",
       "chain": "Solana",
@@ -296,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Security",
+      "headline": "OneKey founder warns older iPhones have unpatchable chip flaws that put stored seed phrases at risk",
+      "coins": "General crypto (wallet security, not a memecoin)",
+      "detail": "@WuBlockchain (559,030 followers) reports OneKey founder Yishi warned that factory-resetting an older iPhone and using it offline in airplane mode to store seed phrases may still be unsafe. 3 likes, 4,790 impressions at scan time.",
+      "updated": "1 Nov, 06:29 (Berlin)",
+      "url": "https://x.com/WuBlockchain/status/2116764451538104370"
+    },
+    {
       "topic": "Exploit",
       "headline": "Report: Premia options vault exploited for about $400K on Arbitrum",
       "coins": "Premia (DeFi, not a memecoin)",
@@ -526,14 +544,6 @@
       "detail": "@fourtislisting (67,273 followers) automated alert: first market cap $1.9M, last $29.8M. 337 impressions, no likes. Automated listing-alert account; figures not verified.",
       "updated": "31 Oct, 15:55 (Berlin)",
       "url": "https://x.com/fourtislisting/status/2116544340742865238"
-    },
-    {
-      "topic": "Exploit",
-      "headline": "DNS hijacks hit Flap, StonkFun, Kintsu and other DeFi and launchpad sites on Halloween",
-      "coins": "No specific token named",
-      "detail": "X news summary: visitors were redirected to wallet-draining pages; Blockaid warned users, teams took sites offline or moved domains (e.g. flap.cool). No on-chain activity reported affected. Don't connect wallets to these sites until confirmed safe.",
-      "updated": "31 Oct, 15:23 (Berlin)",
-      "url": "https://x.com/i/trending/2116359578120274100"
     }
   ],
   "hourly": [
