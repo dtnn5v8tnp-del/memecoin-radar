@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 05:27 Berlin time (UTC+1)",
-  "newestPostId": "2116748841038803228",
+  "lastUpdated": "Sunday 1 Nov 2026, 05:32 Berlin time (UTC+1)",
+  "newestPostId": "2116749824972259466",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Unnamed teaser (no ticker yet)",
+      "chain": "Unknown",
+      "chainNote": "Not stated; contract address promised via Telegram only",
+      "buzz": "@sled_o (82,590 followers, bio says they were the dev of $pistacio) teases 'the BIGGEST memecoin of 2026' and points people to a Telegram group for the early contract address.",
+      "engagement": "0 likes, 0 reposts, 479 impressions at scan time.",
+      "flags": "No ticker, chain, or contract yet; Telegram-gated CA is a common shill pattern. Very high risk.",
+      "url": "https://x.com/sled_o/status/2116749824972259466",
+      "followers": 82590
+    },
     {
       "coin": "Movember ($Movember)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes, about 200 impressions per post at scan time.",
       "flags": "Duplicate tickers with different contracts suggest copycat launches; automated signal posts with no organic engagement; bundler activity mentioned; very high risk.",
       "url": "https://x.com/bitecong/status/2116646293993042194",
-      "followers": 38432
-    },
-    {
-      "coin": "$AE (KIM JU AE COIN)",
-      "chain": "Solana",
-      "chainNote": "Solana (graduated from pump.fun to PumpSwap, CA in post)",
-      "buzz": "@bitecong (38,432 followers) AI signal account flagged $AE, a person-themed coin that per the post graduated to PumpSwap about 3.5 minutes after launch, with a smart-wallet cluster buying.",
-      "engagement": "0 likes, 232 impressions at scan time.",
-      "flags": "Automated signal post with no organic engagement; another Kim-themed launch in a wave of copycats; very early and very high risk.",
-      "url": "https://x.com/bitecong/status/2116644187412250807",
       "followers": 38432
     }
   ],
