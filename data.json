@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 13:33 Berlin time (UTC+1)",
-  "newestPostId": "2116871150982635913",
+  "lastUpdated": "Sunday 1 Nov 2026, 13:38 Berlin time (UTC+1)",
+  "newestPostId": "2116872170119061775",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Exchange / Binance recovery",
+      "headline": "Binance re-enables withdrawals for ZEC, TON (USDT, GRAM) and SUI",
+      "coins": "$DOGE, $ZEC, $SUI, GRAM and other re-enabled assets",
+      "detail": "Official @binance update: newly re-enabled networks are ZEC (ZEC), TON (USDT, GRAM) and SUI (SUI), on top of BTC, ETH, BSC, XRP, Base, DOGE and others already live. Not every asset is back yet. About 27 likes and 1.6k impressions at scan time.",
+      "updated": "1 Nov, 13:36 (Berlin)",
+      "url": "https://x.com/binance/status/2116871932075516174"
+    },
+    {
+      "topic": "Risk flag / $P2P",
+      "headline": "Tracker says $P2P ran 8.9x in under an hour but flags a dev with rug history and a copycat ticker",
+      "coins": "$P2P (Solana, pump.fun)",
+      "detail": "@jbstrategy (1,315 followers) says $P2P went from a $19.3K to a $171.9K peak about 59 minutes after the call, and warns the dev has rug history, the ticker is a copycat and the top holder has about 12%. Tiny reach (8 impressions); the coin is also being pushed by a shill-call ring.",
+      "updated": "1 Nov, 13:35 (Berlin)",
+      "url": "https://x.com/jbstrategy/status/2116871630945153504"
+    },
+    {
       "topic": "Security / DeFi exploit",
       "headline": "Post claims 12 DeFi websites were hijacked over the weekend, hitting users on the real protocol URLs",
       "coins": "DeFi front-ends (protocols not named in the post)",
@@ -528,22 +544,6 @@
       "detail": "Per the X News story, roughly 97 million CORE (about $1.36 million midday) moved to attacker-controlled addresses at 09:29 UTC; b14g paused its contracts, exchanges froze about 9 million CORE, staked BTC stayed safe, and CORE dropped about 8%. A post-mortem is promised.",
       "updated": "31 Oct, 23:09 (Berlin)",
       "url": "https://x.com/i/trending/2116621590528242007"
-    },
-    {
-      "topic": "Exploit",
-      "headline": "X News: Iron Fish shuts down after an inflation-bug exploit minted nearly 3 billion fake wIRON",
-      "coins": "$IRON / wIRON",
-      "detail": "Per the X News story, attackers used a bug from a 2019 commit to mint nearly 3 billion wIRON (39 times real supply), bridged out and cashed about $197K, and the market cap fell from $200 million to about $2K. The team ended network support on 31 Oct.",
-      "updated": "31 Oct, 19:35 (Berlin)",
-      "url": "https://x.com/i/trending/2116413213189288300"
-    },
-    {
-      "topic": "Rug",
-      "headline": "Robinhood Chain wallet repeating a create-token, pull-liquidity loop",
-      "coins": "New Robinhood Chain tokens",
-      "detail": "@HoodWhisp4663 (290 followers) says one wallet (0xB90c…A65A, per Blockscout) has run the same loop 1,206 times since 4 Sept: send 30.1 ETH to a new wallet, launch a token with about 30 ETH liquidity, remove liquidity about 45 to 55 minutes later, and return about 37 to 39 ETH. Low engagement so far (5 impressions); unverified claim.",
-      "updated": "1 Nov, 01:31 (Berlin)",
-      "url": "https://x.com/HoodWhisp4663/status/2116689188792005014"
     }
   ],
   "hourly": [
