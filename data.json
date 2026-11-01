@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 13:15 Berlin time (UTC+1)",
-  "newestPostId": "2116866617170710828",
+  "lastUpdated": "Sunday 1 Nov 2026, 13:22 Berlin time (UTC+1)",
+  "newestPostId": "2116868290110763449",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Super-Agent (AI agent token)",
+      "chain": "BSC",
+      "chainNote": "CA 0xb832a8c02258059d57ac22d40a232b261ec97777 (from the post)",
+      "buzz": "@bitecong (38,453 followers) reports Super-Agent as the 14th agent-themed BSC launch today; it cleared its bonding curve on Flap and graduated to PancakeSwap 54 minutes after launch, with an unusual concentration in its top buyer list.",
+      "engagement": "0 likes, about 450 impressions at scan time.",
+      "flags": "Automated on-chain signal account; brand-new micro-cap; buyer concentration noted by the poster.",
+      "url": "https://x.com/bitecong/status/2116867511392325711",
+      "followers": 38453
+    },
     {
       "coin": "$DODO (Shih Tzu dog coin)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Automated signal account; no stated theme or team. Very high risk.",
       "url": "https://x.com/bitecong/status/2116745269043978568",
       "followers": 38438
-    },
-    {
-      "coin": "tipr ($tipr)",
-      "chain": "Solana",
-      "chainNote": "Solana, pump.fun (CA 3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump per the post)",
-      "buzz": "@bitecong (38,437 followers, an automated 'AI Signal' account) flags tipr as a pump.fun launch roughly twenty minutes old and 88% of the way along its bonding curve, with no clear theme in its name, description or links.",
-      "engagement": "1 like, 0 reposts, 343 impressions at scan time.",
-      "flags": "Automated signal account; no stated theme or team. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116735338786009199",
-      "followers": 38437
     }
   ],
   "news": [
+    {
+      "topic": "Scam warning",
+      "headline": "Copy-paste \"Binance announced $1 TRUMP listing, presale ends in 24 hours\" posts circulating",
+      "coins": "TRUMP (impersonation/presale shill)",
+      "detail": "Identical posts from @arthurcoins (83,749 followers) and @tuyungx (73,245 followers) push an 'official presale' link and Telegram claiming a Binance TRUMP listing. Same text across accounts and a presale link are classic scam signs; no Binance source was cited. Low engagement (0-4 likes).",
+      "updated": "1 Nov, 13:22 (Berlin)",
+      "url": "https://x.com/arthurcoins/status/2116867375366549538"
+    },
     {
       "topic": "Exchange / Binance recovery",
       "headline": "Binance restores withdrawals on Polygon (POL, USDT, USDC) and Avalanche C-Chain (AVAX, USDT, USDC)",
@@ -536,14 +544,6 @@
       "detail": "Per the X News story, investors are swearing off projects without fully doxxed founders, citing data from 8.2 million token launches showing developers often grab early supply and exit fast, pocketing $579 million in profits, with 65% starting sales in the first minute.",
       "updated": "1 Nov, 00:06 (Berlin)",
       "url": "https://x.com/i/trending/2116666826285556006"
-    },
-    {
-      "topic": "Viral",
-      "headline": "X News: Pump.fun's Halloween goat-costume post divides memecoin users",
-      "coins": "$Sheep (mentioned), Pump.fun",
-      "detail": "Per the X News story, Pump.fun's Halloween photo was read as poking fun at its users as sacrificial goats or sheep; some took offense, others ran with it, including Kanki promoting a $Sheep token, and rival Baton posted its own squad costume.",
-      "updated": "31 Oct, 21:43 (Berlin)",
-      "url": "https://x.com/i/trending/2116630674388226334"
     }
   ],
   "hourly": [
