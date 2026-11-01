@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 15:34 Berlin time (UTC+1)",
-  "newestPostId": "2116901605975138663",
+  "lastUpdated": "Sunday 1 Nov 2026, 15:42 Berlin time (UTC+1)",
+  "newestPostId": "2116903526391525584",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Maxxmas ($Maxxmas)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address vZNBMbgpms4irKfVdUwPM9TKbDzuXnPQxrLvYRJkQet (pump.fun bonding curve).",
+      "buzz": "Signal account @bitecong (38,462 followers) posted at 15:38 Berlin that this Christmas-themed coin was three minutes past launch and already 80% of the way along the pump.fun bonding curve.",
+      "engagement": "470 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; seasonal theme with no other traction yet. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2116902747413065742",
+      "followers": 38462
+    },
     {
       "coin": "Nad & Tad ($BALLS)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
       "url": "https://x.com/Kaan_Capitug0/status/2116795689480901100",
       "followers": 878
-    },
-    {
-      "coin": "$BI (Believe InU)",
-      "chain": "BSC",
-      "chainNote": "CA 0x63d21fdbced4facd3f27e8ef3c9bf5ff4bf87777",
-      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a fresh Flap launch about two minutes old, with four wallets buying $658 combined within 2 minutes.",
-      "engagement": "Low: 0 likes, 274 impressions at scan time.",
-      "flags": "Automated signal post; tiny buys, no clear theme. High risk.",
-      "url": "https://x.com/bitecong/status/2116795792015110541",
-      "followers": 38441
     }
   ],
   "news": [
+    {
+      "topic": "Exchanges / DOGE",
+      "headline": "DOGE missing from Binance's \"100% backed\" list after the hack, while withdrawals keep reopening",
+      "coins": "DOGE, WIF, BONK",
+      "detail": "@ArchibaldBollz (712 followers) noted Dogecoin is not on Binance's list of fully backed coins and that Binance says about 95% of the hack is covered. Separately @greasydaryle (543 followers) posted that withdrawals are reopening after the $6.3B hack and that WIF was up 1.9% with BONK flat. Small accounts, low engagement (4 and 13 impressions).",
+      "updated": "1 Nov, 15:42 (Berlin)",
+      "url": "https://x.com/ArchibaldBollz/status/2116903526391525584"
+    },
     {
       "topic": "Influencer / GTA6 memes",
       "headline": "Suppoman pitches GATO as the top GTA6 mascot memecoin as several GTA-themed coins compete",
@@ -536,14 +544,6 @@
       "detail": "@WuBlockchain (559,030 followers) reports OneKey founder Yishi warned that factory-resetting an older iPhone and using it offline in airplane mode to store seed phrases may still be unsafe. 3 likes, 4,790 impressions at scan time.",
       "updated": "1 Nov, 06:29 (Berlin)",
       "url": "https://x.com/WuBlockchain/status/2116764451538104370"
-    },
-    {
-      "topic": "Exploit",
-      "headline": "Report: Premia options vault exploited for about $400K on Arbitrum",
-      "coins": "Premia (DeFi, not a memecoin)",
-      "detail": "@Trueo_ (6,436 followers) posted an 'exploit watch' alert about a reported $400K exploit of a Premia options vault on Arbitrum. Unconfirmed single-source report; 2 likes, 84 impressions at scan time.",
-      "updated": "1 Nov, 05:59 (Berlin)",
-      "url": "https://x.com/Trueo_/status/2116756036111770065"
     }
   ],
   "hourly": [
