@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 01:15 Berlin time (UTC+1)",
-  "newestPostId": "2116685418921959905",
+  "lastUpdated": "Sunday 1 Nov 2026, 01:23 Berlin time (UTC+1)",
+  "newestPostId": "2116687346523373569",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$NNN (NO NUT NOVEMBER)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, still on the bonding curve; CA 7ZHjQAQWEMkMps6YM4J95x1Xnh9FjySP1dxteWyMpump per the post)",
+      "buzz": "@bitecong (38,432 followers) posted an AI signal saying NNN is a minutes-old pump.fun token riding the No Nut November internet joke on 1 November, about 90% of the way to graduation. Other small accounts are posting separate No Nut November coins too.",
+      "engagement": "0 likes, 0 reposts, 340 impressions at scan time.",
+      "flags": "Seasonal meme with several copycat tokens; posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116686408836583521",
+      "followers": 38432
+    },
     {
       "coin": "$HYPORT (Hyport)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "No ticker, chain, or contract address yet; pre-launch teaser only.",
       "url": "https://x.com/drarjantit/status/2116587708713709974",
       "followers": 65481
-    },
-    {
-      "coin": "$TEXR",
-      "chain": "Solana",
-      "chainNote": "Solana (as announced; no contract address posted)",
-      "buzz": "@TexrTrades (104,243 followers) announced launching their own memecoin $TEXR, calling it 'the biggest Solana memecoin', with a stated launch of 'Friday 30th October at 1 PM EST'.",
-      "engagement": "4 likes, 530 impressions at scan time.",
-      "flags": "Stated date (Fri 30 Oct) doesn't match today (Sat 31 Oct), so this may be a recycled or engagement-bait post; no CA given. Influencer self-launches carry high dump risk.",
-      "url": "https://x.com/TexrTrades/status/2116587253996675565",
-      "followers": 104243
     }
   ],
   "news": [
