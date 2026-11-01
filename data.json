@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 12:09 Berlin time (UTC+1)",
-  "newestPostId": "2116849898578423994",
+  "lastUpdated": "Sunday 1 Nov 2026, 12:16 Berlin time (UTC+1)",
+  "newestPostId": "2116851624136056865",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Weekly mover / Hyperliquid",
+      "headline": "BSC News says $PURR on Hyperliquid is the fastest-growing major memecoin this week",
+      "coins": "PURR, PEPE",
+      "detail": "@BSCNews (1,374,788 followers) says $PURR is up +23% on the week at time of writing, outpacing $PEPE and other majors. Low engagement at scan time (2 likes, about 3,100 impressions).",
+      "updated": "1 Nov, 12:15 (Berlin)",
+      "url": "https://x.com/BSCNews/status/2116851495207412205"
+    },
+    {
       "topic": "Exchange / Binance recovery",
       "headline": "Binance says withdrawals are restored for several networks and assets in its phased recovery",
       "coins": "Binance-listed assets (hack fallout)",
@@ -536,14 +544,6 @@
       "detail": "Per the X News story, a reorg caused THORChain to double-refund a 10 ETH deposit and pause swaps on 12 of 13 chains, which blocked laundering by the TraderTraitor group behind the $6.4B Binance theft.",
       "updated": "31 Oct, 20:47 (Berlin)",
       "url": "https://x.com/i/trending/2116616118135607790"
-    },
-    {
-      "topic": "Platform news",
-      "headline": "X News: Pump.fun has powered over 24M launches, but only 312 topped a $100K market cap",
-      "coins": "Pump.fun ecosystem",
-      "detail": "Per the X News story, 99.998% of 43.4M memecoins overall went to zero, while traders keep pointing to outlier wins and PEPE/BONK-style late runs.",
-      "updated": "31 Oct, 17:34 (Berlin)",
-      "url": "https://x.com/i/trending/2116526619175383438"
     }
   ],
   "hourly": [
