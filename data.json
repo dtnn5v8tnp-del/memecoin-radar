@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:10 Berlin time (UTC+1)",
-  "newestPostId": "2116835122536485131",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:17 Berlin time (UTC+1)",
+  "newestPostId": "2116836790233411802",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Rug / dev wallet",
+      "headline": "$MIKA dev reportedly leaked the dev wallet's private key, then a KOL-backed relaunch reportedly rugged too",
+      "coins": "MIKA",
+      "detail": "@jumplifey9 (5,261 followers) says @mikadontlouz launched $MIKA with 50% of supply in the dev wallet and posted that wallet's private key instead of the contract address, and that a later KOL-backed relaunch also reportedly rugged. Single-account recap with low engagement (1 like) at scan time; unverified.",
+      "updated": "1 Nov, 11:13 (Berlin)",
+      "url": "https://x.com/jumplifey9/status/2116836105634922974"
+    },
+    {
       "topic": "Platform stats",
       "headline": "X News: only 312 of 24.4M Pump.fun coins still trade above $100K market cap",
       "coins": "Pump.fun / Solana memecoins",
@@ -536,14 +544,6 @@
       "detail": "@Aiworldtrack (70 followers) posted the claim; no on-chain link was given and it is not independently verified. 0 likes, 8 impressions at scan time.",
       "updated": "31 Oct, 20:40 (Berlin)",
       "url": "https://x.com/Aiworldtrack/status/2116616299266900171"
-    },
-    {
-      "topic": "Whale trade",
-      "headline": "@enzocooks says a trader turned a $27k buy of $PONS into over $1.0M",
-      "coins": "$PONS",
-      "detail": "@enzocooks (441,916 followers) posted that a wallet aped $27k into $PONS and is up +$4,072,898 from it. Claim not independently verified; 3 likes, 920 impressions at scan time.",
-      "updated": "31 Oct, 18:51 (Berlin)",
-      "url": "https://x.com/enzocooks/status/2116588768149000223"
     }
   ],
   "hourly": [
