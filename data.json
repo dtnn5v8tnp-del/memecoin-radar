@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 08:34 Berlin time (UTC+1)",
-  "newestPostId": "2116795823719690579",
+  "lastUpdated": "Sunday 1 Nov 2026, 08:40 Berlin time (UTC+1)",
+  "newestPostId": "2116797262902735099",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$glorp",
+      "chain": "Solana",
+      "chainNote": "CA 6328FBEXHDbCKyHGvHrw8dVu7h1d9HUboSMB5DjEpump",
+      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a pump.fun launch about five minutes old, already 81% of the way along the bonding curve, with no clear theme.",
+      "engagement": "Low: 0 likes, 363 impressions at scan time.",
+      "flags": "Automated signal post; the account also noted something unusual about the top holders. High risk.",
+      "url": "https://x.com/bitecong/status/2116796805249892819",
+      "followers": 38441
+    },
     {
       "coin": "$BALLS",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes, 0 reposts, 341 impressions at scan time.",
       "flags": "Deployer reportedly already sold out. Posted by a signal/ad account. Very high risk.",
       "url": "https://x.com/bitecong/status/2116696397642908132",
-      "followers": 38433
-    },
-    {
-      "coin": "$BLUE (BLUE COIN)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun; CA 49VrHCzm7LWU3WChMrVBQ6V7w1RfeS7gTK56fJ1ypump per the post)",
-      "buzz": "@bitecong (38,433 followers) posted an AI signal saying BLUE COIN is the second blue-themed Solana launch today and got most of the way through the pump.fun bonding curve in under half an hour.",
-      "engagement": "1 like, 0 reposts, 358 impressions at scan time.",
-      "flags": "Fresh pump.fun launch posted by a signal/ad account. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116696071384772781",
       "followers": 38433
     }
   ],
