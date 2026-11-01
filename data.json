@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 01:23 Berlin time (UTC+1)",
-  "newestPostId": "2116687429461524862",
+  "lastUpdated": "Sunday 1 Nov 2026, 01:31 Berlin time (UTC+1)",
+  "newestPostId": "2116689210908324271",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$NICO (The PumpFun Intern)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun, graduated to PumpSwap; CA HXor5zAuNumegyKKnsZnxHkaVN1CJQvvHcyJsXDapump per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal saying NICO graduated from pump.fun to PumpSwap about 2 min 55 s after launch, with no clear theme beyond the name. @AutorunAlert also flagged it as a new token.",
+      "engagement": "0 likes, 0 reposts, 263 impressions at scan time.",
+      "flags": "No theme, posted by signal/ad accounts. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116689112040341546",
+      "followers": 38433
+    },
     {
       "coin": "$NNN (NO NUT NOVEMBER)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Holder and market-cap figures are the project's own claims, not verified; promoted by a small project-linked account; GTA 6 memecoins are a crowded, hype-driven niche.",
       "url": "https://x.com/gta6dacity/status/2116591035103015262",
       "followers": 138
-    },
-    {
-      "coin": "Unnamed memecoin (no ticker given)",
-      "chain": "Unknown",
-      "chainNote": "Not stated in the post",
-      "buzz": "@drarjantit (65,481 followers) said a memecoin is 'Launching Monday', pitching 'no artificial scarcity' and 'no burn stories dressed up as value'.",
-      "engagement": "3 likes, 150 impressions at scan time.",
-      "flags": "No ticker, chain, or contract address yet; pre-launch teaser only.",
-      "url": "https://x.com/drarjantit/status/2116587708713709974",
-      "followers": 65481
     }
   ],
   "news": [
+    {
+      "topic": "Rug",
+      "headline": "Robinhood Chain wallet repeating a create-token, pull-liquidity loop",
+      "coins": "New Robinhood Chain tokens",
+      "detail": "@HoodWhisp4663 (290 followers) says one wallet (0xB90c…A65A, per Blockscout) has run the same loop 1,206 times since 4 Sept: send 30.1 ETH to a new wallet, launch a token with about 30 ETH liquidity, remove liquidity about 45 to 55 minutes later, and return about 37 to 39 ETH. Low engagement so far (5 impressions); unverified claim.",
+      "updated": "1 Nov, 01:31 (Berlin)",
+      "url": "https://x.com/HoodWhisp4663/status/2116689188792005014"
+    },
     {
       "topic": "Rug",
       "headline": "X News: Crypto investors demand doxxed founders amid rug pull fears",
@@ -536,14 +544,6 @@
       "detail": "@stitchdegen (31.5K followers) covers the token in a memecoin recap series after many requests. 682 impressions, 3 likes so far; not verified.",
       "updated": "31 Oct, 13:38 (Berlin)",
       "url": "https://x.com/stitchdegen/status/2116510232931377528"
-    },
-    {
-      "topic": "Market and holders",
-      "headline": "$PENGU is the busiest Solana meme coin this morning, about $79M traded in a day",
-      "coins": "$PENGU",
-      "detail": "@Crypto_Crayak (10.6K followers) says $PENGU saw about $79M in 24h volume while its price barely moved. 44 impressions so far; not verified.",
-      "updated": "31 Oct, 13:16 (Berlin)",
-      "url": "https://x.com/Crypto_Crayak/status/2116503998802858408"
     }
   ],
   "hourly": [
