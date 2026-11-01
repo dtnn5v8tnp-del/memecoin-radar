@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:35 Berlin time (UTC+1)",
-  "newestPostId": "2116841397135221162",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:40 Berlin time (UTC+1)",
+  "newestPostId": "2116842759462244429",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Spermcoin ($Sperm)",
+      "chain": "Solana",
+      "chainNote": "CA 34AB35ETkYqSq4TkyC3b2eiYh6arXkhT3RdtnXaDCAUj",
+      "buzz": "Automated signal account @bitecong (38,447 followers) flags this pump.fun launch as minutes old and still on the bonding curve, with no clear theme beyond the name.",
+      "engagement": "None yet: 0 likes, 0 impressions at scan time.",
+      "flags": "Automated signal post; very new token; no clear theme.",
+      "url": "https://x.com/bitecong/status/2116842759462244429",
+      "followers": 38447
+    },
     {
       "coin": "Mighty White Yak (牦牛)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Fresh launch with very little engagement yet; the dev buy and airdrop are the poster's own promises. Very high risk.",
       "url": "https://x.com/_rise/status/2116725224813277560",
       "followers": 19930
-    },
-    {
-      "coin": "$TEXR",
-      "chain": "Solana",
-      "chainNote": "Solana (poster asks for $SOL addresses; no contract address given yet)",
-      "buzz": "@TexrTrades (104,259 followers) says they're launching their own memecoin $TEXR on Monday at 1 PM EST, with no team or presale and the whole supply airdropped; asks people to repost and comment SOL addresses for a bonus airdrop.",
-      "engagement": "2 likes, 2 reposts, 3 replies, 465 impressions at scan time.",
-      "flags": "Pre-launch announcement only, no CA yet. Repost-for-airdrop engagement bait from a 'memecoin millionaire' account; never post a wallet tied to real funds. Very high risk.",
-      "url": "https://x.com/TexrTrades/status/2116723744890851642",
-      "followers": 104259
     }
   ],
   "news": [
