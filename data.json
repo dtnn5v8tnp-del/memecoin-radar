@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 03:49 Berlin time (UTC+1)",
-  "newestPostId": "2116724258428596546",
+  "lastUpdated": "Sunday 1 Nov 2026, 03:54 Berlin time (UTC+1)",
+  "newestPostId": "2116725450915647781",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Unnamed (@_rise's pump.fun coin)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (CA 4tF68xLoNWWqUjcVtUjcQhucRL7jD9jTwi3NwXmBpump per the post)",
+      "buzz": "@_rise (19,930 followers) says 'my version of a memecoin' is live on Pump Fun, with 60% of supply to be airdropped to the top 15 holders at bonding and a $7,000 buy promised in 15 minutes.",
+      "engagement": "1 like, 0 reposts, 199 impressions at scan time.",
+      "flags": "Fresh launch with very little engagement yet; the dev buy and airdrop are the poster's own promises. Very high risk.",
+      "url": "https://x.com/_rise/status/2116725224813277560",
+      "followers": 19930
+    },
     {
       "coin": "$TEXR",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
       "url": "https://x.com/bitecong/status/2116617287327473779",
       "followers": 38434
-    },
-    {
-      "coin": "$THOR",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@bitecong (38,435 followers) AI signal account flagged $THOR about a minute after launch on Solana; Norse-mythology name with no stated theme beyond that.",
-      "engagement": "0 likes, 182 impressions at scan time.",
-      "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
-      "url": "https://x.com/bitecong/status/2116615281955242054",
-      "followers": 38435
     }
   ],
   "news": [
