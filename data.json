@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 10:28 Berlin time (UTC+1)",
-  "newestPostId": "2116824612822778069",
+  "lastUpdated": "Sunday 1 Nov 2026, 10:36 Berlin time (UTC+1)",
+  "newestPostId": "2116826676650770866",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "The Dead Bull (ANSEM)",
+      "chain": "Solana",
+      "chainNote": "CA GS6DbJJeNzWJ4SHBrMxh9tGCQJjtACjeyk1E6Qrgpump",
+      "buzz": "Automated signal account @bitecong (38,444 followers) says this is the third ANSEM-themed launch on Solana today, moving from the pump.fun bonding curve to PumpSwap about a quarter hour after launch, and flags something odd in the top-holder list.",
+      "engagement": "Low: 0 likes, 340 impressions at scan time.",
+      "flags": "Automated signal post; copycat name-theme launches and unusual buyer lists are high risk.",
+      "url": "https://x.com/bitecong/status/2116826361126092984",
+      "followers": 38444
+    },
     {
       "coin": "LaowuCoin (老吴)",
       "chain": "BSC",
@@ -292,19 +302,17 @@
       "flags": "Posted by a signal/ad account; the post flags an odd wallet spread. Very high risk.",
       "url": "https://x.com/bitecong/status/2116702425507869067",
       "followers": 38434
-    },
-    {
-      "coin": "$buni",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun; CA 3aKuEDCKiXGyUAqnsQPGXceNs5ePQ1wuQcQJpLJUpump per the post)",
-      "buzz": "@bitecong (38,433 followers) posted an AI signal saying $buni was nearly at pump.fun graduation just over four minutes after launch, with a bundle count running into the hundreds of wallets at signal time.",
-      "engagement": "0 likes, 0 reposts, 210 impressions at scan time.",
-      "flags": "Heavy wallet bundling per the post. Posted by a signal/ad account. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116699011805810824",
-      "followers": 38433
     }
   ],
   "news": [
+    {
+      "topic": "Price move",
+      "headline": "crypto.news: $PEPE up 14% this week despite post-Binance-hack turbulence",
+      "coins": "PEPE",
+      "detail": "@cryptodotnews (129K followers, verified) reports PEPE gained 14% on the week, among the market's top performers while broader crypto faces pressure after the Binance hack.",
+      "updated": "1 Nov, 10:34 (Berlin)",
+      "url": "https://x.com/cryptodotnews/status/2116826135048695880"
+    },
     {
       "topic": "Exploit follow-up",
       "headline": "X News: Binance hacker's wallet swapped $5M of PROM for just $71 on Uniswap",
@@ -536,14 +544,6 @@
       "detail": "@ObserverUK (45,611 followers) posted its story saying exchanges are beefing up security and the heist fuels fears that AI is helping groups like North Korea-linked TraderTraitors exploit vulnerabilities. 20 impressions at scan time.",
       "updated": "31 Oct, 18:26 (Berlin)",
       "url": "https://x.com/ObserverUK/status/2116582475895914520"
-    },
-    {
-      "topic": "Exploit follow-up",
-      "headline": "Small alert account claims Binance has covered 90% of the assets stolen in the $6.3B exploit",
-      "coins": "$BNB (no memecoin named)",
-      "detail": "Posted as 'JUST IN' by alert account @popmemecoin (690 followers) with 12 impressions and no likes; a domain-seller account, @AniverseAI (217 followers), separately praised Binance for promising to replace stolen funds. No source linked in the post text, so treat the 90% figure as an unverified claim.",
-      "updated": "31 Oct, 18:11 (Berlin)",
-      "url": "https://x.com/popmemecoin/status/2116578359350079588"
     }
   ],
   "hourly": [
