@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 15:55 Berlin time (UTC+1)",
-  "newestPostId": "2116906974738530512",
+  "lastUpdated": "Sunday 1 Nov 2026, 16:01 Berlin time (UTC+1)",
+  "newestPostId": "2116908465352258036",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exploit / Injective",
+      "headline": "Talis Protocol reportedly exploited on its Injective NFT marketplace",
+      "coins": "INJ",
+      "detail": "@popmemecoin (702 followers) posted that an attacker drained 5,700 NFTs from Talis Protocol's Injective marketplace and dumped them for about 445 INJ (roughly $3,100). Low engagement so far (14 impressions); not independently confirmed in this sweep.",
+      "updated": "1 Nov, 15:57 (Berlin)",
+      "url": "https://x.com/popmemecoin/status/2116907573685489716"
+    },
+    {
       "topic": "DOGE / Community",
       "headline": "MyDogeVN says it now manages the official @dogecoin account",
       "coins": "DOGE",
@@ -536,14 +544,6 @@
       "detail": "@TheVictorBuilds (49,542 followers) posted that Binance officially said it has fully covered the 'massive $6B hole' from the recent exploit, framing it as a SAFU power move. Earlier reports on the dashboard said about 90% had been replenished; this post does not link a Binance statement directly in its text. 1 like, 104 impressions at scan time.",
       "updated": "1 Nov, 06:57 (Berlin)",
       "url": "https://x.com/TheVictorBuilds/status/2116771503694045546"
-    },
-    {
-      "topic": "Market",
-      "headline": "Launchpad 24h stats: ~62% of 504 graduations were instant bundles",
-      "coins": "Solana launchpad memecoins",
-      "detail": "@baogerbao (4,919 followers) posted 24h stats for a launchpad (link shortened, platform not named): 504 graduations, ~62% instant bundles, bundle DEX volume ~$84M vs organic ~$40M, ~61% fake-official/template clusters, only ~1.5% organic coins still above $200k six hours after graduating, median drawdown from ATH ~95%. 1 like, 37 impressions at scan time.",
-      "updated": "1 Nov, 06:52 (Berlin)",
-      "url": "https://x.com/baogerbao/status/2116769470341644687"
     }
   ],
   "hourly": [
