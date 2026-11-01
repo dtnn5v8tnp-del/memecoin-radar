@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 11:17 Berlin time (UTC+1)",
-  "newestPostId": "2116836790233411802",
+  "lastUpdated": "Sunday 1 Nov 2026, 11:21 Berlin time (UTC+1)",
+  "newestPostId": "2116837852294119464",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "MUSK (Elon Musk theme)",
+      "chain": "Solana",
+      "chainNote": "CA 7zh4rY6LA14MQcMU9euQhhzh4o9dufQeVNmVXjfpump",
+      "buzz": "Automated signal account @bitecong (38,445 followers) says this Elon-themed coin was 81% along the pump.fun bonding curve six minutes into trading, and that its deployer has launched 256 tokens.",
+      "engagement": "Low: 0 likes, 355 impressions at scan time.",
+      "flags": "Serial deployer (256 tokens per the post); celebrity-name coins are high risk. Automated signal post.",
+      "url": "https://x.com/bitecong/status/2116837456750465210",
+      "followers": 38445
+    },
     {
       "coin": "nut (No Nut November theme)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes, 0 reposts, 301 impressions at scan time.",
       "flags": "Posted by a signal/ad account. Brand-new token with no clear narrative. Very high risk.",
       "url": "https://x.com/bitecong/status/2116707455254269986",
-      "followers": 38435
-    },
-    {
-      "coin": "$BONKO (The Pudgy Bear)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun; CA 6Y9TFE8ygQBe3dZZicd4RCSCyY6a6nKFhe2zwogrpump per the post)",
-      "buzz": "@bitecong (38,435 followers) posted an AI signal saying the bear-themed $BONKO launched on pump.fun minutes earlier and was most of the way to graduation on the bonding curve.",
-      "engagement": "0 likes, 0 reposts, 258 impressions at scan time.",
-      "flags": "Posted by a signal/ad account. Brand-new pump.fun token. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116704473397789002",
       "followers": 38435
     }
   ],
