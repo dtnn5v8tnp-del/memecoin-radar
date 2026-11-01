@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 14:19 Berlin time (UTC+1)",
-  "newestPostId": "2116882531760894167",
+  "lastUpdated": "Sunday 1 Nov 2026, 14:27 Berlin time (UTC+1)",
+  "newestPostId": "2116884724945957164",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -307,6 +307,22 @@
   "news": [
     {
       "topic": "Exploit / b14g",
+      "headline": "b14g exploit sized at about $1.47 million: zero-token withdrawals let attacker drain 97 million CORE",
+      "coins": "CORE",
+      "detail": "Follow-up shared by @CryptoPlanet247 (1,358 followers) linking a news article; adds the dollar figure and the zero-token withdrawal method. Not a memecoin, but relevant to market risk. Low engagement at scan time.",
+      "updated": "1 Nov, 14:25 (Berlin)",
+      "url": "https://x.com/CryptoPlanet247/status/2116884331960381589"
+    },
+    {
+      "topic": "Chain shutdown / Abstract",
+      "headline": "Abstract chain (from Pudgy Penguins parent Igloo) set to shut down on 15 Dec with about $48 million still on it",
+      "coins": "Abstract ecosystem tokens",
+      "detail": "Post by @letsdog2 (2,012 followers) recaps Igloo's 6 Oct announcement that Abstract will shut down on 15 December, with roughly $48M still on-chain. Holders of Abstract-based memecoins should check bridging plans. Very low engagement at scan time.",
+      "updated": "1 Nov, 14:27 (Berlin)",
+      "url": "https://x.com/letsdog2/status/2116884723373109484"
+    },
+    {
+      "topic": "Exploit / b14g",
       "headline": "Bitcoin staking protocol b14g reportedly exploited, 97 million CORE drained",
       "coins": "CORE",
       "detail": "Reported by @WhaleAlertNews (326 followers); not yet confirmed by an official source in this sweep. Not a memecoin, but relevant to market risk. 1 like at scan time.",
@@ -528,22 +544,6 @@
       "detail": "@DanielLikesArt (1,110 followers) apologises to anyone who followed them into $PUMPE, calling it a slow rug after the team didn't keep up its pumpkin-Pepe meme through October. Single holder's claim with minimal engagement (1 like); not independently confirmed.",
       "updated": "1 Nov, 05:26 (Berlin)",
       "url": "https://x.com/DanielLikesArt/status/2116748724064190705"
-    },
-    {
-      "topic": "Price move",
-      "headline": "$USELESS down about 29% over seven days while $WIF is flat on the day",
-      "coins": "$USELESS, $WIF (Solana)",
-      "detail": "@Crypto_Crayak (10,588 followers) notes $USELESS is the Solana meme taking the biggest hit this week, down about 29% in seven days, while $WIF barely moved today. Market commentary with no engagement yet (0 likes); figures are the poster's claims.",
-      "updated": "1 Nov, 04:16 (Berlin)",
-      "url": "https://x.com/Crypto_Crayak/status/2116730434985808043"
-    },
-    {
-      "topic": "Rug",
-      "headline": "On-chain breakdown claims 'project kimchi' rugged from $15.2M to $49K (-99.7%)",
-      "coins": "project kimchi (Solana, pump.fun CA B1Y2fJW8rtirrBuUcda14pSaeiASHaGqTxQdxU8Mpump per the post)",
-      "detail": "@ruggydotfun (36 followers, a new Solana risk-analysis account) posted a thread saying the token fell from a $15.2M to a $49K market cap, with sellers exiting in three waves rather than one dev dump. Low engagement so far (1 like); figures are the poster's claims, not independently verified.",
-      "updated": "1 Nov, 03:15 (Berlin)",
-      "url": "https://x.com/ruggydotfun/status/2116715681009869118"
     }
   ],
   "hourly": [
