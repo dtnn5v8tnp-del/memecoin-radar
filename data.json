@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 01:57 Berlin time (UTC+1)",
-  "newestPostId": "2116695925871591699",
+  "lastUpdated": "Sunday 1 Nov 2026, 02:02 Berlin time (UTC+1)",
+  "newestPostId": "2116697119427850557",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$PUTIN (Vladimir Putin Coin)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun; CA 3kTpsSZLboYCs5CuSJhqAuD5v6CAAKdPFribrBD8pump per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal saying Vladimir Putin Coin is a minute-old pump.fun launch and its deployer has already sold out.",
+      "engagement": "0 likes, 0 reposts, 341 impressions at scan time.",
+      "flags": "Deployer reportedly already sold out. Posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116696397642908132",
+      "followers": 38433
+    },
+    {
+      "coin": "$BLUE (BLUE COIN)",
+      "chain": "Solana",
+      "chainNote": "Solana (pump.fun; CA 49VrHCzm7LWU3WChMrVBQ6V7w1RfeS7gTK56fJ1ypump per the post)",
+      "buzz": "@bitecong (38,433 followers) posted an AI signal saying BLUE COIN is the second blue-themed Solana launch today and got most of the way through the pump.fun bonding curve in under half an hour.",
+      "engagement": "1 like, 0 reposts, 358 impressions at scan time.",
+      "flags": "Fresh pump.fun launch posted by a signal/ad account. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116696071384772781",
+      "followers": 38433
+    },
     {
       "coin": "$AI (Alien inu)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "0 likes, 274 impressions at scan time.",
       "flags": "Bot-style signal account; bundled holders flagged by the poster itself; brand-new pair, very high risk.",
       "url": "https://x.com/bitecong/status/2116597383568232800",
-      "followers": 38436
-    },
-    {
-      "coin": "$TIGRINO (Tigrino)",
-      "chain": "Solana",
-      "chainNote": "Solana (link in post)",
-      "buzz": "@CryptoAndrew_1 (75,044 followers) promoted $TIGRINO, a memecoin built on news of Tigrino, described as the only known living member of Leopardus tilcayo, a newly discovered cat species at a Bolivian sanctuary. The post says 100% of creator fees are locked on-chain.",
-      "engagement": "0 likes, 43 impressions at scan time.",
-      "flags": "Promotional post from a large account with no engagement yet; fee-lock claim not verified; fresh viral-animal meme.",
-      "url": "https://x.com/CryptoAndrew_1/status/2116594402219176376",
-      "followers": 75044
-    },
-    {
-      "coin": "$Puffen (The paper trader)",
-      "chain": "Solana",
-      "chainNote": "Solana (Pump.fun, graduated to PumpSwap)",
-      "buzz": "@bitecong (38,436 followers) posted an AI signal saying Puffen, a paper-trader-themed token, graduated from Pump.fun to PumpSwap eight minutes and fifty-nine seconds after launch; @AutorunAlert also flagged it as a new token.",
-      "engagement": "0 likes; 163 impressions at scan time.",
-      "flags": "Automated alert accounts only, no organic buzz; very early.",
-      "url": "https://x.com/bitecong/status/2116595277192978584",
       "followers": 38436
     }
   ],
