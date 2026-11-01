@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 04:19 Berlin time (UTC+1)",
-  "newestPostId": "2116731738009284885",
+  "lastUpdated": "Sunday 1 Nov 2026, 04:24 Berlin time (UTC+1)",
+  "newestPostId": "2116732995247939975",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "BLOB (#BLOB)",
+      "chain": "Solana",
+      "chainNote": "Solana, pump.fun (CA 8s11PkgQt4ZzdZ7oo84hK5t9HG1EvdgAjcg4W7Lpump per the post)",
+      "buzz": "@fourtislisting (67,269 followers, an automated 'Express Listing' account for the Fourtis platform) listed BLOB at a price of $0.00112 and a market cap of about $1.11M.",
+      "engagement": "5 likes, 2 reposts, 2,553 impressions at scan time.",
+      "flags": "Paid or automated listing post; price and market cap are the poster's figures, not verified. Very high risk.",
+      "url": "https://x.com/fourtislisting/status/2116732359982661667",
+      "followers": 67269
+    },
     {
       "coin": "$KICK (kickback - launch your ETFs)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Pushed mainly by paid 'call' accounts; figures are self-reported and unverified. Very high risk.",
       "url": "https://x.com/popmemecoin/status/2116629547894648895",
       "followers": 692
-    },
-    {
-      "coin": "$CREDIT",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@bitecong (38,431 followers) AI signal account flagged $CREDIT, saying it graduated from the pump.fun bonding curve to PumpSwap about 2 min 41 s after launch.",
-      "engagement": "0 likes, 327 impressions at scan time.",
-      "flags": "Automated signal post; also pushed by paid 'call' accounts. Very early and very high risk.",
-      "url": "https://x.com/bitecong/status/2116626940564328539",
-      "followers": 38431
     }
   ],
   "news": [
