@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 06:44 Berlin time (UTC+1)",
-  "newestPostId": "2116767990104412486",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:52 Berlin time (UTC+1)",
+  "newestPostId": "2116770237999919307",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
     {
@@ -307,6 +307,14 @@
   "news": [
     {
       "topic": "Market",
+      "headline": "Launchpad 24h stats: ~62% of 504 graduations were instant bundles",
+      "coins": "Solana launchpad memecoins",
+      "detail": "@baogerbao (4,919 followers) posted 24h stats for a launchpad (link shortened, platform not named): 504 graduations, ~62% instant bundles, bundle DEX volume ~$84M vs organic ~$40M, ~61% fake-official/template clusters, only ~1.5% organic coins still above $200k six hours after graduating, median drawdown from ATH ~95%. 1 like, 37 impressions at scan time.",
+      "updated": "1 Nov, 06:52 (Berlin)",
+      "url": "https://x.com/baogerbao/status/2116769470341644687"
+    },
+    {
+      "topic": "Market",
       "headline": "Pump.fun reality check: 97% of traders are in loss",
       "coins": "Pump.fun memecoins (Solana)",
       "detail": "@Blockcastcc (55,548 followers) posted a headline saying 97% of Pump.fun traders are in loss. 0 likes, 99 impressions at scan time.",
@@ -536,14 +544,6 @@
       "detail": "Relayed by small account @niuyeye945a (81 followers), referring to the October 30 exploit. Very low engagement (3 impressions); secondhand, not independently verified.",
       "updated": "31 Oct, 16:20 (Berlin)",
       "url": "https://x.com/niuyeye945a/status/2116550845449842946"
-    },
-    {
-      "topic": "Rug",
-      "headline": "MegaPump warns a rugger launched a copycat token using its name and socials",
-      "coins": "MegaPump",
-      "detail": "@megapumpio (44 followers, account days old) pinned what it says is its real CA (EU5xmKyzvPmMvUEnYeYvrpcACiTfaAXFzSGraxyypump) and says an impostor token was rugged. 90 impressions, 7 likes. Not verified.",
-      "updated": "31 Oct, 16:06 (Berlin)",
-      "url": "https://x.com/megapumpio/status/2116546724659638436"
     }
   ],
   "hourly": [
