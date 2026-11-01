@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 06:52 Berlin time (UTC+1)",
-  "newestPostId": "2116770237999919307",
+  "lastUpdated": "Sunday 1 Nov 2026, 06:57 Berlin time (UTC+1)",
+  "newestPostId": "2116771503694045546",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$Solanaween",
+      "chain": "Solana",
+      "chainNote": "pump.fun contract (ends in 'pump')",
+      "buzz": "@Apedwithghost (67 followers) claims a wallet visible in an @solana Halloween video was funded and deployed $Solanaween days before Halloween. Contract posted: 8epS8oD66mUFwsEZwK55GyyS2iGPcgY3CDbB75HLpump.",
+      "engagement": "0 likes, 9 replies at scan time.",
+      "flags": "Unverified claim from a tiny account; no confirmation from Solana. Very high risk.",
+      "url": "https://x.com/Apedwithghost/status/2116770909025616014",
+      "followers": 67
+    },
     {
       "coin": "Rudolph / Rudy coin (no ticker stated)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Seasonal meme with several copycat tokens; posted by a signal/ad account. Very high risk.",
       "url": "https://x.com/bitecong/status/2116686408836583521",
       "followers": 38432
-    },
-    {
-      "coin": "$HYPORT (Hyport)",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun, graduated to PumpSwap; CA 6bnF2VRuZxZfMttSPQ9GJHcPvLLXRcbmamYxMd4Lpump per the post)",
-      "buzz": "@bitecong (38,432 followers) posted an AI signal saying Hyport launched on pump.fun and graduated to PumpSwap about eleven hours in, but has no clear theme: the name, site and X account say nothing about what it is for.",
-      "engagement": "0 likes, 0 reposts, 360 impressions at scan time.",
-      "flags": "No stated purpose per the poster itself; posted by a signal/ad account. Very high risk.",
-      "url": "https://x.com/bitecong/status/2116684626165121463",
-      "followers": 38432
     }
   ],
   "news": [
+    {
+      "topic": "Exchange",
+      "headline": "Commentator says Binance has now fully covered the ~$6B exploit hole",
+      "coins": "BNB, Binance-listed memecoins",
+      "detail": "@TheVictorBuilds (49,542 followers) posted that Binance officially said it has fully covered the 'massive $6B hole' from the recent exploit, framing it as a SAFU power move. Earlier reports on the dashboard said about 90% had been replenished; this post does not link a Binance statement directly in its text. 1 like, 104 impressions at scan time.",
+      "updated": "1 Nov, 06:57 (Berlin)",
+      "url": "https://x.com/TheVictorBuilds/status/2116771503694045546"
+    },
     {
       "topic": "Market",
       "headline": "Launchpad 24h stats: ~62% of 504 graduations were instant bundles",
@@ -536,14 +544,6 @@
       "detail": "Posted by small alert account @popmemecoin (688 followers). Very low engagement (8 impressions); not independently verified.",
       "updated": "31 Oct, 16:25 (Berlin)",
       "url": "https://x.com/popmemecoin/status/2116551785242583227"
-    },
-    {
-      "topic": "Binance hack",
-      "headline": "Binance co-CEO Yi He posts a four-minute video on the $6.3B exploit; about $3B of stolen funds frozen by industry partners",
-      "coins": "BTC, BNB and SAFU-themed meme spin-offs",
-      "detail": "Relayed by small account @niuyeye945a (81 followers), referring to the October 30 exploit. Very low engagement (3 impressions); secondhand, not independently verified.",
-      "updated": "31 Oct, 16:20 (Berlin)",
-      "url": "https://x.com/niuyeye945a/status/2116550845449842946"
     }
   ],
   "hourly": [
