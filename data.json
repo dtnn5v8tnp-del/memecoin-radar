@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 15:52 Berlin time (UTC+1)",
-  "newestPostId": "2116906205989966284",
+  "lastUpdated": "Sunday 1 Nov 2026, 15:55 Berlin time (UTC+1)",
+  "newestPostId": "2116906974738530512",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Super Inu ($SI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 78kBAy8CLZU9edSsLTn4KTchQgT5a6GmmMg5XnSipump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,464 followers) posted at 15:54 Berlin that this pump.fun token was about a minute old and is token number 1330 from the same deployer wallet, with no clear theme.",
+      "engagement": "332 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Serial deployer (1,330 tokens from one wallet per the post); only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2116906849819939299",
+      "followers": 38464
+    },
     {
       "coin": "Numbat ($Numbat)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Automated signal post; heavy fresh-wallet buying is a common wash or bundle pattern. High risk.",
       "url": "https://x.com/bitecong/status/2116805308404437081",
       "followers": 38443
-    },
-    {
-      "coin": "币安 (You Bin An)",
-      "chain": "BSC",
-      "chainNote": "CA 0x91158a7de56ea0279767c0b15756bf17f9ea7777",
-      "buzz": "Automated signal account @bitecong (38,441 followers) flagged a Binance-themed meme coin trading on Flap about twenty minutes after launch, 46% of the way to graduation.",
-      "engagement": "Low: 0 likes, 317 impressions at scan time.",
-      "flags": "Automated signal post riding the Binance hack news cycle. High risk.",
-      "url": "https://x.com/bitecong/status/2116799127615053895",
-      "followers": 38441
     }
   ],
   "news": [
+    {
+      "topic": "DOGE / Community",
+      "headline": "MyDogeVN says it now manages the official @dogecoin account",
+      "coins": "DOGE",
+      "detail": "@MyDogeVN (7,245 followers, part of the MyDoge wallet group) posted that, effective today, the official @dogecoin account will be managed and operated by MyDogeVN, quoting an earlier announcement. Low engagement so far (34 impressions); not independently confirmed in this sweep.",
+      "updated": "1 Nov, 15:52 (Berlin)",
+      "url": "https://x.com/MyDogeVN/status/2116906324453945479"
+    },
     {
       "topic": "Exchanges / DOGE",
       "headline": "Binance withdrawals: 8 of the 10 \"100% backed\" coins can now leave the exchange",
@@ -536,14 +544,6 @@
       "detail": "@baogerbao (4,919 followers) posted 24h stats for a launchpad (link shortened, platform not named): 504 graduations, ~62% instant bundles, bundle DEX volume ~$84M vs organic ~$40M, ~61% fake-official/template clusters, only ~1.5% organic coins still above $200k six hours after graduating, median drawdown from ATH ~95%. 1 like, 37 impressions at scan time.",
       "updated": "1 Nov, 06:52 (Berlin)",
       "url": "https://x.com/baogerbao/status/2116769470341644687"
-    },
-    {
-      "topic": "Market",
-      "headline": "Pump.fun reality check: 97% of traders are in loss",
-      "coins": "Pump.fun memecoins (Solana)",
-      "detail": "@Blockcastcc (55,548 followers) posted a headline saying 97% of Pump.fun traders are in loss. 0 likes, 99 impressions at scan time.",
-      "updated": "1 Nov, 06:41 (Berlin)",
-      "url": "https://x.com/Blockcastcc/status/2116767283272167763"
     }
   ],
   "hourly": [
