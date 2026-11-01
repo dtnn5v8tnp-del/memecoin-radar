@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 05:10 Berlin time (UTC+1)",
-  "newestPostId": "2116744388818972788",
+  "lastUpdated": "Sunday 1 Nov 2026, 05:14 Berlin time (UTC+1)",
+  "newestPostId": "2116745657939874067",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Jadebound ($Jadebound)",
+      "chain": "BSC",
+      "chainNote": "BSC, launched on Flap (CA 0x5f97dda9c7336b58d23cb85a1ac1fcf27fb67777 per the post)",
+      "buzz": "@bitecong (38,438 followers, an automated 'AI Signal' account) flags Jadebound as a Flap launch about four minutes old that nobody on X had posted about yet, with no clear theme in its name or ticker.",
+      "engagement": "0 likes, 0 reposts, 294 impressions at scan time.",
+      "flags": "Automated signal account; no stated theme or team. Very high risk.",
+      "url": "https://x.com/bitecong/status/2116745269043978568",
+      "followers": 38438
+    },
     {
       "coin": "tipr ($tipr)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Per the post, 38 bundler wallets bought and none still holds; automated signal post with no organic engagement; very early and very high risk.",
       "url": "https://x.com/bitecong/status/2116642198800437585",
       "followers": 38432
-    },
-    {
-      "coin": "$Barron",
-      "chain": "Solana",
-      "chainNote": "Solana (Pump.fun launch, graduated to PumpSwap, CA in post)",
-      "buzz": "@bitecong (38,433 followers) AI signal account flagged $Barron (\"The Insider\"), a political-insider meme that graduated from Pump.fun to PumpSwap about 16 minutes after launch.",
-      "engagement": "0 likes, 248 impressions at scan time.",
-      "flags": "Automated signal post with no organic engagement; political meme theme; very early and very high risk.",
-      "url": "https://x.com/bitecong/status/2116641328931148137",
-      "followers": 38433
     }
   ],
   "news": [
