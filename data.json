@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 03:44 Berlin time (UTC+1)",
-  "newestPostId": "2116722781031223404",
+  "lastUpdated": "Sunday 1 Nov 2026, 03:49 Berlin time (UTC+1)",
+  "newestPostId": "2116724258428596546",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "$TEXR",
+      "chain": "Solana",
+      "chainNote": "Solana (poster asks for $SOL addresses; no contract address given yet)",
+      "buzz": "@TexrTrades (104,259 followers) says they're launching their own memecoin $TEXR on Monday at 1 PM EST, with no team or presale and the whole supply airdropped; asks people to repost and comment SOL addresses for a bonus airdrop.",
+      "engagement": "2 likes, 2 reposts, 3 replies, 465 impressions at scan time.",
+      "flags": "Pre-launch announcement only, no CA yet. Repost-for-airdrop engagement bait from a 'memecoin millionaire' account; never post a wallet tied to real funds. Very high risk.",
+      "url": "https://x.com/TexrTrades/status/2116723744890851642",
+      "followers": 104259
+    },
     {
       "coin": "Seamus O'Grady memecoin (no ticker given)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal post, no organic engagement yet; very early and very high risk.",
       "url": "https://x.com/bitecong/status/2116615281955242054",
       "followers": 38435
-    },
-    {
-      "coin": "$ANAKIN",
-      "chain": "Solana",
-      "chainNote": "Solana (pump.fun CA in post)",
-      "buzz": "@Charlie_SOL23 (1,697 followers) claimed $ANAKIN went from $12.7K to $629K market cap; @flinttrades_1 and @andr3sky pushed the same contract address within minutes.",
-      "engagement": "1 like, 1 repost, 28 impressions at scan time.",
-      "flags": "Paid-call style promotion with Telegram VIP pitch; market cap claim unverified, very high risk.",
-      "url": "https://x.com/Charlie_SOL23/status/2116609798951120975",
-      "followers": 1697
     }
   ],
   "news": [
