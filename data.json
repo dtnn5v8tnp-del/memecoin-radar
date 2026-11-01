@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 15:15 Berlin time (UTC+1)",
-  "newestPostId": "2116896949416710455",
+  "lastUpdated": "Sunday 1 Nov 2026, 15:20 Berlin time (UTC+1)",
+  "newestPostId": "2116897962379133092",
   "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
   "launches": [
+    {
+      "coin": "Dante ($Dante)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4s8PpvyFsg1EnZxSpogVdsVwMU2R8gg46rKABG3Bs6Tt (pump.fun bonding curve).",
+      "buzz": "Signal account @bitecong (38,463 followers) posted at 15:18 Berlin that this minutes-old coin was already 81% of the way to pump.fun graduation, with no clear theme beyond a link to a Fortnite post, and flagged the deployer's long launch record.",
+      "engagement": "386 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "No clear theme and a deployer with a heavy launch history per the post; only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2116897762164040016",
+      "followers": 38463
+    },
     {
       "coin": "GTA 1s ($GTA1s)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Self-reported gains from a repeated 'call' account; unverified. High risk.",
       "url": "https://x.com/JEREMYhboo/status/2116794291263549866",
       "followers": 4056
-    },
-    {
-      "coin": "$niketyson (Nike Tyson)",
-      "chain": "Solana",
-      "chainNote": "CA nikemwCaTqBamHqfRVqPzwtWsmuwdXb6To25xJ2znwT",
-      "buzz": "Signal account @bitecong (38,441 followers) says the Nike/Mike Tyson-themed coin graduated from pump.fun to PumpSwap about 30 minutes after launch. Call accounts @Sol_Gems00 (1,677 followers) and @erykdiamond (487 followers) claimed 4x to 7x moves, one citing $10K to $71K market cap.",
-      "engagement": "Very low: 0 to 1 likes per post, roughly 50 to 400 impressions at scan time.",
-      "flags": "Promotion comes almost entirely from repeated paid-group 'call' accounts; gains are self-reported and unverified. High risk.",
-      "url": "https://x.com/bitecong/status/2116789256693989757",
-      "followers": 38441
     }
   ],
   "news": [
+    {
+      "topic": "Influencer / GTA6 memes",
+      "headline": "Suppoman pitches GATO as the top GTA6 mascot memecoin as several GTA-themed coins compete",
+      "coins": "GATO",
+      "detail": "Crypto YouTuber @MichaelSuppo (148,794 followers) said three coins are vying for the GTA6 mascot spot and backed GATO, the cat from the GTA6 trailer, saying it trades on 4 exchanges. Promotional post. 1,131 impressions, 11 likes, 4 reposts at scan time.",
+      "updated": "1 Nov, 15:20 (Berlin)",
+      "url": "https://x.com/MichaelSuppo/status/2116897459901522191"
+    },
     {
       "topic": "Exploit / b14g",
       "headline": "CORE token hits an all-time low after the $1.47 million b14g exploit on a Bitcoin staking protocol",
@@ -536,14 +544,6 @@
       "detail": "@Trueo_ (6,436 followers) posted an 'exploit watch' alert about a reported $400K exploit of a Premia options vault on Arbitrum. Unconfirmed single-source report; 2 likes, 84 impressions at scan time.",
       "updated": "1 Nov, 05:59 (Berlin)",
       "url": "https://x.com/Trueo_/status/2116756036111770065"
-    },
-    {
-      "topic": "Exchange",
-      "headline": "Binance says it will resume withdrawals in phases today, starting between 06:00 and 09:00 UTC",
-      "coins": "Binance (exchange-wide)",
-      "detail": "@coinbureau (1.13M followers) reports Binance will reopen withdrawals progressively as each asset and network completes security checks, with temporary delays expected. Follows the $6.3B hack attributed to North Korea's TraderTraitor group. 11 likes, about 1,400 impressions at scan time.",
-      "updated": "1 Nov, 05:34 (Berlin)",
-      "url": "https://x.com/coinbureau/status/2116750588730077231"
     }
   ],
   "hourly": [
