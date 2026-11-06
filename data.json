@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:41 Berlin time (UTC+01:00)",
-  "newestPostId": "2118654696822874366",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; launch query retry after invalid CA: syntax). Added 2 launch(s) and 0 news item(s). Added: @bitecong $BEEF on BSC/Flap (CA 0x2c83…777; 373 imp); @dex_kolwatcher paid DEXScreener $GTA (CA 57FVGT…pump; 206 imp). Skipped: @Aevon_sol self-shill AEVON (7 followers, 1 imp); @Theblackbullxxx DESSA BANK re-push (already listed); political Trump/NeverTrump noise; macro AI-selloff post; reply-thread dump banter; news query: no actionable memecoin news.",
+  "lastUpdated": "Friday 6 Nov 2026, 11:46 Berlin time (UTC+01:00)",
+  "newestPostId": "2118656225344688490",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; launch query first attempt failed on CA: syntax, retried cleaned query). Added 1 launch(s) and 1 news item(s). Added: @dex_kolwatcher paid DEXScreener $ROCCO / GTA6 DOGE (CA 4PAtcd…pump; 195 imp); @brookxbt Upbit $cards listing mention (414 imp, 9 likes). Skipped: HALO/Youyou/CI/$CZ call-farm re-pushes (already listed); BOBERDUCK self-shill (4 followers); The Cage (60 followers); SYNERGYUNI self-shill; PEPE ETF spam; political Trump noise; HALO 13.98x flex posts; Groupon/Anthropic/Perplexity non-meme launches.",
   "launches": [
+    {
+      "coin": "GTA6 DOGE ($ROCCO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4PAtcdgNuh93Tn4LA2XkbDgee2PnoCb263j7hkyupump (PumpSwap / Solana).",
+      "buzz": "Signal account @dex_kolwatcher (8,968 followers) posted at 11:43 Berlin a paid DEXScreener alert for $ROCCO on Solana PumpSwap, citing about $88.9K market cap and roughly $90.6K buy / $86.0K sell 24h volume in the alert text. Scanner @SolanaTren59241 also flagged GTA6 DOGE ($ROCCO) as a CTO breakout around a $108.8K peak MC / 533 holders.",
+      "engagement": "195 impressions, 0 likes, 0 reposts on the DEXScreener signal at scan time; companion CTO alert had 71 impressions.",
+      "flags": "Paid DEXScreener promo via signal bot plus scanner CTO ping; thin organic engagement. Distinct CA from listed GTA6DOG ($GTA6K9). Very early, high risk.",
+      "url": "https://x.com/dex_kolwatcher/status/2118655555971502175",
+      "followers": 8968
+    },
     {
       "coin": "BEEF ($BEEF)",
       "chain": "BSC",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; deployer already sold out; thin theme beyond the name. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118593004739100946",
       "followers": 38529
-    },
-    {
-      "coin": "Hedge Fund ($HEDGE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address HW6WZPeiX7r6iMY8LvVd8Xc4fooTym2GikH1farspump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:29 Berlin that this is the third hedge-themed Solana launch tracked today, already ~90% along the pump.fun bonding curve less than two minutes after launch.",
-      "engagement": "162 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Third hedge-themed copycat today (different CA from earlier $HEDGE); only an automated signal account so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118591548405469355",
-      "followers": 38529
     }
   ],
   "news": [
+    {
+      "topic": "Exchange listing",
+      "headline": "Upbit said to have listed $cards (trench diary mention)",
+      "coins": "cards",
+      "detail": "Creator @brookxbt (31,100 followers) posted at 11:44 Berlin a trenches diary noting among other items that Upbit listed $cards and that Korean traders reacted strongly. This is a secondary mention, not an Upbit primary announcement; treat as unverified until confirmed by the exchange.",
+      "updated": "6 Nov, 11:46 (Berlin)",
+      "url": "https://x.com/brookxbt/status/2118655770807947456"
+    },
     {
       "topic": "Price move / BNB meme",
       "headline": "BNB Chain $GM said to jump ~400% after Elon–CZ meme banter",
@@ -536,14 +544,6 @@
       "detail": "Post by @letsdog2 (2,012 followers) recaps Igloo's 6 Oct announcement that Abstract will shut down on 15 December, with roughly $48M still on-chain. Holders of Abstract-based memecoins should check bridging plans. Very low engagement at scan time.",
       "updated": "1 Nov, 14:27 (Berlin)",
       "url": "https://x.com/letsdog2/status/2116884723373109484"
-    },
-    {
-      "topic": "Exploit / b14g",
-      "headline": "Bitcoin staking protocol b14g reportedly exploited, 97 million CORE drained",
-      "coins": "CORE",
-      "detail": "Reported by @WhaleAlertNews (326 followers); not yet confirmed by an official source in this sweep. Not a memecoin, but relevant to market risk. 1 like at scan time.",
-      "updated": "1 Nov, 13:49 (Berlin)",
-      "url": "https://x.com/WhaleAlertNews/status/2116874556530889147"
     }
   ],
   "hourly": [
