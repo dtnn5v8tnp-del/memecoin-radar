@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 00:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118850102299082864",
-  "note": "Window: X posts since prior newestPostId 2118848198391603689 (recency: 1 launch/pumpfun query + 1 news/rug query + search_news this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: AutorunAlert $Sahil DkiA…pump deposit/screener spam (8,146 followers); Abu4Raaeed Trump Files shill (3 followers); BoomerKid1966 $BKK (35 followers, Nov 1 acct); CipherEdgeCalls $HODL call-farm (DKto…pump, already skipped); enzocooks 'COMING SOON' teaser (not a live launch); popmemecoin AD2TB…pump screener with mismatched EVM CA; ShibaPoCONK $CONK lottery-burn update (thin, not new launch); deecayz pumpfun fame commentary; politics Trump / friendship bonding / graduated-school false-positives. search_news: Theo Von $NIO, Pump.fun Diamond/callouts, Ansem deal, Kraken $6.85M SOL, Ethan $142K already on board.",
+  "lastUpdated": "Saturday 7 Nov 2026, 00:40 Berlin time (UTC+01:00)",
+  "newestPostId": "2118850740693127319",
+  "note": "Window: X posts since prior newestPostId 2118850102299082864 (recency: 1 launch/pumpfun query + 1 news/rug query; no search_news this run). Added 1 launch(s) and 0 news item(s). Seen but skipped: bitecong $Sahil DkiAjx…pump (Mog Final Boss / second Sahil theme; same CA previously skipped as AutorunAlert screener spam; distinct from board Sahil BW1K…pump); 0xpumpDev generic pumpfun-vs-Raydium commentary (no new coin); PoorBull Ansem-vs-Sahil serial-rugger commentary (drama already on news board); AlphaApingrules Be Like José 87CQ… shill (48 followers, already covered José variants).",
   "launches": [
+    {
+      "coin": "HABIBI PAC ($HABIBI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address By58uKcTGN51dkTYfLcnJkzVHJ6D8JTJaYnJ3Ri3pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:37 Berlin an AI Signal that HABIBI PAC ($HABIBI) is the second Habibi-themed launch on Solana today and hit 93% of the way to graduation on the pumpfun bonding curve about a minute in; it flags the deployer's pace (token 847 mentioned, text cut off).",
+      "engagement": "290 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; serial deployer pace flagged in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118850172113531200",
+      "followers": 38571
+    },
     {
       "coin": "ape ($ape)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; ticker-name collision with earlier stonkfun Anon (different CA); thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118817073673687404",
       "followers": 38570
-    },
-    {
-      "coin": "Private Property ($Private)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 8o6SUa4sqpR9duz9xd9PYj81Bkwzbi7N9v5ckUyqpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:18 Berlin an AI Signal that Private Property (ticker Private) launched on pumpfun on Solana; it warns that not every post using the Private symbol is about this contract, so check the address before reading into chatter (text cut off).",
-      "engagement": "275 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; ticker-name collision risk flagged in the signal itself; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118815226338697292",
-      "followers": 38569
     }
   ],
   "news": [
