@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:21 Berlin time (UTC+01:00)",
-  "newestPostId": "2118800755331412375",
-  "note": "Window: X posts since prior newestPostId 2118800073891221652 (recency search: 1 launch-focused query; 1 news/move query — 0 hits after cashtag strip). Added 1 launch(s) and 0 news item(s). Skipped: gem_sonar $OGGATO bot radar (52 foll); Splice_SOL launchpad self-promo (7 foll); SenatorLTD $HOPE call-bot (offensive ticker, already known call farm); bullflag_/OMGmeii2xxzz opinion replies (no new coin); BPFonStonk Ansem/$MOTHER pay-to-promote commentary (707 foll, thin eng on new post; underlying allegation older than window).",
+  "lastUpdated": "Friday 6 Nov 2026, 21:24 Berlin time (UTC+01:00)",
+  "newestPostId": "2118801633412886744",
+  "note": "Window: X posts since prior newestPostId 2118800755331412375 (recency search: 1 launch-focused query; 1 news/move query — cashtags stripped on news query). Added 1 launch(s) and 0 news item(s). Skipped: firepump_house/$Degen call farm; JeepStuffboom CA dump (196 foll); itsmeflow18 VIP TG promo; TrenchRadarLive $NVDAc honeypot alert (15 foll); bluntsignals/r3b3ld14/sol_peal/Sol_masteri/0x_AuraLux1 call-farm shills; ZAYRO_SOL self-promo; 0rdlibrary $Clawd kit promo (existing, not new launch); HaNz_EtherHunt $SPLICE; GTArobocop/pigeongta6/Rashidtalw near-zero foll spam; STOPMOTIONmemes pre-launch teaser (no CA).",
   "launches": [
+    {
+      "coin": "Seppuku ($Seppuku)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FgTrzCSiJq4zSKq7okCr5Rrt9pTwYJxjwDt3Az9Ypump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:23 Berlin that Seppuku ($Seppuku) on pumpfun is less than a minute old and still on the bonding curve, most of the way to graduation; full name and ticker are both plain Seppuku (text cut off).",
+      "engagement": "240 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118801406987809059",
+      "followers": 38575
+    },
     {
       "coin": "VYNEX ($VYNEX)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "208 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; second ball theme today; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118774440955928816",
-      "followers": 38536
-    },
-    {
-      "coin": "Top Floor Boss ($TJR)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4aHLHiAqrKA5CV3isUiX7JC7C4HcWdjC322KPWVfLoat (described as float bonding curve on Raydium LaunchLab; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:34 Berlin that Top Floor Boss ($TJR) is about a minute old on Solana via float's bonding curve on Raydium LaunchLab, and highlights the deployer's record as the sharpest detail (text cut off).",
-      "engagement": "303 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; float/LaunchLab path; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118774132146119095",
       "followers": 38536
     }
   ],
