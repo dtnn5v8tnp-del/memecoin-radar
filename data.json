@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:13 Berlin time (UTC+01:00)",
-  "newestPostId": "2118813742033166577",
-  "note": "Window: X posts since prior newestPostId 2118812449780727998 (recency search: 1 launch-focused query; 1 news/move query; no news search this run — prior run already did one). Added 4 launch(s) and 0 news item(s). Skipped: Lars_Alphayi/AlphaPulsevw $FUSE VIP-TG shill farms; vheranievhe $sexcoin/$MIMI/$CCF TG early-call spam (SEXCOIN already skipped prior; MIMI CA already listed); MemeLaunchups $pip TG shill (same CA as dex_kolwatcher row kept); dex_kolwatcher $DUSD with $0 24h volume despite $117K MC; pumpviewfun $FATCAT (310 foll, thin; FATCAT already listed under other CA); TradeFizz $FIZZ self-shill (7 foll); FROGGYFROGCOIN $FROG (account 1 day old, 53 foll); yourfriendSOMMI Sahil/pumpfun drama (no specific new coin launch); webb_sonn $MMC (CA already listed); stralwiz $baton thin organic (1 like, 10 imp); sports/political/TRUMP dump/whale-BTC noise from news query; CryptoNobler $225M short alert (broader market, not memecoin-specific); no genuine listing/rug/exploit/whale memecoin news in the 5m window.",
+  "lastUpdated": "Friday 6 Nov 2026, 22:17 Berlin time (UTC+01:00)",
+  "newestPostId": "2118814687865225234",
+  "note": "Window: X posts since prior newestPostId 2118813742033166577 (recency search: 1 launch-focused query; 1 news/move query; no news search this run — prior run already did one). Added 4 launch(s) and 0 news item(s). Skipped: Annatrader22/_Shonsol/_callerhex/BadManLeek $pip TG/shill farms (CA already listed); vheranievhe $Karl VIP-TG (bbvipks4); Kaan_Capitug0 $HODL VIP-TG (bbvpicks4); SenatorLTD $SI (already listed, 108 foll); dex_kolwatcher/Annatrader22 $MIMI (CA already listed); awing0523 $SHK (91 foll); PopCappyy $CPOP self-shill (114 foll); uwisukuriro $GLITCH thin (330 foll); BadManLeek/prior $FUSE VIP-TG farm; Annatrader22 $Leap (already listed); OliviaCryptoX/Defi_Baron14 follow spam; GemChaserSOL $ANAKINCORE ($626K peak / $347 liq scanner noise); AlphaPulsevw $GLITCHPEPE VIP-TG farm; news query returned political/SPY noise only — no genuine listing/rug/exploit/whale memecoin news in the 5m window.",
   "launches": [
+    {
+      "coin": "Privacy Cat ($PCAT)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 12QSGPgCypoGnbfPjLUZfmQKCQMXC4g8B3RWxLGNCZyk (Solana-style address; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:15 Berlin an AI Signal that Privacy Cat ($PCAT) is the third privacy-themed launch today on Solana and already reached a $15.9K market cap about three minutes after launch; it notes unusual wallet spread with dozens of (text cut off).",
+      "engagement": "209 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; third privacy-theme launch today; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118814592747135347",
+      "followers": 38569
+    },
+    {
+      "coin": "Anon ($Anon)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3ZFQCAvASDqxPimjXfFZJdTWXybfuWNJx6iLWACYGq5x (stonkfun launch on Solana).",
+      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:14 Berlin an AI Signal that Anon ($Anon) is a stonkfun launch on Solana, 36 seconds old at check time, and the deployer wallet had already sold out of it; description only points to a deployment tool (text cut off).",
+      "engagement": "250 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer already sold out; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118814224978006247",
+      "followers": 38569
+    },
+    {
+      "coin": "Private Inu ($pINU)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GFNukawRyykMA6DfPJS6kafyDHDDjgqo9jtGvaHCPzQ5 (stonkfun launch, graduated to Raydium CPMM).",
+      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:13 Berlin an AI Signal that Private Inu ($pINU) is a dog-themed memecoin on Solana that graduated from stonkfun to Raydium CPMM just 2 seconds after launch; it notes 140 bundler wallets still hold the token (text cut off).",
+      "engagement": "251 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; instant graduation; 140 bundler wallets flagged; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118814087400530176",
+      "followers": 38569
+    },
+    {
+      "coin": "Mysterious Source of Income ($INCOME)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address B7ea9NfNXtuvmELcZf2U3KGtgWFqYgio89jbhiwhyNX4 (launchpad; reached Raydium CPMM).",
+      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:13 Berlin an AI Signal that Mysterious Source of Income ($INCOME) reached Raydium CPMM 52 seconds after launch, already off the bonding curve; it flags an odd creator-wallet detail involving a launchpad program (text cut off). @BscKOLScanner also flagged a Pump Fun → Pump AMM breakout citing ATH MC $78.9K, liquidity $15.2K, and 168 holders.",
+      "engagement": "246 impressions, 0 likes, 0 reposts at scan time (@bitecong); @BscKOLScanner post had 52 impressions.",
+      "flags": "Only automated signal accounts so far; instant curve exit; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118814039413494101",
+      "followers": 38569
+    },
     {
       "coin": "Slow Inu ($SI)",
       "chain": "Solana",
@@ -262,46 +302,6 @@
       "flags": "Only an automated signal account so far; another white-monster CA this evening; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118785504770757103",
       "followers": 38562
-    },
-    {
-      "coin": "WHITE MONSTER ($WHITE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address JATk4idqfAyU21F6w3xf2Rbyj9j8FnYxVWLMfoweqExh (described as float bonding curve on Raydium LaunchLab; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,561 followers) posted at 20:18 Berlin that WHITE MONSTER ($WHITE) is the seventh white-themed Solana launch today and was still on the float bonding curve (Raydium LaunchLab) about 26 seconds into its life when signaled; it flags an odd deployer-count detail (text cut off).",
-      "engagement": "100 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; seventh white-theme clone today; distinct CA from earlier WHITE/MONSTER rows; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118785188067168709",
-      "followers": 38561
-    },
-    {
-      "coin": "floaty ($floaty)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4u4FNh6MbFKiEKfdm5srbegeAfF1MX1dYCt8kSWfLoat (described as Raydium LaunchLab / float bonding curve; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,561 followers) posted at 20:18 Berlin that floaty ($floaty) is a Solana token on Raydium LaunchLab, barely a minute old and still on its bonding curve with no graduation yet; it says there is no clear theme in the name and only one thin X post tied to the contract (text cut off).",
-      "engagement": "177 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; name-only theme; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118785022681584121",
-      "followers": 38561
-    },
-    {
-      "coin": "White Monster ($MONSTER)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5k5ZtAEiq7cxeXXZ3BkDb5nNr4VnSSxaNsrqgHw1pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,561 followers) posted at 20:14 Berlin that $MONSTER is a white-theme pumpfun launch on Solana about six minutes old when signaled and still short of graduation; description credits a tracker only (text cut off).",
-      "engagement": "253 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; another white-monster CA this evening; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118784027603927319",
-      "followers": 38561
-    },
-    {
-      "coin": "The White Monster ($MONSTER)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BtyhNqu58cepGmMrccos1rSuStFPo621MdtgY9qLpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,558 followers) posted at 20:08 Berlin that The White Monster ($MONSTER) is a pumpfun launch on Solana barely a minute old when signaled, and that the deployer has already sold out of it; name points to a white-theme token (text cut off).",
-      "engagement": "323 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer already sold; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118782493675630600",
-      "followers": 38558
     }
   ],
   "news": [
