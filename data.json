@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:47 Berlin time (UTC+01:00)",
-  "newestPostId": "2118837545727295852",
-  "note": "Window: X posts since prior newestPostId 2118835408779808826 (recency: 1 news/rug query + 1 launch/pumpfun query; launch query retry after invalid CA:/$ syntax). Added 3 launch(s) and 0 news item(s). Added bitecong AI Signals: $Daumen (HWx9…pump, frog, 81% curve, bundles flagged), $BTC Booby Trap Coin (7xoL…pump, deployer 1,375 tokens), $JOSE Be Like Jose (8EYL…pump, second like-themed; distinct from skipped 87CQ… $JOSÉ spam). Seen but skipped: AscendedInu self-shill $AscINU (32 followers); MemCoinsRadar $José 2.22x on same 87CQ… CA already flagged as call-farm; MeyerDoria54152 Tail Inu shill (254 followers, thin); opinion replies on Pump.fun/Ansem drama with no new primary fact; search_news skipped this run (done prior).",
+  "lastUpdated": "Friday 6 Nov 2026, 23:52 Berlin time (UTC+01:00)",
+  "newestPostId": "2118838776390946885",
+  "note": "Window: X posts since prior newestPostId 2118837545727295852 (recency: 1 news/rug query + 1 launch/pumpfun query + search_news). Added 2 launch(s) and 2 news item(s). Added bitecong AI Signals: $LIKEJOSE (5PBx…Loat, third like-themed, 86 bundlers), $TI Tail Inu (AFQ5…pump, deployer 232 tokens). News: Theo Von AI meme tied to $NIO; @Zaynnode on KOLs paid by @villainmonkey. Seen but skipped: diamondcat_x self-shill $DCAT (0 followers); EarlyRada/AlphaCaIIs/Bullrunups/EarlyChad_ $JOSE/$JOSÉ farm on 87CQ… CA; BoomerKid1966 $BKK (34 followers); LobstarWife $HACK (3 followers); popmemecoin $BID Robinhood shill; BaseLady55 $DEROQ 1-holder; politics/noise hits on dump/Trump in news/rug query; Pump.fun Kraken/Ethan/CARD/Leap/Ansem news already on board.",
   "launches": [
+    {
+      "coin": "Be Like José ($LIKEJOSE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5PBxdH17unjHyQGdHVc8tsR41BzjbxVDA6hCEUDfLoat (Solana-style address; signal labels it a pumpfun-style launch).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:51 Berlin an AI Signal that Be Like José ($LIKEJOSE) is the third \"like\"-themed launch on Solana today, about two minutes old at signal; it flags 86 bundler wallets still holding (text cut off).",
+      "engagement": "162 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; heavy bundler hold flagged; thin engagement; distinct CA from earlier $JOSE (8EYL…pump) and skipped 87CQ… $JOSÉ call-farm spam. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118838732434632797",
+      "followers": 38572
+    },
+    {
+      "coin": "Tail Inu ($TI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address AFQ5Un5AdYbD92RkLJV6XGkvaex1nfgtzSUnsdz5pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:50 Berlin an AI Signal that Tail Inu ($TI) is about three minutes old on pumpfun on Solana; the deployer has created 232 tokens counting this one (text cut off).",
+      "engagement": "258 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; serial deployer (232 tokens) flagged; thin engagement; earlier thin Tail Inu shill from low-follower account was skipped. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118838436241219939",
+      "followers": 38572
+    },
     {
       "coin": "Daumenfrosch ($Daumen)",
       "chain": "Solana",
@@ -282,29 +302,25 @@
       "flags": "Only an automated signal account so far; name-only theme; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118813244785930688",
       "followers": 38570
-    },
-    {
-      "coin": "Scamsum ($Scamsum)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5EjMJcDjTa5kFfLCV8zDhS7MJ85zX2kG8ZM6eEtfLoat (described as float bonding curve; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:08 Berlin an AI Signal that Scamsum ($Scamsum) is a Solana token on float about thirty-five minutes old at signal time; it notes same-name noise is thin and there is no clear theme beyond the name (text cut off).",
-      "engagement": "290 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; name-only theme; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118812893382906240",
-      "followers": 38570
-    },
-    {
-      "coin": "pip ($pip)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4VyS1DWXDEbu8jVyJUjqNJN3SXGgZYf2uo3YZ6QLpump (pump.fun / pumpfun; listed as PumpSwap Solana).",
-      "buzz": "Signal account @dex_kolwatcher (8,976 followers) posted at 22:08 Berlin a PAID DEXScreener detect for $pip on PumpSwap Solana; it cites 24h buy volume $209, sell volume $0, liquidity $14,279, and market cap $38,328.",
-      "engagement": "208 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
-      "url": "https://x.com/dex_kolwatcher/status/2118812876991521056",
-      "followers": 8976
     }
   ],
   "news": [
+    {
+      "topic": "Celebrity / meme coin",
+      "headline": "X News: Theo Von posts AI meme video tied to Solana $NIO coin",
+      "coins": "$NIO",
+      "detail": "X News story (updated ~23:48 Berlin) says comedian Theo Von shared an AI clip of his face rising from a fiery mushroom cloud, captioning it as AI, nodding to the viral meme format that inspired Solana memecoin $NIO (Pump.fun launch around 21 Oct; story cites market cap near $1.5M amid volatile swings). Community reactions mixed surprise at his engagement with jokes echoing the meme punchline. Unverified beyond the X News summary.",
+      "updated": "6 Nov 2026, 23:52 Berlin",
+      "url": "https://x.com/i/trending/2118794398783979545"
+    },
+    {
+      "topic": "Paid shill / KOL drama",
+      "headline": "@Zaynnode urges dumping KOLs paid by @villainmonkey to shill memecoins",
+      "coins": "memecoins (general)",
+      "detail": "Verified trader @Zaynnode (48,683 followers) posted at 23:47 Berlin telling followers to dump KOLs who get paid by @villainmonkey to shill memecoins, saying he never accepted that account's message request (with screenshot). Ties into ongoing Pump.fun / paid-callout / influencer drama already on the board. Primary post, not a rug or exploit report.",
+      "updated": "6 Nov 2026, 23:52 Berlin",
+      "url": "https://x.com/Zaynnode/status/2118837604267536470"
+    },
     {
       "topic": "Influencer / Pump.fun whistleblower plea",
       "headline": "X News: Crypto figure urges Ansem to whistleblow on Pump.fun, offers legal coverage",
@@ -528,22 +544,6 @@
       "detail": "@BitcoinStrat (7,025 followers) posted at 16:01 Berlin asking whether a Pepe ETF would matter, noting Canary filed for a Pepe ETF in April, that a 21Shares Dogecoin fund holds only about $1.8M, and that open Pepe futures bets on Coinbase are only about $0.7M (figures from this post). Early engagement at scan time: 105 impressions, 0 likes, 1 reply. Commentary, not a new SEC approval.",
       "updated": "6 Nov 2026, 16:06 Berlin",
       "url": "https://x.com/BitcoinStrat/status/2118720343338811673"
-    },
-    {
-      "topic": "Price move / BNB meme follow-up",
-      "headline": "Trader says memecoin $GM (GreenMorning) pumped ~50x after Elon revived the meme",
-      "coins": "GM",
-      "detail": "@TuanNguyen_6789 (75,025 followers) posted at 15:59 Berlin that memecoin $GM (GreenMorning) pumped 50x after @elonmusk brought the meme back, and asked whether any memecoin tied to @cz_binance memes stands out yet. Early engagement at scan time: 383 impressions, 2 likes, 1 reply. Follows earlier chatter that BNB Chain $GM jumped hard after Elon–CZ banter; figures are from this account, not an exchange primary source.",
-      "updated": "6 Nov 2026, 15:59 Berlin",
-      "url": "https://x.com/TuanNguyen_6789/status/2118718416513306930"
-    },
-    {
-      "topic": "Upcoming launch announcement",
-      "headline": "Chad's Cabal says they will launch their own memecoin today at 5PM UTC",
-      "coins": "(unnamed)",
-      "detail": "@chadscabal (25,250 followers) posted at 14:25 Berlin that they are launching their own memecoin on Friday 6 Nov at 5PM UTC, citing prior gains on $KIMCHI, $ANSEM and $CATE and framing it as giving back to the community. No ticker or contract in the post.",
-      "updated": "6 Nov 2026, 14:27 Berlin",
-      "url": "https://x.com/chadscabal/status/2118696149775430047"
     }
   ],
   "hourly": [
