@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:58 Berlin time (UTC+01:00)",
-  "newestPostId": "2118583572076675235",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries + 1 news search; first launch query had invalid syntax and was retried). Added 1 launch(s) and 1 news item(s). Skipped VIP/call-farm spam on $AMD/$DIAMOND/$BILL/$bracket/$FORKYU/$SSSDFG; skipped airdrop-style $House/$TAXPUP; skipped repeat $fun/$JOB shills already dashboarded or thin; news stories for Pump.fun video, Ansem rewards, Robinhood trenches, and Leap already on dashboard.",
+  "lastUpdated": "Friday 6 Nov 2026, 07:02 Berlin time (UTC+01:00)",
+  "newestPostId": "2118584623563219436",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; skipped news search this run). Added 0 launch(s) and 2 news item(s). Skipped VIP/call-farm spam on $WABI/$bracket/$BILL/$RETIRE/$Bubbles/$A/$coin; skipped airdrop phishing $ZCAT/$PIRATE/$CARS; skipped thin Ponzify platform promo; GlassDex $bracket risk note not added as separate news (coin already on launches).",
   "launches": [
     {
       "coin": "NWO ($NWO)",
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Project shutdown / Solana",
+      "headline": "White Claw ($WCLAW) team says it is shutting down after eight months",
+      "coins": "WCLAW",
+      "detail": "Official account @wclawonsol (446 followers) posted at 07:01 Berlin a 'Final Message to the White Claw Community' saying after eight months of building and promoting they are officially closing WCLAW on Solana. Very low engagement so far (1–2 impressions); treat as a self-announced project wind-down, not a confirmed on-chain rug.",
+      "updated": "6 Nov, 07:02 (Berlin)",
+      "url": "https://x.com/wclawonsol/status/2118584527320760462"
+    },
+    {
+      "topic": "Solana / sector",
+      "headline": "swap.io weekly: Solana's share of memecoin trading volume hit 86% in October",
+      "coins": "Solana memecoins (general)",
+      "detail": "@swapdotio (6,004 followers) posted its Solana Weekly Update at 07:00 Berlin citing Q3 records ($17.51B stablecoin market cap, $197B spot DEX volume, app revenue near $300M) and saying Solana's share of memecoin trading volume climbed to 86% in October, highest since April. Early engagement: 42 impressions, 1 like, 1 repost at scan time.",
+      "updated": "6 Nov, 07:02 (Berlin)",
+      "url": "https://x.com/swapdotio/status/2118584170951721469"
+    },
+    {
       "topic": "David Dobrik / FOMO app",
       "headline": "X News: David Dobrik partners with FOMO app, pitches it as stock trading while it is memecoin-focused",
       "coins": "FOMO app / Solana memecoins (general)",
@@ -528,22 +544,6 @@
       "detail": "@BSCNews (1,374,788 followers) says $PURR is up +23% on the week at time of writing, outpacing $PEPE and other majors. Low engagement at scan time (2 likes, about 3,100 impressions).",
       "updated": "1 Nov, 12:15 (Berlin)",
       "url": "https://x.com/BSCNews/status/2116851495207412205"
-    },
-    {
-      "topic": "Exchange / Binance recovery",
-      "headline": "Binance says withdrawals are restored for several networks and assets in its phased recovery",
-      "coins": "Binance-listed assets (hack fallout)",
-      "detail": "@AlexanderXQ_ (10,141 followers) reports Binance officially announced withdrawals re-enabled for several networks and digital assets as the platform continues its phased recovery. Secondhand report, low engagement at scan time.",
-      "updated": "1 Nov, 12:00 (Berlin)",
-      "url": "https://x.com/AlexanderXQ_/status/2116847465554923953"
-    },
-    {
-      "topic": "Exploit / hacker funds",
-      "headline": "About 485k stolen SOL (~$46M) leaves the Binance hacker's Solana wallet, reportedly being swapped into BTC",
-      "coins": "SOL (Binance hack fallout)",
-      "detail": "@williamclay (4,857 followers) says roughly 485k-487k stolen SOL, about $46M, left the Binance hacker's Solana wallet this morning, flagged by Whale Alert and Lookonchain, and that Lookonchain says it's being swapped into BTC via Relay out of a 970k SOL stash. Low engagement at scan time; secondhand report.",
-      "updated": "1 Nov, 11:52 (Berlin)",
-      "url": "https://x.com/williamclay/status/2116845031537737855"
     }
   ],
   "hourly": [
