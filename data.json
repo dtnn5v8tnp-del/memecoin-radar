@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 16:40 Berlin time (UTC+01:00)",
-  "newestPostId": "2118729936831930592",
-  "note": "Window: X posts since prior newestPostId 2118728622013853973 (recency search, 3 queries: broad launches/pump.fun; rugs/listings/ETF/news; tighter launch/signal). Added 0 launch(s) and 0 news item(s). Skipped: $LOTA shill farm (@AnsemPumpfun, 32 followers); $CLAWD self-promo buyback spam (@clawddevs); $leapcat thin MintedHub shill (@dex_onchain_, 205 followers); thin OTC-replacement CA call (@ThesisWorker); consumer-apps commentary (not a coin); bonding/Avatar/PAC false positives; news query political/Trump spam; no news search this run (prior run covered it).",
+  "lastUpdated": "Friday 6 Nov 2026, 16:48 Berlin time (UTC+01:00)",
+  "newestPostId": "2118731673848455243",
+  "note": "Window: X posts since prior newestPostId 2118729936831930592 (recency search, 2 post queries + news search). Added 1 launch(s) and 1 news item(s). Skipped: Diamond Memecoin zero-follower spam (@Pxrlanta); $EXHALE self-promo (@EXHALEONSOL, 139 followers); smallcapCRYPTO/HotCommunities call-farm shill; $ZEC/$PEPE relative-strength spam (@cryptocompass7, 94 followers); DOGE ETF prediction-market reply (22 followers); WLFI buyback rehash (already in news; 184 followers); ICEBOYBILL callout commentary (941 followers); y0lloo engagement-bait 'which memecoin to pump' (no coin); MastrXYZ Pumpfun-dominance opinion (soft sector commentary, no hard event); X News Ansem/Pump.fun rewards and Pump.fun Kraken SOL deposit already on dashboard; Elon/CZ meme banter and non-crypto news noise.",
   "launches": [
+    {
+      "coin": "Creamcoin ($Cream)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Fd7GBPXVWLBM8rhxznBkpm1AHDDaDmsLfEv1z5czpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,531 followers) posted at 16:45 Berlin that Creamcoin ($Cream) is an ice-cream-themed Solana token already about 80% of the way along the pumpfun bonding curve when tracking began; the signal flags something unusual about the deployer (text cut off).",
+      "engagement": "316 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin ice-cream theme; deployer detail truncated in post. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118731508639056015",
+      "followers": 38531
+    },
     {
       "coin": "zolana ($zolana)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Paid DEXScreener promo via signal bot; thin organic engagement. Distinct from listed GTA6DOG/GATO. Very early, high risk.",
       "url": "https://x.com/dex_kolwatcher/status/2118653916959359032",
       "followers": 8967
-    },
-    {
-      "coin": "crude inu ($CI)",
-      "chain": "Solana",
-      "chainNote": "Scanner post; companion alert gives contract address Cy2XH7dLwwovkzNAFtWVEDkJNCdZ4u5cpcMHnCNHpump (pump.fun).",
-      "buzz": "Scanner @SolanaMemesScan (4,324 followers) posted a SOL CTO alert at 11:31 Berlin for crude inu ($CI): market cap cited at $104.5K, liquidity $24.8K, 384 holders, mint renounced, 100% burned, rug ratio 0%. A separate alpha-alert bot also flagged the same ticker around $97.3K MC / +156% 24h.",
-      "engagement": "99 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Scanner/CTO ping only so far; thin organic engagement. Early/high risk.",
-      "url": "https://x.com/SolanaMemesScan/status/2118652567018213829",
-      "followers": 4324
     }
   ],
   "news": [
+    {
+      "topic": "Rug / live stream",
+      "headline": "Chad's Cabal: streamer was up $50k on a friend's memecoin, then that friend rugged it to zero live",
+      "coins": "unnamed memecoin (friend launch)",
+      "detail": "@chadscabal (25,248 followers) posted at 16:41 Berlin that a streamer was up $50k on his friend's memecoin launch, then that same friend rugged the token to zero live on stream. No ticker or contract address named. Early engagement: 1,839 impressions, 19 likes, 10 replies, 2 reposts at scan time.",
+      "updated": "6 Nov, 16:48 (Berlin)",
+      "url": "https://x.com/chadscabal/status/2118730564715078018"
+    },
     {
       "topic": "Rugs / market hygiene",
       "headline": "Tracker says 71 tokens flagged as rugs today (62 Solana, 9 Robinhood Chain)",
@@ -536,14 +544,6 @@
       "detail": "X news summary: observers claimed select traders got early access, then trending and account amplification; Ansem was cited with large daily gains. Skeptics called the pattern rigged amid an ongoing New York lawsuit alleging insider advantages on the platform.",
       "updated": "6 Nov, 06:21 (Berlin)",
       "url": "https://x.com/i/trending/2117789431566336458"
-    },
-    {
-      "topic": "Platform / narrative",
-      "headline": "X News: Pump.fun video says memecoin prices follow attention above all else",
-      "coins": "Pump.fun / Solana memecoins; PENGUIN speculation",
-      "detail": "X news summary: Pump.fun released an animated penguin video arguing attention dwarfs product or business plans for memecoin prices. Traders linked the mascot to a $PENGUIN token and floated ideas like $ACM (Attention Capital Markets).",
-      "updated": "6 Nov, 06:21 (Berlin)",
-      "url": "https://x.com/i/trending/2118474982280081502"
     }
   ],
   "hourly": [
