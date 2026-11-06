@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 07:07 Berlin time (UTC+01:00)",
-  "newestPostId": "2118585525669863472",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) plus news search. Added 2 launch(s) and 0 news item(s). Skipped VIP/call-farm spam on $fun/$zelda/$Diamond/$BRACKET/$WABI/$bracket/$NWO/$A/$RETIRE; skipped non-crypto noise in news query; news stories already on dashboard (Pump.fun penguin, Ansem rewards, Robinhood trenches, Leap, Dobrik FOMO).",
+  "lastUpdated": "Friday 6 Nov 2026, 07:12 Berlin time (UTC+01:00)",
+  "newestPostId": "2118586999644839957",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; news skipped this run). Added 1 launch(s) and 0 news item(s). Skipped VIP/call-farm spam on $GIRLCOIN/$bracket/$DIAMOND/$NWO/$RETIRE/$AMD/$WEALTH/$pairity; skipped thin airdrop spam (SoQuBit, Donkey, EXFIL); skipped non-crypto noise in news-style query.",
   "launches": [
+    {
+      "coin": "dog ($dog)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DWvWaMXb8pXtf7iiP9mhjhtcDx8t4mkDT6UtZEsRpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 07:08 Berlin that dog ($dog) was seconds old on pump.fun at about a $11.7K market cap after $15.5K at signal, with a thin research report on the contract.",
+      "engagement": "360 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; generic dog meme theme; market cap already slipped vs signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118586396734837110",
+      "followers": 38528
+    },
     {
       "coin": "Joe ($Joe)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "1 like, about 52 impressions at scan time.",
       "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
       "url": "https://x.com/EarlyChad_/status/2116874982651523334",
-      "followers": 5679
-    },
-    {
-      "coin": "$CLAUDE",
-      "chain": "Solana (pump.fun)",
-      "chainNote": "CA BAQQ91EUTdtmhU4yuB579Az2LCagckSSm2XBisdpump (from the posts)",
-      "buzz": "Call account @EarlyChad_ posted it at $39K market cap, then about a minute later claimed $103K (2.6x). The same account also claims a $FOMO call went from $39K to $148K.",
-      "engagement": "1 like each; about 45 to 84 impressions at scan time.",
-      "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
-      "url": "https://x.com/EarlyChad_/status/2116874094482448639",
       "followers": 5679
     }
   ],
