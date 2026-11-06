@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:12 Berlin time (UTC+01:00)",
-  "newestPostId": "2118828695712321629",
-  "note": "Window: X posts since prior newestPostId 2118826692957393312 (recency search: 1 launch-focused query; 1 news/move query; search_news this run for memecoin topics). Added 1 launch(s) and 1 news item(s). Added: @bitecong Robinhood-chain $WIF 'wallahi im finished' signal; @a1lon9 Callout Rewards expansion (higher-cap + crosschain). Skipped: EarlyRada/Bullrunups/GemChaserSOL/dex_kolwatcher $DINU VIP/scanner spam; Marcrypto413 $PICASSO VIP; helloowitsme_ $NIG/$GLAZE call spam; Kaan_Capitug0 $GLITCHPEPE VIP; ASTRAsol4 $PI VIP (already on board); CyberClawOff $CLAW self-shill; usesolque/TradiumdotFun brand-new project accounts; SolanaSpin__ wallet-connect airdrop scam; tigra_ai terminal promo; political MAGA/pump noise from news query; SolTokenScan Automated Milkers Machine scanner ping.",
+  "lastUpdated": "Friday 6 Nov 2026, 23:18 Berlin time (UTC+01:00)",
+  "newestPostId": "2118830128021041184",
+  "note": "Window: X posts since prior newestPostId 2118828695712321629 (recency search: 1 launch-focused query; 1 news/move query; no search_news this run). Added 1 launch(s) and 0 news item(s). Added: @bitecong Automated Milkers Machine ($AMM) bundler-heavy pumpfun signal. Skipped: Samurai_Gems0/SOLANACHAD009 $AMM VIP/call spam; ASTRAsol4/OwenSturridge/firepump_house $PI VIP (already on board); WeHave1DFacts/EarlyChad_/BullishCalls_ $DINU VIP/call farm; Kaan_Capitug0 $HODL VIP; adrainkt12/TrenchBotDisc $PIP call spam; AlphaDrip7 $LAURA call; JustinePORCHER engagement-bait CA tease; xMANSTICKx $STICK (0 followers, Nov 10 prelaunch); Bad_ChildrenSol $BADKIDSS brand-new project account; skachivani18603 $RUBYN (2 followers); nick_onchain $Nmeows Hyperliquid promo; thisHarshiitt_ $MFUND idle-game promo; Cryptoprocesing $Pepper shill replies; political MAGA/Trump pump-dump noise from news query; alanwu Binance-hack article share (not fresh memecoin news).",
   "launches": [
+    {
+      "coin": "Automated Milkers Machine ($AMM)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address gwN3emBPQEA9hpofKsjF4ci3MrCS6D5NkpQvJrepump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:12 Berlin an AI Signal that Automated Milkers Machine ($AMM) carried 121 bundler wallets at signal time on Solana; two remain, and neither holds any of the token. The name reads as an automated milking machine with no other clear theme (text cut off).",
+      "engagement": "285 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; heavy bundler footprint flagged in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118829004828660024",
+      "followers": 38572
+    },
     {
       "coin": "wallahi im finished ($WIF)",
       "chain": "Robinhood Chain",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; liquidity reported as $0; thin engagement. Very early, high risk.",
       "url": "https://x.com/dex_kolwatcher/status/2118800603677937874",
       "followers": 8976
-    },
-    {
-      "coin": "Shippy ($SHIPPY)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address AvCMtcs4hHmm3AAAgKjAXf8iK6YuQCJPfFUuJjAEpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:17 Berlin that Shippy ($SHIPPY) is a pumpfun token on Solana, minutes old at signal time and still on the bonding curve; it flags a Twine mirror launch (same coin launched natively on pumpfun and on Twine; text cut off).",
-      "engagement": "252 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; Twine mirror launch flagged; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118799847872675882",
-      "followers": 38575
     }
   ],
   "news": [
