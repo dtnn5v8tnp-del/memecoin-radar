@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 18:43 Berlin time (UTC+01:00)",
-  "newestPostId": "2118760951650595201",
-  "note": "Window: X posts since prior newestPostId 2118759315897037116 (recency search, 2 post queries + news). Added 2 launch(s) and 0 news item(s). Added: Tur Tur Baton ($TURTUR), CRLE ($CRLE). Skipped: call/shill farms (Bullrunups $bELYSIUM, SignalHQT $RAM, CipherEdgeCalls $Degen already tracked, Sol_b33y $Applepaid, SOL_ETH_TRADER $BAGEL, AlphaDrip7 #401kinu, Memecoinspecia $HODL, addamsol_999 $CRL already tracked, whale_pump_ups $LETRO, belemradio $DIAMOND, MemCoinsRadar $CRL); Mr_Altcoin $FIVE Thanksgiving pre-launch shill; trumpforwins $TFW (24 fol, coming soon); ChaosCattt $CHAOS (297 fol, launching soon); market_ceo $GATO Robinhood spam; JimmySsolana 40M shill dump comment (no clear ticker in text); political noise matching pump/dump/rug/ETF keywords. News search: Pump.fun Kraken deposit, Diamond rewards, Ansem callout, Leap app already on board. No rugs, major listings, or high-engagement new launches in window.",
+  "lastUpdated": "Friday 6 Nov 2026, 18:46 Berlin time (UTC+01:00)",
+  "newestPostId": "2118761909239599241",
+  "note": "Window: X posts since prior newestPostId 2118760951650595201 (recency search, 2 broad post queries + 1 tighter signal/launch query; no news search this run). Added 1 launch(s) and 0 news item(s). Added: DERPCAT ($DERP). Skipped: CipherEdgeCalls/MemCoinsRadar/solhousesignals $TURTUR (already tracked); SolanaMemesScan $CRVL (already tracked); Ameryo28 $Glom (1 fol reply spam); Zane_Calder $FIVE Thanksgiving pre-launch shill; fearonchain Ansem/Pumpfun callout commentary (Ansem theme already on board); political noise matching dump/rug/ETF/Elon/Binance keywords. No rugs, major listings, or high-engagement new launches in window.",
   "launches": [
+    {
+      "coin": "DERPCAT ($DERP)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3A8cVZQTB1jSeyviftyS2CsNFyL7WcfHELEwQHCkpump (pump.fun / pump_mayhem → Pump AMM).",
+      "buzz": "Scanner @SolTokenScan (3,268 followers) posted at 18:45 Berlin a migration signal for DERPCAT ($DERP) from pump_mayhem to Pump AMM; it lists migration market cap about 410.84 SOL, liquidity about $3.34, 19 holders, no CTO flag, DEX not updated, and mint/freeze/burn/LP-locked checks marked passed (risk line cut off).",
+      "engagement": "44 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated scanner so far; reported liquidity is extremely thin (~$3.34) despite a migration MC of ~411 SOL. Very early, high risk.",
+      "url": "https://x.com/SolTokenScan/status/2118761750052876683",
+      "followers": 3268
+    },
     {
       "coin": "CRLE ($CRLE)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "419 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
       "flags": "Only an automated signal account so far; second ignore/lucky-cat CA within minutes of the earlier LUCKY entry. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118695347937853891",
-      "followers": 38527
-    },
-    {
-      "coin": "LUCKY / dont ignore this cat ($lucky)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 88u51cRpQETNJqomtqgUj9xYKJjkn3RLsZS9qae6pump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:06 Berlin that LUCKY (full name dont ignore this cat) is a Solana pump.fun launch about five minutes old at signal time, still on the bonding curve, framed as a lucky-cat token.",
-      "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin cat-meme theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118691598515196082",
       "followers": 38527
     }
   ],
