@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 09:52 Berlin time (UTC+01:00)",
-  "newestPostId": "2118627486351102306",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries; third invalid then stopped). Added 0 launch(s) and 0 news item(s). Skipped: @MeowsteinSol self-promo $MEOWSTEIN migrate (31 followers, 9 impressions); @wilsontimrandy $CATI telegram shill farm (random hashtags, 5 impressions); @Chroniclesavy reply re historical Trump meme pump-dump (not current news).",
+  "lastUpdated": "Friday 6 Nov 2026, 09:57 Berlin time (UTC+01:00)",
+  "newestPostId": "2118628663088308609",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 1 launch(s) and 0 news item(s). Added: @bitecong $GMGN Flap BSC CA 0x4885…7777 (~2h old, 42% curve, no narrative; 387 impressions). Skipped: @yogame_12 donation-spam replies; @mr_profitable_1 / @SOLANALYST01 $RM TG shill farms; @Sol_Gems00 $raea call-account shill; @fennnnnnnj44 / @Tackssz low-follower self-promo; @Crypto_Potato DarkSword iOS wallet exploit (general crypto, not memecoin-specific); @0xSalazar infra digest with truncated Pumpfun line.",
   "launches": [
+    {
+      "coin": "GMGN ($GMGN)",
+      "chain": "BSC",
+      "chainNote": "Post gives contract address 0x488509b2d7ca606e7ab62aea0bfaab357b647777 (Flap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 09:53 Berlin that $GMGN is about two hours old on Flap on BSC and 42% along its bonding curve; a researched report on this contract finds no official narrative or description.",
+      "engagement": "387 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no official narrative. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118627858260361711",
+      "followers": 38530
+    },
     {
       "coin": "Feijitou / 飞机头 (Feijitou)",
       "chain": "BSC",
@@ -292,16 +302,6 @@
       "flags": "Numbers come from call and aggregator accounts, not a primary project source. Treat as unverified momentum chatter, high risk.",
       "url": "https://x.com/EarlyChad_/status/2118573244538138629",
       "followers": 5938
-    },
-    {
-      "coin": "Super Inu ($SI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 78kBAy8CLZU9edSsLTn4KTchQgT5a6GmmMg5XnSipump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,464 followers) posted at 15:54 Berlin that this pump.fun token was about a minute old and is token number 1330 from the same deployer wallet, with no clear theme.",
-      "engagement": "332 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Serial deployer (1,330 tokens from one wallet per the post); only an automated signal account so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2116906849819939299",
-      "followers": 38464
     }
   ],
   "news": [
