@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:36 Berlin time (UTC+01:00)",
-  "newestPostId": "2118577998655824294",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries); skipped news search this run (prior run covered max_age_hours=2). Added 1 launch(s) and 0 news item(s). Filtered VIP-DM shill farms ($AMD/$WABI rings), micro bots, politics replies, and gibberish ticker spam.",
+  "lastUpdated": "Friday 6 Nov 2026, 06:41 Berlin time (UTC+01:00)",
+  "newestPostId": "2118579393316483452",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries); skipped news search this run (prior run covered max_age_hours=2; last run also skipped). Added 1 launch(s) and 0 news item(s). Filtered VIP-DM shill farms ($AMD/$DIAMOND echo rings), airdrop phishing (netlify/tinyurl claim sites), politics replies, and low-engagement VIP call spam.",
   "launches": [
+    {
+      "coin": "fun ($fun)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5BWHo2duxhkRR4ftnZWErnB8GoXpFgZ4ZR9UN8LDpump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,537 followers) posted at 06:40 Berlin that $fun graduated from pump.fun to PumpSwap about 10 minutes after launch, with no clear theme in the name or ticker, and flagged something unusual about the deployer's history.",
+      "engagement": "288 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118579191243546898",
+      "followers": 38537
+    },
     {
       "coin": "DIAMOND ($DIAMOND)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "0 likes, about 290 impressions at scan time.",
       "flags": "Automated signal post; very new token; copycat theme.",
       "url": "https://x.com/bitecong/status/2116846196350431554",
-      "followers": 38448
-    },
-    {
-      "coin": "dog wif vibes ($vibedog)",
-      "chain": "Solana",
-      "chainNote": "CA FzTxvp2UkrjCmx2dNM8wDMkBPjTcxTE8RYUyX9rhpump",
-      "buzz": "Automated signal account @bitecong (38,448 followers) flags this pump.fun dog coin as a few minutes old and 81% of the way to bonding-curve graduation at its latest check.",
-      "engagement": "0 likes, about 300 impressions at scan time.",
-      "flags": "Automated signal post; very new token; theme is just the name.",
-      "url": "https://x.com/bitecong/status/2116845148017750465",
       "followers": 38448
     }
   ],
