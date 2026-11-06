@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 13:15 Berlin time (UTC+01:00)",
-  "newestPostId": "2118678299505201613",
-  "note": "Window: X posts since prior newestPostId 2118677208202133751 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 2 launch(s) and 0 news item(s). Skipped: solblender99/itsmeflow18/EvansOnSolana/0x_AuraLux1 identical $ATM watch-your-entry / past-call farm (CA rAxD9…); CipherEdgeCalls/_DegenKing_1 $APPLEPAID already-listed past-call VIP flex; A33on_/Theblackbullxxx $NIG/$DESSA already-listed call/shill; Strong69106 $WEALTH already-listed VIP TG flex; WestmarkCalls/EvansOnSolana $COGE past-call 571x VIP flex; SolanaTren59241 $FUN migration with $1.59 liq / 10 holders; popmemecoin $NIG alt-CA Hs52… spam alert; hootnightowl_ $HOOT 11-fol project flex; B00DIESonSol 51-fol $MOOF/$LOOOONGCAT/$HIDEO shill; davidbnb68 $TRUMP ~halved midterm commentary (thin eng., no primary source); political Trump posts dominating news query.",
+  "lastUpdated": "Friday 6 Nov 2026, 13:21 Berlin time (UTC+01:00)",
+  "newestPostId": "2118679957308104749",
+  "note": "Window: X posts since prior newestPostId 2118678299505201613 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 1 launch(s) and 0 news item(s). Skipped: Reuben_clerk $JCT/$CARV VIP TG spam farm; daytwocalls $Bubbles 1-fol scanner; phew_pro $PHEW project presale self-shill; Legend_Britney $ATM/$HALO past-call VIP flex (ATM farm / HALO already listed); SolanaMemesScan $$GHOSTS migration $9 liq / 12 holders; GemChaserSOL $ROT CTO ATH $21K micro; AiSolanaKols $OGGATO scanner migration thin eng.; dex_kolwatcher paid $PAIR Uniswap/Robinhood promo only; B00DIESonSol $MOOF 51-fol shill (prior skip); k_ller_ni17 $CHIMP reply CA 1 impression; Yakuza_Crypto_ $STANK/$MAMESUKE/$WEALTH OG-teams narrative (no new CA; WEALTH already listed); floordotpad/iPaidMoney/LilmemeCrypto project self-promo micro accounts; political Trump/Iran dump/rug metaphor noise; Leap app already in news.",
   "launches": [
+    {
+      "coin": "Krispy Kreme / DNUT ($DNUT)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address CkYPxSP2RT1oCQwj1g4xdCJyLmkA4gwC7xYip2B2pump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:19 Berlin that DNUT (full name Krispy Kreme, Inc. in the signal text) is a pump.fun launch on Solana only a few minutes old at signal time, framing the token as tying itself to the well-known doughnut brand.",
+      "engagement": "346 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118679641791840450",
+      "followers": 38528
+    },
     {
       "coin": "Slingoor (unnamed ticker)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "442 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; name-only with no stated theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118612470059393114",
-      "followers": 38528
-    },
-    {
-      "coin": "Lying Gun (躺枪)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0xa70a34243fc21cf589eb97b3a43122c698a27777 (Flap).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 08:46 Berlin that 躺枪 (Lying Gun), a Chinese meme about being shot while lying down, was 59% along its Flap bonding curve on BSC; at signal time it had 39 bundler wallets, then that count fell to zero.",
-      "engagement": "378 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; different CA from earlier BSC The Fallen Hero (躺枪); bundler wallets cleared after signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118610972084740514",
       "followers": 38528
     }
   ],
