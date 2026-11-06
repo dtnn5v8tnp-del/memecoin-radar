@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:47 Berlin time (UTC+01:00)",
-  "newestPostId": "2118807224038383890",
-  "note": "Window: X posts since prior newestPostId 2118805970830893120 (recency search: 1 launch-focused query; 1 news/move query; 1 signal/pumpfun query — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: enzocooks Comment-CA farm (442k foll); Legend_Britney TG call spam ($AMD/$WHITE/$DEGEN/$BAGEL/$CEILING); VolumeOnMEMES unnamed CA alert (2,746 foll); CHADSANTA self-shill (7 foll); news query flooded by Trump/election political replies (not memecoin); pumpfun reply spam to ansem/fomo; Breaking_Gud_ satirical FinCEN/pumpfun joke.",
+  "lastUpdated": "Friday 6 Nov 2026, 21:52 Berlin time (UTC+01:00)",
+  "newestPostId": "2118808583122919471",
+  "note": "Window: X posts since prior newestPostId 2118807224038383890 (recency search: 1 launch-focused query; 1 news/move query; 1 news search — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: universolumina/vheranievhe/Meme_Lord_ups/MemeLaunchups TG #bbvipks4 call spam ($FUSE/$ZCATS/$Look/$FI); firepump_house Leap/0DAY call shills; usevoltex self-shill $VOLTEX (21 foll); WENGUWATCH self-shill (56 foll); Abu4Raaeed $ETERNAL (3 foll); Botched_caller GLITCHPEPE TG farm; AutorunAlert $MIMI same CA as bitecong (deduped); Fortnite token noise; TrilliumCoin/adamsbilliy copy-paste community spam; news search mostly already-tracked (Ansem/Pump.fun deal, Diamond rewards, Pump.fun Kraken SOL, Pudgy PFPs) or non-memecoin (StreetHood NFT Spaces).",
   "launches": [
+    {
+      "coin": "Mimicoin ($MIMI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 25dvNJvxim8NKjQJ2aXeH156LmmabhQHJ7pBVQR8pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 21:48 Berlin an AI Signal that Mimicoin ($MIMI) is the second mimi-themed launch on Solana today and was barely past its first seconds on the curve when flagged; it notes an odd detail in the deployer history (text cut off).",
+      "engagement": "328 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; second mimi-theme launch today; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118807791498629460",
+      "followers": 38570
+    },
     {
       "coin": "Hyperborean Monstercat ($MONTY)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; deployer sold after graduation per signal; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118780321802104959",
-      "followers": 38553
-    },
-    {
-      "coin": "Moneyero ($MONEYERO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DLDczx6LpVsfeMgGT8RFwy19fmcgK6ZmpPEpKR5Ppump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,553 followers) posted at 19:59 Berlin that Moneyero ($MONEYERO) is a privacy-themed launch that graduated from pumpfun to PumpSwap at about 1 h 11 min after launch, with no clearer theme than the name; an oddity is noted in early buyers (text cut off).",
-      "engagement": "307 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; already graduated when signaled; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118780221583425759",
       "followers": 38553
     }
   ],
