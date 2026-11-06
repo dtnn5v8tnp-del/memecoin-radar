@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:58 Berlin time (UTC+01:00)",
-  "newestPostId": "2118840264978796842",
-  "note": "Window: X posts since prior newestPostId 2118838776390946885 (recency: 1 news/rug query + 1 launch/pumpfun query; skipped search_news this run). Added 1 launch(s) and 0 news item(s). Added bitecong AI Signal: fourth like-themed Be Like José ($JOSE, 5RJ1…Loat; bundlers cleared). Seen but skipped: MemCoinsRadar $José/$HANDS farm (87CQ… already skipped); dex_kolwatcher paid DEX spam; KankiAlpha $DEGEN/Pumpfun algorithm lore (thin engagement, no CA in text); smoove100x Ansem/Pumpfun rehash (34 followers); politics/noise hits on dump/Trump in news/rug query; Po1anski daily report (115 followers).",
+  "lastUpdated": "Saturday 7 Nov 2026, 00:00 Berlin time (UTC+01:00)",
+  "newestPostId": "2118840634144334164",
+  "note": "Window: X posts since prior newestPostId 2118840264978796842 (recency: 1 launch/pumpfun query + 1 news/rug query + search_news). Added 1 launch(s) and 0 news item(s). Added bitecong AI Signal: Tailinu ($TAILINU, CCnJ…pump; dog-named, near graduation). Seen but skipped: ShantiRamkhala1 low-follower TI AFQ5… repeat; solhousesignals $TAILINU duplicate; SolanaMemesScan $PUMP migration thin; Vanta_Sol_/EarlyRada 87CQ… $JOSE call-farm (already skipped); GemChaserSOL paid screener/slur spam. News/rug post search empty. search_news hits already on dashboard (Theo Von/$NIO, Ethan $142K, Ansem deal, Pump.fun Kraken/callouts, Pudgys).",
   "launches": [
+    {
+      "coin": "Tailinu ($TAILINU)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address CCnJwZK9KCtfffchzo7rF6KRs3n6qZV7aXrmj2Capump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 23:58 Berlin an AI Signal that Tailinu ($TAILINU) is a dog-named meme coin about ten minutes old at signal and already close to graduation on the pumpfun bonding curve; it flags something odd about the wallet mix (text cut off).",
+      "engagement": "179 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; distinct CA and ticker from earlier Tail Inu ($TI, AFQ5…pump). Also shilled by @solhousesignals. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118840570156310690",
+      "followers": 38571
+    },
     {
       "coin": "Be Like José ($JOSE)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only automated signal accounts so far; instant curve exit; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118814039413494101",
       "followers": 38569
-    },
-    {
-      "coin": "Slow Inu ($SI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address EXM5rqXE5YQnVpiKcC5JRgu7vFrL7W5fxuZogeGVpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @solhousesignals (3,117 followers) posted at 22:10 Berlin that $SI (Slow Inu) was up 2x with market cap $33.0K, liquidity $0, 24h volume $27.8K, and 369 buys vs 243 sells.",
-      "engagement": "43 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; liquidity reported as $0; thin engagement. Very early, high risk.",
-      "url": "https://x.com/solhousesignals/status/2118813502106210306",
-      "followers": 3117
     }
   ],
   "news": [
