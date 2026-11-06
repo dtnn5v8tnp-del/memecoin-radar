@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:21 Berlin time (UTC+1)",
-  "newestPostId": "2118574296628920716",
-  "note": "Window: X posts since prior newestPostId (recency search; dashboard was stale since 1 Nov) plus X news from the last 24 hours. Filtered VIP-Telegram call farms and airdrop spam.",
+  "lastUpdated": "Friday 6 Nov 2026, 06:26 Berlin time (UTC+01:00)",
+  "newestPostId": "2118575578668253399",
+  "note": "Window: X posts since prior newestPostId (recency search). Skipped news search this run (last run covered it). Filtered politics/reply noise and self-promo micro accounts.",
   "launches": [
+    {
+      "coin": "Coin A ($A)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DfQQ81frDoXz1Qppo4oMXXfGLAvRPgwLkbeyecdEpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 06:24 Berlin that this pump.fun token was still on the bonding curve and 91% of the way to graduation, with no clear theme beyond pump.fun documentation-style links.",
+      "engagement": "305 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118575346631192618",
+      "followers": 38536
+    },
+    {
+      "coin": "Bracket ($Bracket)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Ejsis9t87kSTpQ6SHhYNdRc2av7Vjp5pyAVMiYvtpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 06:23 Berlin that Bracket Company, Inc. ($Bracket) was about five minutes old, 93% of the way to pump.fun graduation, themed on brackets, and the second bracket-themed token.",
+      "engagement": "363 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Copycat theme (second bracket token) and only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118575007182012517",
+      "followers": 38536
+    },
+    {
+      "coin": "ASCEND ($ASCEND)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 34Ct2KXMxwMf57nRWwMftZHStdQAALFEFk4HH7k2pump (pump.fun).",
+      "buzz": "@richboyw8 (270 followers) claimed at 06:25 Berlin that $ASCEND was deployed by Pumpfun, bought immediately by @a1lon9, and then highlighted in an Alon Ascend post, pitching it as a Pumpfun cat meme.",
+      "engagement": "0–11 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Small account; Pumpfun/Alon involvement claims unverified in this sweep. Very early, high risk.",
+      "url": "https://x.com/richboyw8/status/2118575562935636333",
+      "followers": 270
+    },
     {
       "coin": "Daycare Centers ($Daycare)",
       "chain": "Solana",
@@ -272,36 +302,6 @@
       "flags": "Automated signal post; very new token.",
       "url": "https://x.com/bitecong/status/2116840918443798890",
       "followers": 38447
-    },
-    {
-      "coin": "MINTED (Minted)",
-      "chain": "Solana",
-      "chainNote": "CA 9yEKBwczdqoox7Red6GGPTrJ2dUbMvFUagdjxFqHpump",
-      "buzz": "Automated signal account @bitecong (38,446 followers) says this fresh pump.fun token reached 84% of its bonding curve about a minute after launch. Separately, a brand-new account @mintedpad (3 followers) announced 'Minted', a tool to pair any Solana NFT with a memecoin; the link between the two is not confirmed.",
-      "engagement": "Low: 0 likes, 255 impressions at scan time.",
-      "flags": "Automated signal post; no stated theme; very new token.",
-      "url": "https://x.com/bitecong/status/2116840762998673502",
-      "followers": 38446
-    },
-    {
-      "coin": "MUSK (Elon Musk theme)",
-      "chain": "Solana",
-      "chainNote": "CA 7zh4rY6LA14MQcMU9euQhhzh4o9dufQeVNmVXjfpump",
-      "buzz": "Automated signal account @bitecong (38,445 followers) says this Elon-themed coin was 81% along the pump.fun bonding curve six minutes into trading, and that its deployer has launched 256 tokens.",
-      "engagement": "Low: 0 likes, 355 impressions at scan time.",
-      "flags": "Serial deployer (256 tokens per the post); celebrity-name coins are high risk. Automated signal post.",
-      "url": "https://x.com/bitecong/status/2116837456750465210",
-      "followers": 38445
-    },
-    {
-      "coin": "nut (No Nut November theme)",
-      "chain": "Solana",
-      "chainNote": "CA ERXoTjSZ58XdAdeinR4Mp9b3aQr375FvHdE9W5L2pump",
-      "buzz": "Automated signal account @bitecong (38,445 followers) says this No Nut November joke coin graduated from the pump.fun bonding curve to PumpSwap about 1 h 41 min after launch. A separate, unrelated-looking $NONUT account is also shilling a similar theme.",
-      "engagement": "Low: 0 likes, 396 impressions at scan time.",
-      "flags": "Automated signal post; seasonal joke-theme coins draw many copycats and are high risk.",
-      "url": "https://x.com/bitecong/status/2116832378635391135",
-      "followers": 38445
     }
   ],
   "news": [
