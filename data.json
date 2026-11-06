@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118653704912175609",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; 3rd signal-account query). Added 3 launch(s) and 0 news item(s). Added: @bitecong Youyou (CA HPcaog…pump; 375 imp); @bitecong HaloPad $HALO graduated (CA G2apw4…pump; 393 imp); @SolanaMemesScan $CI / crude inu CTO (~$104.5K MC; CA Cy2XH7…pump; 99 imp). Skipped: @Botched_caller/@A33on_/@DegenFlow_/@webb_sonn/@_Shonsol/@Sol_Gems00 past-call flex ($UK/$HALO/$Xi); airdrop-farm CA paste bots (@jirka_456/@withchanu/@LizethMonArt); @AquariumGi1708 Moonrush spam; @KevTheeDev $CATE bag post; @popmemecoin/$ZyntoMarkets thin alerts; @Reuben_clerk telegram signal spam; @LeBause4200 speculative GM/Binance meme (36 imp); political/off-topic noise; news query: no actionable memecoin news.",
+  "lastUpdated": "Friday 6 Nov 2026, 11:41 Berlin time (UTC+01:00)",
+  "newestPostId": "2118654696822874366",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; launch query retry after invalid CA: syntax). Added 2 launch(s) and 0 news item(s). Added: @bitecong $BEEF on BSC/Flap (CA 0x2c83…777; 373 imp); @dex_kolwatcher paid DEXScreener $GTA (CA 57FVGT…pump; 206 imp). Skipped: @Aevon_sol self-shill AEVON (7 followers, 1 imp); @Theblackbullxxx DESSA BANK re-push (already listed); political Trump/NeverTrump noise; macro AI-selloff post; reply-thread dump banter; news query: no actionable memecoin news.",
   "launches": [
+    {
+      "coin": "BEEF ($BEEF)",
+      "chain": "BSC",
+      "chainNote": "Post gives contract address 0x2c834b581a234c6f4a8324923fe4d1c812407777 (Flap bonding curve on BSC).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:37 Berlin that BEEF ($BEEF) is an agentic meme token on BSC, about three minutes old on the signal’s clock and 41% of the way to graduation on the Flap bonding curve.",
+      "engagement": "373 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; BSC/Flap launch framed as agentic meme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118654061746835736",
+      "followers": 38530
+    },
+    {
+      "coin": "GTA ($GTA)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 57FVGTijoeSh4xJCtvBc4YKiPJeaLzVPWfme7FB7pump (pump.fun).",
+      "buzz": "Signal account @dex_kolwatcher (8,967 followers) posted at 11:37 Berlin a paid DEXScreener alert for $GTA on Solana pump.fun, citing about $17.7K market cap and roughly $35K buy / $31K sell 24h volume in the alert text.",
+      "engagement": "206 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Paid DEXScreener promo via signal bot; thin organic engagement. Distinct from listed GTA6DOG/GATO. Very early, high risk.",
+      "url": "https://x.com/dex_kolwatcher/status/2118653916959359032",
+      "followers": 8967
+    },
     {
       "coin": "crude inu ($CI)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Third hedge-themed copycat today (different CA from earlier $HEDGE); only an automated signal account so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118591548405469355",
       "followers": 38529
-    },
-    {
-      "coin": "Hedge Fund ($HEDGE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DZ7DLsHwnUzXdhYQGLb98y76xsjXNqKi6VDF1VeQNAd1 (pump.fun).",
-      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:24 Berlin that Hedge Fund ($HEDGE) was less than a minute old on pump.fun, with no story beyond the name and a deployer already counting dozens of prior tokens.",
-      "engagement": "357 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer already has dozens of prior tokens; no narrative beyond the name. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118590451313955282",
-      "followers": 38529
-    },
-    {
-      "coin": "dog ($dog)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DWvWaMXb8pXtf7iiP9mhjhtcDx8t4mkDT6UtZEsRpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 07:08 Berlin that dog ($dog) was seconds old on pump.fun at about a $11.7K market cap after $15.5K at signal, with a thin research report on the contract.",
-      "engagement": "360 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; generic dog meme theme; market cap already slipped vs signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118586396734837110",
-      "followers": 38528
     }
   ],
   "news": [
