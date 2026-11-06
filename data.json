@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:45 Berlin time (UTC+01:00)",
-  "newestPostId": "2118821779850379497",
-  "note": "Window: X posts since prior newestPostId 2118820951379042523 (recency search: 1 launch-focused query; 1 news/move query; skipped search_news this run — last run already did it). Added 0 launch(s) and 2 news item(s). Skipped: helloowitsme_ TG-call spam ($GLAZE/$ZCATS); DegenPhantvae/Kaan_Capitug0/Alpharadarp VIP-TG farm ($LAURA/$HODL); WeHave1DFacts Whale-Room/Alpha-Hub call farm ($BAGEL/$ROCCO thin eng); VEN0MTRADER/SolMoh0x/Sol_Gems00 $pip/$PIPS call spam; thePaulMcDonald engagement-bait shill; CryptoRal1y $ALTSZN (279 foll); Chessio_xyz/TapBagSOL/Mandyr_X thin project promo; MemCoinsRadar $SI (already listed); FREEPHONEFREES1 off-topic; ancetacloud rug-hour chart (46 foll).",
+  "lastUpdated": "Friday 6 Nov 2026, 22:52 Berlin time (UTC+01:00)",
+  "newestPostId": "2118823720622108776",
+  "note": "Window: X posts since prior newestPostId 2118821779850379497 (recency search: 1 launch-focused query after a failed syntax retry; 1 news/move query; search_news this run). Added 3 launch(s) and 0 news item(s). Skipped: helloowitsme_ TG-call spam ($dikdik/$AMD/$CZ/$HALO/$ATM/$RAM/$DNUT); Legend_Britney/MemeLaunchups VIP-TG farm ($HODL); solhousesignals $PIP (already listed); fourtislisting $DONNA 600% update (300% row already on board); CryptoSchool13 pump.fun-ban engagement bait (thin); 55_fo6 $TRUMP promo; stralwiz $baton lore (no CA, thin eng); stonksVI/BTCFineArt thin project promo; bitconnaire $BTTY thin; FREEPHONEFREES1 off-topic; political Trump noise from $TRUMP OR in news query.",
   "launches": [
+    {
+      "coin": "Universal extremely high income ($UEHI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GvfdDLVjjPpSPEmpA8ov8q4GHnFakPf5S2tTvLrjRdmJ (float launchpad / Raydium LaunchLab bonding curve).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:51 Berlin an AI Signal that Universal extremely high income ($UEHI) is a brand-new Solana token on the float launchpad, still on the float bonding curve at Raydium LaunchLab, roughly 35 seconds old; name and ticker state an income theme (text cut off).",
+      "engagement": "164 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; income-theme clone wave. Distinct CA from the same-window pumpfun $UEHI signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118823720622108776",
+      "followers": 38570
+    },
+    {
+      "coin": "Universal extremely high income ($UEHI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address F8XXtaCPBwew71a8jy2qRUzxShTacbEskzG7KkU5ejMW (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:51 Berlin an AI Signal that Universal extremely high income ($UEHI) is the fourth income-themed launch on Solana today and hit 75% of the way to graduation on the pumpfun bonding curve within seconds of launch (text cut off).",
+      "engagement": "222 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; fourth income-theme launch today; thin engagement. Distinct CA from the same-window float $UEHI signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118823629530239179",
+      "followers": 38570
+    },
+    {
+      "coin": "PI ($PI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Hy4iuJwuo9hAUMgMsNpFXANvKSnGmFFqcjBZuiCFpJCP (float launchpad bonding curve).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:49 Berlin an AI Signal that a privacy token called PI is on the float launchpad on Solana, roughly 38 seconds old and still on its bonding curve; it is the deployer's first token in their launch index (text cut off).",
+      "engagement": "331 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; privacy-theme wave continues; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118823047499235393",
+      "followers": 38570
+    },
     {
       "coin": "WHY ARE YOU GAY? ($GAY)",
       "chain": "Solana",
@@ -272,36 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118794369239281885",
       "followers": 38574
-    },
-    {
-      "coin": "Justice For Queenie ($Queenie)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 8iSyS2woxSMhDhGbEvKBjGCfpWHLy7H4qx3vrYCgpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 20:54 Berlin that Justice For Queenie ($Queenie) is a pumpfun launch on Solana caught about three minutes after launch; the homepage link points to a court-case post that is the whole theme (text cut off).",
-      "engagement": "266 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; court-case theme; multiple distinct $Queenie CAs circulating in the same window; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118794220840608155",
-      "followers": 38574
-    },
-    {
-      "coin": "greg ($greg)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 55ziHdsyHiwWpoft4ZXa2UaqMM9y2KEAaBkBQ4NfLoat (described as float bonding curve / Loat address; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 20:44 Berlin that greg ($greg) launched on float on Solana and was about a minute old at signal time, with most early supply sitting in bundler wallets; no clear theme beyond the lowercase name (text cut off).",
-      "engagement": "324 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; bundler-wallet early supply flagged; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118791617045995636",
-      "followers": 38573
-    },
-    {
-      "coin": "Squirrelcoin ($SQRL)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0x0c32ad50c7e8e503f442c3a84bc27d4cb2de7777 (Flap launchpad on BSC).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 20:40 Berlin that Squirrelcoin ($SQRL) is the third Squirrelcoin launch today on Flap on BSC, about six minutes after launch and sitting at 43% of the way to graduation; it flags three wallets that bought within three minutes of each other (text cut off).",
-      "engagement": "296 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; third Squirrelcoin clone today on BSC; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118790735709552749",
-      "followers": 38571
     }
   ],
   "news": [
