@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:19 Berlin time (UTC+01:00)",
-  "newestPostId": "2118830257423671533",
-  "note": "Window: X posts since prior newestPostId 2118830128021041184 (recency search: 1 launch-focused query after fixing invalid CA: operator; 1 news/move query returned 0; no search_news this run; first launch query failed on CA: syntax). Added 0 launch(s) and 0 news item(s). Seen but skipped: LitecoinFirst RT of BPFonStonk Ansem/Pumpfun $MOTHER allegation (topic already on board; original post ~20:18 UTC predates window; thin engagement on the RT).",
+  "lastUpdated": "Friday 6 Nov 2026, 23:28 Berlin time (UTC+01:00)",
+  "newestPostId": "2118832467176247620",
+  "note": "Window: X posts since prior newestPostId 2118830257423671533 (recency: 1 launch-focused + 1 news/move query; search_news this run, max_age_hours=2). Added 4 launch(s) and 1 news item(s). Seen but skipped: yourfriendSOMMI Clavicular/PumpFun paid-shill expose (topic already on board; thin engagement); MemCoinsRadar $AMM ~2x migration alert (token already on launches; mild move); dex_kolwatcher/TermuxTurbo/dopamemefun/drakesmemecoin8/carlsmithdjta spam or self-promo; chriswillettiam $NO KOLs reply farm; NETWORKonSOL self Jupiter-verified claim; zostaff pumpfunbots-reverse promo; Animeta telegram shill; search_news duplicates already on board (Pump.fun callouts/Diamond, Leap app, Coinbase CARD).",
   "launches": [
+    {
+      "coin": "Billy ($Billy)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GyDhpYYXPPaAgrjpDpVCxubaFrBNht4byXzS8Kv8pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:25 Berlin an AI Signal that Billy ($Billy) hit 95% of the way along the pumpfun bonding curve about two minutes after launch on Solana; it flags something odd about the early buyer list being thick with bundler wallets (text cut off).",
+      "engagement": "279 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; bundler-heavy early buyers flagged in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118832166826283325",
+      "followers": 38572
+    },
+    {
+      "coin": "Highcap ($Highcap)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address EeLHPELuJbrMkRHQLag6XNHBSVi8scKFKqHbSxw6pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:23 Berlin an AI Signal that Highcap ($Highcap) has no clear theme and is already 84% of the way to graduation on the pumpfun bonding curve on Solana; it flags something odd about the buyer list (text cut off).",
+      "engagement": "254 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme; thin engagement. Distinct CA from the same-window deployer-sold-out $Highcap signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118831765947306132",
+      "followers": 38572
+    },
+    {
+      "coin": "Highcap ($Highcap)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 62GCmXJQVUZ5BZ5EJqDavtQmQRcAXXwFAXEv1h5apump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:23 Berlin an AI Signal that Highcap ($Highcap) is about two minutes old on pumpfun, and the deployer has already sold out completely (text cut off).",
+      "engagement": "282 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer fully sold per signal; thin engagement. Distinct CA from the same-window 84%-curve $Highcap signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118831642295042114",
+      "followers": 38572
+    },
+    {
+      "coin": "butt ($butt)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address ErSBfq7PxjqbjjrFZuoQdJyXoN9TMVg86TL78sWgpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:19 Berlin an AI Signal that butt ($butt) is a few-minutes-old pumpfun launch on Solana already most of the way to graduation, with no researched story attached to the contract (text cut off).",
+      "engagement": "402 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme beyond the ticker; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118830738992972145",
+      "followers": 38572
+    },
     {
       "coin": "Automated Milkers Machine ($AMM)",
       "chain": "Solana",
@@ -262,49 +302,17 @@
       "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
       "url": "https://x.com/solhousesignals/status/2118807171055931610",
       "followers": 3121
-    },
-    {
-      "coin": "zPEPE ($zPEPE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FjeYiDWmJnSHBW5mK3TNwuk3HKZhGhw46VhH7q8WBe6n (stonkfun launch, graduated to Raydium CPMM).",
-      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:41 Berlin that $zPEPE launched on stonkfun on Solana and graduated to Raydium CPMM at 37 minutes 42 seconds after launch; Pepe-themed memecoin, and most posts under the ticker are not about this contract (text cut off).",
-      "engagement": "0 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; ticker collision risk (most posts under ticker not about this CA); thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118805970830893120",
-      "followers": 38575
-    },
-    {
-      "coin": "Sticky Fingers ($SODL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address G1zL1rRHZNSVh58dk8PK7FHPJD4mXevgPQkj8yjvpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:35 Berlin that Sticky Fingers ($SODL) launched on pumpfun about a minute ago and is still on the bonding curve, 92% of the way to graduation; name and description say little and the only link is a post from an account (text cut off).",
-      "engagement": "283 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; theme unclear from signal text. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118804604683165759",
-      "followers": 38575
-    },
-    {
-      "coin": "Seppuku ($Seppuku)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FgTrzCSiJq4zSKq7okCr5Rrt9pTwYJxjwDt3Az9Ypump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:23 Berlin that Seppuku ($Seppuku) on pumpfun is less than a minute old and still on the bonding curve, most of the way to graduation; full name and ticker are both plain Seppuku (text cut off).",
-      "engagement": "240 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118801406987809059",
-      "followers": 38575
-    },
-    {
-      "coin": "VYNEX ($VYNEX)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4a41mfqEedjkiV7c3iWMvtmBNYt9c8fg4jr1CJCjpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @dex_kolwatcher (8,976 followers) posted at 21:20 Berlin a PAID DEXScreener detect for $VYNEX on Pumpfun Solana; it cites 24h buy volume $24,531, sell volume $19,740, liquidity $0, and market cap $20,078 (text cut off).",
-      "engagement": "174 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; liquidity reported as $0; thin engagement. Very early, high risk.",
-      "url": "https://x.com/dex_kolwatcher/status/2118800603677937874",
-      "followers": 8976
     }
   ],
   "news": [
+    {
+      "topic": "Influencer / Pump.fun callout rewards",
+      "headline": "X News: Crypto influencer Ethan claims $142K earned from Pump.fun callouts",
+      "coins": "n/a (callout rewards)",
+      "detail": "X News story (updated ~23:26 Berlin) summarizes that influencer Ethan posted a screenshot boasting about $142,474 all-time earned from Pump.fun callout promotions in USDC; critics called it dumping on followers, while Bubblemaps analyzed 49 of his callouts estimating about $125,000 from rewards and timely trades via connected wallets (figures from the X News summary, not a primary filing).",
+      "updated": "6 Nov 2026, 23:28 Berlin",
+      "url": "https://x.com/i/trending/2118830789332975793"
+    },
     {
       "topic": "Pump.fun / callout rewards",
       "headline": "Pump.fun co-founder Alon expands Callout Rewards to higher-cap tokens and non-SOL traders",
@@ -536,14 +544,6 @@
       "detail": "@AltcoinSherpa (263,705 followers) posted at 13:29 Berlin that $PEPE has impressive relative strength lately with clear whale buying (even before an unspecified hack mentioned in the post). Early engagement at scan time: 2,551 impressions, 11 likes, 1 repost, 3 replies.",
       "updated": "6 Nov, 13:37 (Berlin)",
       "url": "https://x.com/AltcoinSherpa/status/2118682241023033634"
-    },
-    {
-      "topic": "Memecoin developer arrest / alleged scam",
-      "headline": "British memecoin developer Oliver Harrington reportedly arrested in London over alleged $4.7M crypto scam",
-      "coins": "n/a (developer arrest)",
-      "detail": "@Nbmbroadcast (4,691 followers) posted at 13:27 Berlin a breaking note that 23-year-old British cryptocurrency developer Oliver Harrington has reportedly been arrested in London in connection with an alleged $4.7 million cryptocurrency scam tied to memecoin development. Early engagement at scan time: 16 impressions, 0 likes, 1 quote.",
-      "updated": "6 Nov, 13:30 (Berlin)",
-      "url": "https://x.com/Nbmbroadcast/status/2118681738972909592"
     }
   ],
   "hourly": [
