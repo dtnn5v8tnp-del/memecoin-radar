@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:18 Berlin time (UTC+01:00)",
-  "newestPostId": "2118800073891221652",
-  "note": "Window: X posts since prior newestPostId 2118797963426414657 (recency search: 1 launch-focused query; 1 news/move query). Added 1 launch(s) and 0 news item(s). Skipped: KYCtradeX KnowYourCoins tool promo (48 foll); goblinsfarmers $GOB self-promo live (455 foll, thin eng); SheikhDonaldMem pre-launch hype (5 foll); drakesmemecoin8 pumpfun referral spam; NinthCate / Nexxlll upcoming-launch giveaways (not live); SenatorLTD $MMC call-bot (already on board); TheShitShowDev $RWB low-foll self-shill (offensive ticker); grandmagasol $GRANDMAGA self-promo (58 foll); PapuCoinDev self-promo; PumpminatiHQ raid spam; news query: PEPE shill replies, giveaway farms, political Trump-dump noise, Polymarket whale alert (not memecoin).",
+  "lastUpdated": "Friday 6 Nov 2026, 21:21 Berlin time (UTC+01:00)",
+  "newestPostId": "2118800755331412375",
+  "note": "Window: X posts since prior newestPostId 2118800073891221652 (recency search: 1 launch-focused query; 1 news/move query — 0 hits after cashtag strip). Added 1 launch(s) and 0 news item(s). Skipped: gem_sonar $OGGATO bot radar (52 foll); Splice_SOL launchpad self-promo (7 foll); SenatorLTD $HOPE call-bot (offensive ticker, already known call farm); bullflag_/OMGmeii2xxzz opinion replies (no new coin); BPFonStonk Ansem/$MOTHER pay-to-promote commentary (707 foll, thin eng on new post; underlying allegation older than window).",
   "launches": [
+    {
+      "coin": "VYNEX ($VYNEX)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4a41mfqEedjkiV7c3iWMvtmBNYt9c8fg4jr1CJCjpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @dex_kolwatcher (8,976 followers) posted at 21:20 Berlin a PAID DEXScreener detect for $VYNEX on Pumpfun Solana; it cites 24h buy volume $24,531, sell volume $19,740, liquidity $0, and market cap $20,078 (text cut off).",
+      "engagement": "174 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; liquidity reported as $0; thin engagement. Very early, high risk.",
+      "url": "https://x.com/dex_kolwatcher/status/2118800603677937874",
+      "followers": 8976
+    },
     {
       "coin": "Shippy ($SHIPPY)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "303 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; float/LaunchLab path; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118774132146119095",
-      "followers": 38536
-    },
-    {
-      "coin": "wif diamond ($wifdiamond)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address J4KRz3CYf6mgX6Uh9chKb1u97QMB5xTdwUnTcQjQpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:32 Berlin that wif diamond ($wifdiamond) is the third diamond-themed launch on Solana today; at about 8 min 52 s old it sat roughly 77% along its pumpfun bonding curve, with an oddity noted in early buyers (text cut off).",
-      "engagement": "305 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; third diamond theme today; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118773605677056487",
       "followers": 38536
     }
   ],
