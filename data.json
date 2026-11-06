@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 17:38 Berlin time (UTC+01:00)",
-  "newestPostId": "2118744468748681520",
-  "note": "Window: X posts since prior newestPostId 2118743138659615135 (recency search, 3 post queries; no news API this run). Added 0 launch(s) and 1 news item(s). Added: Travladd upcoming memecoin (10 days; high engagement). Skipped: self-promo $AMETA (@pizzabasedev1x); call-farm $INU/#401kinu (@EarlyChad_/@Massivepumpmast/@popmemecoin); reply-shill @TommyCalls; pre-CA tease @UnbotheredDi (60 fol, account created yesterday); self-promo $BUFFUR (@BuffurCat, 13 fol); radar-bot $CHICXU (@MemCoinsRadar); call-account $ZCATS (@EricSolProphet, already on board); pumpfun referral spam; pre-launch @devexfun (83 fol); bot $PARPY (@SenatorLTD, 107 fol); political TRUMP/PEPE noise from news query.",
+  "lastUpdated": "Friday 6 Nov 2026, 17:41 Berlin time (UTC+01:00)",
+  "newestPostId": "2118745386772803819",
+  "note": "Window: X posts since prior newestPostId 2118744468748681520 (recency search, 2 post queries + news search). Added 2 launch(s) and 1 news item(s). Added: Cornecoin ($CORNE), Cornetcoin ($CORNET); Pudgy Penguins PFPs fade as Abstract L2 shutdown pushes user. Skipped: call-farm $CHICXU/@EarlyChad_/@erykdiamond; call-farm $DIAMOND/$RSHA262599 (@Botched_caller); self-promo $HODL (@hodldiamondboob, 1 fol); pre-CA @Joiaix/@solmatetool; tip-jar spam @LeftVoicChannel; reply spam; coordinated $COGE shill (@leionnell/@LogicGateio/@itsanita_ai); self-promo Doge Head Coin (@hugh_stiel); $DOG shill (@TrueGemHunter); political Trump noise; duplicate Diamond rewards / Kraken SOL / Ansem callout news already on board.",
   "launches": [
+    {
+      "coin": "Cornecoin ($CORNE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address A9X187z7tuARePU3jszX5kKXgviPADQjA2uyvpHspump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,532 followers) posted at 17:38 Berlin that Cornecoin ($CORNE) is a pumpfun token on Solana, minutes old and still on the bonding curve; the signal says the name and ticker state a \"corne\" theme and that a second token on that theme has appeared today.",
+      "engagement": "315 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin corne theme; second same-theme token noted today. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118744939718918374",
+      "followers": 38532
+    },
+    {
+      "coin": "Cornetcoin ($CORNET)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 2Pj7WTsvy6mhuCqKHGBvN8tFwcvq1XKdcsqd4kTrpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,532 followers) posted at 17:37 Berlin that Cornetcoin ($CORNET) is on the pumpfun bonding curve and already about 92% of the way to graduation roughly a minute after launch on Solana; the signal flags something unusual about wallets (text cut off at 165).",
+      "engagement": "353 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin cornet theme; unusual wallet activity noted. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118744587724579322",
+      "followers": 38532
+    },
     {
       "coin": "Ram The Orangutan ($RAM)",
       "chain": "Solana",
@@ -282,29 +302,17 @@
       "flags": "Only an automated signal account so far; graduated quickly with claimed bundled buyers. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118670256495591533",
       "followers": 38531
-    },
-    {
-      "coin": "WEALTH ($WEALTH)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump (pump.fun).",
-      "buzz": "Influencer @AntonyCryptoi (43,318 followers) posted at 12:27 Berlin that SOL $WEALTH just launched, claiming it was launched by someone from the $USELESS team and is pinned in the $USELESS X Community, with 2% of the developer supply locked.",
-      "engagement": "14 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Influencer launch call with claimed USELESS-team link; very thin organic engagement so far. Very early, high risk.",
-      "url": "https://x.com/AntonyCryptoi/status/2118666455088546269",
-      "followers": 43318
-    },
-    {
-      "coin": "Nigga Pig ($NIG)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,531 followers) posted at 11:59 Berlin that Nigga Pig ($NIG) is a fresh pump.fun launch on Solana; the signal highlights the deployer’s record and says the name/ticker point to a meme around that theme, with links going to X posts.",
-      "engagement": "321 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; offensive/edgy meme theme. Call accounts (@Sol_Gems00) also pushed the same CA. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118659601910710298",
-      "followers": 38531
     }
   ],
   "news": [
+    {
+      "topic": "PENGU / NFT ecosystem",
+      "headline": "Pudgy Penguins PFPs fade as Abstract L2 shutdown pushes users toward real photos",
+      "coins": "PENGU (Pudgy Penguins)",
+      "detail": "X news story (updated ~17:06 Berlin) says crypto users are swapping Pudgy Penguins profile pictures for real photos after Igloo Inc. announced Abstract, its Ethereum layer-2, will shut down on 15 Dec 2026 amid liquidity issues; the company is said to be refocusing on the Pudgy brand, NFTs, and the PENGU token, with mixed community reactions.",
+      "updated": "6 Nov 2026, 17:41 Berlin",
+      "url": "https://x.com/i/trending/2118735315678736766"
+    },
     {
       "topic": "Influencer launch",
       "headline": "Travladd says his memecoin launches in 10 days, runs $1,000 giveaway",
@@ -536,14 +544,6 @@
       "detail": "X news summary: $TRUMP fell over 20% in one day to about $1.25 (down ~98% from its Jan 2025 peak), with $MELANIA down 14–16% and $WLFI down 4–8%, as Democrats prepare probes into family crypto ventures. A Trump Media wallet also moved thousands of BTC this year.",
       "updated": "6 Nov, 06:21 (Berlin)",
       "url": "https://x.com/i/trending/2118271016317165877"
-    },
-    {
-      "topic": "Industry / Solana",
-      "headline": "X News: Solana co-founder Anatoly Yakovenko calls memecoins and NFTs 'digital slop'",
-      "coins": "Solana memecoins (general)",
-      "detail": "X news summary: Yakovenko likened memecoins and NFTs to mobile-game loot boxes—speculation with near-zero creation cost—and suggested routing trading profits into low-fee index funds. Reactions mixed between praise for honesty and jokes about building the casino then criticizing the slots.",
-      "updated": "6 Nov, 06:21 (Berlin)",
-      "url": "https://x.com/i/trending/2118142599944909199"
     }
   ],
   "hourly": [
