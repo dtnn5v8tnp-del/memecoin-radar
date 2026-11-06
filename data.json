@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 18:32 Berlin time (UTC+01:00)",
-  "newestPostId": "2118758141605367953",
-  "note": "Window: X posts since prior newestPostId 2118757237074301398 (recency search, 2 post queries + news search). Added 0 launch(s) and 0 news item(s). Skipped: uday72347 $KHB2 (19 fol); erykdiamond $TURTUR VIP-TG; CipherEdgeCalls/EarlyChad_/belemradio/_Shonsol/callerfiona11/Samurai_Gems0 call-farm $CRVL/$HODL/$FI/$CHICXU (already on dashboard or shill); dex_kolwatcher paid DEXScreener $Mickey; listingntm $WOLVERINU express-list bot; onepumpcc Canton community promo; hashtag spam $MNTD. No rugs, major listings, or high-engagement new launches in window. News: added Solana Labs Leap (Pump.fun Kraken/Diamond and Pudgy already on dashboard).",
+  "lastUpdated": "Friday 6 Nov 2026, 18:36 Berlin time (UTC+01:00)",
+  "newestPostId": "2118759315897037116",
+  "note": "Window: X posts since prior newestPostId 2118758141605367953 (recency search, 2 post queries; news skipped this run — prior run covered news). Added 1 launch(s) and 0 news item(s). Added: bitecong $boomer (bonding-curve signal). Skipped: GoobloSol $GOOBLO (31 fol); FrogKingFRGK $FRGK (0 fol, brand-new acct); DaCryptoTycoon/_SamuelPatrick/CryptoDominion_ $FIVE Thanksgiving shill-farm; Dr_pumpit $HYPE/$HI; pizzabasedev1x $AMETA (low eng); dex_kolwatcher paid DEXScreener $NEST; MemCoinsRadar $CRL 2.65x (CRL already on launches); cexscan minor Binance %; Gnosis Pay hack hashtag spam; Clawd Chain pumpfun-fork promo (not a memecoin launch). No rugs, major listings, or high-engagement new launches in window.",
   "launches": [
+    {
+      "coin": "boomer ($boomer)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address D7GySLkBDfD3zoSeK34UF1g5uKTTeoTHRG1REAyyvp3u (described as still on the pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:32 Berlin that boomer ($boomer) on Solana is a few minutes old and still on the pumpfun bonding curve, most of the way to graduation; the signal flags something unusual about the buyer list (of the hundred wallets that bought the most, most sold — text cut off).",
+      "engagement": "362 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; unusual seller-heavy top buyer list noted. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118758432128045127",
+      "followers": 38537
+    },
     {
       "coin": "Crypto Revenue Leaders ETF ($CRL)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme impersonating Solana Labs. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118689757610033240",
       "followers": 38527
-    },
-    {
-      "coin": "Rise (relaunch, unnamed ticker)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address ENqVAgYspQPdNEbUTFRxqS9QKAhGefYoicjykhJ2pump (pump.fun). Earlier Rise post used a different CA (ai42B71y1Aj4VPf9SvHAHSQQDAHs8PDHiwXS2sNpump).",
-      "buzz": "Creator @_rise (19,789 followers) posted at 13:46 Berlin repeating the same pitch as their earlier Rise launch: memecoin live on Pump Fun, 60% of supply airdropped to the top 15 holders at bonding, and a planned $7,000 buy in 15 minutes. This post uses a new CA versus the prior Rise entry.",
-      "engagement": "147 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Creator self-relaunch with a new contract address and the same airdrop/buyback claims; ticker still not stated. Very early, high risk.",
-      "url": "https://x.com/_rise/status/2118686403714232724",
-      "followers": 19789
     }
   ],
   "news": [
