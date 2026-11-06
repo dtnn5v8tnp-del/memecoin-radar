@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 18:03 Berlin time (UTC+01:00)",
-  "newestPostId": "2118750996491046995",
-  "note": "Window: X posts since prior newestPostId 2118749223059693584 (recency search, 2 post queries, no news this run). Added 1 launch(s) and 0 news item(s). Added: Tax The Poor ($TTP) bitecong signal (CA 5aDjvd…pump, already graduated). Skipped: call-farm $FI/$KORIMU/$401kinu (AlphaBullishups/WestmarkCalls/EarlyChad_/Charlie_SOL23/DegenFlow_); $POPO already on board; $DOOMGE 36-fol self-promo; SolanaWoodFall $WOOD 146-fol; $HOTWIFDOG 56-fol spam; airdrop farms ($ETH/Coinbase CA spam); listingntm $GM express (already covered via MEXC/$GM news); CryptoPASSP0RT $STEVE rug monitor low engagement; political $TRUMP noise; Pump.fun revenue/Diamond restates.",
+  "lastUpdated": "Friday 6 Nov 2026, 18:14 Berlin time (UTC+01:00)",
+  "newestPostId": "2118753467690860678",
+  "note": "Window: X posts since prior newestPostId 2118750996491046995 (recency search, 3 post queries, no news this run). Added 2 launch(s) and 0 news item(s). Added: MEOWCRAT ($MEOWCRAT) chadscabal stealth+giveaway (CA in video only); Degen ($DEGEN) SolanaMemesScan CTO/migrated (CA AgnsZb…pump). Skipped: call-farm $CHICXU/$401KINU/$FI (WestmarkCalls/AlphaPulsevw/EarlyChad_/MemCoinsRadar, conflicting CAs on CHICXU); PaulaandNata festive TG spam; $SHELLY/$DOOMGE/$CONTOUR/$BORDERLESS self-promo low fol; dex_kolwatcher $GRUB paid DEX; political Trump/rug noise; PepeCZBinance $PEPE shill; generic 401k/Binance headlines.",
   "launches": [
+    {
+      "coin": "MEOWCRAT ($MEOWCRAT)",
+      "chain": "Solana",
+      "chainNote": "Post claims a stealth launch and points \"Ca\" at an attached video (https://x.com/chadscabal/status/2118752772891812110/video/1); no readable contract address in the post text.",
+      "buzz": "Influencer @chadscabal (25,258 followers) posted at 18:10 Berlin that they just stealth-launched their own memecoin $MEOWCRAT and will equally distribute 10,000,000 $MEOWCRAT among the first 999 people to retweet and drop SOL wallets.",
+      "engagement": "1,011 impressions, 21 likes, 12 reposts, 14 replies, 1 bookmark at scan time.",
+      "flags": "Giveaway / airdrop-for-RT framing; CA only shown in video, not as text. Influencer self-launch. Very early, high risk.",
+      "url": "https://x.com/chadscabal/status/2118752772891812110",
+      "followers": 25258
+    },
+    {
+      "coin": "Degen ($DEGEN)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address AgnsZbSP5MMiVCK8G2MJuxWEYV9X8PUUL1NtP6papump (pump.fun; signal says migrated to pump_amm).",
+      "buzz": "Scanner @SolanaMemesScan (4,326 followers) posted at 18:12 Berlin a CTO signal that Degen ($DEGEN) migrated from Pump Fun to pump_amm; it lists ATH market cap about $73.9K, liquidity about $19.9K, 301 holders, CTO and DEX-updated flags, and a 100% burn.",
+      "engagement": "66 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Automated scanner only so far; common $DEGEN ticker (not the Base DEGEN). CTO/migration claim unverified beyond the signal. Very early, high risk.",
+      "url": "https://x.com/SolanaMemesScan/status/2118753301391118755",
+      "followers": 4326
+    },
     {
       "coin": "Tax The Poor ($TTP)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "346 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118679641791840450",
-      "followers": 38528
-    },
-    {
-      "coin": "Slingoor (unnamed ticker)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 72VNQ4BVKMEhzPp84oHbGQb3GFT7To9x8YUWvMB1pump (pump.fun).",
-      "buzz": "Dev account @keklordarc (7,643 followers) posted at 13:13 Berlin that Slingoor just launched, with a pump.fun CA and a screenshot. The account bio says Dev; the profile was created April 2026 and had only 6 posts at scan time.",
-      "engagement": "108 impressions, 1 like, 1 quote, 1 reply at scan time.",
-      "flags": "Creator/dev self-launch; ticker not stated as a cashtag. Brand-new low-post account. Very early, high risk.",
-      "url": "https://x.com/keklordarc/status/2118678215783063580",
-      "followers": 7643
-    },
-    {
-      "coin": "dexr·fun ($dexr)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3oeSgNcaZz8S43yBBoMwxY5HDSi1KS2Kt7vR7vE5pump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:11 Berlin that dexr·fun ($dexr) is a fresh pump.fun launch on Solana about a minute and a half old on the signal’s clock, still on the bonding curve and 88% of the way to graduation, with no clear theme beyond a .fun launchpad name.",
-      "engagement": "422 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118677691159466360",
       "followers": 38528
     }
   ],
