@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:04 Berlin time (UTC+01:00)",
-  "newestPostId": "2118826692957393312",
-  "note": "Window: X posts since prior newestPostId 2118825342781808768 (recency search: 1 launch-focused query; 1 news/move query; no search_news this run — prior run already used it). Added 2 launch(s) and 0 news item(s). Added: @bitecong $OPSEC privacy bonding-curve signal; @bitecong emoji/targeting-theme flip signal. Skipped: EarlyRada $BOMBERS VIP-TG call spam; ASTRAsol4 $DREAM/$terrorfab call spam; Strong69106 $KoriMu VIP spam; stonksVI 6-follower CA blast; xMANSTICKx $STICK Nov-10 prelaunch (0 followers); Sprytixl Grok Bot deploy scam; 0x_AuraLux1 $UCHI (same CA as listed $UEHI); 1881Erdem Foxtılkı self-shill; GoodBotBadMemes BotCoin promo; TrenchBotDisc $pip recap (already on board); LNOVAfsau SEC/CFTC (1 follower); YupSkillz CARD reply (already on board); Morosaki MEXC/Treasury giveaway bait; memecoinnowx old Moodeng/Vitalik story.",
+  "lastUpdated": "Friday 6 Nov 2026, 23:12 Berlin time (UTC+01:00)",
+  "newestPostId": "2118828695712321629",
+  "note": "Window: X posts since prior newestPostId 2118826692957393312 (recency search: 1 launch-focused query; 1 news/move query; search_news this run for memecoin topics). Added 1 launch(s) and 1 news item(s). Added: @bitecong Robinhood-chain $WIF 'wallahi im finished' signal; @a1lon9 Callout Rewards expansion (higher-cap + crosschain). Skipped: EarlyRada/Bullrunups/GemChaserSOL/dex_kolwatcher $DINU VIP/scanner spam; Marcrypto413 $PICASSO VIP; helloowitsme_ $NIG/$GLAZE call spam; Kaan_Capitug0 $GLITCHPEPE VIP; ASTRAsol4 $PI VIP (already on board); CyberClawOff $CLAW self-shill; usesolque/TradiumdotFun brand-new project accounts; SolanaSpin__ wallet-connect airdrop scam; tigra_ai terminal promo; political MAGA/pump noise from news query; SolTokenScan Automated Milkers Machine scanner ping.",
   "launches": [
+    {
+      "coin": "wallahi im finished ($WIF)",
+      "chain": "Robinhood Chain",
+      "chainNote": "Post gives contract address 0x5dbd791069b347782b55f2d0b2e3e97179822de2 (Robinhood chain EVM pair; not Solana dogwifhat).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 23:04 Berlin an AI Signal that wallahi im finished ($WIF) is a young Robinhood chain pair with no clear theme; last hour's trading volume was 2.92x the market cap, and the name reads like an exclamation (text cut off).",
+      "engagement": "273 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; ticker collisions with Solana dogwifhat ($WIF); thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118826836885119200",
+      "followers": 38571
+    },
     {
       "coin": "Opsec Level ($OPSEC)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; Twine mirror launch flagged; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118799847872675882",
       "followers": 38575
-    },
-    {
-      "coin": "Google Paid ($gPAID)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5Yyxt95UsHtmu2CoxjtgRBuKdF7Zyjff9Pig5R2cpump (pump.fun / pumpfun; past graduation).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 21:09 Berlin that Google Paid ($gPAID) is a pumpfun launch on Solana a few minutes past graduation and roughly six and a half hours old; name and links point to a project calling itself Google Paid (text cut off).",
-      "engagement": "136 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; Google-branded theme (high brand-risk); thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118797963426414657",
-      "followers": 38574
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun / callout rewards",
+      "headline": "Pump.fun co-founder Alon expands Callout Rewards to higher-cap tokens and non-SOL traders",
+      "coins": "Pump.fun, PUMP, SOL",
+      "detail": "Pump.fun co-founder @a1lon9 (433,139 followers) posted at 23:09 Berlin that over the past few days the Callout Rewards program got major changes aimed at (1) incentivizing calls on higher market-cap tokens and (2) rewarding users from other ecosystems such as perps and crosschain (non-SOL). Early engagement at scan: about 8,307 impressions, 66 likes, 11 reposts, 66 replies, 3 bookmarks. Amplifiers (@popmemecoin) framed it as expanding beyond Pumpfun.",
+      "updated": "6 Nov 2026, 23:12 Berlin",
+      "url": "https://x.com/a1lon9/status/2118828155750306227"
+    },
     {
       "topic": "Price move / migration pump",
       "headline": "pip ($pip) ~13.6x after PumpSwap migration (MC ~$50K → ~$682K in ~20 min)",
@@ -536,14 +544,6 @@
       "detail": "@Nbmbroadcast (4,691 followers) posted at 13:27 Berlin a breaking note that 23-year-old British cryptocurrency developer Oliver Harrington has reportedly been arrested in London in connection with an alleged $4.7 million cryptocurrency scam tied to memecoin development. Early engagement at scan time: 16 impressions, 0 likes, 1 quote.",
       "updated": "6 Nov, 13:30 (Berlin)",
       "url": "https://x.com/Nbmbroadcast/status/2118681738972909592"
-    },
-    {
-      "topic": "Pump.fun / SOL selling",
-      "headline": "Pump.fun moved ~76K SOL (~$6.85M) to Kraken; tracker claims ~5.55M SOL sold historically",
-      "coins": "SOL, Pump.fun",
-      "detail": "@Moneygurudigi (16,317 followers) posted at 12:31 Berlin that Pump.fun just moved 76,111 SOL worth about $6.85M to Kraken, and that the platform has now sold about 5.55M SOL worth $882.4M at an average price of $158.88, framing more potential SOL selling pressure. @FTPager (2,877 followers) amplified a Lookonchain note on the same dump, noting the historical average sale price (~$158) versus spot near $90. Early engagement on the Moneygurudigi post: 209 impressions, 1 like at scan time.",
-      "updated": "6 Nov, 12:34 (Berlin)",
-      "url": "https://x.com/Moneygurudigi/status/2118667480659116456"
     }
   ],
   "hourly": [
