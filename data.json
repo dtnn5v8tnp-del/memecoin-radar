@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:42 Berlin time (UTC+01:00)",
-  "newestPostId": "2118791141373968826",
-  "note": "Window: X posts since prior newestPostId 2118789743336956009 (recency search: 1 launch-focused query; 1 news/move query; 1 launch query failed on invalid operators then retried). Added 1 launch(s) and 0 news item(s). Skipped: political Trump/Netanyahu noise; MemCoinsRadar $GLITCHPEPE bot promo (repeat alerts + TG spam); TheShitShowDev $RWB offensive self-shill; $Diamond/$VOLTA call-farm RTs; SniperinoSol $JOEYSAVE thin self-shill; $COGE/$CARDS fake pump.fun vote phishing links; partner-seek/reply spam around Pumpfun.",
+  "lastUpdated": "Friday 6 Nov 2026, 20:47 Berlin time (UTC+01:00)",
+  "newestPostId": "2118792258275496113",
+  "note": "Window: X posts since prior newestPostId 2118791141373968826 (recency search: 1 launch-focused query; 1 news/move query). Added 1 launch(s) and 0 news item(s). Skipped: reply/partner spam around Pumpfun; @mhhnnuu FREE-DM bot farm; $WEALTH self-shill (Babyhypeinu); MemCoinsRadar $GLITCHPEPE bot promo + TG; Alicekhzz thin #whitemonster; NFT Fungo commentary (not memecoin news); Ging1y Robinhood/Vlad trenches commentary (low engagement, no new coin).",
   "launches": [
+    {
+      "coin": "greg ($greg)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 55ziHdsyHiwWpoft4ZXa2UaqMM9y2KEAaBkBQ4NfLoat (described as float bonding curve / Loat address; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 20:44 Berlin that greg ($greg) launched on float on Solana and was about a minute old at signal time, with most early supply sitting in bundler wallets; no clear theme beyond the lowercase name (text cut off).",
+      "engagement": "324 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; bundler-wallet early supply flagged; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118791617045995636",
+      "followers": 38573
+    },
     {
       "coin": "Squirrelcoin ($SQRL)",
       "chain": "BSC",
@@ -292,16 +302,6 @@
       "flags": "Only an automated scanner account so far; very thin engagement. Very early, high risk.",
       "url": "https://x.com/SolTokenScan/status/2118771964810792975",
       "followers": 3269
-    },
-    {
-      "coin": "JUST BOND xQc ($XQC)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Xeiy83eHbh7ctSTQ1pZBxsk5SaTFPPhfH1mvQCtpump (pump_mayhem → Pump AMM migration).",
-      "buzz": "Scanner @GemChaserSOL (2,331 followers) posted at 19:17 Berlin a migration signal for JUST BOND xQc ($XQC) from pump_mayhem to Pump AMM; it lists migration market cap about 410.84 SOL, liquidity about $2.75, 25 holders, no CTO flag, DEX not updated, and mint/freeze/burn/LP-locked checks marked passed (risk line cut off).",
-      "engagement": "46 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated scanner account so far; xQc-themed name; very thin engagement. Very early, high risk.",
-      "url": "https://x.com/GemChaserSOL/status/2118769801900261668",
-      "followers": 2331
     }
   ],
   "news": [
