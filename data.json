@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:11 Berlin time (UTC+01:00)",
-  "newestPostId": "2118768063038288028",
-  "note": "Window: X posts since prior newestPostId 2118766390048075962 (recency search, 2 broad post queries; news skipped this run — last run already did news). Added 5 launch(s) and 0 news item(s). Added: Xi Xing Pooh ($Pooh) pumpfun→PumpSwap via @bitecong; PUPTIDE ($PUPTIDE) float-curve signal; BinCoin ($BIN); puptide ($puptide) peptides theme; @_rise self-launch with 60% top-15 airdrop + $7k buy (CA only, no ticker). Skipped: Bullrunups $LAURA/$RIPPING TG-shills (750 fol); ProofOfMemeApp (1 fol); Onagi Guard product promo; SunPump TRON promo; firepump_house call-exit shills; BROOZ carrot shill; $DIAMOND 6h update (thin); MemCoinsRadar $RIPPING already on dashboard; political/BTC noise from news-OR query.",
+  "lastUpdated": "Friday 6 Nov 2026, 19:13 Berlin time (UTC+01:00)",
+  "newestPostId": "2118768648923877824",
+  "note": "Window: X posts since prior newestPostId 2118768063038288028 (recency search, 2 broad post queries + news search). Added 2 launch(s) and 1 news item(s). Added: Xi Jing Pooh ($Pooh) pumpfun→PumpSwap third Pooh today CA Dpfd…pump via @bitecong; Xi Xing Pooh ($Pooh) float-curve CA 4UYU…Loat; Pump.fun ~$6.85M SOL→Kraken treasury story. Skipped: firepump_house $LAURA call/TG-shills; fourtislisting DogWifJob paid-listing alert (0 eng); JayGenXer political Trump noise; ScarlettMetaX generic market update.",
   "launches": [
+    {
+      "coin": "Xi Jing Pooh ($Pooh)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DpfdUDWNu1nagAZLcbbucbt4Cai1F7RhWMF7e3Fgpump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:11 Berlin that Xi Jing Pooh ($Pooh) is a pumpfun launch on Solana that graduated to PumpSwap about 42 seconds after launch (signal at 54 s); it is the third Pooh-themed launch today (text cut off).",
+      "engagement": "247 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; third Pooh theme today; different CA from earlier Xi Xing Pooh rows. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118768216575193110",
+      "followers": 38535
+    },
+    {
+      "coin": "Xi Xing Pooh ($Pooh)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4UYUvMA6vL3uHBnRDSYXfazedV4kvyG5dPnKeb7fLoat (described as still on the float bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:11 Berlin that Xi Xing Pooh ($Pooh) is 27 seconds old and still on the float bonding curve on Solana; the researched report cites a classic cartoon-bear meme theme (text cut off).",
+      "engagement": "292 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; another Pooh-theme clone today; different CA from the graduated F1fv…pump Xi Xing Pooh. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118768259118010737",
+      "followers": 38535
+    },
     {
       "coin": "Xi Xing Pooh ($Pooh)",
       "chain": "Solana",
@@ -282,29 +302,17 @@
       "flags": "Only an automated signal account so far; BSC/Flap not Solana/pump.fun; thin event-class theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118725433290371412",
       "followers": 38533
-    },
-    {
-      "coin": "Glazecoin ($GLAZE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5ca8A8ZJDQHPH8i1p6W7fs2H9D5cxq6sVUqEtqyNpump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,533 followers) posted at 16:14 Berlin that Glazecoin ($GLAZE) is a couple of hours old on Solana and had just graduated from pumpfun to PumpSwap before the signal; the posts naming it so far are an alert and profit claims, with no clear theme.",
-      "engagement": "368 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; call-farm accounts (@SOLANACHAD009/@WikiKol1/@MemeLaunchups) also flexing profit claims on the same CA. Thin/no-theme glaze name. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118723823386366101",
-      "followers": 38533
-    },
-    {
-      "coin": "Receipts ($RECEIPTS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 9ZtuW8JzjCPNirmhKne2EnWknTj7wjv7k4cRaFEhpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,533 followers) posted at 16:04 Berlin that Receipts ($RECEIPTS) is under a minute old on the pumpfun bonding curve and already most of the way along it, so graduation could come soon; the signal notes the deployer has eight tokens including this one.",
-      "engagement": "376 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin receipts/deployer-history theme; prior window had a separate thin @payreceipts fee-routing promo. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118721123705848239",
-      "followers": 38533
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun / treasury",
+      "headline": "Pump.fun deposits about $6.85M in SOL to Kraken after a 15-day pause",
+      "coins": "Pump.fun, SOL",
+      "detail": "X news story (updated ~16:36 Berlin) says Pump.fun sent 76,111 SOL (about $6.85 million) to Kraken after 15 quiet days, continuing a treasury pattern; cumulative sales cited at roughly 5.55 million SOL for about $882.4 million at an average near $158.88. Debate continues on selling pressure vs routine fee-treasury moves while SOL traded near $90.",
+      "updated": "6 Nov 2026, 19:13 Berlin",
+      "url": "https://x.com/i/trending/2118679336639164900"
+    },
     {
       "topic": "Memecoin ETPs / Sweden",
       "headline": "Valour lists PUMP, WIF, and BONK SEK ETPs on Sweden's Spotlight Stock Market",
@@ -536,14 +544,6 @@
       "detail": "X news summary: On 5 Nov Tenev's short trenches post became a meme rallying traders around memecoins and tokenized stocks on Robinhood Chain (Ethereum L2 live since 1 Jul 2026), with quotes hyping 'RH szn round 2'.",
       "updated": "6 Nov, 06:29 (Berlin)",
       "url": "https://x.com/i/trending/2118555308767244374"
-    },
-    {
-      "topic": "Solana product",
-      "headline": "X News: Solana Labs launches Leap mobile app for tokenized stocks, ETFs, and crypto",
-      "coins": "SOL",
-      "detail": "X news summary: Leap early access hit iOS TestFlight on 5 Nov (Android soon), built by the Dialect team Solana Labs acquired. Self-custodial swaps via Jupiter, chart news, fee-inclusive P&L; aims beyond memecoins; tokenized stocks restricted in US/UK/EEA; future fees may burn SOL.",
-      "updated": "6 Nov, 06:29 (Berlin)",
-      "url": "https://x.com/i/trending/2118544554773377430"
     }
   ],
   "hourly": [
