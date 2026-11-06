@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 10:54 Berlin time (UTC+01:00)",
-  "newestPostId": "2118643027430248547",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) + 1 news search. Added 1 launch(s) and 0 news item(s). Skipped: @Theblackbullxxx DESSA BANK re-shill (already listed); @AlphaBullishups $BDHM TG re-shill (already listed); @firepump_house $WABI TG call / exit spam; @LeoKaned low-follower timeline fluff; Ansem Pump.fun callout-rewards news already covered; Variational Omni Points OTC collapse not a memecoin story.",
+  "lastUpdated": "Friday 6 Nov 2026, 11:03 Berlin time (UTC+01:00)",
+  "newestPostId": "2118645280744886478",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; first launch query failed on CA: syntax then retried). Added 2 launch(s) and 0 news item(s). Skipped: @firepump_house $RETARDIO/$UK/$BDHM TG call spam; @Karen_c199 self-shill $KAREN (363 followers); @Theblackbullxxx $DESSA re-shill (already listed); @NUDES2o9 $NEXORA self-shill; @vveefo streamer-friend rug anecdote (no named coin/CA); unrelated Trump/Warren and BTC dump posts.",
   "launches": [
+    {
+      "coin": "United Knockers ($UK)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FNp2Hit1bpYfskkW2CaWbW9tTVis4wb3qMjEZ8E4pump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:02 Berlin that United Knockers ($UK) is the third \"united\"-themed launch on Solana today and had already graduated from pump.fun to PumpSwap in under forty minutes before the signal; the signal flags something odd about the deployer.",
+      "engagement": "262 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; \"united\" theme clone wave. Already graduated. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118645280744886478",
+      "followers": 38530
+    },
+    {
+      "coin": "The Last Memecoin ($TLM)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address ABicNQY6kxCajLm2xNfg82hPyKBNHNH38jYUcVs8pump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 10:56 Berlin that The Last Memecoin ($TLM) is the third memecoin-themed launch on Solana today and graduated from pump.fun to PumpSwap 12 minutes 49 seconds after launch; the signal flags bundler wallets in the buyer list as the odd part.",
+      "engagement": "478 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; meta \"last memecoin\" name; bundler oddity noted. Already graduated. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118643558320398424",
+      "followers": 38530
+    },
     {
       "coin": "Limmy Waking Up ($LIMMY)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Only an automated signal account so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118579697491820818",
       "followers": 38538
-    },
-    {
-      "coin": "fun ($fun)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5BWHo2duxhkRR4ftnZWErnB8GoXpFgZ4ZR9UN8LDpump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,537 followers) posted at 06:40 Berlin that $fun graduated from pump.fun to PumpSwap about 10 minutes after launch, with no clear theme in the name or ticker, and flagged something unusual about the deployer's history.",
-      "engagement": "288 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118579191243546898",
-      "followers": 38537
-    },
-    {
-      "coin": "DIAMOND ($DIAMOND)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump (pump.fun).",
-      "buzz": "Caller @EarlyChad_ (5,939 followers) claimed at 06:32–06:35 Berlin that $DIAMOND ran from $5K to about $298K–$331K market cap (about 60–66x); other call accounts echoed $45K–$102K figures in the same window.",
-      "engagement": "About 57–91 impressions and 1–2 likes on the EarlyChad posts at scan time; echo posts mostly 0 likes.",
-      "flags": "Numbers come from call accounts pushing VIP Telegram, not a primary project source. Treat as unverified momentum chatter, high risk.",
-      "url": "https://x.com/EarlyChad_/status/2118577882867855444",
-      "followers": 5939
     }
   ],
   "news": [
