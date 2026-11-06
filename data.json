@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:13 Berlin time (UTC+01:00)",
-  "newestPostId": "2118647619446800590",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news). Added 0 launch(s) and 0 news item(s). Skipped: @firepump_house $bCCC/$Marscoin call spam; @Alph_gems/@SolMoh0x/@Great_Meme02 $UK re-shill (already listed); @lari_riguelme/@clebers1984 $november VIP-call spam (already listed); @Alph_gems $piper TG-call spam (23 impressions); airdrop-farm CA paste bots (@sbusfzi/@saggerdudemax/@FreelancerRaji5/@DJ_LoFoSho/@drugsfaxx/@LizethMonArt); @dex_kolwatcher $TLM PAID dexscreener alert (already listed); news query returned political/macro noise only (no memecoin listings/rugs/exploits).",
+  "lastUpdated": "Friday 6 Nov 2026, 11:20 Berlin time (UTC+01:00)",
+  "newestPostId": "2118649272539213959",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news). Added 1 launch(s) and 0 news item(s). Added: @bitecong Unavailable Knockers ($UK) CA GNKV96…pump (knockers-theme clone #2, distinct from United Knockers). Skipped: @_Shonsol/@_callerhex/@firepump_house $HALO VIP-call spam; @webb_sonn/@Sol_Gems00/@majorrngm/@BillyOnChain1 $UK (United Knockers) re-shill (already listed); @Theblackbullxxx DESSA BANK re-shill (already listed); @Alpha_calls001 $THREE / @WestmarkCalls $COGE past-call flex; @elrondfun $ROND self-promo (756 fol, 8 imp); @zappy_fun $ZAPPY (0 fol); airdrop-farm CA paste bots (@saggerdudemax/@DJ_LoFoSho); @BarsikOnSolana gaming teaser (no CA); news query returned call-farm noise only (no listings/rugs/exploits).",
   "launches": [
+    {
+      "coin": "Unavailable Knockers ($UK)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GNKV96CghmXbgSxR4HpYgbjxczZBouQ68wjU2xG4pump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:13 Berlin that Unavailable Knockers ($UK) is a pump.fun launch on Solana that sat at about a $15.2K market cap four minutes after it began on the signal’s own tracking; the signal notes it is the second token today built on the word \"knockers\".",
+      "engagement": "437 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; knockers-theme clone wave (distinct CA from United Knockers). Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118648068849705053",
+      "followers": 38530
+    },
     {
       "coin": "United Knockers ($UK)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Early promotional post with little engagement yet; chain and contract details thin in-source. Very early, high risk.",
       "url": "https://x.com/Alahlyloo/status/2118581247610077290",
       "followers": 60574
-    },
-    {
-      "coin": "Girlcoin ($Girlcoin)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address H4D5mThN4ts9ZEqpB1xkiejcCoZ88dAGECbW2o3Kpump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,538 followers) posted at 06:42 Berlin that Girlcoin, pitched as a women-onboarding meme coin, graduated from pump.fun to PumpSwap a little over eleven minutes after launch, and flagged an oddity in post-signal tracking.",
-      "engagement": "343 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118579697491820818",
-      "followers": 38538
     }
   ],
   "news": [
