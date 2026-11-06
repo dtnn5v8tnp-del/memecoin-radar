@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:20 Berlin time (UTC+01:00)",
-  "newestPostId": "2118649272539213959",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news). Added 1 launch(s) and 0 news item(s). Added: @bitecong Unavailable Knockers ($UK) CA GNKV96…pump (knockers-theme clone #2, distinct from United Knockers). Skipped: @_Shonsol/@_callerhex/@firepump_house $HALO VIP-call spam; @webb_sonn/@Sol_Gems00/@majorrngm/@BillyOnChain1 $UK (United Knockers) re-shill (already listed); @Theblackbullxxx DESSA BANK re-shill (already listed); @Alpha_calls001 $THREE / @WestmarkCalls $COGE past-call flex; @elrondfun $ROND self-promo (756 fol, 8 imp); @zappy_fun $ZAPPY (0 fol); airdrop-farm CA paste bots (@saggerdudemax/@DJ_LoFoSho); @BarsikOnSolana gaming teaser (no CA); news query returned call-farm noise only (no listings/rugs/exploits).",
+  "lastUpdated": "Friday 6 Nov 2026, 11:26 Berlin time (UTC+01:00)",
+  "newestPostId": "2118651031458320617",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news). Added 1 launch(s) and 0 news item(s). Added: @bitecong Xi The Pooh ($Xi) CA A2EGRb…pump (89% to graduation in <3m). Skipped: @SOLORACLE8s/@Legend_Britney past-call flex ($RM/$CZ/$RED); @firepump_house/@Sol_Gems00/@alphacartelz $XI/$UK/$HALO call-farm re-shills; @clebers1984/@AlphaPulsevw $TLM re-shill (already listed); airdrop-farm CA paste bots (@FreelancerRaji5/@bz4Christ/@jirka_456/@Lin252525/@ayobadj_dj/@Juannfxp); @ByteJuryExe $BYTE self-promo (108 fol); @pisklauren $ZOMBCASH self-promo; @PeepRadars $BTC Big Titty Coin scanner (existing ~$21M MC, not a fresh launch); news query: @Corki_0x Grok-bot promo + call-farm noise only (no listings/rugs/exploits).",
   "launches": [
+    {
+      "coin": "Xi The Pooh ($Xi)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address A2EGRb4JufhyHjZxzR7z39UKuYbm6hnCzW41xEuwpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:24 Berlin that Xi The Pooh ($Xi) is a pump.fun launch on Solana that reached about 89% of the bonding curve toward graduation in under three minutes; the signal says the name carries no clear theme from the facts on hand.",
+      "engagement": "350 impressions, 1 like, 1 repost at scan time.",
+      "flags": "Only an automated signal account so far; thin/no theme; also pushed by call accounts (@firepump_house). Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118650727421858041",
+      "followers": 38530
+    },
     {
       "coin": "Unavailable Knockers ($UK)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Third copycat of the bracket theme in one day; only an automated signal account so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118580746944409975",
       "followers": 38538
-    },
-    {
-      "coin": "holdplease ($holdplease)",
-      "chain": "Robinhood Chain",
-      "chainNote": "Post ties the token to Stonklauncher / StonkBrokers launchpad on Robinhood Chain; no Solana-style pump.fun contract in the post text.",
-      "buzz": "@Alahlyloo (60,574 followers) posted at 06:48 Berlin introducing StonkSecretary, the pixel secretary behind $holdplease, framed as a Stonklauncher launch with an office/deadpan-secretary theme.",
-      "engagement": "52 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Early promotional post with little engagement yet; chain and contract details thin in-source. Very early, high risk.",
-      "url": "https://x.com/Alahlyloo/status/2118581247610077290",
-      "followers": 60574
     }
   ],
   "news": [
