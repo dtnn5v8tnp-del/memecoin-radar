@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:52 Berlin time (UTC+01:00)",
-  "newestPostId": "2118808583122919471",
-  "note": "Window: X posts since prior newestPostId 2118807224038383890 (recency search: 1 launch-focused query; 1 news/move query; 1 news search — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: universolumina/vheranievhe/Meme_Lord_ups/MemeLaunchups TG #bbvipks4 call spam ($FUSE/$ZCATS/$Look/$FI); firepump_house Leap/0DAY call shills; usevoltex self-shill $VOLTEX (21 foll); WENGUWATCH self-shill (56 foll); Abu4Raaeed $ETERNAL (3 foll); Botched_caller GLITCHPEPE TG farm; AutorunAlert $MIMI same CA as bitecong (deduped); Fortnite token noise; TrilliumCoin/adamsbilliy copy-paste community spam; news search mostly already-tracked (Ansem/Pump.fun deal, Diamond rewards, Pump.fun Kraken SOL, Pudgy PFPs) or non-memecoin (StreetHood NFT Spaces).",
+  "lastUpdated": "Friday 6 Nov 2026, 21:56 Berlin time (UTC+01:00)",
+  "newestPostId": "2118809580998377878",
+  "note": "Window: X posts since prior newestPostId 2118808583122919471 (recency search: 1 launch-focused query; 1 news/move query — no news search this run). Added 1 launch(s) and 0 news item(s). Skipped: PumpDevvvv/DEVPUMPP $SWORDFROG self-shills (low foll); Mrsolexpert_1 promo-reply farm; UnbotheredDi pre-launch beg (61 foll); darovikh $BioLLM reply shill; justjuleserc DATBOI thesis (332 foll, thin); solhousesignals narrative MC spam; Grizzly1977 election-hack spam matching query; political rug/Epstein noise; no genuine listing/rug/exploit/whale news in window.",
   "launches": [
+    {
+      "coin": "Leap ($Leap)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 9KenrJk5fhQRQriZnNRGqZ4zb3XDuMQyp9dgHMceLeap (pump.fun / pumpfun; graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 21:52 Berlin that $Leap is the third Leap-themed launch on Solana today and graduated from pumpfun to PumpSwap about twenty-one minutes after launch; it flags unusual early selling among the first hundred wallets that bought (text cut off).",
+      "engagement": "372 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; third Leap-theme launch today; early selling noted; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118808798735565211",
+      "followers": 38570
+    },
     {
       "coin": "Mimicoin ($MIMI)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "274 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; near graduation when signaled; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118780701260812676",
-      "followers": 38553
-    },
-    {
-      "coin": "Chrome Cat ($CHROME)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4ZCGWJhxmJJGmmt7hQGwvNA9Qai9BegbWZ4fcNwfLoat (described as float then Raydium CPMM; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,553 followers) posted at 19:59 Berlin that Chrome Cat ($CHROME) is a cat-themed Solana memecoin that graduated from float to Raydium CPMM a little over half an hour after launch, and that the deployer had already sold out of it (text cut off).",
-      "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer sold after graduation per signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118780321802104959",
       "followers": 38553
     }
   ],
