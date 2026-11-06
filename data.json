@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 07:02 Berlin time (UTC+01:00)",
-  "newestPostId": "2118584623563219436",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; skipped news search this run). Added 0 launch(s) and 2 news item(s). Skipped VIP/call-farm spam on $WABI/$bracket/$BILL/$RETIRE/$Bubbles/$A/$coin; skipped airdrop phishing $ZCAT/$PIRATE/$CARS; skipped thin Ponzify platform promo; GlassDex $bracket risk note not added as separate news (coin already on launches).",
+  "lastUpdated": "Friday 6 Nov 2026, 07:07 Berlin time (UTC+01:00)",
+  "newestPostId": "2118585525669863472",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) plus news search. Added 2 launch(s) and 0 news item(s). Skipped VIP/call-farm spam on $fun/$zelda/$Diamond/$BRACKET/$WABI/$bracket/$NWO/$A/$RETIRE; skipped non-crypto noise in news query; news stories already on dashboard (Pump.fun penguin, Ansem rewards, Robinhood trenches, Leap, Dobrik FOMO).",
   "launches": [
+    {
+      "coin": "Joe ($Joe)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address HpaGuJuaF1v7VEkSXg8bQRqTqiyddBrqJxboqNNfpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 07:04 Berlin that Joe ($Joe) is pitched as a return to plain meme culture and was still sitting on the pump.fun bonding curve shortly after launch, with an unusual deployer record flagged (879…).",
+      "engagement": "302 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer-history flag in the signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118585341280170309",
+      "followers": 38528
+    },
+    {
+      "coin": "Polsia ($POLSIA)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address ECmb5wQd1YN3FAjDJZYxSmoYDSRah7M8jdjQawvqpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 07:02 Berlin that Polsia ($POLSIA) was under two minutes old on the pump.fun bonding curve, with an AI-themed name and ticker.",
+      "engagement": "347 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; brand-new bonding-curve token. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118584717620707503",
+      "followers": 38528
+    },
     {
       "coin": "NWO ($NWO)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
       "url": "https://x.com/EarlyChad_/status/2116874094482448639",
       "followers": 5679
-    },
-    {
-      "coin": "$P2P",
-      "chain": "Solana (pump.fun)",
-      "chainNote": "CA 8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump (from the posts)",
-      "buzz": "Flooded in the last few minutes by a ring of near-identical \"12x / 23x up on my call, TG eating massively\" posts from small call accounts (@_Shonsol, @degen_piilot, @solCallermike_ and others). Separately, @p2pventures (70 followers) says all offers on its P2P memecoin OTC listing were filled quickly.",
-      "engagement": "0 to 4 likes per post; the highest-impression post had about 107 impressions at scan time.",
-      "flags": "Coordinated shill-farm promotion with 'DM for entry' Telegram funnels; treat as high risk.",
-      "url": "https://x.com/_Shonsol/status/2116870678523548020",
-      "followers": 1892
-    },
-    {
-      "coin": "Solstars ($SOLSTARS)",
-      "chain": "Solana (pump.fun)",
-      "chainNote": "CA EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump (from the post)",
-      "buzz": "@bitecong (38,453 followers) flags Solstars as a pump.fun launch about 22 minutes old, still on the bonding curve, with no clear theme beyond a team account post and thin attention.",
-      "engagement": "0 likes, about 500 impressions at scan time.",
-      "flags": "Automated on-chain signal account; brand-new micro-cap still on the bonding curve.",
-      "url": "https://x.com/bitecong/status/2116869872479330490",
-      "followers": 38453
     }
   ],
   "news": [
