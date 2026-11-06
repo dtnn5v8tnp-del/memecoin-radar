@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 16:12 Berlin time (UTC+01:00)",
-  "newestPostId": "2118722495285272894",
-  "note": "Window: X posts since prior newestPostId 2118720883606835574 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; news search this run, max_age 6h). Added 1 launch(s) and 0 news item(s). Skipped: call-farm flex spam ($RSHA262599 @ASTRAsol4/@addamsol_999/@Sol_Gems00/@Botched_caller; $spoon @Sol_Gems00/@EvansOnSolana/@sol_peal; $401KAT VIP-DM @Vanta_Sol_; $Steve/$POMBERT flex @Annatrader22; $THREE @EARLYSOLINSGHT; $CHILLJAKX shill @BangBorscs no CA); thin ansem/blknoiz06 claim (@nebb_1 CA 7ypCq2…uGrQ); paid DEX bot $UTC (@dex_kolwatcher); brand-new thin $FRAM (@fram_toncoin 15 followers); $Diamond Pump-icon narrative posts without CA (@BestQualityBD/@vMonadLogic/@ClockworkCqs/@alicaglayan4); Trencher existing-project promo (@grizzle_art); politics/gas-pump noise; news already on dashboard (Pump.fun~76K SOL→Kraken; Solana Labs Leap; Ansem callout rewards); SHIB Binance-hacker dump headline (@RagnarShiba, 125 impressions/0 likes — too thin).",
+  "lastUpdated": "Friday 6 Nov 2026, 16:22 Berlin time (UTC+01:00)",
+  "newestPostId": "2118724740424806452",
+  "note": "Window: X posts since prior newestPostId 2118722495285272894 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; no news search this run — prior run covered news). Added 1 launch(s) and 0 news item(s): Glazecoin ($GLAZE). Skipped: call-farm flex/shill ($GLAZE @SOLANACHAD009/@WikiKol1/@MemeLaunchups; $CYLO @SOLANACHAD009; $GM/$HOTCOFFEE @sol_peal; $RSHA262599 VIP-DM @Vanta_Sol_); thin brand-new $FUT (@Lole2910 101 followers); thin CAGE graduate (@pitchybelka 62 followers); pre-launch test $SLOWW; $COUGAR BNB promo (@kryptobank1); CashPad promo (@Ganesh06234921 2 followers); sniper-dump analysis thin (@FelicioTor); Snek.fun Oct-29 exploit write-up too thin/old (@TheCryptoNinja2 5 impressions); $PEPE pump speculation chart (@cryptojack, 1 like); StonkFun/bonk-team rug replies thin; politics/gas-pump/Trump noise; Solana Labs Leap reply already on dashboard.",
   "launches": [
+    {
+      "coin": "Glazecoin ($GLAZE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5ca8A8ZJDQHPH8i1p6W7fs2H9D5cxq6sVUqEtqyNpump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,533 followers) posted at 16:14 Berlin that Glazecoin ($GLAZE) is a couple of hours old on Solana and had just graduated from pumpfun to PumpSwap before the signal; the posts naming it so far are an alert and profit claims, with no clear theme.",
+      "engagement": "368 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; call-farm accounts (@SOLANACHAD009/@WikiKol1/@MemeLaunchups) also flexing profit claims on the same CA. Thin/no-theme glaze name. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118723823386366101",
+      "followers": 38533
+    },
     {
       "coin": "Receipts ($RECEIPTS)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; news-event / captive animal theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118653064139973005",
       "followers": 38530
-    },
-    {
-      "coin": "GATO ($GATO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump (pump.fun).",
-      "buzz": "Influencer @theAdamcrypto (25,842 followers) posted at 11:28 Berlin that $GATO is built around a GTA6CAT narrative on Solana, framing it as a recognizable identity in the Solana meme ecosystem and linking a chart.",
-      "engagement": "2,062 impressions, 17 likes, 1 repost at scan time.",
-      "flags": "Influencer narrative push (GTA6CAT theme; distinct CA from listed GTA6DOG). Early/high risk; not a fresh bonding-curve signal.",
-      "url": "https://x.com/theAdamcrypto/status/2118651622578672089",
-      "followers": 25842
     }
   ],
   "news": [
