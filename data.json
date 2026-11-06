@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:58 Berlin time (UTC+01:00)",
-  "newestPostId": "2118779927998660969",
-  "note": "Window: X posts since prior newestPostId 2118777480433520920 (recency search, 2 broad post queries). Added 0 launch(s) and 1 news item(s). Skipped: Kaan_Capitug0/Annatrader22/Massivepumpmast/Legend_Britney/Alpha_calls100/Bullrunups VIP-TG call shills ($ZCATS $401K/$401kinu $Degen $HODL $FI $RSHA262599); christophepump self-promo ($REGRETAMINE); Mta6_sol/KitchenHorrorX/popmemecoin/GafarSalih79937 thin self-promo or farm ($MTA $paper GTA-theme); dex_kolwatcher paid-DEXScreener bot ($AAC); political Trump/SEC/rug-pull OR noise; jiggacapital pumpfun-perp competition meta (not coin news).",
+  "lastUpdated": "Friday 6 Nov 2026, 20:04 Berlin time (UTC+01:00)",
+  "newestPostId": "2118781231898710218",
+  "note": "Window: X posts since prior newestPostId 2118779927998660969 (recency search, 2 broad post queries + 1 news search). Added 4 launch(s) and 1 news item(s). Skipped: FATHO0D reply-farm ($FATHOOD); Bullrunups/Massivepumpmast/Legend_Britney/_hillscaller VIP-TG call shills ($MTA6 $ROCCO $HODL $DIAMOND); Legend_whale1/CryptoButcher28/degenlyapp thin self-promo or farm; Gr8rdaz Lizex $TURBO reply-shill; Cernovich/political Trump–Susie Wiles OR noise; BPFonStonk Pumpfun boycott meta; news already on dashboard (Pump.fun Diamond rewards, Pump.fun Kraken SOL deposit).",
   "launches": [
+    {
+      "coin": "Ascending ($ascending)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4qsQt4wsnf3f5dZmPnSd2UjBCMZNLaS2r5gSTwufLoat (described as float bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,553 followers) posted at 20:02 Berlin that Ascending ($ascending) is seconds old on Solana via float, still on the float bonding curve when signaled, with no theme beyond the name and ticker (text cut off).",
+      "engagement": "212 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only theme; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118781076302905666",
+      "followers": 38553
+    },
+    {
+      "coin": "What happened to the game I love ($game)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 8CqriKGeyCn2ER86uwbyZaDzMKYkryZErNCeVk5apump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,553 followers) posted at 20:00 Berlin that What happened to the game I love ($game) was about five minutes old and about 83% of the way to graduation on the pumpfun bonding curve; the name points at a long-running \"what happened to the game\" meme (text cut off).",
+      "engagement": "274 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; near graduation when signaled; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118780701260812676",
+      "followers": 38553
+    },
+    {
+      "coin": "Chrome Cat ($CHROME)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4ZCGWJhxmJJGmmt7hQGwvNA9Qai9BegbWZ4fcNwfLoat (described as float then Raydium CPMM; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,553 followers) posted at 19:59 Berlin that Chrome Cat ($CHROME) is a cat-themed Solana memecoin that graduated from float to Raydium CPMM a little over half an hour after launch, and that the deployer had already sold out of it (text cut off).",
+      "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer sold after graduation per signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118780321802104959",
+      "followers": 38553
+    },
+    {
+      "coin": "Moneyero ($MONEYERO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DLDczx6LpVsfeMgGT8RFwy19fmcgK6ZmpPEpKR5Ppump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,553 followers) posted at 19:59 Berlin that Moneyero ($MONEYERO) is a privacy-themed launch that graduated from pumpfun to PumpSwap at about 1 h 11 min after launch, with no clearer theme than the name; an oddity is noted in early buyers (text cut off).",
+      "engagement": "307 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; already graduated when signaled; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118780221583425759",
+      "followers": 38553
+    },
     {
       "coin": "Chonky ($Chonky)",
       "chain": "Solana",
@@ -262,49 +302,17 @@
       "flags": "Only an automated signal account so far; thin casino-name theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118756108177473735",
       "followers": 38537
-    },
-    {
-      "coin": "Crypto Revenue Leaders ETF ($CRVL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4izrpFiuxGXv9vSGxX8RoWQUgXCFMwK5KmbaEhLspump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:23 Berlin that Crypto Revenue Leaders ETF ($CRVL) is a pumpfun launch on Solana a few minutes old that graduated to PumpSwap soon after launch; a researched report cited in the signal says the token rides an ETF proposal theme (text cut off).",
-      "engagement": "309 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; ETF-theme claims unverified in the post; similar CRL ticker also launched. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118756083250683915",
-      "followers": 38537
-    },
-    {
-      "coin": "MEOWCRAT ($MEOWCRAT)",
-      "chain": "Solana",
-      "chainNote": "Post claims a stealth launch and points \"Ca\" at an attached video (https://x.com/chadscabal/status/2118752772891812110/video/1); no readable contract address in the post text.",
-      "buzz": "Influencer @chadscabal (25,258 followers) posted at 18:10 Berlin that they just stealth-launched their own memecoin $MEOWCRAT and will equally distribute 10,000,000 $MEOWCRAT among the first 999 people to retweet and drop SOL wallets.",
-      "engagement": "1,011 impressions, 21 likes, 12 reposts, 14 replies, 1 bookmark at scan time.",
-      "flags": "Giveaway / airdrop-for-RT framing; CA only shown in video, not as text. Influencer self-launch. Very early, high risk.",
-      "url": "https://x.com/chadscabal/status/2118752772891812110",
-      "followers": 25258
-    },
-    {
-      "coin": "Degen ($DEGEN)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address AgnsZbSP5MMiVCK8G2MJuxWEYV9X8PUUL1NtP6papump (pump.fun; signal says migrated to pump_amm).",
-      "buzz": "Scanner @SolanaMemesScan (4,326 followers) posted at 18:12 Berlin a CTO signal that Degen ($DEGEN) migrated from Pump Fun to pump_amm; it lists ATH market cap about $73.9K, liquidity about $19.9K, 301 holders, CTO and DEX-updated flags, and a 100% burn.",
-      "engagement": "66 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Automated scanner only so far; common $DEGEN ticker (not the Base DEGEN). CTO/migration claim unverified beyond the signal. Very early, high risk.",
-      "url": "https://x.com/SolanaMemesScan/status/2118753301391118755",
-      "followers": 4326
-    },
-    {
-      "coin": "Tax The Poor ($TTP)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5aDjvdypu3N88vfC6ZN85CwjeR49N2Bcp7gL7C5Epump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 17:56 Berlin that Tax The Poor ($TTP) has no clear theme; by the time the signal found it, the token had already graduated from pumpfun to PumpSwap. The signal flags something unusual about wallets (text cut off at top-hundred holders).",
-      "engagement": "383 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme; unusual wallet concentration noted. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118749489964171684",
-      "followers": 38536
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun / callout rewards",
+      "headline": "X News: Trader Ansem cites large Pump.fun callout rewards on a SOL short",
+      "coins": "SOL, Pump.fun",
+      "detail": "X news summary (updated ~19:44 Berlin): trader @blknoiz06 (Ansem) shared a ~1M SOL short that reportedly netted about $60K in trading profit plus roughly $35K–$36K in Pump.fun Callout Rewards USDC for posting the call publicly, with annualized rewards framed near $12.6M in screenshots circulating in the story. Supporters call it pay for natural posts; critics say it favors audience size and blurs analysis with paid promotion. Figures are from the X news summary, not a primary exchange disclosure.",
+      "updated": "6 Nov 2026, 20:04 Berlin",
+      "url": "https://x.com/i/trending/2118727609873821869"
+    },
     {
       "topic": "Pump / listing",
       "headline": "COGE COIN up about 100% since Fourtis listing (MC ~$2.8M → ~$5.6M)",
@@ -536,14 +544,6 @@
       "detail": "@swapdotio (6,004 followers) posted its Solana Weekly Update at 07:00 Berlin citing Q3 records ($17.51B stablecoin market cap, $197B spot DEX volume, app revenue near $300M) and saying Solana's share of memecoin trading volume climbed to 86% in October, highest since April. Early engagement: 42 impressions, 1 like, 1 repost at scan time.",
       "updated": "6 Nov, 07:02 (Berlin)",
       "url": "https://x.com/swapdotio/status/2118584170951721469"
-    },
-    {
-      "topic": "David Dobrik / FOMO app",
-      "headline": "X News: David Dobrik partners with FOMO app, pitches it as stock trading while it is memecoin-focused",
-      "coins": "FOMO app / Solana memecoins (general)",
-      "detail": "X news summary: David Dobrik promoted FOMO as an app to buy and sell stocks; critics say the app is for trading memecoins on chains like Solana (copy-trading, ~0.5% fees) and call the stocks label misleading for mainstream fans. Supporters see it as a way to reach his audience without crypto jargon.",
-      "updated": "6 Nov, 06:58 (Berlin)",
-      "url": "https://x.com/i/trending/2118361136919626012"
     }
   ],
   "hourly": [
