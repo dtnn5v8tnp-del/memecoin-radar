@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 09:04 Berlin time (UTC+01:00)",
-  "newestPostId": "2118615135472521368",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 0 news item(s). Launch query (pump.fun/just launched/bonding curve) returned 0 hits; first launch query rejected for invalid CA: operator. News query: skipped Indonesian SEC/Trump reply spam (@PanduPriyo15526, 114 followers); skipped $PEPE TA commentary (@yushuobtc) with no listing/rug/exploit event.",
+  "lastUpdated": "Friday 6 Nov 2026, 09:11 Berlin time (UTC+01:00)",
+  "newestPostId": "2118616506154320102",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 1 news item(s). Launch queries: skipped 0-follower @nfawrld link dump; skipped copy-paste Chinese GMGN/$RM shill farms (@VeMinrme, @carcossfox5, 1 impression); skipped @lxpump promo for 'return to solana' (not a fresh launch signal). News: added verified @KCEX_Official initial listing of Solana memecoin $HIGH; skipped @WestmarkCalls $AMD 14K→1.9M call (call account, low engagement, AMD already covered).",
   "launches": [
     {
       "coin": "蘑菇头 (蘑菇头)",
@@ -307,6 +307,14 @@
   "news": [
     {
       "topic": "Exchange listing / Solana meme",
+      "headline": "KCEX lists Higher ($HIGH) for spot trading",
+      "coins": "HIGH",
+      "detail": "Verified exchange account @KCEX_Official (135,908 followers) posted at 09:06 Berlin that Solana memecoin @Higherdotfun_ ($HIGH) is an initial KCEX listing: deposits open, HIGH/USDT spot trading started 2026-11-06 08:00 UTC with zero spot fees, withdrawals from 2026-11-07 08:00 UTC. Early engagement: 608 impressions, 1 like, 1 reply at scan. Vietnamese regional account @KCEX_Vietnam (30,832 followers) echoed the same listing.",
+      "updated": "6 Nov, 09:11 (Berlin)",
+      "url": "https://x.com/KCEX_Official/status/2118615975629291524"
+    },
+    {
+      "topic": "Exchange listing / Solana meme",
       "headline": "LBank says Choo Choo ($CHOO) will be listed",
       "coins": "CHOO",
       "detail": "Verified exchange account @LBankUpdates (19,840 followers) posted at 07:52 Berlin that Solana meme token Choo Choo ($CHOO) will be listed on LBank, linking an LBank support article and tagging @ChooTheRescue. Early engagement only (281 impressions, 2 likes at scan).",
@@ -536,14 +544,6 @@
       "detail": "Verified @BinancePk (Binance Pakistan, 94,085 followers) relays Binance's latest withdrawal update: MATIC (Polygon) and AVAXC networks newly enabled, joining BTC, ETH, BSC, XRP and others already restored. 4 likes, about 1,300 impressions at scan time.",
       "updated": "1 Nov, 12:50 (Berlin)",
       "url": "https://x.com/BinancePk/status/2116860365518823593"
-    },
-    {
-      "topic": "Exchange / Binance recovery",
-      "headline": "Binance reportedly re-enables Solana withdrawals (SOL, USDT, USDC)",
-      "coins": "SOL, DOGE and other Binance-listed assets (hack fallout)",
-      "detail": "@MemeGrokbot (1,075 followers) reports Binance has re-enabled Solana withdrawals, adding to BTC, ETH, BSC, XRP, Base, DOGE, OP, ARB and Tron as recovery from the Oct 29 hack continues network by network. Small account, secondhand report, no engagement yet at scan time.",
-      "updated": "1 Nov, 12:31 (Berlin)",
-      "url": "https://x.com/MemeGrokbot/status/2116855410363637813"
     }
   ],
   "hourly": [
