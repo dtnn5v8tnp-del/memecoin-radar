@@ -4,16 +4,6 @@
   "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches then news-ish). Added 2 launch(s) and 0 news item(s). Skipped: HALO/APPLEPAID/ROCCO/GTA6K9 call-farm re-pushes (already listed); Sol_Gems00 $ATM/$NIG flex farm; Alpharadarp/MemeLaunchups/sol_lord111/degen_piilot HALO/ApplePaid call spam; $AEVON self-shill (7 followers); $PAPUCOIN/$HDKN project self-posts; generic airdrop promo spam (BASED/ZAZA/KMS/JBDEV/Refshld/PLSSMAN); solhousesignals Chinese Pepe scanner; DEXRise obscure DOGE listing; political Trump/oil noise; Jus7Degen PEPE platform promo; Base Billions lottery promo; Nought self-article; $MAMESUKE thin engagement (877 followers / 8 impressions).",
   "launches": [
     {
-      "coin": "DESSA 2.0 ($DESSA)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW (pump.fun).",
-      "buzz": "Influencer @Viking4Eth (65,536 followers) posted at 11:54 Berlin that Pump.fun’s trending AI podcast/space memecoin $DESSA launched a 2.0 version around a $10K market cap, framed for people who faded the original, and said they plan to ape soon; quotes a live Space about the launch.",
-      "engagement": "68 impressions, 7 likes, 7 reposts, 5 replies, 6 bookmarks at scan time.",
-      "flags": "Relaunch/2.0 of an existing DESSA narrative (DESSA BANK already listed earlier); new CA. Influencer ape call with some organic engagement. Very early, high risk.",
-      "url": "https://x.com/Viking4Eth/status/2118658393577496616",
-      "followers": 65536
-    },
-    {
       "coin": "Nigga Pig ($NIG)",
       "chain": "Solana",
       "chainNote": "Post gives contract address GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump (pump.fun).",
@@ -22,6 +12,16 @@
       "flags": "Only an automated signal account so far; offensive/edgy meme theme. Call accounts (@Sol_Gems00) also pushed the same CA. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118659601910710298",
       "followers": 38531
+    },
+    {
+      "coin": "DESSA 2.0 ($DESSA)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW (pump.fun).",
+      "buzz": "Influencer @Viking4Eth (65,536 followers) posted at 11:54 Berlin that Pump.fun’s trending AI podcast/space memecoin $DESSA launched a 2.0 version around a $10K market cap, framed for people who faded the original, and said they plan to ape soon; quotes a live Space about the launch.",
+      "engagement": "68 impressions, 7 likes, 7 reposts, 5 replies, 6 bookmarks at scan time.",
+      "flags": "Relaunch/2.0 of an existing DESSA narrative (DESSA BANK already listed earlier); new CA. Influencer ape call with some organic engagement. Very early, high risk.",
+      "url": "https://x.com/Viking4Eth/status/2118658393577496616",
+      "followers": 65536
     },
     {
       "coin": "ApplePaid ($APPLEPAID)",
