@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:10 Berlin time (UTC+01:00)",
-  "newestPostId": "2118797963426414657",
-  "note": "Window: X posts since prior newestPostId 2118797346532413866 (recency search: 1 launch-focused query; 1 news/move query; 1 signal/CA query failed invalid syntax). Added 1 launch(s) and 0 news item(s). Skipped: WestmarkCalls $Diamond 220× claim (call account, 7 impressions); UseMemecoin brand-new 2-follower promo; pizzabasedev1x $AMETA/$ABTC shill; SESTERTIVSCOIN self-promo; SuurlandLee $GLITCH reply shill; KookaburraWeb3 Fungo NFT pad promo; mitch0nsol personal flex; WoodyFinance ZAZA game promo.",
+  "lastUpdated": "Friday 6 Nov 2026, 21:18 Berlin time (UTC+01:00)",
+  "newestPostId": "2118800073891221652",
+  "note": "Window: X posts since prior newestPostId 2118797963426414657 (recency search: 1 launch-focused query; 1 news/move query). Added 1 launch(s) and 0 news item(s). Skipped: KYCtradeX KnowYourCoins tool promo (48 foll); goblinsfarmers $GOB self-promo live (455 foll, thin eng); SheikhDonaldMem pre-launch hype (5 foll); drakesmemecoin8 pumpfun referral spam; NinthCate / Nexxlll upcoming-launch giveaways (not live); SenatorLTD $MMC call-bot (already on board); TheShitShowDev $RWB low-foll self-shill (offensive ticker); grandmagasol $GRANDMAGA self-promo (58 foll); PapuCoinDev self-promo; PumpminatiHQ raid spam; news query: PEPE shill replies, giveaway farms, political Trump-dump noise, Polymarket whale alert (not memecoin).",
   "launches": [
+    {
+      "coin": "Shippy ($SHIPPY)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address AvCMtcs4hHmm3AAAgKjAXf8iK6YuQCJPfFUuJjAEpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:17 Berlin that Shippy ($SHIPPY) is a pumpfun token on Solana, minutes old at signal time and still on the bonding curve; it flags a Twine mirror launch (same coin launched natively on pumpfun and on Twine; text cut off).",
+      "engagement": "252 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; Twine mirror launch flagged; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118799847872675882",
+      "followers": 38575
+    },
     {
       "coin": "Google Paid ($gPAID)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "305 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; third diamond theme today; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118773605677056487",
-      "followers": 38536
-    },
-    {
-      "coin": "whal ($whal)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4ZxkDMniDeKJ26Ro9KPRaDaCET5yB1hnLcdRJPKfLoat (described as float launchpad; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:31 Berlin that whal ($whal) is a whale-themed Solana token on the float launchpad, signaled about 22 seconds after launch; name and ticker point at whales but the post says nothing else states a story (text cut off).",
-      "engagement": "332 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; name-only whale theme; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118773282807914592",
       "followers": 38536
     }
   ],
