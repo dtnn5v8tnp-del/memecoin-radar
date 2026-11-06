@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 00:00 Berlin time (UTC+01:00)",
-  "newestPostId": "2118840634144334164",
-  "note": "Window: X posts since prior newestPostId 2118840264978796842 (recency: 1 launch/pumpfun query + 1 news/rug query + search_news). Added 1 launch(s) and 0 news item(s). Added bitecong AI Signal: Tailinu ($TAILINU, CCnJ…pump; dog-named, near graduation). Seen but skipped: ShantiRamkhala1 low-follower TI AFQ5… repeat; solhousesignals $TAILINU duplicate; SolanaMemesScan $PUMP migration thin; Vanta_Sol_/EarlyRada 87CQ… $JOSE call-farm (already skipped); GemChaserSOL paid screener/slur spam. News/rug post search empty. search_news hits already on dashboard (Theo Von/$NIO, Ethan $142K, Ansem deal, Pump.fun Kraken/callouts, Pudgys).",
+  "lastUpdated": "Saturday 7 Nov 2026, 00:05 Berlin time (UTC+01:00)",
+  "newestPostId": "2118841746045968634",
+  "note": "Window: X posts since prior newestPostId 2118840634144334164 (recency: 1 launch/pumpfun query + 1 news/rug query; no search_news this run). Added 1 launch(s) and 0 news item(s). Added bitecong AI Signal: Hatch ($HATCH, 46r5…pump; graduated to PumpSwap ~10 min after launch). Seen but skipped: Strong69106/EarlyChad_/universolumina 87CQ… $JOSE/$JOSÉ call-farm spam (already flagged); AntonyCryptoi $DIAMOND (5VCE…pump) thin callout shill; Great_Meme02 $GTA6K9 thin call; MXD_DYNASTY $FLOAT gain spam; sotoolyglobal unauthorized lock withdrawal (177 followers, thin); news/rug search mostly off-topic politics/ebay.",
   "launches": [
+    {
+      "coin": "Hatch ($HATCH)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:00 Berlin an AI Signal that Hatch ($HATCH) is a pumpfun launch on Solana that graduated from the bonding curve to PumpSwap about ten minutes after launch, just past the signal; it says the story is thin and the name and links point to Hatch (text cut off).",
+      "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin narrative flagged in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118841023791345991",
+      "followers": 38571
+    },
     {
       "coin": "Tailinu ($TAILINU)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "251 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; instant graduation; 140 bundler wallets flagged; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118814087400530176",
-      "followers": 38569
-    },
-    {
-      "coin": "Mysterious Source of Income ($INCOME)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address B7ea9NfNXtuvmELcZf2U3KGtgWFqYgio89jbhiwhyNX4 (launchpad; reached Raydium CPMM).",
-      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:13 Berlin an AI Signal that Mysterious Source of Income ($INCOME) reached Raydium CPMM 52 seconds after launch, already off the bonding curve; it flags an odd creator-wallet detail involving a launchpad program (text cut off). @BscKOLScanner also flagged a Pump Fun → Pump AMM breakout citing ATH MC $78.9K, liquidity $15.2K, and 168 holders.",
-      "engagement": "246 impressions, 0 likes, 0 reposts at scan time (@bitecong); @BscKOLScanner post had 52 impressions.",
-      "flags": "Only automated signal accounts so far; instant curve exit; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118814039413494101",
       "followers": 38569
     }
   ],
