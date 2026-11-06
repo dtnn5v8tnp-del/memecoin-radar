@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 17:10 Berlin time (UTC+01:00)",
-  "newestPostId": "2118737096974447049",
-  "note": "Window: X posts since prior newestPostId 2118734806984921522 (recency search, 2 post queries + 1 news search). Added 1 launch(s) and 1 news item(s). Skipped: $401KAT/$ZCATS/$GLAZE VIP/TG call-farm spam (@Charlie_SOL23/@clebers1984/@Sol_Ficra); self-promo $GTA (@Gta__sol, 12 followers), $BASKT (@basktdotapp, 12 followers), $BARK (0 followers), $H2OGONE, $HOLDNAP; airdrop-farm spam ($CARDS/$USRD/$WAGMI/$LIFE); thin $TRUMP ATL diary (@OnTheBlokkchain); PEPE thesis (@basilda_a) and $ANSEM shill; Solana Labs Leap waitlist; political Trump/dump metaphor noise; duplicate Pump.fun→Kraken news already on dashboard; Ansem short/rewards news left as secondary to Diamond tier.",
+  "lastUpdated": "Friday 6 Nov 2026, 17:15 Berlin time (UTC+01:00)",
+  "newestPostId": "2118738776415666495",
+  "note": "Window: X posts since prior newestPostId 2118737096974447049 (recency search, 2 post queries, no news this run). Added 2 launch(s) and 0 news item(s). Skipped: collab/follow spam (@300Y0/@CryptoWhales_X); self-promo $ASUL (@asul_fun, 3 followers); call-farm $CHICXU (@SenatorLTD, 107 followers); $CATEMOON tracker-site listing spam (@pizzabasedev1x); Coffer RWA/$TSLAx promo; trenches diary (@0xStoopa); political Trump/QQQ noise; MyDoge wallet-trust complaint (@bitemeta_II, not a coin rug).",
   "launches": [
+    {
+      "coin": "Ram The Orangutan ($RAM)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DiHxAwXMMm9F8QG4qxkGd57a4dVQYvs1iUyTn9VKpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,533 followers) posted at 17:13 Berlin that Ram The Orangutan ($RAM) is an orangutan-themed Solana memecoin that was about six minutes old at signal time and was already most of the way along the pumpfun bonding curve toward graduation.",
+      "engagement": "180 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin animal/orangutan theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118738675999859055",
+      "followers": 38533
+    },
+    {
+      "coin": "Poobert ($Poobert)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address EgMd4DGxcR5BfJHKCUE1H7nDYrJX6aiMWMoZ1z6Eji2F (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,533 followers) posted at 17:13 Berlin that Poobert ($Poobert) is a pumpfun launch on Solana about two minutes old at signal time and still on the bonding curve; the signal says there is no clear theme beyond a cat name, with an empty description and unclear links.",
+      "engagement": "238 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin/no-theme cat name; description and links flagged as empty or unclear. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118738648606920868",
+      "followers": 38533
+    },
     {
       "coin": "TrendTrader ($TRND)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Only an automated signal account so far; offensive/edgy meme theme. Call accounts (@Sol_Gems00) also pushed the same CA. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118659601910710298",
       "followers": 38531
-    },
-    {
-      "coin": "DESSA 2.0 ($DESSA)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW (pump.fun).",
-      "buzz": "Influencer @Viking4Eth (65,536 followers) posted at 11:54 Berlin that Pump.fun’s trending AI podcast/space memecoin $DESSA launched a 2.0 version around a $10K market cap, framed for people who faded the original, and said they plan to ape soon; quotes a live Space about the launch.",
-      "engagement": "68 impressions, 7 likes, 7 reposts, 5 replies, 6 bookmarks at scan time.",
-      "flags": "Relaunch/2.0 of an existing DESSA narrative (DESSA BANK already listed earlier); new CA. Influencer ape call with some organic engagement. Very early, high risk.",
-      "url": "https://x.com/Viking4Eth/status/2118658393577496616",
-      "followers": 65536
-    },
-    {
-      "coin": "ApplePaid ($APPLEPAID)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address APgbBfggjo79T7PdVqTQcEbVdQWBCif1kLTwjRwrxc8Z (pump.fun → PumpSwap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:46 Berlin that ApplePaid ($APPLEPAID) graduated from pump.fun to PumpSwap about 37 minutes after launch, and that the developer has sold out of the token; the signal says there is no clear theme beyond the name repeating Apple and Paid.",
-      "engagement": "357 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; graduated with claimed developer exit. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118656363505356805",
-      "followers": 38530
     }
   ],
   "news": [
