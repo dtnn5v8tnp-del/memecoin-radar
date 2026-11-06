@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118804867267670340",
-  "note": "Window: X posts since prior newestPostId 2118803047534993534 (recency search: 1 launch-focused query; 1 news/move query — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: Bullrunups/$FUSE 17X TG shill (753 foll); SolanaSpin__ wheel/airdrop spam (405 foll); rayv4eera FOMO reply (374 foll); Spooky_LabuBoo/ChimpSol self-promo (323 foll); Deemz_Sol Pumpfun-fees opinion (126 foll); DanielLikesArt/$FEELSGOOD Pepe-beta shill (1,120 foll, thin eng); kenokki trading-bot $WIF promo (536 foll); political Trump dump/rug/SEC noise matching news query.",
+  "lastUpdated": "Friday 6 Nov 2026, 21:42 Berlin time (UTC+01:00)",
+  "newestPostId": "2118805970830893120",
+  "note": "Window: X posts since prior newestPostId 2118804867267670340 (recency search: 1 launch-focused query; 1 news/move query; 1 signal-account/pumpfun query — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: AFTERLIGHTKING/$AFTER self-promo (384 foll); goblinsfarmers GOB vault promo (454 foll); dex_kolwatcher Base CA detect with $0 liquidity / no ticker (8,976 foll); toys4kidspump pre-launch hype (372 foll); coding-agent / political / Assembly spam matching loose queries; news query flooded by Trump political replies (not memecoin).",
   "launches": [
+    {
+      "coin": "zPEPE ($zPEPE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FjeYiDWmJnSHBW5mK3TNwuk3HKZhGhw46VhH7q8WBe6n (stonkfun launch, graduated to Raydium CPMM).",
+      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:41 Berlin that $zPEPE launched on stonkfun on Solana and graduated to Raydium CPMM at 37 minutes 42 seconds after launch; Pepe-themed memecoin, and most posts under the ticker are not about this contract (text cut off).",
+      "engagement": "0 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; ticker collision risk (most posts under ticker not about this CA); thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118805970830893120",
+      "followers": 38575
+    },
     {
       "coin": "Sticky Fingers ($SODL)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "262 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin organic mention; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118776033239515328",
-      "followers": 38538
-    },
-    {
-      "coin": "Return To Tradition ($Return)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 2pE71Sdwnb3ftmXnwBehrpRvgyR9PLUg6iiDep2fLoat (described as float-style Loat address; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,538 followers) posted at 19:39 Berlin that Return To Tradition ($Return) reads as a call back to tradition and, three days in, is still on the Solana bonding curve; it flags about 191 bundler wallets in tracking (text cut off).",
-      "engagement": "322 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; very high bundler-wallet count flagged; still on curve after ~3 days. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118775330135777614",
       "followers": 38538
     }
   ],
