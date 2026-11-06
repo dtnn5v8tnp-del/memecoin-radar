@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:29 Berlin time (UTC+01:00)",
-  "newestPostId": "2118576312889508332",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) plus news search (max_age_hours=2). Added 2 launch(s) and 3 news item(s). Filtered VIP-DM shill farms, micro bots, politics replies, and duplicate Bracket chatter.",
+  "lastUpdated": "Friday 6 Nov 2026, 06:36 Berlin time (UTC+01:00)",
+  "newestPostId": "2118577998655824294",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries); skipped news search this run (prior run covered max_age_hours=2). Added 1 launch(s) and 0 news item(s). Filtered VIP-DM shill farms ($AMD/$WABI rings), micro bots, politics replies, and gibberish ticker spam.",
   "launches": [
+    {
+      "coin": "DIAMOND ($DIAMOND)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump (pump.fun).",
+      "buzz": "Caller @EarlyChad_ (5,939 followers) claimed at 06:32–06:35 Berlin that $DIAMOND ran from $5K to about $298K–$331K market cap (about 60–66x); other call accounts echoed $45K–$102K figures in the same window.",
+      "engagement": "About 57–91 impressions and 1–2 likes on the EarlyChad posts at scan time; echo posts mostly 0 likes.",
+      "flags": "Numbers come from call accounts pushing VIP Telegram, not a primary project source. Treat as unverified momentum chatter, high risk.",
+      "url": "https://x.com/EarlyChad_/status/2118577882867855444",
+      "followers": 5939
+    },
     {
       "coin": "BILL ($BILL)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Automated signal post; very new token; theme is just the name.",
       "url": "https://x.com/bitecong/status/2116845148017750465",
       "followers": 38448
-    },
-    {
-      "coin": "Dacity Coin ($DACITY)",
-      "chain": "Solana",
-      "chainNote": "No contract address in the post.",
-      "buzz": "@madapescall (77,549 followers) calls $DACITY a GTA-inspired meme, saying the GTA 6 launch trailer briefly mentioned a \"Dacity Coin\" and traders are speculating about its role in-game. Describes it as a higher-mcap play with the chart holding.",
-      "engagement": "6 likes, 2 reposts, about 1,200 impressions at scan time.",
-      "flags": "Call-account post; trailer link to the coin is the poster's claim and unverified.",
-      "url": "https://x.com/madapescall/status/2116843587677851703",
-      "followers": 77549
     }
   ],
   "news": [
