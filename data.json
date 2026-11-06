@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 12:29 Berlin time (UTC+01:00)",
-  "newestPostId": "2118666871461294208",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/DEX — third query rejected invalid CA: syntax). Added 1 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA BANK shill-farm (same CA as listed DESSA 2.0); Brunna_leto TG-farm flex spam ($Diamond/$fun/$bracket/$COIN); _callerhex $ATM call; enzocooks comment-ME engagement bait (no CA); allstarsgta $ALLSTARS self-graduation (99 followers); AiSolanaKols $TRUST migration (8 holders); NeroneTheBunny HYPERCAT (17 followers); thin PBOC-Solana promo from low-engagement account; false positives (Quadtastic, implants study, ecosystem list).",
+  "lastUpdated": "Friday 6 Nov 2026, 12:34 Berlin time (UTC+01:00)",
+  "newestPostId": "2118668052489183547",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 0 launch(s) and 1 news item(s). Skipped: $ATM call-farm flexes (_callerhex/0x_AuraLux1/solblender99/AlphaBullishups/meme24hhhh, already skipped prior); Charlie_SOL23 $HALO (already listed); ASTRAsol4 $NIG (already listed); Brunna_leto $RM TG-farm; THEDUKEOFBre $SOLCAR TG flex; OwenSturridge $AMD TG-farm; Juannfxp $BANDIT/$shit airdrop spam; TrumpCoinnSol $TRUMP presale wallet-ask scam; Morosaki Korea-halt engagement bait; Flippix_sol $PEPE chart speculation; political false positives.",
   "launches": [
     {
       "coin": "WEALTH ($WEALTH)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Pump.fun / SOL selling",
+      "headline": "Pump.fun moved ~76K SOL (~$6.85M) to Kraken; tracker claims ~5.55M SOL sold historically",
+      "coins": "SOL, Pump.fun",
+      "detail": "@Moneygurudigi (16,317 followers) posted at 12:31 Berlin that Pump.fun just moved 76,111 SOL worth about $6.85M to Kraken, and that the platform has now sold about 5.55M SOL worth $882.4M at an average price of $158.88, framing more potential SOL selling pressure. @FTPager (2,877 followers) amplified a Lookonchain note on the same dump, noting the historical average sale price (~$158) versus spot near $90. Early engagement on the Moneygurudigi post: 209 impressions, 1 like at scan time.",
+      "updated": "6 Nov, 12:34 (Berlin)",
+      "url": "https://x.com/Moneygurudigi/status/2118667480659116456"
+    },
+    {
       "topic": "Exchange listing / BNB meme",
       "headline": "MEXC Meme+ lists $GM for trading",
       "coins": "GM",
@@ -536,14 +544,6 @@
       "detail": "Headline shared by news account @hokanewscom (27,346 followers) with an article link. Not a memecoin, but relevant to market risk. 361 impressions, no likes at scan time.",
       "updated": "1 Nov, 14:59 (Berlin)",
       "url": "https://x.com/hokanewscom/status/2116892925326242051"
-    },
-    {
-      "topic": "Exploit / b14g",
-      "headline": "b14g exploit sized at about $1.47 million: zero-token withdrawals let attacker drain 97 million CORE",
-      "coins": "CORE",
-      "detail": "Follow-up shared by @CryptoPlanet247 (1,358 followers) linking a news article; adds the dollar figure and the zero-token withdrawal method. Not a memecoin, but relevant to market risk. Low engagement at scan time.",
-      "updated": "1 Nov, 14:25 (Berlin)",
-      "url": "https://x.com/CryptoPlanet247/status/2116884331960381589"
     }
   ],
   "hourly": [
