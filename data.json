@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:21 Berlin time (UTC+01:00)",
-  "newestPostId": "2118815802086609028",
-  "note": "Window: X posts since prior newestPostId 2118814687865225234 (recency search: 1 launch-focused query; 1 news/move query; news search this run). Added 1 launch(s) and 2 news item(s). Skipped: Mavericks100xs $zPEPE (already listed); Cryptoprocesing Pepper reply-shill (144 foll); DegenSightApp $LEAP rug-flag (31 foll, CA already listed as Leap); TheShitShowDev $RWB self-shill (85 foll); Kaan_Capitug0 $LAURA VIP-TG (prior skip pattern); solhousesignals $PCAT / _callerhex/vheranievhe/Bullrunups/EarlyRada $pip (already listed / TG farms); dex_kolwatcher BREAK $0 vol thin; xbtscout $testestetest; SOLANALYST01/MEGCRYPT0 $SQRL VIP farms (already listed); ShantiRamkhala1 Toly thin (498 foll); realsdotmoney REALS (2 foll self-promo); news/move query mostly political/ETF spam + ZigZigworth generic rug tips (11 foll) + BTCFineArt $LASTPUMP self-shill (53 foll); news search: Pump.fun callouts/Diamond, Leap app, Pudgy PFPs, Ansem schemes already on board; skipped TORPOR NFT, ETH mump2p, WolfSWAP mixer, Bored Ape, Injective staked ETF (not memecoin).",
+  "lastUpdated": "Friday 6 Nov 2026, 22:26 Berlin time (UTC+01:00)",
+  "newestPostId": "2118817073673687404",
+  "note": "Window: X posts since prior newestPostId 2118815802086609028 (recency search: 1 launch-focused query; 1 news/move query; no news search this run). Added 1 launch(s) and 0 news item(s). Skipped: EarlyChad_/EarlyRada/fitnessec/CraftedMeme01/BadManLeek/Chainvirtuoso $PIP/$LAURA/$MIMI/$SQRL/$CCF/$sexcoin/$Karl VIP-TG farms (PIP already listed); Mii_ister $BITDOG reply-shill farm (311 foll); DegenPhantvae $DIAMOND VIP-TG (1,093 foll); belemradio $GLITCHPEPE VIP-TG (1,261 foll); Cryptoprocesing Pepper reply-shill (144 foll); firepump_house $INCOME DM-calls (different CA than listed INCOME, farm pattern); halt_addicted CASHCAT game promo (0 eng); news/move query mostly political Trump spam + Danielbr00kss signal farm + PumpWatch1 $PIP already listed + rugsons/rektnun promo (thin foll) + unverified Binance-hack rumor (514 foll, 0 likes).",
   "launches": [
+    {
+      "coin": "anon ($anon)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FLFA1BVw3btfSTcRBW691MEnDujzQdfhxD2LD4U1pump (pump.fun / pumpfun; graduated to PumpSwap). Distinct from the earlier stonkfun Anon listing.",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:25 Berlin an AI Signal that anon ($anon) launched on pumpfun on Solana and graduated to PumpSwap about three minutes after launch; it notes nothing in the name states a theme and the description only points to a tracker link (text cut off).",
+      "engagement": "99 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; ticker-name collision with earlier stonkfun Anon (different CA); thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118817073673687404",
+      "followers": 38570
+    },
     {
       "coin": "Private Property ($Private)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; hollow-earth theme; many new-wallet early buyers flagged; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118787423597731906",
       "followers": 38563
-    },
-    {
-      "coin": "Dogettecoin ($DOGETTE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3bD1GxFTwwUH7haUYdNf4jiu2EKJVrhGVB8zzPvhpEbn (pump.fun / pumpfun bonding curve; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,562 followers) posted at 20:27 Berlin that Dogettecoin ($DOGETTE) is a dog-themed meme on Solana about a minute after launch and sat at 72% of the way to graduation on the pumpfun bonding curve; it highlights an unusual deployer-history detail (text cut off).",
-      "engagement": "169 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118787300851384665",
-      "followers": 38562
     }
   ],
   "news": [
