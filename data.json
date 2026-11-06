@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 10:23 Berlin time (UTC+01:00)",
-  "newestPostId": "2118634945849569373",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 0 news item(s). Skipped: @firepump_house/@MemeLaunchups $CZ/$GM call shills (already tracked $CZ Red Bull); @UOMCxyz brand-new 0-follower promo; @ReddBanksss $TORCH product pitch (not a memecoin launch); $TART low-follower shill; Trump/stock-market political noise; unrelated replies.",
+  "lastUpdated": "Friday 6 Nov 2026, 10:28 Berlin time (UTC+01:00)",
+  "newestPostId": "2118636255101747587",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries; 1 invalid then 2 ok). Added 1 launch(s) and 0 news item(s). Added: @bitecong GTA6DOG ($GTA6K9) pump.fun graduate. Skipped: @CTAVICoinAsset $CTA Nov-19 announce (8 followers, no CA); @kimmr7it 0-follower airdrop farm; @setcapdotfun 0-follower platform promo; @Viking4Eth low-engagement shill with unclear ticker; Kaspa wallet swaps; Trump/stock-market political noise; unrelated replies.",
   "launches": [
+    {
+      "coin": "GTA6DOG ($GTA6K9)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 10:25 Berlin that GTA6DOG ($GTA6K9) borrows the GTA6 theme on Solana and had already graduated from the pump.fun bonding curve to PumpSwap about 3 hours 20 minutes after launch when the signal fired.",
+      "engagement": "358 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; GTA6 theme clone. Already graduated. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118635982899790278",
+      "followers": 38530
+    },
     {
       "coin": "the bubble has popped ($POPPED)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Copycat theme (second bracket token) and only an automated signal account so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118575007182012517",
       "followers": 38536
-    },
-    {
-      "coin": "ASCEND ($ASCEND)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 34Ct2KXMxwMf57nRWwMftZHStdQAALFEFk4HH7k2pump (pump.fun).",
-      "buzz": "@richboyw8 (270 followers) claimed at 06:25 Berlin that $ASCEND was deployed by Pumpfun, bought immediately by @a1lon9, and then highlighted in an Alon Ascend post, pitching it as a Pumpfun cat meme.",
-      "engagement": "0–11 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Small account; Pumpfun/Alon involvement claims unverified in this sweep. Very early, high risk.",
-      "url": "https://x.com/richboyw8/status/2118575562935636333",
-      "followers": 270
     }
   ],
   "news": [
