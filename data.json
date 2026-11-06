@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 07:27 Berlin time (UTC+01:00)",
-  "newestPostId": "2118590996875534630",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 1 launch(s) and 0 news item(s): $HEDGE (bitecong signal, brand-new pump.fun, serial deployer). Skipped VIP/call-farm spam ($fun/$AMD/$DIAMOND/$WABI/$MIL/$coin/$TOYS4KIDS/$monkai/$PENGU TG bait); skipped self-promo ($BYTE/$MATE/$JUSTQ); news query mostly off-topic politics; thin DogeOS DeFi-testnet blurb from low-follower account not added.",
+  "lastUpdated": "Friday 6 Nov 2026, 07:30 Berlin time (UTC+01:00)",
+  "newestPostId": "2118591620417462609",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 1 launch(s) and 0 news item(s): third hedge-themed $HEDGE (bitecong; CA HW6WZPei…pump, ~90% bonding curve). Skipped VIP/call-farm spam ($AMD/$DIAMOND/$Bill/$COIN/$FUN); skipped teaser with no ticker (@lexidyor); skipped product Launch AI and $COST airdrop phishing; news query mostly politics/off-topic.",
   "launches": [
+    {
+      "coin": "Hedge Fund ($HEDGE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address HW6WZPeiX7r6iMY8LvVd8Xc4fooTym2GikH1farspump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:29 Berlin that this is the third hedge-themed Solana launch tracked today, already ~90% along the pump.fun bonding curve less than two minutes after launch.",
+      "engagement": "162 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Third hedge-themed copycat today (different CA from earlier $HEDGE); only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118591548405469355",
+      "followers": 38529
+    },
     {
       "coin": "Hedge Fund ($HEDGE)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Multiple same-name tokens across chains; easy to buy the wrong one. Bot and signal-account coverage only so far. High risk.",
       "url": "https://x.com/bitecong/status/2116876032271929767",
       "followers": 38454
-    },
-    {
-      "coin": "ORIGO",
-      "chain": "Robinhood Chain",
-      "chainNote": "No CA in the post",
-      "buzz": "@HoodWhisp4663 says this new Robinhood Chain memecoin did $2.4M volume in about 2 hours from a brand-new pool, up 2,047% since launch but down 22% in the last hour, with $187K liquidity.",
-      "engagement": "0 likes, 2 impressions at scan time.",
-      "flags": "Small account, figures unverified. Big volume on thin liquidity. High risk.",
-      "url": "https://x.com/HoodWhisp4663/status/2116876158310732157",
-      "followers": 290
     }
   ],
   "news": [
