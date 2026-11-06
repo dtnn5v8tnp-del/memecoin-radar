@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:46 Berlin time (UTC+01:00)",
-  "newestPostId": "2118656225344688490",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; launch query first attempt failed on CA: syntax, retried cleaned query). Added 1 launch(s) and 1 news item(s). Added: @dex_kolwatcher paid DEXScreener $ROCCO / GTA6 DOGE (CA 4PAtcd…pump; 195 imp); @brookxbt Upbit $cards listing mention (414 imp, 9 likes). Skipped: HALO/Youyou/CI/$CZ call-farm re-pushes (already listed); BOBERDUCK self-shill (4 followers); The Cage (60 followers); SYNERGYUNI self-shill; PEPE ETF spam; political Trump noise; HALO 13.98x flex posts; Groupon/Anthropic/Perplexity non-meme launches.",
+  "lastUpdated": "Friday 6 Nov 2026, 11:49 Berlin time (UTC+01:00)",
+  "newestPostId": "2118656884412465399",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: news then launches; launch query first attempt failed on CA: syntax, retried cleaned query). Added 1 launch(s) and 0 news item(s). Added: ApplePaid ($APPLEPAID) (@bitecong graduated signal, 357 imp). Skipped: HALO/CI/Youyou/CZ call-farm re-pushes (already listed); BOBERDUCK self-shill (4 followers); KindWallet product promo; political Trump/oil/bank noise from news query; thin-engagement reply spam.",
   "launches": [
+    {
+      "coin": "ApplePaid ($APPLEPAID)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address APgbBfggjo79T7PdVqTQcEbVdQWBCif1kLTwjRwrxc8Z (pump.fun → PumpSwap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:46 Berlin that ApplePaid ($APPLEPAID) graduated from pump.fun to PumpSwap about 37 minutes after launch, and that the developer has sold out of the token; the signal says there is no clear theme beyond the name repeating Apple and Paid.",
+      "engagement": "357 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; graduated with claimed developer exit. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118656363505356805",
+      "followers": 38530
+    },
     {
       "coin": "GTA6 DOGE ($ROCCO)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; brand-new bonding-curve token. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118592976712843716",
-      "followers": 38529
-    },
-    {
-      "coin": "The Black Pill ($BP)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GNNhU2SEArd5RGN49Yjo4YHTipRA3E5gMJeUPE4Gpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:35 Berlin that The Black Pill ($BP) was about 1 hour 12 minutes old on pump.fun and that its deployer had already sold out of the token, with the black theme only in the name.",
-      "engagement": "356 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer already sold out; thin theme beyond the name. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118593004739100946",
       "followers": 38529
     }
   ],
