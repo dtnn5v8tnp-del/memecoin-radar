@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 16:22 Berlin time (UTC+01:00)",
-  "newestPostId": "2118724740424806452",
-  "note": "Window: X posts since prior newestPostId 2118722495285272894 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; no news search this run — prior run covered news). Added 1 launch(s) and 0 news item(s): Glazecoin ($GLAZE). Skipped: call-farm flex/shill ($GLAZE @SOLANACHAD009/@WikiKol1/@MemeLaunchups; $CYLO @SOLANACHAD009; $GM/$HOTCOFFEE @sol_peal; $RSHA262599 VIP-DM @Vanta_Sol_); thin brand-new $FUT (@Lole2910 101 followers); thin CAGE graduate (@pitchybelka 62 followers); pre-launch test $SLOWW; $COUGAR BNB promo (@kryptobank1); CashPad promo (@Ganesh06234921 2 followers); sniper-dump analysis thin (@FelicioTor); Snek.fun Oct-29 exploit write-up too thin/old (@TheCryptoNinja2 5 impressions); $PEPE pump speculation chart (@cryptojack, 1 like); StonkFun/bonk-team rug replies thin; politics/gas-pump/Trump noise; Solana Labs Leap reply already on dashboard.",
+  "lastUpdated": "Friday 6 Nov 2026, 16:28 Berlin time (UTC+01:00)",
+  "newestPostId": "2118727028908437512",
+  "note": "Window: X posts since prior newestPostId 2118724740424806452 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; plus news search this run). Added 1 launch(s) and 1 news item(s): OCTAGON ($OCTAGON) BSC Flap; wyckoffweb 71 rugs flagged today. Skipped: $RECEIPTS paid-DEX alert already on dashboard (@dex_kolwatcher); $ZCATS call-farm (@MemeLaunchups); $ETFDESK brand-new 0-follower promo (@0xetfdesk); $Diamond affiliate promo (@hoodicorns); thin $CHIMP reply (@Salman14jr); $GM 50x edit already on dashboard (@TuanNguyen_6789); personal rug diary (@Saq3oh 1 follower); Red Sea DEX promo (@bossvybes); Leap/Solana Labs already on dashboard; Ansem STONK-ZEC call thin/no ticker (@0x_abu 4 likes); Pump.fun Kraken 76K SOL already on dashboard; X news Ansem callout rewards / Squeek NFTs / Fomopoly / Zeru / Monad off-scope or thin.",
   "launches": [
+    {
+      "coin": "OCTAGON ($OCTAGON)",
+      "chain": "BNB Chain (BSC)",
+      "chainNote": "Post gives contract address 0x87fe1679e02c6793781256ee2ad13eb18cbd7777 (Flap launch; signal says graduated to PancakeSwap).",
+      "buzz": "Signal account @bitecong (38,533 followers) posted at 16:21 Berlin that OCTAGON is a Flap launch on BSC, roughly thirteen minutes old at signal time, and that it graduated to PancakeSwap just under thirteen minutes after launch; the signal frames an event-class theme.",
+      "engagement": "434 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; BSC/Flap not Solana/pump.fun; thin event-class theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118725433290371412",
+      "followers": 38533
+    },
     {
       "coin": "Glazecoin ($GLAZE)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account plus call-farm flexes so far; product/platform framing. Already graduated. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118652504078742010",
       "followers": 38530
-    },
-    {
-      "coin": "Youyou (Youyou)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address HPcaogWVJnX3H3P6FvVMX8LvdcudCUy85sZahPtFpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:33 Berlin that Youyou (ヨウヨウ) is a pump.fun launch on Solana about two minutes old and still on the bonding curve; the signal ties the name to a news event about the death of Youyou, described as Japan’s last captive.",
-      "engagement": "375 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; news-event / captive animal theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118653064139973005",
-      "followers": 38530
     }
   ],
   "news": [
+    {
+      "topic": "Rugs / market hygiene",
+      "headline": "Tracker says 71 tokens flagged as rugs today (62 Solana, 9 Robinhood Chain)",
+      "coins": "",
+      "detail": "@wyckoffweb (219,342 followers) posted at 16:19 Berlin that 71 tokens had already been flagged as rugs today — 62 on Solana and 9 on Robinhood Chain — with insiders said to have made around $351K, including one that rugged about a minute after launch. Early engagement at scan time: 2,967 impressions, 15 likes, 7 replies, 1 repost.",
+      "updated": "6 Nov 2026, 16:28 Berlin",
+      "url": "https://x.com/wyckoffweb/status/2118724953759498459"
+    },
     {
       "topic": "Celebrity / upcoming launch",
       "headline": "CreatorKane says they will launch their own memecoin with a 50% community airdrop",
@@ -536,14 +544,6 @@
       "detail": "X news summary: Pump.fun released an animated penguin video arguing attention dwarfs product or business plans for memecoin prices. Traders linked the mascot to a $PENGUIN token and floated ideas like $ACM (Attention Capital Markets).",
       "updated": "6 Nov, 06:21 (Berlin)",
       "url": "https://x.com/i/trending/2118474982280081502"
-    },
-    {
-      "topic": "Platform / trading",
-      "headline": "X News: traders push Pump.fun for fairer launch rules after insider-edge complaints",
-      "coins": "Pump.fun / Solana memecoins",
-      "detail": "X news summary: @Dior100x and others proposed higher starting caps, taxes on zero-balance snipes, and flatter rewards, arguing streamers and high-volume traders dominate early edge. Some replies defend narrative quality over rule changes.",
-      "updated": "6 Nov, 06:21 (Berlin)",
-      "url": "https://x.com/i/trending/2118317222959440206"
     }
   ],
   "hourly": [
