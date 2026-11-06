@@ -1,8 +1,48 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:08 Berlin time (UTC+01:00)",
-  "newestPostId": "2118812449780727998",
-  "note": "Window: X posts since prior newestPostId 2118811093724545272 (recency search: 1 launch-focused query; 1 news/move query; news search this run). Added 0 launch(s) and 1 news item(s). Skipped: EarlyRada $SEXCOIN VIP-TG shill (repeat); firepump_house $WHITE TG spam (CA already listed); wpkes Tilek/Frankenram bot (0 foll); GemChaserSOL $FIFI breakout alert (no CA in text, thin eng); MemCoinsRadar $GLITCHPEPE 51x brag (already skipped prior); fredmemesol $FRED CTO (11 foll, account hours old); 1881Erdem $FOXTILKI self-shill; Maverickdotsol AMD-paired meme dog shill; RobinHoodArmy_/Im___saraaa follow-back pump farms; political/NSFW/COD/water-pump noise; no genuine listing/rug/exploit/whale news posts in the 5m window (Ansem Bubblemaps story added from news search).",
+  "lastUpdated": "Friday 6 Nov 2026, 22:13 Berlin time (UTC+01:00)",
+  "newestPostId": "2118813742033166577",
+  "note": "Window: X posts since prior newestPostId 2118812449780727998 (recency search: 1 launch-focused query; 1 news/move query; no news search this run — prior run already did one). Added 4 launch(s) and 0 news item(s). Skipped: Lars_Alphayi/AlphaPulsevw $FUSE VIP-TG shill farms; vheranievhe $sexcoin/$MIMI/$CCF TG early-call spam (SEXCOIN already skipped prior; MIMI CA already listed); MemeLaunchups $pip TG shill (same CA as dex_kolwatcher row kept); dex_kolwatcher $DUSD with $0 24h volume despite $117K MC; pumpviewfun $FATCAT (310 foll, thin; FATCAT already listed under other CA); TradeFizz $FIZZ self-shill (7 foll); FROGGYFROGCOIN $FROG (account 1 day old, 53 foll); yourfriendSOMMI Sahil/pumpfun drama (no specific new coin launch); webb_sonn $MMC (CA already listed); stralwiz $baton thin organic (1 like, 10 imp); sports/political/TRUMP dump/whale-BTC noise from news query; CryptoNobler $225M short alert (broader market, not memecoin-specific); no genuine listing/rug/exploit/whale memecoin news in the 5m window.",
   "launches": [
+    {
+      "coin": "Slow Inu ($SI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address EXM5rqXE5YQnVpiKcC5JRgu7vFrL7W5fxuZogeGVpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @solhousesignals (3,117 followers) posted at 22:10 Berlin that $SI (Slow Inu) was up 2x with market cap $33.0K, liquidity $0, 24h volume $27.8K, and 369 buys vs 243 sells.",
+      "engagement": "43 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; liquidity reported as $0; thin engagement. Very early, high risk.",
+      "url": "https://x.com/solhousesignals/status/2118813502106210306",
+      "followers": 3117
+    },
+    {
+      "coin": "Scamsem ($Scamsem)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat (described as float bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:09 Berlin an AI Signal that Scamsem ($Scamsem) launched on float on Solana about seven minutes before the signal, with almost nothing on X naming this contract yet; it says the name gives no theme (text cut off).",
+      "engagement": "254 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only theme; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118813244785930688",
+      "followers": 38570
+    },
+    {
+      "coin": "Scamsum ($Scamsum)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5EjMJcDjTa5kFfLCV8zDhS7MJ85zX2kG8ZM6eEtfLoat (described as float bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:08 Berlin an AI Signal that Scamsum ($Scamsum) is a Solana token on float about thirty-five minutes old at signal time; it notes same-name noise is thin and there is no clear theme beyond the name (text cut off).",
+      "engagement": "290 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only theme; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118812893382906240",
+      "followers": 38570
+    },
+    {
+      "coin": "pip ($pip)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4VyS1DWXDEbu8jVyJUjqNJN3SXGgZYf2uo3YZ6QLpump (pump.fun / pumpfun; listed as PumpSwap Solana).",
+      "buzz": "Signal account @dex_kolwatcher (8,976 followers) posted at 22:08 Berlin a PAID DEXScreener detect for $pip on PumpSwap Solana; it cites 24h buy volume $209, sell volume $0, liquidity $14,279, and market cap $38,328.",
+      "engagement": "208 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/dex_kolwatcher/status/2118812876991521056",
+      "followers": 8976
+    },
     {
       "coin": "FatCoin ($FatCoin)",
       "chain": "Solana",
@@ -262,46 +302,6 @@
       "flags": "Only an automated signal account so far; deployer already sold; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118782493675630600",
       "followers": 38558
-    },
-    {
-      "coin": "WHITE MONSTER ($WHITE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address RCAEvp1mnWJgLb4pyhXr4D5PqekNvcBEqVNReQFpump (pump.fun / pumpfun; graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,558 followers) posted at 20:07 Berlin that WHITE MONSTER ($WHITE) graduated from pumpfun to PumpSwap 16 seconds after launch and was barely over half a minute old; one of three white-theme tokens that day (text cut off).",
-      "engagement": "496 impressions, 2 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; instant graduation; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118782298971890128",
-      "followers": 38558
-    },
-    {
-      "coin": "White Monster ($wMNST)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address H6MZWk8cWxKoUULGMakxyAg2FuPQKcRzvkDKggFtgV5n (described as graduated from pumpfun to PumpSwap; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,558 followers) posted at 20:06 Berlin that White Monster ($wMNST) graduated from pumpfun to PumpSwap soon after launch and is seconds old; no clear theme beyond monster in the facts, and a researched report on the contract is noted (text cut off).",
-      "engagement": "251 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; distinct CA from other white-monster signals this window; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118782188691013666",
-      "followers": 38558
-    },
-    {
-      "coin": "Fat Cat ($FATCAT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 6G55GJ4Ht61YVPrmUNJyfyyGmXrWv8zqxL5t273TVLSz (described as float bonding curve; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,554 followers) posted at 20:05 Berlin that Fat Cat ($FATCAT) is the second fatcat-themed launch on Solana today, about a minute old and still on the float bonding curve when signaled; an unusual early-buyer fact is noted (text cut off).",
-      "engagement": "237 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; second fatcat theme today; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118781761799045383",
-      "followers": 38554
-    },
-    {
-      "coin": "Fat Cat ($FATCAT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4rERRiordJycRWPRPkij23E2YQk9xdAYvBrYqiEfLoat (described as Raydium LaunchLab / float-style Loat address; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,554 followers) posted at 20:03 Berlin that Fat Cat ($FATCAT) is a cat-themed Solana token on Raydium LaunchLab, barely seconds old when signaled; name and ticker state a cat theme and nothing more (text cut off).",
-      "engagement": "278 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; distinct CA from the other $FATCAT signal this window; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118781381530767443",
-      "followers": 38554
     }
   ],
   "news": [
