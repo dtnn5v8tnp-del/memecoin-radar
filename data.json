@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 09:11 Berlin time (UTC+01:00)",
-  "newestPostId": "2118616506154320102",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 1 news item(s). Launch queries: skipped 0-follower @nfawrld link dump; skipped copy-paste Chinese GMGN/$RM shill farms (@VeMinrme, @carcossfox5, 1 impression); skipped @lxpump promo for 'return to solana' (not a fresh launch signal). News: added verified @KCEX_Official initial listing of Solana memecoin $HIGH; skipped @WestmarkCalls $AMD 14K→1.9M call (call account, low engagement, AMD already covered).",
+  "lastUpdated": "Friday 6 Nov 2026, 09:19 Berlin time (UTC+01:00)",
+  "newestPostId": "2118618898136170797",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 1 launch(s) and 1 news item(s). Launch: added @bitecong Flap signal for Feijitou/飞机头 (BSC); skipped FUNGO/FungoLabs NFT shill and BullShot platform promo; skipped @Seansbw3 pump.fun explainer; skipped upcoming @elysium_machine $MACHINE fair launch promo (not live yet). News: added verified @KCEX_Official initial listing of Solana memecoin $DESSA; skipped @KrownCryptoCave BTC treasury/ETF macro (not meme-specific); skipped political 'rug' replies and low-engagement $PEPE reply.",
   "launches": [
+    {
+      "coin": "Feijitou / 飞机头 (Feijitou)",
+      "chain": "BSC",
+      "chainNote": "Post gives contract address 0x837a06303892a8425e23fbf0a54bcf6469587777 (Flap).",
+      "buzz": "Signal account @bitecong (38,527 followers) posted at 09:15 Berlin that Feijitou (飞机头 / plane head), ticker Feijitou, launched on Flap on BSC about eleven minutes earlier and was 46% along its bonding curve; the signal says there is no clear theme beyond the name.",
+      "engagement": "405 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only with no stated theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118618169606873466",
+      "followers": 38527
+    },
     {
       "coin": "蘑菇头 (蘑菇头)",
       "chain": "BSC",
@@ -292,19 +302,17 @@
       "flags": "Serial deployer (1,330 tokens from one wallet per the post); only an automated signal account so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2116906849819939299",
       "followers": 38464
-    },
-    {
-      "coin": "Numbat ($Numbat)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address nSp46rtPzZoHCqe87fLGNzXsXeyEdQVUE7g6oeJZCxQ (pump.fun).",
-      "buzz": "Signal account @bitecong (38,463 followers) posted at 15:51 Berlin that this coin was almost at pump.fun graduation three minutes after launch, with a large bundle of wallets in the first buy.",
-      "engagement": "394 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Bundled first buy per the post (a common sign of insider supply); only an automated signal account so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2116905929916764546",
-      "followers": 38463
     }
   ],
   "news": [
+    {
+      "topic": "Exchange listing / Solana meme",
+      "headline": "KCEX lists Dessa ($DESSA) for spot trading",
+      "coins": "DESSA",
+      "detail": "Verified exchange account @KCEX_Official (135,908 followers) posted at 09:11 Berlin that Solana memecoin @DessaOnSOL ($DESSA) is an initial KCEX listing: deposits open, DESSA/USDT spot trading started 2026-11-06 08:10 UTC with zero spot fees, withdrawals from 2026-11-07 08:10 UTC. Early engagement: 719 impressions, 1 like at scan. Regional account @KCEX_Vietnam (30,832 followers) echoed the same listing.",
+      "updated": "6 Nov, 09:19 (Berlin)",
+      "url": "https://x.com/KCEX_Official/status/2118617269064589701"
+    },
     {
       "topic": "Exchange listing / Solana meme",
       "headline": "KCEX lists Higher ($HIGH) for spot trading",
@@ -536,14 +544,6 @@
       "detail": "Identical posts from @arthurcoins (83,749 followers) and @tuyungx (73,245 followers) push an 'official presale' link and Telegram claiming a Binance TRUMP listing. Same text across accounts and a presale link are classic scam signs; no Binance source was cited. Low engagement (0-4 likes).",
       "updated": "1 Nov, 13:22 (Berlin)",
       "url": "https://x.com/arthurcoins/status/2116867375366549538"
-    },
-    {
-      "topic": "Exchange / Binance recovery",
-      "headline": "Binance restores withdrawals on Polygon (POL, USDT, USDC) and Avalanche C-Chain (AVAX, USDT, USDC)",
-      "coins": "POL, AVAX and other Binance-listed assets (hack fallout)",
-      "detail": "Verified @BinancePk (Binance Pakistan, 94,085 followers) relays Binance's latest withdrawal update: MATIC (Polygon) and AVAXC networks newly enabled, joining BTC, ETH, BSC, XRP and others already restored. 4 likes, about 1,300 impressions at scan time.",
-      "updated": "1 Nov, 12:50 (Berlin)",
-      "url": "https://x.com/BinancePk/status/2116860365518823593"
     }
   ],
   "hourly": [
