@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 07:54 Berlin time (UTC+01:00)",
-  "newestPostId": "2118597261609652292",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 0 news item(s). Skipped call-farm spam ($BILL/$RETIRE/$Bubbles); skipped shill-farm CA spam (@Tmaia_ $PLTRx/$GBPA/$MOOHAN/$Kraken/$USMS/$LCMM); skipped brand-new-account self-shill ($COGE); skipped marketing promo ($COUGAR/$CHIMP/$SI); skipped low-signal $HEDGE paid-Dex follow-ons and thin $BP trademark claim; skipped generic PEPE commentary.",
+  "lastUpdated": "Friday 6 Nov 2026, 08:03 Berlin time (UTC+01:00)",
+  "newestPostId": "2118599032289604079",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 2 launch(s) and 1 news item(s). Skipped call-farm spam ($COGE/$RETIRE/$BILL/$fun/$COIN/$STONK); skipped shill-farm CA spam (@Tmaia_ $JOB/$funhog/$ELYSIUM); skipped brand-new-account self-shill ($COGE @CODEonsolanaog); skipped paid-Dex $TrollGiving; skipped low-follower $RM scanner bots; skipped political Trump noise and thin $AMD reply.",
   "launches": [
+    {
+      "coin": "Red Morning ($RM)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address R6Y7g7an4GCH9LSm5hsPdnkxUtd6mMeXJdj2517pump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 07:57 Berlin that red morning ($RM) reached 93% of the way to graduation on the pump.fun bonding curve with the pair barely half a minute old when the signal fired; second morning-themed Solana launch today.",
+      "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; morning theme copy again; thin narrative beyond the name. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118598731406962931",
+      "followers": 38530
+    },
+    {
+      "coin": "RED MORNING ($RM)",
+      "chain": "BSC",
+      "chainNote": "Post gives contract address 0x4a40933f48a0cc36ab2a2ff755fded75a9207777 (Flap / PancakeSwap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 07:57 Berlin that RED MORNING ($RM) is a Flap launch on BSC that reached PancakeSwap 31 seconds after launch, with most supply labels pointing at one crowd.",
+      "engagement": "290 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only theme; concentrated supply note in the signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118598709869256880",
+      "followers": 38530
+    },
     {
       "coin": "The Pump Fun Star ($Fun)",
       "chain": "Solana",
@@ -282,29 +302,17 @@
       "flags": "Uses the GTA name with no sign of any official link; only automated signal and caller posts so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2116892306423046425",
       "followers": 38459
-    },
-    {
-      "coin": "AGENTIC BINANCE ($AGENTIC)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GAVeyR7LvQFzyoHvxeVgDnzcMiJhtmSfrPQbdBkEpump (pump.fun suffix).",
-      "buzz": "@ahmedeltofaha2 posted at 14:36 Berlin that the AI-agent meme coin $AGENTIC 'just launched' and is live on Solana.",
-      "engagement": "14 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Uses the Binance name with no sign of any Binance link; promo from a 634-follower account with no organic engagement. Very early, high risk.",
-      "url": "https://x.com/ahmedeltofaha2/status/2116887145025576971",
-      "followers": 634
-    },
-    {
-      "coin": "DONK ($DONK)",
-      "chain": "Solana",
-      "chainNote": "No contract address in the post; it points buyers to an external link or Phantom.",
-      "buzz": "Project account @kadonkadonkmeme announced at 14:27 Berlin that $DONK is live, in a multi-language launch post.",
-      "engagement": "39 impressions, 0 likes, 1 reply at scan time.",
-      "flags": "Self-promotion from a 753-follower project account with no organic engagement yet. Very early, high risk.",
-      "url": "https://x.com/kadonkadonkmeme/status/2116884857649324067",
-      "followers": 753
     }
   ],
   "news": [
+    {
+      "topic": "Exchange listing / Solana meme",
+      "headline": "LBank says Choo Choo ($CHOO) will be listed",
+      "coins": "CHOO",
+      "detail": "Verified exchange account @LBankUpdates (19,840 followers) posted at 07:52 Berlin that Solana meme token Choo Choo ($CHOO) will be listed on LBank, linking an LBank support article and tagging @ChooTheRescue. Early engagement only (281 impressions, 2 likes at scan).",
+      "updated": "6 Nov, 08:03 (Berlin)",
+      "url": "https://x.com/LBankUpdates/status/2118597282111352917"
+    },
     {
       "topic": "Project shutdown / Solana",
       "headline": "White Claw ($WCLAW) team says it is shutting down after eight months",
@@ -536,14 +544,6 @@
       "detail": "@MemeGrokbot (1,075 followers) reports Binance has re-enabled Solana withdrawals, adding to BTC, ETH, BSC, XRP, Base, DOGE, OP, ARB and Tron as recovery from the Oct 29 hack continues network by network. Small account, secondhand report, no engagement yet at scan time.",
       "updated": "1 Nov, 12:31 (Berlin)",
       "url": "https://x.com/MemeGrokbot/status/2116855410363637813"
-    },
-    {
-      "topic": "Weekly mover / Hyperliquid",
-      "headline": "BSC News says $PURR on Hyperliquid is the fastest-growing major memecoin this week",
-      "coins": "PURR, PEPE",
-      "detail": "@BSCNews (1,374,788 followers) says $PURR is up +23% on the week at time of writing, outpacing $PEPE and other majors. Low engagement at scan time (2 likes, about 3,100 impressions).",
-      "updated": "1 Nov, 12:15 (Berlin)",
-      "url": "https://x.com/BSCNews/status/2116851495207412205"
     }
   ],
   "hourly": [
