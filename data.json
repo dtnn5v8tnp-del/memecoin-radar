@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 12:51 Berlin time (UTC+01:00)",
-  "newestPostId": "2118672599332831525",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 0 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA BANK paste-farm spam (same CA E8S7hVm… already listed); Charlie_SOL23 $APPLEPAID wrong-CA VIP-TG spam; DegenFlow_/bitecong $APPLEPAID already-listed pump updates; doganayodabass $HALOG/$COGE call-farm flexes; 0x_AuraLux1 $ELON thin call; firepump_house $DOSED TG promo; Nancecati $NANCECAT project spam; SenatorLTD $NIG scanner (already listed); UseWhatsUP brand-new 3-follower product promo; political Trump/whale false positives.",
+  "lastUpdated": "Friday 6 Nov 2026, 12:55 Berlin time (UTC+01:00)",
+  "newestPostId": "2118673218563395871",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 1 launch(s) and 0 news item(s). Added: @_rise unnamed pump.fun self-launch (CA ai42B71y…; claimed 60% top-15 airdrop + $7k buy). Skipped: Annatrader22/fitnessec $APPLEPAID already-listed; doganayodabass $RM/$RED/$ROCCO call-farm flexes (RM CA already listed; ROCCO wrong-CA); solCallermike_ $COGE call-farm; Annatrader22/clebers1984 $ATM/$HALO TG shill farm; SolTokenScan SOLAR scanner-only; BscKOLScanner $FREAK thin migration ping; dex_kolwatcher/SolanaTren59241 $NIG paid/scanner (already listed / alternate CA); UKoooBnal $RM already-listed promo; ChickenP638 Pop holder promo; SneakPeak560 product spam; political rug/Trump false positives.",
   "launches": [
+    {
+      "coin": "Rise memecoin (unnamed ticker)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address ai42B71y1Aj4VPf9SvHAHSQQDAHs8PDHiwXS2sNpump (pump.fun).",
+      "buzz": "Creator @_rise (19,791 followers) posted at 12:53 Berlin that their own memecoin is live on pump.fun, saying 60% of supply will be airdropped to the top 15 holders at bonding and that they plan a $7,000 buy about 15 minutes after the post. No ticker name was given in the post.",
+      "engagement": "220 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Creator self-launch with claimed airdrop and buyback plan; ticker not stated. Very early, high risk.",
+      "url": "https://x.com/_rise/status/2118673066868011419",
+      "followers": 19791
+    },
     {
       "coin": "Moat ($MOAT)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "377 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; deployer already sold out; different CA from the earlier BSC $RM today. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118600720991895896",
-      "followers": 38530
-    },
-    {
-      "coin": "red morning ($RM)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 08:00 Berlin that red morning ($RM) was less than two minutes old on pump.fun, with the morning theme only in the name and the token description just crediting a tracking site.",
-      "engagement": "410 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; different CA from the earlier Solana $RM today; thin narrative. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118599260640096633",
       "followers": 38530
     }
   ],
