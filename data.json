@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:26 Berlin time (UTC+01:00)",
-  "newestPostId": "2118651031458320617",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news). Added 1 launch(s) and 0 news item(s). Added: @bitecong Xi The Pooh ($Xi) CA A2EGRb…pump (89% to graduation in <3m). Skipped: @SOLORACLE8s/@Legend_Britney past-call flex ($RM/$CZ/$RED); @firepump_house/@Sol_Gems00/@alphacartelz $XI/$UK/$HALO call-farm re-shills; @clebers1984/@AlphaPulsevw $TLM re-shill (already listed); airdrop-farm CA paste bots (@FreelancerRaji5/@bz4Christ/@jirka_456/@Lin252525/@ayobadj_dj/@Juannfxp); @ByteJuryExe $BYTE self-promo (108 fol); @pisklauren $ZOMBCASH self-promo; @PeepRadars $BTC Big Titty Coin scanner (existing ~$21M MC, not a fresh launch); news query: @Corki_0x Grok-bot promo + call-farm noise only (no listings/rugs/exploits).",
+  "lastUpdated": "Friday 6 Nov 2026, 11:31 Berlin time (UTC+01:00)",
+  "newestPostId": "2118652160837845325",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; 3rd signal-account query empty). Added 1 launch(s) and 0 news item(s). Added: @theAdamcrypto $GATO / GTA6CAT narrative (CA HsprHx…pump; 2,062 imp / 17 likes). Skipped: @SOLORACLE8s/@DegenFlow_/@AlphaDrip7 past-call flex ($Rocco/$BILL/$DIAMOND/$COGE/$RM); @firepump_house/@A33on_ $XI/$UK re-shills (already listed); @Theblackbullxxx DESSA BANK re-shill (already listed); airdrop-farm CA paste bots (@Juannfxp/@FreelancerRaji5/@jirka_456/@withchanu/@alaahnassar); @Talent_webb3 reply-shill; @HOODdailyTK Robinhood chain recap (not memecoin); @Michaelo_dotDev wallet-program scam warning (not a coin launch/news row); news query: 0 hits.",
   "launches": [
+    {
+      "coin": "GATO ($GATO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump (pump.fun).",
+      "buzz": "Influencer @theAdamcrypto (25,842 followers) posted at 11:28 Berlin that $GATO is built around a GTA6CAT narrative on Solana, framing it as a recognizable identity in the Solana meme ecosystem and linking a chart.",
+      "engagement": "2,062 impressions, 17 likes, 1 repost at scan time.",
+      "flags": "Influencer narrative push (GTA6CAT theme; distinct CA from listed GTA6DOG). Early/high risk; not a fresh bonding-curve signal.",
+      "url": "https://x.com/theAdamcrypto/status/2118651622578672089",
+      "followers": 25842
+    },
     {
       "coin": "Xi The Pooh ($Xi)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; odd buyer-list note in the signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118583192240484499",
       "followers": 38528
-    },
-    {
-      "coin": "bracket ($bracket)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FREYgP9ZnA7zSQjX2oiPSBZUykx2zTRfqtrsZML3pump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,538 followers) posted at 06:46 Berlin that this is the third Solana token named bracket today, and it was already 83% of the way to pump.fun graduation 24 seconds after launch.",
-      "engagement": "341 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Third copycat of the bracket theme in one day; only an automated signal account so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118580746944409975",
-      "followers": 38538
     }
   ],
   "news": [
