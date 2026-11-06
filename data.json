@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:07 Berlin time (UTC+01:00)",
-  "newestPostId": "2118782067433525605",
-  "note": "Window: X posts since prior newestPostId 2118781231898710218 (recency search, 2 broad post queries; first launch query rejected for invalid ca: syntax then retied without it; news-style query ran but returned mostly non-meme noise). Added 2 launch(s) and 0 news item(s). Skipped: Pump_Data 0-follower graduate round-trip bot; Sol_Command TG promo; UniswapVillain float/deployer commentary (no new launch); ShantiRamkhala1 $CHROME risk note (already on dashboard); OLeksa_trader Grok-bot copytrade shill; EmeraldRobinson/political Trump–Susie Wiles OR noise; Neome_com general crypto wire (Binance PoR / ABTC / AAVE) not memecoin-specific.",
+  "lastUpdated": "Friday 6 Nov 2026, 20:12 Berlin time (UTC+01:00)",
+  "newestPostId": "2118783501176627280",
+  "note": "Window: X posts since prior newestPostId 2118782067433525605 (recency search, 2 broad post queries; news search skipped this run). Added 3 launch(s) and 0 news item(s). Skipped: SheikhDonaldMem 3-follower same-day shill; TrumpOnSol77 2-follower spam; clawddevs CLAWD buyback bot spam; whyusfun self-promo $FORUS; dex_kolwatcher paid $MDX signal (MC ~$5k); Allangopump rug joke; CATE reply-chain noise; BlackNeroliX Binance rant; CryptoHels Robinhood/Base opinion; _digitalG $FIX/$WABI journal (no fresh launch signal).",
   "launches": [
+    {
+      "coin": "The White Monster ($MONSTER)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BtyhNqu58cepGmMrccos1rSuStFPo621MdtgY9qLpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,558 followers) posted at 20:08 Berlin that The White Monster ($MONSTER) is a pumpfun launch on Solana barely a minute old when signaled, and that the deployer has already sold out of it; name points to a white-theme token (text cut off).",
+      "engagement": "323 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer already sold; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118782493675630600",
+      "followers": 38558
+    },
+    {
+      "coin": "WHITE MONSTER ($WHITE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address RCAEvp1mnWJgLb4pyhXr4D5PqekNvcBEqVNReQFpump (pump.fun / pumpfun; graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,558 followers) posted at 20:07 Berlin that WHITE MONSTER ($WHITE) graduated from pumpfun to PumpSwap 16 seconds after launch and was barely over half a minute old; one of three white-theme tokens that day (text cut off).",
+      "engagement": "496 impressions, 2 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; instant graduation; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118782298971890128",
+      "followers": 38558
+    },
+    {
+      "coin": "White Monster ($wMNST)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address H6MZWk8cWxKoUULGMakxyAg2FuPQKcRzvkDKggFtgV5n (described as graduated from pumpfun to PumpSwap; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,558 followers) posted at 20:06 Berlin that White Monster ($wMNST) graduated from pumpfun to PumpSwap soon after launch and is seconds old; no clear theme beyond monster in the facts, and a researched report on the contract is noted (text cut off).",
+      "engagement": "251 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; distinct CA from other white-monster signals this window; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118782188691013666",
+      "followers": 38558
+    },
     {
       "coin": "Fat Cat ($FATCAT)",
       "chain": "Solana",
@@ -272,36 +302,6 @@
       "flags": "Only an automated scanner so far; reported liquidity is extremely thin (~$3.34) despite a migration MC of ~411 SOL. Very early, high risk.",
       "url": "https://x.com/SolTokenScan/status/2118761750052876683",
       "followers": 3268
-    },
-    {
-      "coin": "CRLE ($CRLE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address AcGntuaVupsBZ9amn5FPvpmK2TUFymCeJrDvVNAjpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 18:36 Berlin that CRLE ($CRLE) is a pumpfun launch on Solana, minutes old and about 88% of the way along its bonding curve toward graduation; the signal says the story is ticker scarcity after CRL and CRVL were taken (text cut off).",
-      "engagement": "398 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; third same-theme crypto/ETF ticker today after $CRL and $CRVL. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118759405248524530",
-      "followers": 38536
-    },
-    {
-      "coin": "Tur Tur Baton ($TURTUR)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5nMbMFxkzCEUbStJQsjreiYco46bJWqzfer23Xwcpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 18:40 Berlin that Tur Tur Baton ($TURTUR) is a turtle-themed pumpfun launch on Solana roughly twenty minutes old; the research cited in the signal says there is no story beyond a turtle as the picture (text cut off).",
-      "engagement": "336 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin turtle theme with no story noted. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118760334353916121",
-      "followers": 38536
-    },
-    {
-      "coin": "boomer ($boomer)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address D7GySLkBDfD3zoSeK34UF1g5uKTTeoTHRG1REAyyvp3u (described as still on the pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:32 Berlin that boomer ($boomer) on Solana is a few minutes old and still on the pumpfun bonding curve, most of the way to graduation; the signal flags something unusual about the buyer list (of the hundred wallets that bought the most, most sold — text cut off).",
-      "engagement": "362 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; unusual seller-heavy top buyer list noted. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118758432128045127",
-      "followers": 38537
     }
   ],
   "news": [
