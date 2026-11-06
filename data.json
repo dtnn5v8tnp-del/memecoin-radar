@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 13:11 Berlin time (UTC+01:00)",
-  "newestPostId": "2118677208202133751",
-  "note": "Window: X posts since prior newestPostId 2118675674638500002 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 0 launch(s) and 0 news item(s). Skipped: Lin252525 $90CENT airdrop spam; _Shonsol/ReptoldSolx/callerfiona11 identical $ATM watch-your-entry call farm; degenryancalls $HOOT past-call VIP flex (new Oct-26 account); MemeGameAlpha/DegenFlow_ $ROCCO past-call flex (alt CA HZbi…); Theblackbullxxx $DESSA already-listed PumpSwap call; vheranievhe $RM/$HALO already-listed VIP TG flex; Strong69106 $APPLEPAID already-listed VIP; EvansOnSolana $NIG call farm; WeHave1DFacts $AMD past-call VIP; pelsolex $TLM already listed; Abu4Raaeed $LION 3-fol DexEvents spam; CharlieErik55on 0-fol PEPE reply; DrTrollhattan $Buttcoin speculative listing claim; Neome_com Dogecoin aggregator; thecryptoskald1 UK-law/WANKLESS commentary (no CA).",
+  "lastUpdated": "Friday 6 Nov 2026, 13:15 Berlin time (UTC+01:00)",
+  "newestPostId": "2118678299505201613",
+  "note": "Window: X posts since prior newestPostId 2118677208202133751 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 2 launch(s) and 0 news item(s). Skipped: solblender99/itsmeflow18/EvansOnSolana/0x_AuraLux1 identical $ATM watch-your-entry / past-call farm (CA rAxD9…); CipherEdgeCalls/_DegenKing_1 $APPLEPAID already-listed past-call VIP flex; A33on_/Theblackbullxxx $NIG/$DESSA already-listed call/shill; Strong69106 $WEALTH already-listed VIP TG flex; WestmarkCalls/EvansOnSolana $COGE past-call 571x VIP flex; SolanaTren59241 $FUN migration with $1.59 liq / 10 holders; popmemecoin $NIG alt-CA Hs52… spam alert; hootnightowl_ $HOOT 11-fol project flex; B00DIESonSol 51-fol $MOOF/$LOOOONGCAT/$HIDEO shill; davidbnb68 $TRUMP ~halved midterm commentary (thin eng., no primary source); political Trump posts dominating news query.",
   "launches": [
+    {
+      "coin": "Slingoor (unnamed ticker)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 72VNQ4BVKMEhzPp84oHbGQb3GFT7To9x8YUWvMB1pump (pump.fun).",
+      "buzz": "Dev account @keklordarc (7,643 followers) posted at 13:13 Berlin that Slingoor just launched, with a pump.fun CA and a screenshot. The account bio says Dev; the profile was created April 2026 and had only 6 posts at scan time.",
+      "engagement": "108 impressions, 1 like, 1 quote, 1 reply at scan time.",
+      "flags": "Creator/dev self-launch; ticker not stated as a cashtag. Brand-new low-post account. Very early, high risk.",
+      "url": "https://x.com/keklordarc/status/2118678215783063580",
+      "followers": 7643
+    },
+    {
+      "coin": "dexr·fun ($dexr)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3oeSgNcaZz8S43yBBoMwxY5HDSi1KS2Kt7vR7vE5pump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:11 Berlin that dexr·fun ($dexr) is a fresh pump.fun launch on Solana about a minute and a half old on the signal’s clock, still on the bonding curve and 88% of the way to graduation, with no clear theme beyond a .fun launchpad name.",
+      "engagement": "422 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118677691159466360",
+      "followers": 38528
+    },
     {
       "coin": "Rise memecoin (unnamed ticker)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Only an automated signal account so far; different CA from earlier BSC The Fallen Hero (躺枪); bundler wallets cleared after signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118610972084740514",
       "followers": 38528
-    },
-    {
-      "coin": "The Fallen Hero (躺枪)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0xe451b966aa64bee4046cfcb0db5fe6aa9f647777 (Flap / PancakeSwap).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 08:44 Berlin that The Fallen Hero (ticker 躺枪) is a Flap launch on BSC that had already graduated to PancakeSwap 9 seconds after launch, before the signal fired; second hero-themed token noted in the signal.",
-      "engagement": "376 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; already graduated in seconds; second hero theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118610373431730380",
-      "followers": 38528
-    },
-    {
-      "coin": "RED MORNING ($RM)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0xdf10a132bb3ed6ed09f5aef192233192d6327777 (Flap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 08:05 Berlin that RED MORNING ($RM) is a Flap launch on BSC about 1 minute 20 seconds old, and that the deployer has already sold out of it; the signal says the only story is a link to an Elon post.",
-      "engagement": "377 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer already sold out; different CA from the earlier BSC $RM today. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118600720991895896",
-      "followers": 38530
     }
   ],
   "news": [
