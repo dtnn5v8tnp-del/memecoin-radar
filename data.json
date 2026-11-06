@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:41 Berlin time (UTC+01:00)",
-  "newestPostId": "2118579393316483452",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries); skipped news search this run (prior run covered max_age_hours=2; last run also skipped). Added 1 launch(s) and 0 news item(s). Filtered VIP-DM shill farms ($AMD/$DIAMOND echo rings), airdrop phishing (netlify/tinyurl claim sites), politics replies, and low-engagement VIP call spam.",
+  "lastUpdated": "Friday 6 Nov 2026, 06:45 Berlin time (UTC+01:00)",
+  "newestPostId": "2118580169883402264",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) plus news search max_age_hours=2. Added 1 launch(s) and 1 news item(s). Filtered politics replies matching Trump keyword noise; skipped Solflare wallet promo (not a coin launch); skipped already-dashboarded Ansem/Pump.fun, Robinhood trenches, and Leap app news stories.",
   "launches": [
+    {
+      "coin": "Girlcoin ($Girlcoin)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address H4D5mThN4ts9ZEqpB1xkiejcCoZ88dAGECbW2o3Kpump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,538 followers) posted at 06:42 Berlin that Girlcoin, pitched as a women-onboarding meme coin, graduated from pump.fun to PumpSwap a little over eleven minutes after launch, and flagged an oddity in post-signal tracking.",
+      "engagement": "343 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118579697491820818",
+      "followers": 38538
+    },
     {
       "coin": "fun ($fun)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Self-launched by the poster; promised dev buy and airdrop are unverified; brand-new token.",
       "url": "https://x.com/_rise/status/2116847327021597003",
       "followers": 19927
-    },
-    {
-      "coin": "MarvinCoin ($MARVIN)",
-      "chain": "Solana",
-      "chainNote": "CA 6StLoZfceCvxoBcrkxNeUcMr5pQqgvRWpFbakgaspump",
-      "buzz": "Automated signal account @bitecong (38,448 followers) says this is the second Marvin-themed pump.fun launch on Solana today and was already most of the way along the bonding curve when its tracker found it.",
-      "engagement": "0 likes, about 290 impressions at scan time.",
-      "flags": "Automated signal post; very new token; copycat theme.",
-      "url": "https://x.com/bitecong/status/2116846196350431554",
-      "followers": 38448
     }
   ],
   "news": [
+    {
+      "topic": "Trump Media / Bitcoin",
+      "headline": "X News: Trump Media transfers 4,259 BTC (~$343M) to Crypto.com amid Nov 30 debt deadline",
+      "coins": "BTC, Trump Media / TRUMP ecosystem",
+      "detail": "X news summary: blockchain trackers saw Trump Media move over 4,000 Bitcoin (about $343M) to Crypto.com in two batches this week from wallets labeled as collateral for 2028 convertible notes, emptying most of those addresses ahead of a Nov 30 holder cash-repayment option on ~$1B notes. No sales confirmed; firm still holds roughly 14,139 BTC total. Chatter ties timing to post-midterm stock drops.",
+      "updated": "6 Nov, 06:45 (Berlin)",
+      "url": "https://x.com/i/trending/2118553338274824537"
+    },
     {
       "topic": "Pump.fun / traders",
       "headline": "X News: Trader Ansem turns SOL short loss into profit via Pump.fun callout rewards",
@@ -536,14 +544,6 @@
       "detail": "@jumplifey9 (5,261 followers) says @mikadontlouz launched $MIKA with 50% of supply in the dev wallet and posted that wallet's private key instead of the contract address, and that a later KOL-backed relaunch also reportedly rugged. Single-account recap with low engagement (1 like) at scan time; unverified.",
       "updated": "1 Nov, 11:13 (Berlin)",
       "url": "https://x.com/jumplifey9/status/2116836105634922974"
-    },
-    {
-      "topic": "Platform stats",
-      "headline": "X News: only 312 of 24.4M Pump.fun coins still trade above $100K market cap",
-      "coins": "Pump.fun / Solana memecoins",
-      "detail": "X news summary: of 24.4 million coins launched on Pump.fun, just 312 remain above a $100,000 market cap (about 0.0013%). Critics call it a 'rug factory'; supporters say low-effort launches drive the failure rate. The platform has generated over $1 billion in fees.",
-      "updated": "1 Nov, 10:26 (Berlin)",
-      "url": "https://x.com/i/trending/2116749869553512459"
     }
   ],
   "hourly": [
