@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:54 Berlin time (UTC+01:00)",
-  "newestPostId": "2118793917198139804",
-  "note": "Window: X posts since prior newestPostId 2118792258275496113 (recency search: 1 news/move query; 1 launch-focused query after syntax retry). Added 0 launch(s) and 0 news item(s). Skipped: MemCoinsRadar $GLITCHPEPE bot promo; SolanaMemesScan/dex_kolwatcher $MEME scanner alerts (CA w6hiBt1ZeJSKRRdwiyMPk5ErLP3yNbm5KtFGsm6pump, thin organic engagement); oooooowdwo $GEMERALD 4-follower first-tweet shill; TTTBAAcoin BOOBIES / GTArobocop $GTACOP brand-new zero-follower spam; deeznutzdadog vague pump.fun launch (36 followers); usetrenchscope $HMM curve-dump radar promo; Root_Edge gPERPS creator-rewards update (existing project, not a fresh launch); asparagoid pump.fun perps commentary (no specific new coin); CapriSunMonkey_ Ansem/Bubblemaps speculation (already covered); political noise matching rug/exploit/pump/Trump terms; AlonGoren LenDb mortgage launch (not memecoin).",
+  "lastUpdated": "Friday 6 Nov 2026, 20:57 Berlin time (UTC+01:00)",
+  "newestPostId": "2118794646176329836",
+  "note": "Window: X posts since prior newestPostId 2118793917198139804 (recency search: 1 launch-focused query; 1 news/move query). Added 2 launch(s) and 0 news item(s). Skipped: Sol_Ficra $HODL/$CRVL call-account shills; MemeLaunchups $CEILING TG-call farm; gridlockexit zero-organic NEW COIN ALERT (121 followers); sol_lord111 $Degen / adrainkt12 $CZ / apx_gmso2I $WHITE pump claims; 0x_AuraLux1 and WikiKol1 alternate $Queenie/$QUEENIE CAs (not the bitecong CA); TheUndeadCeleb $MODEL 39-follower spam; MateaLukaek $PI boost; gamapadcom launchpad promo; Mindset_Maxi $RM vague shill; terrythedevv pumpfun-bot reverse-engineering chatter (no specific coin news); political Trump noise and false positives (college/high-school 'graduated', Habibi PAC launch).",
   "launches": [
+    {
+      "coin": "FloatFuse ($FUSE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BYifdTuFBiCWJ37tSUzPZZv4VvWJdrJYUJMZ4h942Ywb (described as float bonding curve / Raydium LaunchLab; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 20:55 Berlin that FloatFuse ($FUSE) is a float-themed Solana token that launched barely a minute before the signal and was still on the float bonding curve (Raydium LaunchLab); it says there is no clear theme beyond the name (text cut off).",
+      "engagement": "241 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118794369239281885",
+      "followers": 38574
+    },
+    {
+      "coin": "Justice For Queenie ($Queenie)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 8iSyS2woxSMhDhGbEvKBjGCfpWHLy7H4qx3vrYCgpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 20:54 Berlin that Justice For Queenie ($Queenie) is a pumpfun launch on Solana caught about three minutes after launch; the homepage link points to a court-case post that is the whole theme (text cut off).",
+      "engagement": "266 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; court-case theme; multiple distinct $Queenie CAs circulating in the same window; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118794220840608155",
+      "followers": 38574
+    },
     {
       "coin": "greg ($greg)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Only an automated signal account so far; thin cat-coin theme; no tracked story claimed. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118770938179428835",
       "followers": 38536
-    },
-    {
-      "coin": "Borderless ($BORDERLESS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3rxXFMNgXgefmncUJnbmt9CWNyknbD6q7uZfZza3pump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:21 Berlin that Borderless ($BORDERLESS) has no clear theme beyond its name and graduated from pumpfun to PumpSwap about 1 h 13 min after launch; it flags unusual early-buyer turnover (text cut off at \"only ten\").",
-      "engagement": "304 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; also being VIP-TG shilled by call accounts; thin name-only theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118770781891236234",
-      "followers": 38536
-    },
-    {
-      "coin": "CHILL ($CHILL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address JCCAnhAj4Y67hw9e48LMPD64R4gTTt42yyQdYKYDpump (pump migration to AMM).",
-      "buzz": "Scanner @SolTokenScan (3,269 followers) posted at 19:26 Berlin a Pump migration signal for $CHILL (CHILL) hitting the AMM; it lists market cap about $41.2K, liquidity about $10.1K, 73 holders, mint renounced, and LP showing locked.",
-      "engagement": "28 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated scanner account so far; very thin engagement. Very early, high risk.",
-      "url": "https://x.com/SolTokenScan/status/2118771964810792975",
-      "followers": 3269
     }
   ],
   "news": [
