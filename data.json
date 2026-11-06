@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:29 Berlin time (UTC+01:00)",
-  "newestPostId": "2118787810555760867",
-  "note": "Window: X posts since prior newestPostId 2118787319427727654 (recency search, 2 broad post queries + news search). Added 2 launch(s) and 0 news item(s). Skipped: EarlyChad_/Strong69106/AlphaDrip7/Kaan_Capitug0 call-farm flexes ($COGE/$HODL/$401Kinu); Crypt_gms021/_Shonsol $Boomer spam; rexnicky $DINKY reply shill; Kirodev7 Float meme banter; neonflux/MemeSiftHQ thin engagement bait; bitecong $CHILL MC-below-signal update (already listed); news stories already on dashboard.",
+  "lastUpdated": "Friday 6 Nov 2026, 20:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2118789743336956009",
+  "note": "Window: X posts since prior newestPostId 2118787810555760867 (recency search: 1 launch-focused query; 1 news/move query returned mostly political noise; 1 prior launch query failed on invalid operators). Added 2 launch(s) and 0 news item(s). Skipped: call-farm $Boomer/$MONEYERO/$oddly/$CHROME/$FI spam (itsmeflow18/ceaser_callz/callerfiona11/21Huncho_sol/Sol_Gems00/Crypt_gms021/marevivakk); dex_kolwatcher $DISCIPLINE bot ping; TheShitShowDev $RWB thin/offensive self-shill; hashtag-spam $MNTD farms; Anatolii_Volf Solana Leap app note (infra, not memecoin); political Trump dump/hack noise from news query.",
   "launches": [
+    {
+      "coin": "Moshi ($Moshi)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 8xfcA3UvYCJBHUMGMd4A586KZb1hi6vewGYThMjSpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,564 followers) posted at 20:33 Berlin that Moshi ($Moshi) is still on the pumpfun bonding curve on Solana, most of the way toward graduation, and flags the deployer's history as the strangest part; it says nobody on X is talking about the contract yet (text cut off).",
+      "engagement": "295 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118788806904266987",
+      "followers": 38564
+    },
+    {
+      "coin": "Monster Cat ($MCAT)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FYbbxyaCcxgQW7GZDFAiEyD2orhwSmX9rSZK1dpUpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,564 followers) posted at 20:33 Berlin that Monster Cat ($MCAT) is about twenty-one minutes old on pumpfun on Solana and that the deployer has already sold out of it; the name is a monster-cat theme, with X mostly noise around it (text cut off).",
+      "engagement": "219 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer already sold out; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118788777342873830",
+      "followers": 38564
+    },
     {
       "coin": "Squirrel In Distress ($SID)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "247 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; third Pooh theme today; different CA from earlier Xi Xing Pooh rows. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118768216575193110",
-      "followers": 38535
-    },
-    {
-      "coin": "Xi Xing Pooh ($Pooh)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4UYUvMA6vL3uHBnRDSYXfazedV4kvyG5dPnKeb7fLoat (described as still on the float bonding curve; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:11 Berlin that Xi Xing Pooh ($Pooh) is 27 seconds old and still on the float bonding curve on Solana; the researched report cites a classic cartoon-bear meme theme (text cut off).",
-      "engagement": "292 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; another Pooh-theme clone today; different CA from the graduated F1fv…pump Xi Xing Pooh. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118768259118010737",
-      "followers": 38535
-    },
-    {
-      "coin": "Xi Xing Pooh ($Pooh)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address F1fvzeTbmPXFDFL26jEN3FHmk558kJSA1cYqNRANpump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:10 Berlin that Xi Xing Pooh ($Pooh) is the second Pooh-themed launch on Solana today and graduated from pumpfun to PumpSwap about 51 seconds after launch; of the hundred wallets that bought the most, fifty-six have sold at least half (text cut off).",
-      "engagement": "61 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; second Pooh theme today; heavy early seller share among top buyers. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118768043530817924",
       "followers": 38535
     }
   ],
