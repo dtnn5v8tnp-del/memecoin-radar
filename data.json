@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:55 Berlin time (UTC+01:00)",
-  "newestPostId": "2118658350380360028",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches then news-ish). Added 0 launch(s) and 0 news item(s). Skipped: HALO/CI/APPLEPAID/Youyou call-farm re-pushes (already listed); BOBERDUCK self-shill (4 followers); $ButtOn/$RIPBLU/$DESSA TG-call spam; generic airdrop promo spam (BLUE/Chick/Chika/$1); HDKN project reply (80 followers); political Trump/oil noise and unrelated replies from news query; Jus7Degen pump.fun platform promo (not a new coin launch).",
+  "lastUpdated": "Friday 6 Nov 2026, 12:03 Berlin time (UTC+01:00)",
+  "newestPostId": "2118660121861431421",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches then news-ish). Added 2 launch(s) and 0 news item(s). Skipped: HALO/APPLEPAID/ROCCO/GTA6K9 call-farm re-pushes (already listed); Sol_Gems00 $ATM/$NIG flex farm; Alpharadarp/MemeLaunchups/sol_lord111/degen_piilot HALO/ApplePaid call spam; $AEVON self-shill (7 followers); $PAPUCOIN/$HDKN project self-posts; generic airdrop promo spam (BASED/ZAZA/KMS/JBDEV/Refshld/PLSSMAN); solhousesignals Chinese Pepe scanner; DEXRise obscure DOGE listing; political Trump/oil noise; Jus7Degen PEPE platform promo; Base Billions lottery promo; Nought self-article; $MAMESUKE thin engagement (877 followers / 8 impressions).",
   "launches": [
+    {
+      "coin": "DESSA 2.0 ($DESSA)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW (pump.fun).",
+      "buzz": "Influencer @Viking4Eth (65,536 followers) posted at 11:54 Berlin that Pump.fun’s trending AI podcast/space memecoin $DESSA launched a 2.0 version around a $10K market cap, framed for people who faded the original, and said they plan to ape soon; quotes a live Space about the launch.",
+      "engagement": "68 impressions, 7 likes, 7 reposts, 5 replies, 6 bookmarks at scan time.",
+      "flags": "Relaunch/2.0 of an existing DESSA narrative (DESSA BANK already listed earlier); new CA. Influencer ape call with some organic engagement. Very early, high risk.",
+      "url": "https://x.com/Viking4Eth/status/2118658393577496616",
+      "followers": 65536
+    },
+    {
+      "coin": "Nigga Pig ($NIG)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,531 followers) posted at 11:59 Berlin that Nigga Pig ($NIG) is a fresh pump.fun launch on Solana; the signal highlights the deployer’s record and says the name/ticker point to a meme around that theme, with links going to X posts.",
+      "engagement": "321 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; offensive/edgy meme theme. Call accounts (@Sol_Gems00) also pushed the same CA. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118659601910710298",
+      "followers": 38531
+    },
     {
       "coin": "ApplePaid ($APPLEPAID)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Only an automated signal account so far; name-only theme; concentrated supply note in the signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118598709869256880",
       "followers": 38530
-    },
-    {
-      "coin": "The Pump Fun Star ($Fun)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address G1dPxV39DGrnAxxr3DPHoZpJRqamdpQPNtPiieKGpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:43 Berlin that The Pump Fun Star ($Fun) was about 3 minutes 11 seconds old on the pump.fun bonding curve, with another star-themed Solana launch and an unusual early buyer list flagged.",
-      "engagement": "284 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; star theme copy again; unusual buyer-list note in the signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118594989056045524",
-      "followers": 38529
-    },
-    {
-      "coin": "Don't Panic ($PANIC)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3NhrkMjhSJJwW6mNuYJEMxmXK5KjvbqZ8MeWSjhcmwHC (pump.fun).",
-      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:35 Berlin that Don't Panic ($PANIC) launched on pump.fun about thirty seconds before the signal, with most launch wallets that bought at the open still holding.",
-      "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; brand-new bonding-curve token. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118592976712843716",
-      "followers": 38529
     }
   ],
   "news": [
