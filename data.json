@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 18:22 Berlin time (UTC+01:00)",
-  "newestPostId": "2118755799300558900",
-  "note": "Window: X posts since prior newestPostId 2118754153765786105 (recency search, 2 post queries + news search). Added 0 launch(s) and 0 news item(s). Skipped: AlphaPulsevw/EarlyChad_/belemradio/ValenOnchains/DegenFlow_/EricSolProphet/whale_pump_ups VIP-TG call farms ($DIAMOND/$PICASSO/$FI/$HALO/$401KINU/$DNUT); Salem_Alphun $SARP/$X TG alpha; dex_kolwatcher paid DEXScreener $COINFT; slowgrindcrypt $YEPCAT self-launch (52 fol); plsea $PICASSO; Dev369TheEdge TG promo; kudsi3435 ArhoCoin low-fol; uday72347 $KHAB spam; Luckysleprecoin game promo; festive-season CA-in-TG spam; political Trump/rug metaphor noise. News search: Ansem callout rewards, Pump.fun Kraken SOL deposit, Diamond rewards, and Pudgy PFP story already on dashboard.",
+  "lastUpdated": "Friday 6 Nov 2026, 18:28 Berlin time (UTC+01:00)",
+  "newestPostId": "2118757237074301398",
+  "note": "Window: X posts since prior newestPostId 2118755799300558900 (recency search, 2 post queries; news search skipped this run). Added 3 launch(s) and 0 news item(s). Skipped: belemradio/EarlyChad_/AlphaPulsevw/Legend_Britney/CipherEdgeCalls VIP-TG call farms ($CHICXU/$HODL/$FI/$DIAMOND/$401KINU/$ZCATS/$GLAZE/$CRVL shill); dex_kolwatcher paid DEXScreener $XAU; Salem_Alphun $SARP TG alpha; GameZoneCoin $PEPE low-fol; popmemecoin $HODL; Sneaks_nofreaks festive-season CA-in-TG spam; SenatorLTD Relo call bot; Nobodygaveafucc/jaredfromsubw8y low-engagement shill; bitecong $Degen already on dashboard. No notable rugs, listings, or high-engagement launches in window.",
   "launches": [
+    {
+      "coin": "Crypto Revenue Leaders ETF ($CRL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Dx1QUmfWkGjp9VP7ZScqg3ip37VM8HWF9dc8WGc8pump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:24 Berlin that Crypto Revenue Leaders ETF ($CRL) is the fourth crypto-themed launch on Solana today and reached about 80% of the way to graduation on the pumpfun bonding curve in about two minutes; the signal flags an oddity about the CRL ticker (text cut off).",
+      "engagement": "354 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; fourth same-theme crypto/ETF token today; different CA from $CRVL. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118756303871066152",
+      "followers": 38537
+    },
+    {
+      "coin": "No Crying In The Casino ($Casino)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Aq9XUf43RhqEmsGPkfrvDqvjJACUZxb3Pn4i3yTgpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:23 Berlin that Casino, named No Crying In The Casino ($Casino), is about forty minutes old on Solana and still on the pumpfun bonding curve, most of the way to graduation; the casino wording is the only theme noted in the name.",
+      "engagement": "327 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin casino-name theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118756108177473735",
+      "followers": 38537
+    },
+    {
+      "coin": "Crypto Revenue Leaders ETF ($CRVL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4izrpFiuxGXv9vSGxX8RoWQUgXCFMwK5KmbaEhLspump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:23 Berlin that Crypto Revenue Leaders ETF ($CRVL) is a pumpfun launch on Solana a few minutes old that graduated to PumpSwap soon after launch; a researched report cited in the signal says the token rides an ETF proposal theme (text cut off).",
+      "engagement": "309 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; ETF-theme claims unverified in the post; similar CRL ticker also launched. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118756083250683915",
+      "followers": 38537
+    },
     {
       "coin": "MEOWCRAT ($MEOWCRAT)",
       "chain": "Solana",
@@ -272,36 +302,6 @@
       "flags": "Creator self-relaunch with a new contract address and the same airdrop/buyback claims; ticker still not stated. Very early, high risk.",
       "url": "https://x.com/_rise/status/2118686403714232724",
       "followers": 19789
-    },
-    {
-      "coin": "Pair ($PAIR)",
-      "chain": "Robinhood chain",
-      "chainNote": "Post gives contract address 0x3024d06034a3fc1faf85f11fabb491c25ff7e5fd (EVM / Robinhood chain per signal).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:37 Berlin that Pair ($PAIR) is roughly twenty minutes old on Robinhood chain, with the pair said to have moved +3192% in the last hour; the signal notes a plain name, no clear theme, and links to pair·cx.",
-      "engagement": "393 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; extreme claimed short-window move on a brand-new pair; thin theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118684200375324839",
-      "followers": 38528
-    },
-    {
-      "coin": "Crocs ($Crocs)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FKJp51Mpxxsg4nF95k8vXaEcZdcXiwUxeBtNc9ADpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:35 Berlin that Crocs ($Crocs) is a pump.fun launch on Solana about six minutes old at signal time, still on the bonding curve at 85% of the way to graduation, with the deployer already sold out and no clear theme beyond the shoe-brand name.",
-      "engagement": "382 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme; deployer sold everything per the signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118683593891516547",
-      "followers": 38528
-    },
-    {
-      "coin": "Krispy Kreme / DNUT ($DNUT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address CkYPxSP2RT1oCQwj1g4xdCJyLmkA4gwC7xYip2B2pump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:19 Berlin that DNUT (full name Krispy Kreme, Inc. in the signal text) is a pump.fun launch on Solana only a few minutes old at signal time, framing the token as tying itself to the well-known doughnut brand.",
-      "engagement": "346 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118679641791840450",
-      "followers": 38528
     }
   ],
   "news": [
