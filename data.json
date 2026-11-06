@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 13:41 Berlin time (UTC+01:00)",
-  "newestPostId": "2118684986068840953",
-  "note": "Window: X posts since prior newestPostId 2118683899249496225 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 1 launch(s) and 0 news item(s). Skipped: call-farm past-gain spam on $RAM/$COGE/$COIN (CipherEdgeCalls, A33on_, erykdiamond, ReptoldSolx, solblender99, SOLANACHAD009); firepump_house $GLAZE call; Theblackbullxxx DESSA II template shill farm (already tracked DESSA); GemChaserSOL $PILOT thin auto-signal; CheckBubblesSOL $Bubbles 18-fol self-tool; TERBiumSolana/DreadPirateDale $GTHIC/JohannMartrarg $FATCAT low-fol self-launches; RongrongBell Pump.fun→Kraken SOL (already in news); chadscabal vague 'runner soon' teaser (no CA); drugsfaxx QQQx airdrop spam; politics/noise from news query.",
+  "lastUpdated": "Friday 6 Nov 2026, 13:47 Berlin time (UTC+01:00)",
+  "newestPostId": "2118686438049124431",
+  "note": "Window: X posts since prior newestPostId 2118684986068840953 (recency search, 3 queries: launches, news-ish, pump.fun/signal). Added 1 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA II template shill farm (already tracked DESSA); call-farm past-gain spam on $RAM/$NIG/$FUN/$GLAZE/$LEONIDA/$DNUT/$APPLEPAID (Solgod001, WeHave1DFacts, sol_lord111, SignalHQT, firepump_house, lari_riguelme, AlphaBullishups, EarlyChad_, MemCoinsRadar); speedyswimmerr DESSA narrative shill; dex_kolwatcher $DNUT bot signal (different CA than tracked Krispy DNUT); B00DIESonSol $VUTOMI 51-fol self-shill; ripr_app $Dacity rug promo (226-fol product account, thin engagement); RealAlexBob $PONS Robinhood listing speculation (thin); krishna__web3/BestQualityBD CZ–Elon BSC $GM wave (already in news); politics/FOMO noise.",
   "launches": [
+    {
+      "coin": "Rise (relaunch, unnamed ticker)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address ENqVAgYspQPdNEbUTFRxqS9QKAhGefYoicjykhJ2pump (pump.fun). Earlier Rise post used a different CA (ai42B71y1Aj4VPf9SvHAHSQQDAHs8PDHiwXS2sNpump).",
+      "buzz": "Creator @_rise (19,789 followers) posted at 13:46 Berlin repeating the same pitch as their earlier Rise launch: memecoin live on Pump Fun, 60% of supply airdropped to the top 15 holders at bonding, and a planned $7,000 buy in 15 minutes. This post uses a new CA versus the prior Rise entry.",
+      "engagement": "147 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Creator self-relaunch with a new contract address and the same airdrop/buyback claims; ticker still not stated. Very early, high risk.",
+      "url": "https://x.com/_rise/status/2118686403714232724",
+      "followers": 19789
+    },
     {
       "coin": "Pair ($PAIR)",
       "chain": "Robinhood chain",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; already graduated; buyer-list oddity noted in signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118631147362258954",
       "followers": 38531
-    },
-    {
-      "coin": "GMGN ($GMGN)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0x488509b2d7ca606e7ab62aea0bfaab357b647777 (Flap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 09:53 Berlin that $GMGN is about two hours old on Flap on BSC and 42% along its bonding curve; a researched report on this contract finds no official narrative or description.",
-      "engagement": "387 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no official narrative. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118627858260361711",
-      "followers": 38530
     }
   ],
   "news": [
