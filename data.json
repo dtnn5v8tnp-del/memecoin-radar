@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118820050593571283",
-  "note": "Window: X posts since prior newestPostId 2118818918475415644 (recency search: 1 launch-focused query after invalid CA:/paren syntax on first try; 1 news/move query; no separate search_news this run — prior run also skipped news search, but news/move query covers listing/pump/rug terms). Added 0 launch(s) and 0 news item(s). Skipped: DegenPhantvae $HODL/$KORIMU VIP-TG farm spam (already skipped pattern prior); dex_kolwatcher $N/A garbage bot (MC $NAN); pizzabasedev1x #AMETA/Animeta thin (6.3k foll, 17 imp, 0 likes, TG invite); yelopugstar NA banned claim (10 foll); helloowitsme_ $MIMI/$pip already listed; Altcoinwhalepro/i0j0j0j $POKEY shill (prior skip; thin eng, no clean new CA signal); fourtislisting $DONNA 500% claim (0 eng; DONNA already in news at ~300%); ShadooowOnX PumpFun commentary only; replies/spam.",
+  "lastUpdated": "Friday 6 Nov 2026, 22:41 Berlin time (UTC+01:00)",
+  "newestPostId": "2118820951379042523",
+  "note": "Window: X posts since prior newestPostId 2118820050593571283 (recency search: 1 launch-focused query after invalid CA:/paren syntax on first try; 1 news/move query; 1 search_news this run — prior two runs skipped news search). Added 3 launch(s) and 2 news item(s). Skipped: DegenPhantvae $LAURA/$HODL VIP-TG farm spam (already skipped pattern); helloowitsme_/AlphaBullishups/MemeLaunchups TG-call spam ($CEILING/$FUSE/$Leap/$pip already listed or thin); dex_kolwatcher $Private MC $NAN garbage; dopamemefun project promo (7 foll, new acct — covered via bitecong); staygrit $GRIT (21 foll, 3 imp); replies/spam (#AMETA, $Spurdo/$YETI).",
   "launches": [
+    {
+      "coin": "WHY ARE YOU GAY? ($GAY)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address C8KadrGvtkbTAbLbNX6HsB8QJvPistXRToWjsm2vpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:40 Berlin an AI Signal that WHY ARE YOU GAY? ($GAY) is twenty-six seconds old and already 74% of the way along the pumpfun bonding curve, with no clear theme beyond the question the name asks; it flags an oddity in the deployer's pace (text cut off).",
+      "engagement": "237 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; name/theme is a crude joke. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118820785813156107",
+      "followers": 38570
+    },
+    {
+      "coin": "dopameme ($DOPA)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BZ3LFGBya69a9UCsm29yXLQtD1WsHBpwWEm3piD1RFiR (pump.fun / pumpfun bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:38 Berlin an AI Signal that DOPA (ticker of dopameme) is a pumpfun launch roughly three minutes old and still on the bonding curve; name and ticker point at a dopamine joke (text cut off). A same-window project account @dopamemefun (7 followers, created today) also posted that dopameme.fun is live with the same CA.",
+      "engagement": "311 impressions, 0 likes, 0 reposts at scan time (@bitecong); project account post had 3 impressions.",
+      "flags": "Only an automated signal account plus a brand-new project account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118820354647076868",
+      "followers": 38570
+    },
+    {
+      "coin": "WHITE ($WHITE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address F7feBs4rVg9aYVaSiBpiHbEq9ZgcHYpNk35NYo7Npump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:37 Berlin an AI Signal that WHITE is the ninth white-themed launch on Solana today, 2 min 25 s old and already 89% of the way to graduation on the pumpfun bonding curve; it flags something odd on the buyer list (text cut off).",
+      "engagement": "308 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; ninth white-theme clone today; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118820077890163072",
+      "followers": 38570
+    },
     {
       "coin": "crime ($crime)",
       "chain": "Solana",
@@ -272,39 +302,25 @@
       "flags": "Only an automated signal account so far; third Squirrelcoin clone today on BSC; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118790735709552749",
       "followers": 38571
-    },
-    {
-      "coin": "Moshi ($Moshi)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 8xfcA3UvYCJBHUMGMd4A586KZb1hi6vewGYThMjSpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,564 followers) posted at 20:33 Berlin that Moshi ($Moshi) is still on the pumpfun bonding curve on Solana, most of the way toward graduation, and flags the deployer's history as the strangest part; it says nobody on X is talking about the contract yet (text cut off).",
-      "engagement": "295 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118788806904266987",
-      "followers": 38564
-    },
-    {
-      "coin": "Monster Cat ($MCAT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FYbbxyaCcxgQW7GZDFAiEyD2orhwSmX9rSZK1dpUpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,564 followers) posted at 20:33 Berlin that Monster Cat ($MCAT) is about twenty-one minutes old on pumpfun on Solana and that the deployer has already sold out of it; the name is a monster-cat theme, with X mostly noise around it (text cut off).",
-      "engagement": "219 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer already sold out; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118788777342873830",
-      "followers": 38564
-    },
-    {
-      "coin": "Squirrel In Distress ($SID)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Dj4GAxxBa5yhLNk96etZaUqZxEMznxSFNj3ipdFopump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,563 followers) posted at 20:27 Berlin that Squirrel In Distress ($SID) is a pumpfun launch on Solana under five minutes old and still on the bonding curve, about 91% of the way to graduation; the name is the story (a squirrel in distress; text cut off).",
-      "engagement": "215 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; near graduation when signaled; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118787430715404755",
-      "followers": 38563
     }
   ],
   "news": [
+    {
+      "topic": "Influencer / paid promo",
+      "headline": "@clavicular said to have admitted being paid often by Pump.fun to pump coins ($CHAD incident)",
+      "coins": "Pump.fun, $CHAD",
+      "detail": "@villainmonkey (21,645 followers) posted at 22:37 Berlin that @clavicular admitted to being paid often by @Pumpfun to pump certain coins, citing the $CHAD incident from late March 2026 (clips circulated March 30, 2026) in which a friend took a call from @orangie manager and promoted a Solana memecoin $CHAD on stream (text cut off). Early engagement: 821 impressions, 28 likes, 10 replies, 1 repost, 1 bookmark at scan time. Allegation/recap from this account, not a primary Pump.fun disclosure.",
+      "updated": "6 Nov 2026, 22:41 Berlin",
+      "url": "https://x.com/villainmonkey/status/2118820167174259183"
+    },
+    {
+      "topic": "Influencer feud / doxxing claims",
+      "headline": "X News: Sahil shares screenshots in Ansem Solana feud, sparking doxxing claims",
+      "coins": "Pump.fun, $ANSEM",
+      "detail": "X news summary (updated ~22:04 Berlin): Sahil posted photos of a couple plus WhatsApp messages tied to his public accusations against trader Ansem (@blknoiz06), with reactions ranging from shock and doxxing concerns to jokes about relationship drama in Solana memecoin circles. Continues the Ansem / Pump.fun speculation already on the board. Unverified drama summary from X news, not a primary disclosure.",
+      "updated": "6 Nov 2026, 22:41 Berlin",
+      "url": "https://x.com/i/trending/2118809984326672805"
+    },
     {
       "topic": "Exchange / app listing",
       "headline": "X News: Thinking Cat $HMM token joins Robinhood app assets",
@@ -528,22 +544,6 @@
       "detail": "Creator @brookxbt (31,100 followers) posted at 11:44 Berlin a trenches diary noting among other items that Upbit listed $cards and that Korean traders reacted strongly. This is a secondary mention, not an Upbit primary announcement; treat as unverified until confirmed by the exchange.",
       "updated": "6 Nov, 11:46 (Berlin)",
       "url": "https://x.com/brookxbt/status/2118655770807947456"
-    },
-    {
-      "topic": "Price move / BNB meme",
-      "headline": "BNB Chain $GM said to jump ~400% after Elon–CZ meme banter",
-      "coins": "GM",
-      "detail": "Researcher @BlockLogicX (32,849 followers) posted at 10:31 Berlin that Elon Musk’s CZ meme sent BNB Chain memecoin $GM soaring over 400%, briefly hitting about a $2.72M market cap with $1.6M daily volume. Early engagement on the post itself was low (32 impressions, 0 likes at scan); figures are from that account, not an exchange primary source.",
-      "updated": "6 Nov, 10:39 (Berlin)",
-      "url": "https://x.com/BlockLogicX/status/2118637365141102696"
-    },
-    {
-      "topic": "Price move / Elon–CZ meme",
-      "headline": "Green Morning memecoin cited near $7.1M after Elon–CZ exchange",
-      "coins": "Green Morning",
-      "detail": "@Codedscientist (2,929 followers) posted at 10:34 Berlin that after Elon trolled CZ again, a memecoin framed as green-morning:native (Green Morning) was already near a $7.1M market cap. No contract address in the post; early engagement low (16 impressions, 1 like). Distinct from the many thin Red Morning ($RM) launches tracked earlier today.",
-      "updated": "6 Nov, 10:39 (Berlin)",
-      "url": "https://x.com/Codedscientist/status/2118638050028683411"
     }
   ],
   "hourly": [
