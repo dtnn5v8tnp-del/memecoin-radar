@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 13:30 Berlin time (UTC+01:00)",
-  "newestPostId": "2118682193761296767",
-  "note": "Window: X posts since prior newestPostId 2118681296297705859 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 0 launch(s) and 1 news item(s). Skipped: LizethMonArt/alaahnassar/drugsfaxx airdrop-spam farm; Felipetees $PAIR VIP TG (prior skip); CipherEdgeCalls $DNUT already listed; marevivakk $fun VIP TG farm; AcordOF_NG $VERSEUS 7-day pre-launch TG; blackpantherbos $PANTHER 9-fol; josecrypt_eth $STONK past-call TG bait; bwthyo $TLM thin chart call; Koikoifishme $HACKED thin shill; rootofsol $EGG low-fol self-launch; French/unrelated noise.",
+  "lastUpdated": "Friday 6 Nov 2026, 13:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2118683899249496225",
+  "note": "Window: X posts since prior newestPostId 2118682193761296767 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 1 launch(s) and 1 news item(s). Skipped: LizethMonArt/sbusfzi airdrop-spam farm; call-farm past-gain spam on $DNUT/$ROCCO/$OGGATO/Diamond (CipherEdgeCalls, A33on_, sol_lord111, EarlyChad_, AxisAlpha_, Sol_Ficra, firepump_house, MemeLaunchups, ReptoldSolx, solblender99); dex_kolwatcher PAID DEXScreener $RAM/$Rot; Ryder_100X $GMFRENS thin self-shill; AlphaGenesisHQ $TIKI brand-new 1-fol account; Hamlawcourt00 $HAMLAW self-promo; Anatolii_Volf Pump.fun Kraken SOL move (already in news); fallund Trump-token crash thin; JMDarkSide6 $GBunny low-fol self-launch; crypto_ripples $HALO already listed; timcryptocon reply shill.",
   "launches": [
+    {
+      "coin": "Crocs ($Crocs)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FKJp51Mpxxsg4nF95k8vXaEcZdcXiwUxeBtNc9ADpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:35 Berlin that Crocs ($Crocs) is a pump.fun launch on Solana about six minutes old at signal time, still on the bonding curve at 85% of the way to graduation, with the deployer already sold out and no clear theme beyond the shoe-brand name.",
+      "engagement": "382 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme; deployer sold everything per the signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118683593891516547",
+      "followers": 38528
+    },
     {
       "coin": "Krispy Kreme / DNUT ($DNUT)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; name-only with no stated theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118618169606873466",
       "followers": 38527
-    },
-    {
-      "coin": "蘑菇头 (蘑菇头)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0xc0e429bfd9df3fbb02c262eb1d570fce5e077777 (Flap).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 08:52 Berlin that 蘑菇头 (mushroom head), ticker 蘑菇头, is a Flap launch on BSC about five minutes old and 41% along its bonding curve; the signal says the name and ticker state no plain-words theme.",
-      "engagement": "442 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; name-only with no stated theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118612470059393114",
-      "followers": 38528
     }
   ],
   "news": [
+    {
+      "topic": "Price / relative strength",
+      "headline": "Altcoin Sherpa flags $PEPE relative strength and whale buying",
+      "coins": "PEPE",
+      "detail": "@AltcoinSherpa (263,705 followers) posted at 13:29 Berlin that $PEPE has impressive relative strength lately with clear whale buying (even before an unspecified hack mentioned in the post). Early engagement at scan time: 2,551 impressions, 11 likes, 1 repost, 3 replies.",
+      "updated": "6 Nov, 13:37 (Berlin)",
+      "url": "https://x.com/AltcoinSherpa/status/2118682241023033634"
+    },
     {
       "topic": "Memecoin developer arrest / alleged scam",
       "headline": "British memecoin developer Oliver Harrington reportedly arrested in London over alleged $4.7M crypto scam",
@@ -536,14 +544,6 @@
       "detail": "@ArchibaldBollz (712 followers) noted Dogecoin is not on Binance's list of fully backed coins and that Binance says about 95% of the hack is covered. Separately @greasydaryle (543 followers) posted that withdrawals are reopening after the $6.3B hack and that WIF was up 1.9% with BONK flat. Small accounts, low engagement (4 and 13 impressions).",
       "updated": "1 Nov, 15:42 (Berlin)",
       "url": "https://x.com/ArchibaldBollz/status/2116903526391525584"
-    },
-    {
-      "topic": "Influencer / GTA6 memes",
-      "headline": "Suppoman pitches GATO as the top GTA6 mascot memecoin as several GTA-themed coins compete",
-      "coins": "GATO",
-      "detail": "Crypto YouTuber @MichaelSuppo (148,794 followers) said three coins are vying for the GTA6 mascot spot and backed GATO, the cat from the GTA6 trailer, saying it trades on 4 exchanges. Promotional post. 1,131 impressions, 11 likes, 4 reposts at scan time.",
-      "updated": "1 Nov, 15:20 (Berlin)",
-      "url": "https://x.com/MichaelSuppo/status/2116897459901522191"
     }
   ],
   "hourly": [
