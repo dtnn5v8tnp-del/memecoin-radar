@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 10:40 Berlin time (UTC+01:00)",
-  "newestPostId": "2118639519503130956",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 0 news item(s). Skipped: @CODEonsolanaog reply-farm spam for $CODE (13-follower account created today); @pepeanalyst Green Morning/$GM $8.05M retread (already tracked); @futuredoghunter $SKHY 3x TG-signal (5 followers); @Kuro_cat_sol $Kuro self-shill (9 followers); @Viralnova001 $NOVA giveaway; @Bullrunups $GTA 16x call spam; @kuma99999999 $HTTPS fear-shill (low engagement); university/App Store/NFT listing noise.",
+  "lastUpdated": "Friday 6 Nov 2026, 10:48 Berlin time (UTC+01:00)",
+  "newestPostId": "2118641389080625479",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 2 launch(s) and 0 news item(s). Skipped: airdrop-template spam farms (ZIG/$ELIZUBETH/$FO/$GTAFY/$USOE/$DOLLARSE/$JOB/$STX/$BMR/$NINJACAT/$STRAY); @EarlyRada/@r3b3ld14/@Solprofit1/@SOL_ETH_TRADER/@AlphaBullishups TG call shills ($BDHM/$Diamond/$MAMESUKE/$GTA); @pisklauren $ZOMBCASH Coinvote spam; @datuna_memecoin/$WAITING (52 followers); @wicksontrades $Rocco (67 followers); @dex_kolwatcher $UK paid-DEX noise; @Indoex_LTD Hellhound self-listing (minor exchange, 0 likes); @NikolaiHauckx Dump Coin image tease (low engagement); $DOGE whale speculative post; non-crypto political noise.",
   "launches": [
+    {
+      "coin": "november ($november)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Berk1mwwwV7obmWfMaEwkh63T1ntLZ5pPN4f4NX6pump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 10:42 Berlin that november ($november) launched on pump.fun on Solana and graduated to PumpSwap about 16 minutes 49 seconds after launch; the signal timed the token at roughly eighteen minutes old.",
+      "engagement": "447 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; calendar-month name theme. Already graduated. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118640058089803839",
+      "followers": 38530
+    },
+    {
+      "coin": "Baby Don’t Hurt Me ($BDHM)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3dWe37sqSgR8z4ToBCb6ArUyhgVLLTnYyVU3uqd9pump (pump.fun migrated / PumpSwap).",
+      "buzz": "Scanner @SolanaMemesScan (4,325 followers) posted a SOL CTO alert at 10:44 Berlin for Baby Don’t Hurt Me ($BDHM): migrated off pump.fun, ATH market cap cited at $110.3K, 363 holders, top-10 wallets about 8.90%. Separate call accounts also pushed the same CA around $105K MC.",
+      "engagement": "@SolanaMemesScan: 84 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "CTO / migrated; scanner-led with overlapping call-account noise. Very early, high risk.",
+      "url": "https://x.com/SolanaMemesScan/status/2118640634013823138",
+      "followers": 4325
+    },
     {
       "coin": "DESSA BANK (DESSA BANK)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Numbers come from call accounts pushing VIP Telegram, not a primary project source. Treat as unverified momentum chatter, high risk.",
       "url": "https://x.com/EarlyChad_/status/2118576181196869719",
       "followers": 5938
-    },
-    {
-      "coin": "RETIRE ($RETIRE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump (pump.fun).",
-      "buzz": "Aggregator @TheTrendGuy1 (1,399 followers) posted at 06:27 Berlin that $RETIRE was #3 trending on Solana at about $196K market cap, $35.2K liquidity, $329K 24h volume, and +370% over 24h.",
-      "engagement": "16 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Single aggregator post with low engagement; figures unverified. Very early / high risk.",
-      "url": "https://x.com/TheTrendGuy1/status/2118575900753379441",
-      "followers": 1399
-    },
-    {
-      "coin": "Coin A ($A)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DfQQ81frDoXz1Qppo4oMXXfGLAvRPgwLkbeyecdEpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 06:24 Berlin that this pump.fun token was still on the bonding curve and 91% of the way to graduation, with no clear theme beyond pump.fun documentation-style links.",
-      "engagement": "305 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118575346631192618",
-      "followers": 38536
     }
   ],
   "news": [
