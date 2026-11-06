@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:27 Berlin time (UTC+01:00)",
-  "newestPostId": "2118787319427727654",
-  "note": "Window: X posts since prior newestPostId 2118785188222341443 (recency search, 2 broad post queries; news search skipped this run). Added 2 launch(s) and 0 news item(s). Skipped: racial-slur-themed $NN signal; greencandleguru $DIAMOND shill; duyxto $DUYX 28-follower self-promo; clawddevs $CLAWD spam; Nova_Pad_Sol thin pre-launch; BoomerOnCC 5-follower ATH shill; solhousesignals call-farm $F7931A; fourtislisting #BLOB minor-platform alert; thin replies and pumpfun banter without a concrete new coin event.",
+  "lastUpdated": "Friday 6 Nov 2026, 20:29 Berlin time (UTC+01:00)",
+  "newestPostId": "2118787810555760867",
+  "note": "Window: X posts since prior newestPostId 2118787319427727654 (recency search, 2 broad post queries + news search). Added 2 launch(s) and 0 news item(s). Skipped: EarlyChad_/Strong69106/AlphaDrip7/Kaan_Capitug0 call-farm flexes ($COGE/$HODL/$401Kinu); Crypt_gms021/_Shonsol $Boomer spam; rexnicky $DINKY reply shill; Kirodev7 Float meme banter; neonflux/MemeSiftHQ thin engagement bait; bitecong $CHILL MC-below-signal update (already listed); news stories already on dashboard.",
   "launches": [
+    {
+      "coin": "Squirrel In Distress ($SID)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Dj4GAxxBa5yhLNk96etZaUqZxEMznxSFNj3ipdFopump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,563 followers) posted at 20:27 Berlin that Squirrel In Distress ($SID) is a pumpfun launch on Solana under five minutes old and still on the bonding curve, about 91% of the way to graduation; the name is the story (a squirrel in distress; text cut off).",
+      "engagement": "215 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; near graduation when signaled; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118787430715404755",
+      "followers": 38563
+    },
+    {
+      "coin": "Agartha ($AGARTHA)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 51NZdjQQKiE4Gk1uVT86Tf2cAqAqS26sHhbyZzofLoat (described as float-style Loat address; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,563 followers) posted at 20:27 Berlin that Agartha ($AGARTHA) is a hollow-earth themed Solana token about two minutes old when signaled; it notes most of the top hundred buyers are brand-new wallets (text cut off).",
+      "engagement": "218 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; hollow-earth theme; many new-wallet early buyers flagged; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118787423597731906",
+      "followers": 38563
+    },
     {
       "coin": "Dogettecoin ($DOGETTE)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "61 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; second Pooh theme today; heavy early seller share among top buyers. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118768043530817924",
-      "followers": 38535
-    },
-    {
-      "coin": "PUPTIDE ($PUPTIDE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4Wat5oCqDdJ5mnLu9hxEKk94e9shZGm95RdHPBDfLoat (described as still on the float bonding curve; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:09 Berlin that PUPTIDE ($PUPTIDE) is the second PUPTIDE-themed launch on Solana today, under a minute old and still on the float bonding curve so it has not graduated; the signal flags something unusual about the buyer base (text cut off).",
-      "engagement": "296 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; second same-theme launch today; different CA from lowercase $puptide. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118767741503168901",
-      "followers": 38535
-    },
-    {
-      "coin": "BinCoin ($BIN)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address G3tmXVvcao4Y9mp9aQwXitXAwTQHFYAcm3ScmRnzWWb4 (described as a pumpfun launch).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:09 Berlin that BinCoin ($BIN) is a pumpfun launch on Solana caught about 51 seconds after it opened, with a recycling theme rather than a joke; a researched report on this exact contract is cited (text cut off).",
-      "engagement": "253 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; recycling theme claimed. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118767679314231455",
       "followers": 38535
     }
   ],
