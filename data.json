@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:32 Berlin time (UTC+01:00)",
-  "newestPostId": "2118833766554812669",
-  "note": "Window: X posts since prior newestPostId 2118832467176247620 (recency: 1 launch-focused + 1 news/move query; no search_news this run — prior run used it). Added 1 launch(s) and 0 news item(s). Seen but skipped: MemCoinsRadar $Billy ~4.07x migration on already-listed GyDhp… CA (mild move, thin engagement); GemChaserSOL Highcap Pump AMM migrate CA GAskg… ATH ~$47K (not the bitecong Highcap CAs; thin engagement); DeltaV_fun $DELTAV self-launch; junmisugi84 $QCAP placeholder; equixAI soon-CA shill; allstarsgta $CJ/$ALLSTARS self-promo; Kainnnnnnne wolf meme shill (24 followers); Retail_FNF pumpfun commentary (1 follower); PaperXfun paper-trading beta; nfadyorky SlopPad/Slopcore agency promo; AmmyAfterDark tip-jar safety spam; Asep70387100 telegram signal spam; CloudAuditServs Maxine Waters bill quote of Nov 4 EleanorTerrett scoop (stale); clintoptions Iran/markets not memecoin-specific.",
+  "lastUpdated": "Friday 6 Nov 2026, 23:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2118835007523528878",
+  "note": "Window: X posts since prior newestPostId 2118833766554812669 (recency: 1 launch-focused + 1 news/move query; no search_news this run — used 2 runs ago). Added 1 launch(s) and 0 news item(s). Seen but skipped: yourfriendSOMMI Sahil/Ansem/MOTHER paid-shill expose (420 impr, 2 likes; ongoing feud already on news board); popmemecoin $VETO Dex alert (741 followers, thin); dex_kolwatcher $ABORTMAS paid Dexscreener (thin); meme_insiders $COIN 17.4x call account; EvansOnSolana/Sol_Gems00 $Highcap already listed (62GCm…); _gh0st0fs0l $OPENOS self-shill (35 followers); CryptoooRaiden $JOFF HYPE/Elysium thin; shitolabs/R0bin_Hoot_ soon-CA self-promo; Crypto_Retardio pumpfun invite; investoor77 CT KOL drama commentary; ivarmanyu $NINJACAT CoinGecko shill reply; news query mostly political Trump noise / non-memecoin.",
   "launches": [
+    {
+      "coin": "Sahil ($Sahil)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BW1K4YTSGW4xUfRPX8EeimzqVPB5MJbCr2HfhgZZpump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 23:34 Berlin an AI Signal that Sahil Files ($Sahil) is the second files-themed launch on Solana today and had already graduated from pumpfun to PumpSwap before the signal; it flags something odd about the buyer list (text cut off at 158).",
+      "engagement": "280 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; graduated already per signal; thin engagement. Theme ties to ongoing CT Sahil/Ansem drama names, not verified connection. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118834521684767072",
+      "followers": 38571
+    },
     {
       "coin": "Billy ($BILLY)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "372 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; third Leap-theme launch today; early selling noted; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118808798735565211",
-      "followers": 38570
-    },
-    {
-      "coin": "Mimicoin ($MIMI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 25dvNJvxim8NKjQJ2aXeH156LmmabhQHJ7pBVQR8pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 21:48 Berlin an AI Signal that Mimicoin ($MIMI) is the second mimi-themed launch on Solana today and was barely past its first seconds on the curve when flagged; it notes an odd detail in the deployer history (text cut off).",
-      "engagement": "328 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; second mimi-theme launch today; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118807791498629460",
       "followers": 38570
     }
   ],
