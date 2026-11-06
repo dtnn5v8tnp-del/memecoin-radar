@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 07:38 Berlin time (UTC+01:00)",
-  "newestPostId": "2118593540015989006",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries + 1 retry). Added 2 launch(s) and 0 news item(s): The Black Pill ($BP), Don't Panic ($PANIC). Skipped VIP/call-farm spam ($COAI/$JCT/$Bubbles); skipped political Trump/rug noise; skipped Phantom 9 self-shill; skipped stablecoin EURGH and off-topic graduated/high-school hits.",
+  "lastUpdated": "Friday 6 Nov 2026, 07:44 Berlin time (UTC+01:00)",
+  "newestPostId": "2118594989056045524",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 1 launch(s) and 0 news item(s): The Pump Fun Star ($Fun). Skipped VIP/call-farm spam ($AMD/$MOSQUE/$MINTED/$inu/$fun/$ZERO/$DICE/$TRC20); skipped political noise; skipped low-follower $BUTTERFLY/$Safu; skipped $PANIC follow-on bot scan.",
   "launches": [
+    {
+      "coin": "The Pump Fun Star ($Fun)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address G1dPxV39DGrnAxxr3DPHoZpJRqamdpQPNtPiieKGpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:43 Berlin that The Pump Fun Star ($Fun) was about 3 minutes 11 seconds old on the pump.fun bonding curve, with another star-themed Solana launch and an unusual early buyer list flagged.",
+      "engagement": "284 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; star theme copy again; unusual buyer-list note in the signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118594989056045524",
+      "followers": 38529
+    },
     {
       "coin": "Don't Panic ($PANIC)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Self-promotion from a 753-follower project account with no organic engagement yet. Very early, high risk.",
       "url": "https://x.com/kadonkadonkmeme/status/2116884857649324067",
       "followers": 753
-    },
-    {
-      "coin": "CHILL MECH ($CHILLMECH)",
-      "chain": "Robinhood Chain",
-      "chainNote": "No contract address in the post.",
-      "buzz": "Project account @justachillmech announced at 14:17 Berlin that $CHILLMECH is live on Robinhood Chain, claiming 500 passes sold out in 4 hours.",
-      "engagement": "13 impressions, 1 like, 1 reply at scan time.",
-      "flags": "Self-promotion from a 117-follower project account; sellout claim unverified. Very early, high risk.",
-      "url": "https://x.com/justachillmech/status/2116882420402364561",
-      "followers": 117
     }
   ],
   "news": [
