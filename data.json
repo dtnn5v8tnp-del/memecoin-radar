@@ -1,8 +1,58 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:04 Berlin time (UTC+01:00)",
-  "newestPostId": "2118766390048075962",
-  "note": "Window: X posts since prior newestPostId 2118765252502229162 (recency search, 2 broad post queries + 1 news search). Added 1 launch(s) and 0 news item(s). Added: KEEPRIPPING ($RIPPING) pumpfun→PumpSwap signal via @bitecong. Skipped: Chinchilla Haton $HATON self-shill (170 fol); CabalhunterAPI $NIG serial-dev alert (183 fol); pumpfun_xbt $zcat holdings note (103 fol, existing ~$23m MC); Goblin Farmers game promo (443 fol); thin replies/shills ($LOOM, $PACT, christmas CTO reply with 1 fol); Grok-bot trading promo spam (@0xTenzo/@0xboan); MFUND idle-game quote (low engagement). News search: Ansem Pump.fun rewards, Pump.fun Kraken SOL deposit, Diamond rewards, and Pudgy/PENGU PFP story already on dashboard; no new major listings, rugs, or exploits in-window.",
+  "lastUpdated": "Friday 6 Nov 2026, 19:11 Berlin time (UTC+01:00)",
+  "newestPostId": "2118768063038288028",
+  "note": "Window: X posts since prior newestPostId 2118766390048075962 (recency search, 2 broad post queries; news skipped this run — last run already did news). Added 5 launch(s) and 0 news item(s). Added: Xi Xing Pooh ($Pooh) pumpfun→PumpSwap via @bitecong; PUPTIDE ($PUPTIDE) float-curve signal; BinCoin ($BIN); puptide ($puptide) peptides theme; @_rise self-launch with 60% top-15 airdrop + $7k buy (CA only, no ticker). Skipped: Bullrunups $LAURA/$RIPPING TG-shills (750 fol); ProofOfMemeApp (1 fol); Onagi Guard product promo; SunPump TRON promo; firepump_house call-exit shills; BROOZ carrot shill; $DIAMOND 6h update (thin); MemCoinsRadar $RIPPING already on dashboard; political/BTC noise from news-OR query.",
   "launches": [
+    {
+      "coin": "Xi Xing Pooh ($Pooh)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address F1fvzeTbmPXFDFL26jEN3FHmk558kJSA1cYqNRANpump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:10 Berlin that Xi Xing Pooh ($Pooh) is the second Pooh-themed launch on Solana today and graduated from pumpfun to PumpSwap about 51 seconds after launch; of the hundred wallets that bought the most, fifty-six have sold at least half (text cut off).",
+      "engagement": "61 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; second Pooh theme today; heavy early seller share among top buyers. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118768043530817924",
+      "followers": 38535
+    },
+    {
+      "coin": "PUPTIDE ($PUPTIDE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4Wat5oCqDdJ5mnLu9hxEKk94e9shZGm95RdHPBDfLoat (described as still on the float bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:09 Berlin that PUPTIDE ($PUPTIDE) is the second PUPTIDE-themed launch on Solana today, under a minute old and still on the float bonding curve so it has not graduated; the signal flags something unusual about the buyer base (text cut off).",
+      "engagement": "296 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; second same-theme launch today; different CA from lowercase $puptide. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118767741503168901",
+      "followers": 38535
+    },
+    {
+      "coin": "BinCoin ($BIN)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address G3tmXVvcao4Y9mp9aQwXitXAwTQHFYAcm3ScmRnzWWb4 (described as a pumpfun launch).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:09 Berlin that BinCoin ($BIN) is a pumpfun launch on Solana caught about 51 seconds after it opened, with a recycling theme rather than a joke; a researched report on this exact contract is cited (text cut off).",
+      "engagement": "253 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; recycling theme claimed. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118767679314231455",
+      "followers": 38535
+    },
+    {
+      "coin": "puptide ($puptide)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4QEQamcjhuf6pb3ys1SRQmz75ujaoo6QycHNSrRKpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:08 Berlin that puptide ($puptide) is a Solana memecoin on pumpfun named after peptides, with wellness-theme links; at signal it sat at about a $15.8K market cap, still on the pumpfun bonding curve (text cut off).",
+      "engagement": "311 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; peptides/wellness theme; different CA from uppercase $PUPTIDE. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118767413420490853",
+      "followers": 38535
+    },
+    {
+      "coin": "Rise memecoin (ticker not stated in post)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3Hmen67aaYp88oHSs7Q3ZSYHUDtpG7zY8Uk1z1atpump (pump.fun / Pump Fun). No ticker name in the post text.",
+      "buzz": "@_rise (19,791 followers) posted at 19:07 Berlin that their own memecoin is live on Pump Fun; they say 60% of supply will be airdropped to the top 15 holders at bonding, and they plan a $7,000 buy in 15 minutes.",
+      "engagement": "317 impressions, 6 likes, 0 reposts, 3 replies, 5 quotes at scan time.",
+      "flags": "Creator self-launch with airdrop and buy commitment stated; early, high risk; ticker not named in the post.",
+      "url": "https://x.com/_rise/status/2118767192493703380",
+      "followers": 19791
+    },
     {
       "coin": "KEEPRIPPING ($RIPPING)",
       "chain": "Solana",
@@ -252,56 +302,6 @@
       "flags": "Only an automated signal account so far; thin receipts/deployer-history theme; prior window had a separate thin @payreceipts fee-routing promo. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118721123705848239",
       "followers": 38533
-    },
-    {
-      "coin": "Anonymous Cats ($ZCATS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address CAMJCW5oNwSKtVbaS3GSqjwZ75MXKmgYgs7Bemui4dVq (stonkfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,532 followers) posted at 16:01 Berlin that Anonymous Cats ($ZCATS) is a Solana token on the stonkfun bonding curve, about half a minute old at signal time, still on that curve; the name and ticker lean on an \"anonymous\" theme.",
-      "engagement": "322 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin anonymous/cats meme theme; stonkfun not pump.fun. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118720358262202805",
-      "followers": 38532
-    },
-    {
-      "coin": "Crypto Retirement Fund ($CRF)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 8GZUjjGXp8cwvbg7JQ4sHA9SPxgGFMyDLiZgv6Y5Kwwm (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 15:56 Berlin that Crypto Retirement Fund ($CRF) is a pumpfun launch on Solana about twenty minutes old at signal time, with no prior X posts on this contract; the name frames a crypto-pension theme.",
-      "engagement": "275 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin pension/retirement meme theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118719229809832310",
-      "followers": 38530
-    },
-    {
-      "coin": "unnamed cat-meta token (no ticker in post)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1 (Solana; not a pump.fun suffix).",
-      "buzz": "KOL @tazmancrypto (27,758 followers) posted at 15:00 Berlin highlighting a Solana cat-meta token whose mechanics reward holders who stick through the bonding curve with 1% of supply, while creators collect 0.8% on the curve.",
-      "engagement": "316 impressions, 20 likes, 2 reposts, 7 replies at scan time.",
-      "flags": "No ticker named in the post; CA does not end in pump. Early but real engagement from a mid-size KOL. Very early, high risk.",
-      "url": "https://x.com/tazmancrypto/status/2118705029745926316",
-      "followers": 27758
-    },
-    {
-      "coin": "The Incel Dibbler (unnamed ticker; Steve in signal)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address A4oL7WDF3nw9TWtuVP5uVaJ9CVR3u4a9j2htqZKQpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 14:44 Berlin that The Incel Dibbler (Steve) is a Solana AI-signal launch that reached 88% of the way to graduation in under five minutes, with an unusual deployer history noted but cut off in the post text.",
-      "engagement": "434 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin/edgy theme; very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118701021157585013",
-      "followers": 38530
-    },
-    {
-      "coin": "Labs ($Labs)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address HaNuBbr9QnuCRws28WXtaVkRfMgpApcFMS52Ln95qh5Z (pump.fun). Distinct from earlier Solana Labs ($LABS) CA 3vpnJAz2JQJDq1tM9BR7E1Q5Z2qexkoaPq7cmsBJjDex and from $LABS CA 4FHEBKNYy6BZ1QFMKj1xL8HDTM12rdXLRYw8DgiCUnQn.",
-      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:24 Berlin that Labs ($Labs) is a pump.fun launch at 75% of the way to graduation on the bonding curve, framed as a Solana founder reaction story rather than an image meme.",
-      "engagement": "357 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; another Labs-named CA in the same window as a separate $LABS token. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118695938344767515",
-      "followers": 38527
     }
   ],
   "news": [
