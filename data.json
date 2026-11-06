@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 17:32 Berlin time (UTC+01:00)",
-  "newestPostId": "2118743138659615135",
-  "note": "Window: X posts since prior newestPostId 2118742058143809780 (recency search, 2 post queries; launch query retried after invalid CA: syntax). Added 0 launch(s) and 0 news item(s). Skipped: airdrop spam $XFEE/$Mootoon/$Death/$JBDEV (@lagesjullia/@sbusfzi); self-promo NovaPad (@Nova_Pad_Sol, 2 fol, account created today); call-account $ZCATS (@callerfiona11, already on board); hashtag-farm $MNTD spam (@_Ese_F/@NosaOsaz); paid-dex $TRND bot (@dex_kolwatcher, already on board); low-follower $NFLC (@BitXobiHQ, 5 fol); pre-launch Google-Form airdrop/address harvest (@zandyor); BROOZ contest entry; pumpfun referral spam; political $TRUMP noise; SYNAPZ reply shill. News query returned mostly non-memecoin political posts.",
+  "lastUpdated": "Friday 6 Nov 2026, 17:38 Berlin time (UTC+01:00)",
+  "newestPostId": "2118744468748681520",
+  "note": "Window: X posts since prior newestPostId 2118743138659615135 (recency search, 3 post queries; no news API this run). Added 0 launch(s) and 1 news item(s). Added: Travladd upcoming memecoin (10 days; high engagement). Skipped: self-promo $AMETA (@pizzabasedev1x); call-farm $INU/#401kinu (@EarlyChad_/@Massivepumpmast/@popmemecoin); reply-shill @TommyCalls; pre-CA tease @UnbotheredDi (60 fol, account created yesterday); self-promo $BUFFUR (@BuffurCat, 13 fol); radar-bot $CHICXU (@MemCoinsRadar); call-account $ZCATS (@EricSolProphet, already on board); pumpfun referral spam; pre-launch @devexfun (83 fol); bot $PARPY (@SenatorLTD, 107 fol); political TRUMP/PEPE noise from news query.",
   "launches": [
     {
       "coin": "Ram The Orangutan ($RAM)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Influencer launch",
+      "headline": "Travladd says his memecoin launches in 10 days, runs $1,000 giveaway",
+      "coins": "Travladd (unnamed, pre-launch)",
+      "detail": "Futures trader @travladd (about 475,977 followers; OKX partner in bio) posted that his memecoin launches in 10 days, with a $1,000 giveaway plus $100 for someone who retweets. He claims no active bundle, plans to buy around 60% of supply and burn it, pay marketing in stables, and take profit from taxes rather than dumping tokens. Post had about 5,026 impressions, 203 likes, 199 reposts, 146 replies, and 15 bookmarks at scan time. No ticker or contract address yet.",
+      "updated": "6 Nov 2026, 17:38 Berlin",
+      "url": "https://x.com/travladd/status/2118743476041039915"
+    },
+    {
       "topic": "Pump.fun / rewards",
       "headline": "Pump.fun launches Diamond callout rewards for token holders",
       "coins": "Pump.fun",
@@ -536,14 +544,6 @@
       "detail": "X news summary: Yakovenko likened memecoins and NFTs to mobile-game loot boxes—speculation with near-zero creation cost—and suggested routing trading profits into low-fee index funds. Reactions mixed between praise for honesty and jokes about building the casino then criticizing the slots.",
       "updated": "6 Nov, 06:21 (Berlin)",
       "url": "https://x.com/i/trending/2118142599944909199"
-    },
-    {
-      "topic": "Price move / Pump.fun",
-      "headline": "X News: $BATON rallies on Pump.fun as BATONARMY tops squad boards; Ansem highlights it",
-      "coins": "BATON",
-      "detail": "X news summary: $BATON was up about 26% over 24 hours with its community topping Pump.fun squad leaderboards (~$845K holdings). Ansem called it a strong pump-paired coin; charts cited a climb from roughly $4M toward $6M market cap. High volatility.",
-      "updated": "6 Nov, 06:21 (Berlin)",
-      "url": "https://x.com/i/trending/2118410030307578124"
     }
   ],
   "hourly": [
