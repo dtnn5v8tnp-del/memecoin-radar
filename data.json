@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:18 Berlin time (UTC+01:00)",
-  "newestPostId": "2118784800811262319",
-  "note": "Window: X posts since prior newestPostId 2118783501176627280 (recency search, 2 broad post queries + news search). Added 1 launch(s) and 4 news item(s). Skipped: FrongHL 4-follower same-day $FRONG shill; EdduVault 7-follower reply-farm $EDU; floatyXfloat 0-follower same-day float checkmark; blackpantherbos 18-follower pre-launch $PANTHER spam; GGMCRYPTO/AlphaPulsevw/Annatrader22 thin-engagement call shills; BscKOLScanner bot $GEMERALD; JEREMYhboo toxic ticker VIP shill; California CA politics false positives; MerlinOnWeb3 CA-drop reply.",
+  "lastUpdated": "Friday 6 Nov 2026, 20:19 Berlin time (UTC+01:00)",
+  "newestPostId": "2118785188222341443",
+  "note": "Window: X posts since prior newestPostId 2118784800811262319 (recency search, 2 broad post queries; news search skipped this run). Added 2 launch(s) and 1 news item(s). Skipped: AlphaPulsevw/JEREMYhboo/Strong69106/Kaan_Capitug0/MemeGameAlpha/THEDUKEOFBre/_DegenKing_1/DegenFlow_/LOKITRENCH VIP-TG call shills; AutorunAlert bot $Adeng; clawddevs $CLAWD buyback spam; MrRobot402 40-follower pre-launch; Brent34690 unverified Binance-hack claim; false-positive graduated football/Texas posts; thin replies and pumpfun banter without a concrete coin event.",
   "launches": [
+    {
+      "coin": "WHITE MONSTER ($WHITE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address JATk4idqfAyU21F6w3xf2Rbyj9j8FnYxVWLMfoweqExh (described as float bonding curve on Raydium LaunchLab; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,561 followers) posted at 20:18 Berlin that WHITE MONSTER ($WHITE) is the seventh white-themed Solana launch today and was still on the float bonding curve (Raydium LaunchLab) about 26 seconds into its life when signaled; it flags an odd deployer-count detail (text cut off).",
+      "engagement": "100 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; seventh white-theme clone today; distinct CA from earlier WHITE/MONSTER rows; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118785188067168709",
+      "followers": 38561
+    },
+    {
+      "coin": "floaty ($floaty)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4u4FNh6MbFKiEKfdm5srbegeAfF1MX1dYCt8kSWfLoat (described as Raydium LaunchLab / float bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,561 followers) posted at 20:18 Berlin that floaty ($floaty) is a Solana token on Raydium LaunchLab, barely a minute old and still on its bonding curve with no graduation yet; it says there is no clear theme in the name and only one thin X post tied to the contract (text cut off).",
+      "engagement": "177 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only theme; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118785022681584121",
+      "followers": 38561
+    },
     {
       "coin": "White Monster ($MONSTER)",
       "chain": "Solana",
@@ -282,29 +302,17 @@
       "flags": "Creator self-launch with airdrop and buy commitment stated; early, high risk; ticker not named in the post.",
       "url": "https://x.com/_rise/status/2118767192493703380",
       "followers": 19791
-    },
-    {
-      "coin": "KEEPRIPPING ($RIPPING)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address J3icQvBVUiVTnmRuDVnyT9jad2hJB6R6gjkCoqkUpump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:00 Berlin that KEEPRIPPING ($RIPPING) is a pumpfun launch on Solana built on a keep-ripping theme and graduated from the bonding curve to PumpSwap just past the half-hour mark; the signal notes something odd but the text is cut off.",
-      "engagement": "370 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin keep-ripping theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118765424989098371",
-      "followers": 38535
-    },
-    {
-      "coin": "Key Opinion Leader ($KOL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DLRvffucRe1sfmKgUu1SfrAt7geFfxjB4sw8CCS4pump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 18:53 Berlin that Key Opinion Leader ($KOL) is a pumpfun launch on Solana whose name states its theme (leader); it is minutes old, on the bonding curve, short of graduation; a researched report cited in the signal traces it to X user Fear (text cut off).",
-      "engagement": "381 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin name-as-theme launch. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118763616250003967",
-      "followers": 38535
     }
   ],
   "news": [
+    {
+      "topic": "Regulatory / India exchanges",
+      "headline": "BeInCrypto: India ED raids CoinDCX and Delta Exchange over offshore crypto routing",
+      "coins": "USDT, CoinDCX, Delta Exchange",
+      "detail": "Verified @beincrypto (87,615 followers) posted at 20:18 Berlin that India's Enforcement Directorate searched three offices tied to CoinDCX and Delta Exchange over alleged foreign exchange violations, claiming customer rupee deposits were converted into $USDT for offshore routing (text cut off). Outlet-reported regulatory action, not a memecoin-specific event.",
+      "updated": "6 Nov 2026, 20:19 Berlin",
+      "url": "https://x.com/beincrypto/status/2118785188222341443"
+    },
     {
       "topic": "Exchange listing / Collector Crypt",
       "headline": "X News: Coinbase opens spot trading for Collector Crypt (CARD)",
@@ -536,14 +544,6 @@
       "detail": "Verified exchange account @KCEX_Official (135,910 followers) posted at 09:21 Berlin that Solana memecoin RAMBO (CA FK9B5hUHyhnBUsUC3sTm2QmvfxMRBWHqe4FR98Yy3m68) is an initial KCEX listing: deposits open, RAMBO/USDT spot trading starts 2026-11-06 08:30 UTC with zero spot fees, withdrawals from 2026-11-07 08:30 UTC. Early engagement: 687 impressions, 0 likes at scan. Regional account @KCEX_Vietnam (30,832 followers) echoed the same listing.",
       "updated": "6 Nov, 09:28 (Berlin)",
       "url": "https://x.com/KCEX_Official/status/2118619890345255350"
-    },
-    {
-      "topic": "Exchange listing / Solana meme",
-      "headline": "KCEX lists Dessa ($DESSA) for spot trading",
-      "coins": "DESSA",
-      "detail": "Verified exchange account @KCEX_Official (135,908 followers) posted at 09:11 Berlin that Solana memecoin @DessaOnSOL ($DESSA) is an initial KCEX listing: deposits open, DESSA/USDT spot trading started 2026-11-06 08:10 UTC with zero spot fees, withdrawals from 2026-11-07 08:10 UTC. Early engagement: 719 impressions, 1 like at scan. Regional account @KCEX_Vietnam (30,832 followers) echoed the same listing.",
-      "updated": "6 Nov, 09:19 (Berlin)",
-      "url": "https://x.com/KCEX_Official/status/2118617269064589701"
     }
   ],
   "hourly": [
