@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:00 Berlin time (UTC+01:00)",
-  "newestPostId": "2118765252502229162",
-  "note": "Window: X posts since prior newestPostId 2118764700146319611 (recency search, 3 broad post queries; news search skipped this run after prior run used one). Added 0 launch(s) and 1 news item(s). Added: Valour Spotlight SEK ETPs for PUMP/WIF/BONK (verified via Valour release + Spotlight). Skipped: ancetacloud rug-pattern thread (45 fol); RTs of already-tracked Chad's Cabal live-rug story; Magmandrock RT of open-ended buy-ask; 0xGaius_ temple-cat ATH flex (no clear new ticker/CA, thin engagement); tnlsol dog-wif-hijab pairing promo (253 fol); market_ceo RT of $GATO LBank listing claim (low engagement shill). Quiet launch window; no high-engagement new launches, rugs, or exploits in-window.",
+  "lastUpdated": "Friday 6 Nov 2026, 19:04 Berlin time (UTC+01:00)",
+  "newestPostId": "2118766390048075962",
+  "note": "Window: X posts since prior newestPostId 2118765252502229162 (recency search, 2 broad post queries + 1 news search). Added 1 launch(s) and 0 news item(s). Added: KEEPRIPPING ($RIPPING) pumpfun→PumpSwap signal via @bitecong. Skipped: Chinchilla Haton $HATON self-shill (170 fol); CabalhunterAPI $NIG serial-dev alert (183 fol); pumpfun_xbt $zcat holdings note (103 fol, existing ~$23m MC); Goblin Farmers game promo (443 fol); thin replies/shills ($LOOM, $PACT, christmas CTO reply with 1 fol); Grok-bot trading promo spam (@0xTenzo/@0xboan); MFUND idle-game quote (low engagement). News search: Ansem Pump.fun rewards, Pump.fun Kraken SOL deposit, Diamond rewards, and Pudgy/PENGU PFP story already on dashboard; no new major listings, rugs, or exploits in-window.",
   "launches": [
+    {
+      "coin": "KEEPRIPPING ($RIPPING)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address J3icQvBVUiVTnmRuDVnyT9jad2hJB6R6gjkCoqkUpump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:00 Berlin that KEEPRIPPING ($RIPPING) is a pumpfun launch on Solana built on a keep-ripping theme and graduated from the bonding curve to PumpSwap just past the half-hour mark; the signal notes something odd but the text is cut off.",
+      "engagement": "370 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin keep-ripping theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118765424989098371",
+      "followers": 38535
+    },
     {
       "coin": "Key Opinion Leader ($KOL)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "357 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; another Labs-named CA in the same window as a separate $LABS token. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118695938344767515",
-      "followers": 38527
-    },
-    {
-      "coin": "Labs ($LABS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4FHEBKNYy6BZ1QFMKj1xL8HDTM12rdXLRYw8DgiCUnQn (pump.fun). Distinct from earlier Solana Labs ($LABS) CA 3vpnJAz2JQJDq1tM9BR7E1Q5Z2qexkoaPq7cmsBJjDex.",
-      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:25 Berlin that Labs ($LABS) is still on the pump.fun bonding curve nearly at graduation, with the deployer sold out; the signal's own tracking puts market cap at about $34.2K.",
-      "engagement": "67 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer sold everything per the signal; same Labs name family as other new CAs. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118696394081145248",
       "followers": 38527
     }
   ],
