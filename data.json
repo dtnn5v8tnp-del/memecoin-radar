@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 15:01 Berlin time (UTC+01:00)",
-  "newestPostId": "2118704975471882415",
-  "note": "Window: X posts since prior newestPostId 2118702980417646722 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; plus news search this run). Added 0 launch(s) and 0 news item(s). Skipped: Fiverr/dev spam (@ruposhamin); self-promo pre-launches with no CA (@WRAITH_on_SOL $WRTH, @LadyInu_x, @opescadormeme $OPE, @memecoinking20); call/shill farms (@firepump_house $NIG/$ZATS, @_hillscaller/$Vanta_Sol_ $GM, @Massivepumpmast $APPLEPAID, @SOLANACHAD009 $ANTI, @DegenFlow_ $ROCCO, @raid100x bait); airdrop spam (@bz4Christ $HEGSETH67, @Lin252525 $VAMP); brand-new bot @SOLSignals_ (created today, 2 followers); @OctoToolsLive $OCTO promo; @Tetrascoreio grading digest (201 followers); @solananew Pumpfun revenue chart (379 impressions, thin); political Trump-rug replies; news stories already on dashboard (Pump.fun→Kraken, Ansem rewards, Leap app).",
+  "lastUpdated": "Friday 6 Nov 2026, 15:13 Berlin time (UTC+01:00)",
+  "newestPostId": "2118706758478668265",
+  "note": "Window: X posts since prior newestPostId 2118704975471882415 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; no news search this run). Added 1 launch(s) and 0 news item(s). Skipped: cashtag/Bungee promo farm (@VeritasVauxrnw); political Trump/dump replies; airdrop spam (@Lin252525 $LIFE); $applepaid shill (@Crypt_2_Knight, CA already on dashboard); partner-seeking spam (@Solanartist0603); call farm (@SenatorLTD $RAGEBAIT/$ANTI); self-promo clawd-chain fork (@0rdlibrary); thin pumpfun-cancer take (@BPFonStonk, 693 followers); unrelated market-prep/China bulletin noise.",
   "launches": [
+    {
+      "coin": "unnamed cat-meta token (no ticker in post)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1 (Solana; not a pump.fun suffix).",
+      "buzz": "KOL @tazmancrypto (27,758 followers) posted at 15:00 Berlin highlighting a Solana cat-meta token whose mechanics reward holders who stick through the bonding curve with 1% of supply, while creators collect 0.8% on the curve.",
+      "engagement": "316 impressions, 20 likes, 2 reposts, 7 replies at scan time.",
+      "flags": "No ticker named in the post; CA does not end in pump. Early but real engagement from a mid-size KOL. Very early, high risk.",
+      "url": "https://x.com/tazmancrypto/status/2118705029745926316",
+      "followers": 27758
+    },
     {
       "coin": "The Incel Dibbler (unnamed ticker; Steve in signal)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "262 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; \"united\" theme clone wave. Already graduated. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118645280744886478",
-      "followers": 38530
-    },
-    {
-      "coin": "The Last Memecoin ($TLM)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address ABicNQY6kxCajLm2xNfg82hPyKBNHNH38jYUcVs8pump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 10:56 Berlin that The Last Memecoin ($TLM) is the third memecoin-themed launch on Solana today and graduated from pump.fun to PumpSwap 12 minutes 49 seconds after launch; the signal flags bundler wallets in the buyer list as the odd part.",
-      "engagement": "478 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; meta \"last memecoin\" name; bundler oddity noted. Already graduated. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118643558320398424",
       "followers": 38530
     }
   ],
