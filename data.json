@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:45 Berlin time (UTC+01:00)",
-  "newestPostId": "2118580169883402264",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) plus news search max_age_hours=2. Added 1 launch(s) and 1 news item(s). Filtered politics replies matching Trump keyword noise; skipped Solflare wallet promo (not a coin launch); skipped already-dashboarded Ansem/Pump.fun, Robinhood trenches, and Leap app news stories.",
+  "lastUpdated": "Friday 6 Nov 2026, 06:49 Berlin time (UTC+01:00)",
+  "newestPostId": "2118581286558204283",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; news search skipped this run). Added 2 launch(s) and 0 news item(s). Skipped VIP/call-farm spam on $AMD/$DIAMOND/$RETIRE (already dashboarded or shill); skipped airdrop-style $LMAO/$JASON/$PURR/$CHOO/$EGGU posts; skipped DOGE price chatter and Samsung USDC wallet news (not memecoin).",
   "launches": [
+    {
+      "coin": "bracket ($bracket)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FREYgP9ZnA7zSQjX2oiPSBZUykx2zTRfqtrsZML3pump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,538 followers) posted at 06:46 Berlin that this is the third Solana token named bracket today, and it was already 83% of the way to pump.fun graduation 24 seconds after launch.",
+      "engagement": "341 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Third copycat of the bracket theme in one day; only an automated signal account so far. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118580746944409975",
+      "followers": 38538
+    },
+    {
+      "coin": "holdplease ($holdplease)",
+      "chain": "Robinhood Chain",
+      "chainNote": "Post ties the token to Stonklauncher / StonkBrokers launchpad on Robinhood Chain; no Solana-style pump.fun contract in the post text.",
+      "buzz": "@Alahlyloo (60,574 followers) posted at 06:48 Berlin introducing StonkSecretary, the pixel secretary behind $holdplease, framed as a Stonklauncher launch with an office/deadpan-secretary theme.",
+      "engagement": "52 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Early promotional post with little engagement yet; chain and contract details thin in-source. Very early, high risk.",
+      "url": "https://x.com/Alahlyloo/status/2118581247610077290",
+      "followers": 60574
+    },
     {
       "coin": "Girlcoin ($Girlcoin)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Automated on-chain signal account; brand-new micro-cap; buyer concentration noted by the poster.",
       "url": "https://x.com/bitecong/status/2116867511392325711",
       "followers": 38453
-    },
-    {
-      "coin": "$DODO (Shih Tzu dog coin)",
-      "chain": "Solana",
-      "chainNote": "No contract address in the post",
-      "buzz": "@CryptoAndrew_1 (75,043 followers) promotes $DODO as a Shih Tzu-themed Solana memecoin with 1% locked for pet charity, claiming it crossed $50k market cap within days and is aiming for $100k.",
-      "engagement": "192 likes, about 5,150 impressions at scan time.",
-      "flags": "Promotional post from a large account (possibly paid); market cap and charity lock claims are unverified; very small cap.",
-      "url": "https://x.com/CryptoAndrew_1/status/2116865478945902682",
-      "followers": 75043
-    },
-    {
-      "coin": "Unnamed pump.fun token from @_rise",
-      "chain": "Solana",
-      "chainNote": "CA D8UWQfTvntVkQGUM4y367uzLtGYyUCcYucFqriz7pump",
-      "buzz": "@_rise (19,927 followers) says their own memecoin is live on Pump Fun, promises to airdrop 60% of supply to the top 15 holders at bonding and to add a $7,000 buy in 15 minutes.",
-      "engagement": "1 like, about 270 impressions at scan time.",
-      "flags": "Self-launched by the poster; promised dev buy and airdrop are unverified; brand-new token.",
-      "url": "https://x.com/_rise/status/2116847327021597003",
-      "followers": 19927
     }
   ],
   "news": [
