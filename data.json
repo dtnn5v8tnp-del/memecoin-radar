@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 10:49 Berlin time (UTC+01:00)",
-  "newestPostId": "2118641744325804261",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 0 news item(s). Skipped: @westcalls0 $RM re-shill of already-listed EW1b9rc…pump; @pisklauren $ZOMBCASH Coinvote spam; @SolMoh0x/@Alph_gems $KURO/$Kuro TG call noise; @Sol_Gems00 $UK paid-DEX call; @solanabesttrade $MAMESUKE TG shill; @datuna_memecoin/$WAITING (52 followers); @ucetavra $TAV pre-launch (26 followers); @PumbaLiving Monero history quote (not a launch); French CA/non-crypto reply noise; political Trump-dump reply.",
+  "lastUpdated": "Friday 6 Nov 2026, 10:54 Berlin time (UTC+01:00)",
+  "newestPostId": "2118643027430248547",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) + 1 news search. Added 1 launch(s) and 0 news item(s). Skipped: @Theblackbullxxx DESSA BANK re-shill (already listed); @AlphaBullishups $BDHM TG re-shill (already listed); @firepump_house $WABI TG call / exit spam; @LeoKaned low-follower timeline fluff; Ansem Pump.fun callout-rewards news already covered; Variational Omni Points OTC collapse not a memecoin story.",
   "launches": [
+    {
+      "coin": "Limmy Waking Up ($LIMMY)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 9PACXELBxKFDNcHjAnMcXjZiAXyYNjXBWiNtmVsCRpP5 (pump.fun bonding curve).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 10:50 Berlin that Limmy Waking Up ($LIMMY) names Scottish streamer Limmy and was 84% along the pump.fun bonding curve less than a minute after launch; the signal flags 92 bundler wallets in the launch block as an oddity.",
+      "engagement": "393 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; heavy bundler count at launch. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118642132739301713",
+      "followers": 38530
+    },
     {
       "coin": "november ($november)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Numbers come from call accounts pushing VIP Telegram, not a primary project source. Treat as unverified momentum chatter, high risk.",
       "url": "https://x.com/EarlyChad_/status/2118577882867855444",
       "followers": 5939
-    },
-    {
-      "coin": "BILL ($BILL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 6RDff7NwDJFX9zLg53RJNPsWpdfRs1xxDxivhL3Ypump (pump.fun).",
-      "buzz": "Caller @EarlyChad_ (5,938 followers) claimed at 06:28 Berlin that $BILL ran from $2.7K to $70K market cap (25.9x); other call accounts echoed 50x+ profit claims in the same window.",
-      "engagement": "About 59–93 impressions and 0–1 likes per post at scan time.",
-      "flags": "Numbers come from call accounts pushing VIP Telegram, not a primary project source. Treat as unverified momentum chatter, high risk.",
-      "url": "https://x.com/EarlyChad_/status/2118576181196869719",
-      "followers": 5938
     }
   ],
   "news": [
