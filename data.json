@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 00:22 Berlin time (UTC+01:00)",
-  "newestPostId": "2118846305564872982",
-  "note": "Window: X posts since prior newestPostId 2118844557240504468 (recency: 1 launch/pumpfun query + 1 news/rug query; skipped search_news this run). Added 1 launch(s) and 1 news item(s). Seen but skipped: DonFolga $NAP airdrop (12 followers); JoinPactora/Pactora reply spam; KaelricVaedrin SunPump fair-launch promo; chopmarkets 0-follower intro; HeyD00M $DOOM project promo (101 followers, 10 impressions); Abu4Raaeed Tail Inu migration (3 followers; $TI already on board); dex_kolwatcher paid DEXScreener $HIM (thin MC); LarpCheckPad self-promo (59 followers); awing0523 $SHK low-follower shill; fourtislisting $COGE 200% listing alert (0 likes, promo account); CryptoThro engagement-farm 100x ask; politics false-positives (Trump dump metaphors); crayak $PUMP +1% near $0.0039 (mild, not board-worthy).",
+  "lastUpdated": "Saturday 7 Nov 2026, 00:27 Berlin time (UTC+01:00)",
+  "newestPostId": "2118847545321615577",
+  "note": "Window: X posts since prior newestPostId 2118846305564872982 (recency: 1 launch/pumpfun query + 1 news/rug query; skipped search_news this run). Added 1 launch(s) and 0 news item(s). Seen but skipped: GentleWarrior02 $GWAR project promo (old Nov 2025 launch); SOLANACHAD009 blank CA dump; CipherEdgeCalls/EarlyRada $DCAT call-farm; firepump_house profit/shill spam ($WLD/$WLFI/$PUMPFUN); WeHave1DFacts/_DegenKing_1/BadManLeek 87CQ… $JOSÉ call-farm (already skipped pattern); Cryptoprocesing $Pepper reply (148 followers); 0x_AuraLux1 $GTA6K9 CA dump; Strong69106 $TI call farm (Tail Inu already on board); nailirosai $ETRM (21 followers); EarlyChad_ $HODL call farm; KINGMYCO_COIN self-promo; AmmyAfterDark tip-jar safety post; ALPHAxOM3GA $PUMP 2.6x mild call; politics Epstein/Trump false-positive.",
   "launches": [
+    {
+      "coin": "ape ($ape)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5jqzgwyQMGjJyZPUHXbFCiQ7KmxdGK67ipJAowjHpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:25 Berlin an AI Signal that ape ($ape) is a pumpfun launch on Solana only seconds old at signal; it flags split early buying heavy with bundler wallets and fresh wallets, a pattern that suggests coordinated buying (text cut off).",
+      "engagement": "270 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; bundler/fresh-wallet mix flagged in signal; thin engagement; generic ape ticker. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118847168048242696",
+      "followers": 38571
+    },
     {
       "coin": "CryptoRuble (₽)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "275 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; ticker-name collision risk flagged in the signal itself; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118815226338697292",
-      "followers": 38569
-    },
-    {
-      "coin": "Privacy Cat ($PCAT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 12QSGPgCypoGnbfPjLUZfmQKCQMXC4g8B3RWxLGNCZyk (Solana-style address; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:15 Berlin an AI Signal that Privacy Cat ($PCAT) is the third privacy-themed launch today on Solana and already reached a $15.9K market cap about three minutes after launch; it notes unusual wallet spread with dozens of (text cut off).",
-      "engagement": "209 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; third privacy-theme launch today; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118814592747135347",
       "followers": 38569
     }
   ],
