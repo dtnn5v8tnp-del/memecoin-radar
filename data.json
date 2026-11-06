@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 16:59 Berlin time (UTC+01:00)",
-  "newestPostId": "2118734806984921522",
-  "note": "Window: X posts since prior newestPostId 2118734200031289757 (recency search, 2 post queries + 1 signal/CA query; news skipped this run). Added 0 launch(s) and 0 news item(s). Skipped: $401kat call-farm/bot spam (@MrTitanBull/@popmemecoin); $ZCATS VIP/TG call-farm rehash (@AlphaPulsevw/@ASTRAsol4; already on dashboard); $SK Super Kitty airdrop farm (@withchanu); $BRIAN self-promo (@BrianBuffering, 6 followers); PercolatorTrade promo (@CrypTony25); Solana Labs Leap waitlist (@LeNhan54); SOL-to-Kraken whale note not memecoin-specific (@CryptoNews_op); political Trump/Epstein/rug metaphor noise and thin $PEPE/$TRUMP tool spam from second query.",
+  "lastUpdated": "Friday 6 Nov 2026, 17:10 Berlin time (UTC+01:00)",
+  "newestPostId": "2118737096974447049",
+  "note": "Window: X posts since prior newestPostId 2118734806984921522 (recency search, 2 post queries + 1 news search). Added 1 launch(s) and 1 news item(s). Skipped: $401KAT/$ZCATS/$GLAZE VIP/TG call-farm spam (@Charlie_SOL23/@clebers1984/@Sol_Ficra); self-promo $GTA (@Gta__sol, 12 followers), $BASKT (@basktdotapp, 12 followers), $BARK (0 followers), $H2OGONE, $HOLDNAP; airdrop-farm spam ($CARDS/$USRD/$WAGMI/$LIFE); thin $TRUMP ATL diary (@OnTheBlokkchain); PEPE thesis (@basilda_a) and $ANSEM shill; Solana Labs Leap waitlist; political Trump/dump metaphor noise; duplicate Pump.fun→Kraken news already on dashboard; Ansem short/rewards news left as secondary to Diamond tier.",
   "launches": [
+    {
+      "coin": "TrendTrader ($TRND)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address eU26YFkPuKEk8FCYmA2krwBZhjDusWKQQZ2w4vcpump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,532 followers) posted at 17:07 Berlin that TrendTrader ($TRND) is a Solana token framed as a hedge-fund buyback story (claimed $1M fund trading gold and oil, with half its profit said to buy and burn the token); the signal says it graduated from pumpfun to PumpSwap in about six minutes fifty-eight seconds.",
+      "engagement": "0 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; buyback/hedge-fund claims are unverified in the post. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118737096974447049",
+      "followers": 38532
+    },
     {
       "coin": "Gabe Horn ($Gabe)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; graduated with claimed developer exit. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118656363505356805",
       "followers": 38530
-    },
-    {
-      "coin": "GTA6 DOGE ($ROCCO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4PAtcdgNuh93Tn4LA2XkbDgee2PnoCb263j7hkyupump (PumpSwap / Solana).",
-      "buzz": "Signal account @dex_kolwatcher (8,968 followers) posted at 11:43 Berlin a paid DEXScreener alert for $ROCCO on Solana PumpSwap, citing about $88.9K market cap and roughly $90.6K buy / $86.0K sell 24h volume in the alert text. Scanner @SolanaTren59241 also flagged GTA6 DOGE ($ROCCO) as a CTO breakout around a $108.8K peak MC / 533 holders.",
-      "engagement": "195 impressions, 0 likes, 0 reposts on the DEXScreener signal at scan time; companion CTO alert had 71 impressions.",
-      "flags": "Paid DEXScreener promo via signal bot plus scanner CTO ping; thin organic engagement. Distinct CA from listed GTA6DOG ($GTA6K9). Very early, high risk.",
-      "url": "https://x.com/dex_kolwatcher/status/2118655555971502175",
-      "followers": 8968
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun / rewards",
+      "headline": "Pump.fun launches Diamond callout rewards for token holders",
+      "coins": "Pump.fun",
+      "detail": "X news story (updated ~17:06 Berlin) says Pump.fun added a Diamond callout reward tier beside the existing Degen tab, aimed at higher market-cap tokens and less frequent broadcasts to encourage longer holding; community posts praised it as supporting conviction over quick flips, while noting a small daily rewards pot and possible side-wallet workarounds.",
+      "updated": "6 Nov 2026, 17:10 Berlin",
+      "url": "https://x.com/i/trending/2118735317964648644"
+    },
     {
       "topic": "Rug / live stream",
       "headline": "Chad's Cabal: streamer was up $50k on a friend's memecoin, then that friend rugged it to zero live",
@@ -536,14 +544,6 @@
       "detail": "X news summary: $BATON was up about 26% over 24 hours with its community topping Pump.fun squad leaderboards (~$845K holdings). Ansem called it a strong pump-paired coin; charts cited a climb from roughly $4M toward $6M market cap. High volatility.",
       "updated": "6 Nov, 06:21 (Berlin)",
       "url": "https://x.com/i/trending/2118410030307578124"
-    },
-    {
-      "topic": "Platform / controversy",
-      "headline": "X News: Pump.fun accused of coordinating an $AMD (A Meme Dog) pump from sub-$100K to $3M+",
-      "coins": "AMD (A Meme Dog), Pump.fun",
-      "detail": "X news summary: observers claimed select traders got early access, then trending and account amplification; Ansem was cited with large daily gains. Skeptics called the pattern rigged amid an ongoing New York lawsuit alleging insider advantages on the platform.",
-      "updated": "6 Nov, 06:21 (Berlin)",
-      "url": "https://x.com/i/trending/2117789431566336458"
     }
   ],
   "hourly": [
