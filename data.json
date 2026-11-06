@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:48 Berlin time (UTC+01:00)",
-  "newestPostId": "2118777480433520920",
-  "note": "Window: X posts since prior newestPostId 2118776418230468645 (recency search, 2 broad post queries; launch query retried after invalid CA: syntax). Added 0 launch(s) and 0 news item(s). Skipped: Charlie_SOL23/Sol_Gems00/Massivepumpmast/Kaan_Capitug0/Annatrader22 VIP-TG call shills ($KARL $RIPPING $KoriMu $FI $HODL $HABIBI); Brunna_leto TG farm ($LABS $GM $STEVE); GensNaut 4-follower $CHICXU insider; TrumpOnSol77 1-follower $TRUMP CA spam; EdduVault/Angelaxai/doogme_coin self-promo ($EDU $ANGELA $DOOMGE); camiladasilvaca $HYPE call; ProfProfitBTC $UAI short-'rugged' spam; political Trump/ICE OR noise; Meta Muse Spaces; prop-firm JadeJMA.",
+  "lastUpdated": "Friday 6 Nov 2026, 19:58 Berlin time (UTC+01:00)",
+  "newestPostId": "2118779927998660969",
+  "note": "Window: X posts since prior newestPostId 2118777480433520920 (recency search, 2 broad post queries). Added 0 launch(s) and 1 news item(s). Skipped: Kaan_Capitug0/Annatrader22/Massivepumpmast/Legend_Britney/Alpha_calls100/Bullrunups VIP-TG call shills ($ZCATS $401K/$401kinu $Degen $HODL $FI $RSHA262599); christophepump self-promo ($REGRETAMINE); Mta6_sol/KitchenHorrorX/popmemecoin/GafarSalih79937 thin self-promo or farm ($MTA $paper GTA-theme); dex_kolwatcher paid-DEXScreener bot ($AAC); political Trump/SEC/rug-pull OR noise; jiggacapital pumpfun-perp competition meta (not coin news).",
   "launches": [
     {
       "coin": "Chonky ($Chonky)",
@@ -307,6 +307,14 @@
   "news": [
     {
       "topic": "Pump / listing",
+      "headline": "COGE COIN up about 100% since Fourtis listing (MC ~$2.8M → ~$5.6M)",
+      "coins": "COGE",
+      "detail": "Listing-alert account @fourtislisting (67,295 followers) posted at 19:49 Berlin that #COGE COIN (@COGECOINMeme) is up 100% since listing on Fourtis, citing first market cap about $2.8M and last about $5.6M. Post had about 5,943 impressions, 11 likes, 1 quote, 1 reply, 1 repost at scan time. Contract in the quoted listing: 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump.",
+      "updated": "6 Nov 2026, 19:58 Berlin",
+      "url": "https://x.com/fourtislisting/status/2118777720259702911"
+    },
+    {
+      "topic": "Pump / listing",
       "headline": "FLOAT up about 200% since Fourtis listing (MC ~$2.4M → ~$8.3M)",
       "coins": "FLOAT",
       "detail": "Listing-alert account @fourtislisting (67,295 followers) posted at 19:37 Berlin that FLOAT (@floatdotxyz) is up about 200% since its Fourtis listing, citing first market cap about $2.4M and last about $8.3M. Post had about 6,431 impressions, 1 like, 0 reposts at scan time. Contract in the quoted listing: Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr.",
@@ -536,14 +544,6 @@
       "detail": "X news summary: David Dobrik promoted FOMO as an app to buy and sell stocks; critics say the app is for trading memecoins on chains like Solana (copy-trading, ~0.5% fees) and call the stocks label misleading for mainstream fans. Supporters see it as a way to reach his audience without crypto jargon.",
       "updated": "6 Nov, 06:58 (Berlin)",
       "url": "https://x.com/i/trending/2118361136919626012"
-    },
-    {
-      "topic": "Trump Media / Bitcoin",
-      "headline": "X News: Trump Media transfers 4,259 BTC (~$343M) to Crypto.com amid Nov 30 debt deadline",
-      "coins": "BTC, Trump Media / TRUMP ecosystem",
-      "detail": "X news summary: blockchain trackers saw Trump Media move over 4,000 Bitcoin (about $343M) to Crypto.com in two batches this week from wallets labeled as collateral for 2028 convertible notes, emptying most of those addresses ahead of a Nov 30 holder cash-repayment option on ~$1B notes. No sales confirmed; firm still holds roughly 14,139 BTC total. Chatter ties timing to post-midterm stock drops.",
-      "updated": "6 Nov, 06:45 (Berlin)",
-      "url": "https://x.com/i/trending/2118553338274824537"
     }
   ],
   "hourly": [
