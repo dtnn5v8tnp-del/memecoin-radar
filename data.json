@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 07:30 Berlin time (UTC+01:00)",
-  "newestPostId": "2118591620417462609",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 1 launch(s) and 0 news item(s): third hedge-themed $HEDGE (bitecong; CA HW6WZPei…pump, ~90% bonding curve). Skipped VIP/call-farm spam ($AMD/$DIAMOND/$Bill/$COIN/$FUN); skipped teaser with no ticker (@lexidyor); skipped product Launch AI and $COST airdrop phishing; news query mostly politics/off-topic.",
+  "lastUpdated": "Friday 6 Nov 2026, 07:38 Berlin time (UTC+01:00)",
+  "newestPostId": "2118593540015989006",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries + 1 retry). Added 2 launch(s) and 0 news item(s): The Black Pill ($BP), Don't Panic ($PANIC). Skipped VIP/call-farm spam ($COAI/$JCT/$Bubbles); skipped political Trump/rug noise; skipped Phantom 9 self-shill; skipped stablecoin EURGH and off-topic graduated/high-school hits.",
   "launches": [
+    {
+      "coin": "Don't Panic ($PANIC)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3NhrkMjhSJJwW6mNuYJEMxmXK5KjvbqZ8MeWSjhcmwHC (pump.fun).",
+      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:35 Berlin that Don't Panic ($PANIC) launched on pump.fun about thirty seconds before the signal, with most launch wallets that bought at the open still holding.",
+      "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; brand-new bonding-curve token. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118592976712843716",
+      "followers": 38529
+    },
+    {
+      "coin": "The Black Pill ($BP)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GNNhU2SEArd5RGN49Yjo4YHTipRA3E5gMJeUPE4Gpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:35 Berlin that The Black Pill ($BP) was about 1 hour 12 minutes old on pump.fun and that its deployer had already sold out of the token, with the black theme only in the name.",
+      "engagement": "356 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer already sold out; thin theme beyond the name. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118593004739100946",
+      "followers": 38529
+    },
     {
       "coin": "Hedge Fund ($HEDGE)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Self-promotion from a 117-follower project account; sellout claim unverified. Very early, high risk.",
       "url": "https://x.com/justachillmech/status/2116882420402364561",
       "followers": 117
-    },
-    {
-      "coin": "INKKY ($INKKY)",
-      "chain": "Solana (pump.fun)",
-      "chainNote": "CA Jy8kKwumNBdg3VtpvkzKh22kLQSw57Zr8sfdSSjpump (from the posts)",
-      "buzz": "Call account @CipherEdgeCalls flagged $INKKY at $9.5K market cap at 14:14 Berlin, then posted escalating updates within about a minute claiming it touched $1.0M and then $10.5M market cap (1,105x).",
-      "engagement": "38 to 72 impressions and 0 to 1 likes per post at scan time.",
-      "flags": "Single call account with rapid-fire self-updates; the jump from $1M to $10.5M in under a minute is implausible and unverified. Likely shill. High risk.",
-      "url": "https://x.com/CipherEdgeCalls/status/2116881546926072039",
-      "followers": 4085
-    },
-    {
-      "coin": "Regretamine ($REGRET / $REGRETAMINE / 后悔药)",
-      "chain": "Solana (pump.fun to PumpSwap) and BSC (Flap)",
-      "chainNote": "Several copycat CAs, e.g. SOL 5ZxTxQ488EZaynYZUkqqBt4y3H7w5f3KxiTNNZey7tWG and BSC 0x60897d4ea31934ec6a3f6421d0025f5032c87777 (from the posts)",
-      "buzz": "Fresh meme theme spawning coins: signal bot @bitecong flagged at least three Regretamine launches on Solana and a fourth on BSC today. @solhousesignals reports one $REGRET at $66.5K market cap with $20.3K liquidity and $114.4K 24h volume.",
-      "engagement": "Signal posts have about 360 to 405 impressions and 0 to 1 likes each at scan time.",
-      "flags": "Multiple same-name tokens across chains; easy to buy the wrong one. Bot and signal-account coverage only so far. High risk.",
-      "url": "https://x.com/bitecong/status/2116876032271929767",
-      "followers": 38454
     }
   ],
   "news": [
