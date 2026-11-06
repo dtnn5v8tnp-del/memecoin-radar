@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:19 Berlin time (UTC+01:00)",
-  "newestPostId": "2118785188222341443",
-  "note": "Window: X posts since prior newestPostId 2118784800811262319 (recency search, 2 broad post queries; news search skipped this run). Added 2 launch(s) and 1 news item(s). Skipped: AlphaPulsevw/JEREMYhboo/Strong69106/Kaan_Capitug0/MemeGameAlpha/THEDUKEOFBre/_DegenKing_1/DegenFlow_/LOKITRENCH VIP-TG call shills; AutorunAlert bot $Adeng; clawddevs $CLAWD buyback spam; MrRobot402 40-follower pre-launch; Brent34690 unverified Binance-hack claim; false-positive graduated football/Texas posts; thin replies and pumpfun banter without a concrete coin event.",
+  "lastUpdated": "Friday 6 Nov 2026, 20:27 Berlin time (UTC+01:00)",
+  "newestPostId": "2118787319427727654",
+  "note": "Window: X posts since prior newestPostId 2118785188222341443 (recency search, 2 broad post queries; news search skipped this run). Added 2 launch(s) and 0 news item(s). Skipped: racial-slur-themed $NN signal; greencandleguru $DIAMOND shill; duyxto $DUYX 28-follower self-promo; clawddevs $CLAWD spam; Nova_Pad_Sol thin pre-launch; BoomerOnCC 5-follower ATH shill; solhousesignals call-farm $F7931A; fourtislisting #BLOB minor-platform alert; thin replies and pumpfun banter without a concrete new coin event.",
   "launches": [
+    {
+      "coin": "Dogettecoin ($DOGETTE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3bD1GxFTwwUH7haUYdNf4jiu2EKJVrhGVB8zzPvhpEbn (pump.fun / pumpfun bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,562 followers) posted at 20:27 Berlin that Dogettecoin ($DOGETTE) is a dog-themed meme on Solana about a minute after launch and sat at 72% of the way to graduation on the pumpfun bonding curve; it highlights an unusual deployer-history detail (text cut off).",
+      "engagement": "169 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118787300851384665",
+      "followers": 38562
+    },
+    {
+      "coin": "WHITE MONSTER ($WMSNT)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Bi4Q1rbj8EfBDFm3SAchcS34w2AfU4wnHorFAmTuyzST (described as float's Raydium LaunchLab; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,562 followers) posted at 20:20 Berlin that WHITE MONSTER ($WMSNT) is about a minute old on Solana via float's Raydium LaunchLab, with most early trading described as buys; the token's only linked social is an X post (text cut off).",
+      "engagement": "228 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; another white-monster CA this evening; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118785504770757103",
+      "followers": 38562
+    },
     {
       "coin": "WHITE MONSTER ($WHITE)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Only an automated signal account so far; recycling theme claimed. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118767679314231455",
       "followers": 38535
-    },
-    {
-      "coin": "puptide ($puptide)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4QEQamcjhuf6pb3ys1SRQmz75ujaoo6QycHNSrRKpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:08 Berlin that puptide ($puptide) is a Solana memecoin on pumpfun named after peptides, with wellness-theme links; at signal it sat at about a $15.8K market cap, still on the pumpfun bonding curve (text cut off).",
-      "engagement": "311 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; peptides/wellness theme; different CA from uppercase $PUPTIDE. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118767413420490853",
-      "followers": 38535
-    },
-    {
-      "coin": "Rise memecoin (ticker not stated in post)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3Hmen67aaYp88oHSs7Q3ZSYHUDtpG7zY8Uk1z1atpump (pump.fun / Pump Fun). No ticker name in the post text.",
-      "buzz": "@_rise (19,791 followers) posted at 19:07 Berlin that their own memecoin is live on Pump Fun; they say 60% of supply will be airdropped to the top 15 holders at bonding, and they plan a $7,000 buy in 15 minutes.",
-      "engagement": "317 impressions, 6 likes, 0 reposts, 3 replies, 5 quotes at scan time.",
-      "flags": "Creator self-launch with airdrop and buy commitment stated; early, high risk; ticker not named in the post.",
-      "url": "https://x.com/_rise/status/2118767192493703380",
-      "followers": 19791
     }
   ],
   "news": [
