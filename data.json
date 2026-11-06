@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 16:50 Berlin time (UTC+01:00)",
-  "newestPostId": "2118732702954266934",
-  "note": "Window: X posts since prior newestPostId 2118731673848455243 (recency search, 2 post queries + 1 signal/CA query; news skipped this run). Added 0 launch(s) and 0 news item(s). Skipped: $VIRGINBOT self-launch (@VIRGINBOT_SOL, 37 followers); $HELDOR Avalanche self-shill (@Al_Nasl_Minium, 175 followers); $FUT FIFA-theme self-promo (@Lole2910, 104 followers); $FLORA brand-new zero-follower promo (@FloraLoveToken); $GLAZE call-farm rehash (@Annatrader22/@itsmeflow18; already on dashboard); $RSHA262599 call-farm swarm (@AlphaPulsevw/@WeHave1DFacts/@SOLANACHAD009/@Alpha_calls001/@_callerhex/@EricSolProphet/@Bull_Stackk); $PICASSO/@SOLANACHAD009 and $GM/@solblender99 profit-claim spam; $EXHALE self-promo (already skipped prior); $EGGU reply spam (65 followers); Base $BASECAT/$BLUECHIP dump complaint (15 followers); CLAWD buyback bot noise; non-crypto graduated/religion replies and midterm BTC recap.",
+  "lastUpdated": "Friday 6 Nov 2026, 16:57 Berlin time (UTC+01:00)",
+  "newestPostId": "2118734200031289757",
+  "note": "Window: X posts since prior newestPostId 2118732702954266934 (recency search, 2 post queries + 1 signal/CA query; news skipped this run). Added 2 launch(s) and 0 news item(s). Skipped: $ZCATS call-farm rehash (@AlphaPulsevw/@1_theanalyst; already on dashboard); $PICASSO profit-claim spam (@Great_Meme02; already skipped prior); $Haaland/$DIAMOND TG call-farm (@1_theanalyst/@WeHave1DFacts); $spoon MemCoinsRadar bot migration alert; $CLAWD buyback bot noise; $GigaCat self-promo (@RealGigacatCTO, 950 followers); $JOST/$BILLY solhousesignals bot; enzocooks engagement-farm flex (no new CA); Donna Dollars Fourtis listing-alert rehash; thin $PEPE ATH chart spam (@WhaleAlertDesk); political rug-pull metaphors and French CA=ça query noise.",
   "launches": [
+    {
+      "coin": "Gabe Horn ($Gabe)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address D6zTdqgWcB63c7FnV9nZ1wnHMxKAQ4T6NxAegWRHpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,532 followers) posted at 16:54 Berlin that Gabe Horn ($Gabe) is a second horn-themed Solana launch today, about 82% of the way to graduation on the bonding curve; the signal flags 109 bundler wallets at signal time with six remaining.",
+      "engagement": "294 impressions, 1 like, 0 reposts, 1 reply at scan time.",
+      "flags": "Only an automated signal account so far; thin horn/Gabe theme; heavy bundler presence noted. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118733769251356902",
+      "followers": 38532
+    },
+    {
+      "coin": "Mr. Popo ($POPO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4SrWPnMz2SzP4sVxgFiB9Fk8d3iwJLn6AEs3RNPLpump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,532 followers) posted at 16:53 Berlin that Mr. Popo ($POPO) is a pumpfun memecoin on Solana about twenty minutes old at signal time and had just graduated to PumpSwap; name and ticker carry the Mr. Popo theme.",
+      "engagement": "314 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
+      "flags": "Only an automated signal account so far; thin anime/character theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118733442854920363",
+      "followers": 38532
+    },
     {
       "coin": "Creamcoin ($Cream)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Paid DEXScreener promo via signal bot plus scanner CTO ping; thin organic engagement. Distinct CA from listed GTA6DOG ($GTA6K9). Very early, high risk.",
       "url": "https://x.com/dex_kolwatcher/status/2118655555971502175",
       "followers": 8968
-    },
-    {
-      "coin": "BEEF ($BEEF)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0x2c834b581a234c6f4a8324923fe4d1c812407777 (Flap bonding curve on BSC).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:37 Berlin that BEEF ($BEEF) is an agentic meme token on BSC, about three minutes old on the signal’s clock and 41% of the way to graduation on the Flap bonding curve.",
-      "engagement": "373 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; BSC/Flap launch framed as agentic meme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118654061746835736",
-      "followers": 38530
-    },
-    {
-      "coin": "GTA ($GTA)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 57FVGTijoeSh4xJCtvBc4YKiPJeaLzVPWfme7FB7pump (pump.fun).",
-      "buzz": "Signal account @dex_kolwatcher (8,967 followers) posted at 11:37 Berlin a paid DEXScreener alert for $GTA on Solana pump.fun, citing about $17.7K market cap and roughly $35K buy / $31K sell 24h volume in the alert text.",
-      "engagement": "206 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Paid DEXScreener promo via signal bot; thin organic engagement. Distinct from listed GTA6DOG/GATO. Very early, high risk.",
-      "url": "https://x.com/dex_kolwatcher/status/2118653916959359032",
-      "followers": 8967
     }
   ],
   "news": [
