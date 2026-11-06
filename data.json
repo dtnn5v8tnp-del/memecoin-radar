@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 17:56 Berlin time (UTC+01:00)",
-  "newestPostId": "2118749223059693584",
-  "note": "Window: X posts since prior newestPostId 2118747443017986312 (recency search, 2 post queries + 1 news search). Added 0 launch(s) and 0 news item(s). Skipped: serial Rise CA #3 again same airdrop/$7k pitch (@_rise, CA A4Arq…pump; already on board / skipped prior); call-farm spam on $KORIMU/$KoriMu (WestmarkCalls/DegenFlow_/Charlie_SOL23/popmemecoin); $401KINU call farm (same accounts); $FI CipherEdgeCalls flex; $CHICXU AlphaBullishups; $PARPY MemCoinsRadar/Bitkesh2; $RELAY bschousesignal; LOLO/@alela_karam 11-fol self-promo; hate_pump FOMO 24-fol; $JASON 11-fol pre-launch; ZyntoMarkets $GOODTIME 0-fol bot; META_STARx $BULL airdrop farm; news search only restated Pump.fun Kraken/Ansem rewards/Diamond/PENGU/Leap already on board.",
+  "lastUpdated": "Friday 6 Nov 2026, 18:03 Berlin time (UTC+01:00)",
+  "newestPostId": "2118750996491046995",
+  "note": "Window: X posts since prior newestPostId 2118749223059693584 (recency search, 2 post queries, no news this run). Added 1 launch(s) and 0 news item(s). Added: Tax The Poor ($TTP) bitecong signal (CA 5aDjvd…pump, already graduated). Skipped: call-farm $FI/$KORIMU/$401kinu (AlphaBullishups/WestmarkCalls/EarlyChad_/Charlie_SOL23/DegenFlow_); $POPO already on board; $DOOMGE 36-fol self-promo; SolanaWoodFall $WOOD 146-fol; $HOTWIFDOG 56-fol spam; airdrop farms ($ETH/Coinbase CA spam); listingntm $GM express (already covered via MEXC/$GM news); CryptoPASSP0RT $STEVE rug monitor low engagement; political $TRUMP noise; Pump.fun revenue/Diamond restates.",
   "launches": [
+    {
+      "coin": "Tax The Poor ($TTP)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5aDjvdypu3N88vfC6ZN85CwjeR49N2Bcp7gL7C5Epump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 17:56 Berlin that Tax The Poor ($TTP) has no clear theme; by the time the signal found it, the token had already graduated from pumpfun to PumpSwap. The signal flags something unusual about wallets (text cut off at top-hundred holders).",
+      "engagement": "383 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme; unusual wallet concentration noted. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118749489964171684",
+      "followers": 38536
+    },
     {
       "coin": "Habibi ($Habibi)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118677691159466360",
       "followers": 38528
-    },
-    {
-      "coin": "Rise memecoin (unnamed ticker)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address ai42B71y1Aj4VPf9SvHAHSQQDAHs8PDHiwXS2sNpump (pump.fun).",
-      "buzz": "Creator @_rise (19,791 followers) posted at 12:53 Berlin that their own memecoin is live on pump.fun, saying 60% of supply will be airdropped to the top 15 holders at bonding and that they plan a $7,000 buy about 15 minutes after the post. No ticker name was given in the post.",
-      "engagement": "220 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Creator self-launch with claimed airdrop and buyback plan; ticker not stated. Very early, high risk.",
-      "url": "https://x.com/_rise/status/2118673066868011419",
-      "followers": 19791
     }
   ],
   "news": [
