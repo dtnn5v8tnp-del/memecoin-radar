@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 11:31 Berlin time (UTC+01:00)",
-  "newestPostId": "2118652160837845325",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; 3rd signal-account query empty). Added 1 launch(s) and 0 news item(s). Added: @theAdamcrypto $GATO / GTA6CAT narrative (CA HsprHx…pump; 2,062 imp / 17 likes). Skipped: @SOLORACLE8s/@DegenFlow_/@AlphaDrip7 past-call flex ($Rocco/$BILL/$DIAMOND/$COGE/$RM); @firepump_house/@A33on_ $XI/$UK re-shills (already listed); @Theblackbullxxx DESSA BANK re-shill (already listed); airdrop-farm CA paste bots (@Juannfxp/@FreelancerRaji5/@jirka_456/@withchanu/@alaahnassar); @Talent_webb3 reply-shill; @HOODdailyTK Robinhood chain recap (not memecoin); @Michaelo_dotDev wallet-program scam warning (not a coin launch/news row); news query: 0 hits.",
+  "lastUpdated": "Friday 6 Nov 2026, 11:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2118653704912175609",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries: launches + news; 3rd signal-account query). Added 3 launch(s) and 0 news item(s). Added: @bitecong Youyou (CA HPcaog…pump; 375 imp); @bitecong HaloPad $HALO graduated (CA G2apw4…pump; 393 imp); @SolanaMemesScan $CI / crude inu CTO (~$104.5K MC; CA Cy2XH7…pump; 99 imp). Skipped: @Botched_caller/@A33on_/@DegenFlow_/@webb_sonn/@_Shonsol/@Sol_Gems00 past-call flex ($UK/$HALO/$Xi); airdrop-farm CA paste bots (@jirka_456/@withchanu/@LizethMonArt); @AquariumGi1708 Moonrush spam; @KevTheeDev $CATE bag post; @popmemecoin/$ZyntoMarkets thin alerts; @Reuben_clerk telegram signal spam; @LeBause4200 speculative GM/Binance meme (36 imp); political/off-topic noise; news query: no actionable memecoin news.",
   "launches": [
+    {
+      "coin": "crude inu ($CI)",
+      "chain": "Solana",
+      "chainNote": "Scanner post; companion alert gives contract address Cy2XH7dLwwovkzNAFtWVEDkJNCdZ4u5cpcMHnCNHpump (pump.fun).",
+      "buzz": "Scanner @SolanaMemesScan (4,324 followers) posted a SOL CTO alert at 11:31 Berlin for crude inu ($CI): market cap cited at $104.5K, liquidity $24.8K, 384 holders, mint renounced, 100% burned, rug ratio 0%. A separate alpha-alert bot also flagged the same ticker around $97.3K MC / +156% 24h.",
+      "engagement": "99 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Scanner/CTO ping only so far; thin organic engagement. Early/high risk.",
+      "url": "https://x.com/SolanaMemesScan/status/2118652567018213829",
+      "followers": 4324
+    },
+    {
+      "coin": "HaloPad ($HALO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address G2apw4XQdSfTv9836JHWhRZGyqG43m93eMEF4zjnpump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:31 Berlin that HaloPad ($HALO) is framed as a Solana trading and launch platform token that had already graduated from pump.fun to PumpSwap before the signal; call accounts (@A33on_/@DegenFlow_/@webb_sonn/@_Shonsol/@Sol_Gems00) also pushed the same CA with past-call flex posts.",
+      "engagement": "393 impressions, 0 likes, 0 reposts on the signal post at scan time.",
+      "flags": "Only an automated signal account plus call-farm flexes so far; product/platform framing. Already graduated. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118652504078742010",
+      "followers": 38530
+    },
+    {
+      "coin": "Youyou (Youyou)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address HPcaogWVJnX3H3P6FvVMX8LvdcudCUy85sZahPtFpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:33 Berlin that Youyou (ヨウヨウ) is a pump.fun launch on Solana about two minutes old and still on the bonding curve; the signal ties the name to a news event about the death of Youyou, described as Japan’s last captive.",
+      "engagement": "375 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; news-event / captive animal theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118653064139973005",
+      "followers": 38530
+    },
     {
       "coin": "GATO ($GATO)",
       "chain": "Solana",
@@ -271,36 +301,6 @@
       "engagement": "360 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; generic dog meme theme; market cap already slipped vs signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118586396734837110",
-      "followers": 38528
-    },
-    {
-      "coin": "Joe ($Joe)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address HpaGuJuaF1v7VEkSXg8bQRqTqiyddBrqJxboqNNfpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 07:04 Berlin that Joe ($Joe) is pitched as a return to plain meme culture and was still sitting on the pump.fun bonding curve shortly after launch, with an unusual deployer record flagged (879…).",
-      "engagement": "302 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer-history flag in the signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118585341280170309",
-      "followers": 38528
-    },
-    {
-      "coin": "Polsia ($POLSIA)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address ECmb5wQd1YN3FAjDJZYxSmoYDSRah7M8jdjQawvqpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 07:02 Berlin that Polsia ($POLSIA) was under two minutes old on the pump.fun bonding curve, with an AI-themed name and ticker.",
-      "engagement": "347 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; brand-new bonding-curve token. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118584717620707503",
-      "followers": 38528
-    },
-    {
-      "coin": "NWO ($NWO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4VTnR3UmTquiCD1Quz5Z577XdgzehWBK8yTc9482pump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,528 followers) posted at 06:56 Berlin that New World Order ($NWO) graduated from pump.fun to PumpSwap a day and change after launch, themed on a takeover story, and flagged something odd about the first seventy buyers.",
-      "engagement": "300 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; odd buyer-list note in the signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118583192240484499",
       "followers": 38528
     }
   ],
