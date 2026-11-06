@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:26 Berlin time (UTC+01:00)",
-  "newestPostId": "2118575578668253399",
-  "note": "Window: X posts since prior newestPostId (recency search). Skipped news search this run (last run covered it). Filtered politics/reply noise and self-promo micro accounts.",
+  "lastUpdated": "Friday 6 Nov 2026, 06:29 Berlin time (UTC+01:00)",
+  "newestPostId": "2118576312889508332",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) plus news search (max_age_hours=2). Added 2 launch(s) and 3 news item(s). Filtered VIP-DM shill farms, micro bots, politics replies, and duplicate Bracket chatter.",
   "launches": [
+    {
+      "coin": "BILL ($BILL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 6RDff7NwDJFX9zLg53RJNPsWpdfRs1xxDxivhL3Ypump (pump.fun).",
+      "buzz": "Caller @EarlyChad_ (5,938 followers) claimed at 06:28 Berlin that $BILL ran from $2.7K to $70K market cap (25.9x); other call accounts echoed 50x+ profit claims in the same window.",
+      "engagement": "About 59–93 impressions and 0–1 likes per post at scan time.",
+      "flags": "Numbers come from call accounts pushing VIP Telegram, not a primary project source. Treat as unverified momentum chatter, high risk.",
+      "url": "https://x.com/EarlyChad_/status/2118576181196869719",
+      "followers": 5938
+    },
+    {
+      "coin": "RETIRE ($RETIRE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump (pump.fun).",
+      "buzz": "Aggregator @TheTrendGuy1 (1,399 followers) posted at 06:27 Berlin that $RETIRE was #3 trending on Solana at about $196K market cap, $35.2K liquidity, $329K 24h volume, and +370% over 24h.",
+      "engagement": "16 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Single aggregator post with low engagement; figures unverified. Very early / high risk.",
+      "url": "https://x.com/TheTrendGuy1/status/2118575900753379441",
+      "followers": 1399
+    },
     {
       "coin": "Coin A ($A)",
       "chain": "Solana",
@@ -282,29 +302,33 @@
       "flags": "Call-account post; trailer link to the coin is the poster's claim and unverified.",
       "url": "https://x.com/madapescall/status/2116843587677851703",
       "followers": 77549
-    },
-    {
-      "coin": "Spermcoin ($Sperm)",
-      "chain": "Solana",
-      "chainNote": "CA 34AB35ETkYqSq4TkyC3b2eiYh6arXkhT3RdtnXaDCAUj",
-      "buzz": "Automated signal account @bitecong (38,447 followers) flags this pump.fun launch as minutes old and still on the bonding curve, with no clear theme beyond the name.",
-      "engagement": "None yet: 0 likes, 0 impressions at scan time.",
-      "flags": "Automated signal post; very new token; no clear theme.",
-      "url": "https://x.com/bitecong/status/2116842759462244429",
-      "followers": 38447
-    },
-    {
-      "coin": "Mighty White Yak (牦牛)",
-      "chain": "Solana",
-      "chainNote": "CA 6jUAqc62fsc1uA671K2WCEiScZmvm78o3rRsUModpump",
-      "buzz": "Automated signal account @bitecong (38,447 followers) says this pump.fun launch is about forty minutes old, themed on a white yak, and has already graduated to PumpSwap.",
-      "engagement": "Low: 0 likes, 384 impressions at scan time.",
-      "flags": "Automated signal post; very new token.",
-      "url": "https://x.com/bitecong/status/2116840918443798890",
-      "followers": 38447
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun / traders",
+      "headline": "X News: Trader Ansem turns SOL short loss into profit via Pump.fun callout rewards",
+      "coins": "SOL, Pump.fun",
+      "detail": "X news summary: Ansem closed a $1.7M SOL short earlier with a ~$10.8K loss, then shorted ~$1M more on Pump.fun and took about $35K in callout rewards even while the short sat ~$60K underwater. The story frames Pump.fun callout USDC payouts as able to outpace direct trade P&L for top callers.",
+      "updated": "6 Nov, 06:29 (Berlin)",
+      "url": "https://x.com/i/trending/2118022300381622700"
+    },
+    {
+      "topic": "Robinhood / memecoin culture",
+      "headline": "X News: Robinhood CEO Vlad Tenev posts 'The trenches are calling and I must go'",
+      "coins": "Robinhood Chain",
+      "detail": "X news summary: On 5 Nov Tenev's short trenches post became a meme rallying traders around memecoins and tokenized stocks on Robinhood Chain (Ethereum L2 live since 1 Jul 2026), with quotes hyping 'RH szn round 2'.",
+      "updated": "6 Nov, 06:29 (Berlin)",
+      "url": "https://x.com/i/trending/2118555308767244374"
+    },
+    {
+      "topic": "Solana product",
+      "headline": "X News: Solana Labs launches Leap mobile app for tokenized stocks, ETFs, and crypto",
+      "coins": "SOL",
+      "detail": "X news summary: Leap early access hit iOS TestFlight on 5 Nov (Android soon), built by the Dialect team Solana Labs acquired. Self-custodial swaps via Jupiter, chart news, fee-inclusive P&L; aims beyond memecoins; tokenized stocks restricted in US/UK/EEA; future fees may burn SOL.",
+      "updated": "6 Nov, 06:29 (Berlin)",
+      "url": "https://x.com/i/trending/2118544554773377430"
+    },
     {
       "topic": "Politics / price move",
       "headline": "X News: Trump-linked tokens plunge after Democrats take Congress ($TRUMP over 20%, $MELANIA 14–16%)",
@@ -520,30 +544,6 @@
       "detail": "X news summary: of 24.4 million coins launched on Pump.fun, just 312 remain above a $100,000 market cap (about 0.0013%). Critics call it a 'rug factory'; supporters say low-effort launches drive the failure rate. The platform has generated over $1 billion in fees.",
       "updated": "1 Nov, 10:26 (Berlin)",
       "url": "https://x.com/i/trending/2116749869553512459"
-    },
-    {
-      "topic": "Price move",
-      "headline": "crypto.news: $PEPE up 14% this week despite post-Binance-hack turbulence",
-      "coins": "PEPE",
-      "detail": "@cryptodotnews (129K followers, verified) reports PEPE gained 14% on the week, among the market's top performers while broader crypto faces pressure after the Binance hack.",
-      "updated": "1 Nov, 10:34 (Berlin)",
-      "url": "https://x.com/cryptodotnews/status/2116826135048695880"
-    },
-    {
-      "topic": "Exploit follow-up",
-      "headline": "X News: Binance hacker's wallet swapped $5M of PROM for just $71 on Uniswap",
-      "coins": "PROM",
-      "detail": "X News summary: the wallet tied to the Lazarus group behind the $6.3B Binance theft dumped 908,793 PROM into a nearly empty Uniswap V2 pool on Oct 31 and got back only 0.0316 ETH. The summary says the hackers have lost over $100M to bad trades overall but still hold billions; Binance is covering customer losses via SAFU.",
-      "updated": "1 Nov, 09:48 (Berlin)",
-      "url": "https://x.com/i/trending/2116776918066336247"
-    },
-    {
-      "topic": "Whale",
-      "headline": "Small account claims Justin Sun is now PEPE's largest individual holder",
-      "coins": "PEPE",
-      "detail": "@420dotmeme (348 followers) says Justin Sun's PEPE position grew from $267k to $51M in 10 days and credits Arkham for calling him the largest individual holder. Unverified: no engagement at scan time and no larger outlet seen yet.",
-      "updated": "1 Nov, 09:32 (Berlin)",
-      "url": "https://x.com/420dotmeme/status/2116810497505022239"
     }
   ],
   "hourly": [
