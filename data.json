@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:38 Berlin time (UTC+01:00)",
-  "newestPostId": "2118835408779808826",
-  "note": "Window: X posts since prior newestPostId 2118835007523528878 (recency: 1 launch/news query + search_news this run). Added 0 launch(s) and 1 news item(s). Seen but skipped: erykdiamond/DegenFlow_/SOLANACHAD009 $JOSÉ/$JOSE/$Jos call-farm spam (CA 87CQtouHSb6YCXaPZ1pp8jD56VudRMXBVqU3oDMD1UJT; thin engagement, repeated 'Xx from my call' pattern); BadManLeek $LAURA same call-farm pattern (FugyvQb7hrg71eL8iWu6cpZvg9HyJBXN761dzxNFpump); sol_peal VIP Telegram invite spam. search_news: added Ansem whistleblow/legal-cover plea (new story id); Ethan $142K / Pump.fun Diamond / Leap app / Pudgy PFPs already on board; Theo Von AI meme / NIO coin mention older & thin for board; non-crypto noise ignored.",
+  "lastUpdated": "Friday 6 Nov 2026, 23:47 Berlin time (UTC+01:00)",
+  "newestPostId": "2118837545727295852",
+  "note": "Window: X posts since prior newestPostId 2118835408779808826 (recency: 1 news/rug query + 1 launch/pumpfun query; launch query retry after invalid CA:/$ syntax). Added 3 launch(s) and 0 news item(s). Added bitecong AI Signals: $Daumen (HWx9…pump, frog, 81% curve, bundles flagged), $BTC Booby Trap Coin (7xoL…pump, deployer 1,375 tokens), $JOSE Be Like Jose (8EYL…pump, second like-themed; distinct from skipped 87CQ… $JOSÉ spam). Seen but skipped: AscendedInu self-shill $AscINU (32 followers); MemCoinsRadar $José 2.22x on same 87CQ… CA already flagged as call-farm; MeyerDoria54152 Tail Inu shill (254 followers, thin); opinion replies on Pump.fun/Ansem drama with no new primary fact; search_news skipped this run (done prior).",
   "launches": [
+    {
+      "coin": "Daumenfrosch ($Daumen)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address HWx9EpkS4WwrgnsZuVQSLRzf2pfzCiwvE2nwiH98pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:42 Berlin an AI Signal that Daumenfrosch ($Daumen) is a frog-named memecoin on Solana already 81% of the way to graduation about three minutes after launch; it flags something odd about the bundle count (text cut off).",
+      "engagement": "336 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; bundle count flagged in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118836386568749427",
+      "followers": 38572
+    },
+    {
+      "coin": "Booby Trap Coin ($BTC)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 7xoLYJM3CjLVqQcaMPWxpbtiodfa9MXsuZKXgmNupump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:39 Berlin an AI Signal that Booby Trap Coin (ticker BTC) is roughly five minutes old on pumpfun and still on the bonding curve, most of the way to graduation; the deployer has created 1,375 tokens (text cut off).",
+      "engagement": "351 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; serial deployer (1,375 tokens) flagged; thin engagement; ticker collides with Bitcoin branding. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118835730210595025",
+      "followers": 38572
+    },
+    {
+      "coin": "Be Like Jose ($JOSE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 8EYL6RxqjKGK6h98caFnKXkqUvY3ymgpnMufQLBipump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:38 Berlin an AI Signal that Be Like Jose ($JOSE) is the second \"like\"-themed launch on Solana today, about half an hour old at signal and still on the pumpfun bonding curve most of the way to graduation (text cut off).",
+      "engagement": "326 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; distinct CA from earlier $JOSÉ/$JOSE call-farm spam already skipped; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118835510278041658",
+      "followers": 38572
+    },
     {
       "coin": "Sahil ($Sahil)",
       "chain": "Solana",
@@ -272,36 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
       "url": "https://x.com/dex_kolwatcher/status/2118812876991521056",
       "followers": 8976
-    },
-    {
-      "coin": "FatCoin ($FatCoin)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address AEaXZbWsXuUXWt4LhawxxxwwMe4eTFPGZgFYFdCvpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 21:57 Berlin an AI Signal that FatCoin ($FatCoin) is a meme name on Solana with no clear theme beyond the word itself and was about a minute old when flagged; tracking saw four wallets buy within a minute of each other (text cut off).",
-      "engagement": "347 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; theme unclear. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118810083237024164",
-      "followers": 38570
-    },
-    {
-      "coin": "API ($API)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3p7ovHYiYswRwNq6bNCi5KpQjhoL3hYourG9SxAcpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @dex_kolwatcher (8,976 followers) posted at 22:01 Berlin a PAID DEXScreener detect for $API on Pumpfun Solana; it cites 24h buy volume $8,212, sell volume $7,186, liquidity $0, and market cap $4,790 (text cut off).",
-      "engagement": "180 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; liquidity reported as $0; thin engagement. Very early, high risk.",
-      "url": "https://x.com/dex_kolwatcher/status/2118810912484377029",
-      "followers": 8976
-    },
-    {
-      "coin": "Leap ($Leap)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 9KenrJk5fhQRQriZnNRGqZ4zb3XDuMQyp9dgHMceLeap (pump.fun / pumpfun; graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 21:52 Berlin that $Leap is the third Leap-themed launch on Solana today and graduated from pumpfun to PumpSwap about twenty-one minutes after launch; it flags unusual early selling among the first hundred wallets that bought (text cut off).",
-      "engagement": "372 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; third Leap-theme launch today; early selling noted; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118808798735565211",
-      "followers": 38570
     }
   ],
   "news": [
