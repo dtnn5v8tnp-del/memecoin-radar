@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:26 Berlin time (UTC+01:00)",
-  "newestPostId": "2118817073673687404",
-  "note": "Window: X posts since prior newestPostId 2118815802086609028 (recency search: 1 launch-focused query; 1 news/move query; no news search this run). Added 1 launch(s) and 0 news item(s). Skipped: EarlyChad_/EarlyRada/fitnessec/CraftedMeme01/BadManLeek/Chainvirtuoso $PIP/$LAURA/$MIMI/$SQRL/$CCF/$sexcoin/$Karl VIP-TG farms (PIP already listed); Mii_ister $BITDOG reply-shill farm (311 foll); DegenPhantvae $DIAMOND VIP-TG (1,093 foll); belemradio $GLITCHPEPE VIP-TG (1,261 foll); Cryptoprocesing Pepper reply-shill (144 foll); firepump_house $INCOME DM-calls (different CA than listed INCOME, farm pattern); halt_addicted CASHCAT game promo (0 eng); news/move query mostly political Trump spam + Danielbr00kss signal farm + PumpWatch1 $PIP already listed + rugsons/rektnun promo (thin foll) + unverified Binance-hack rumor (514 foll, 0 likes).",
+  "lastUpdated": "Friday 6 Nov 2026, 22:33 Berlin time (UTC+01:00)",
+  "newestPostId": "2118818918475415644",
+  "note": "Window: X posts since prior newestPostId 2118817073673687404 (recency search: 1 launch-focused query; 1 news/move query; no news search this run; 1 launch query retry after invalid CA:/$ syntax). Added 1 launch(s) and 0 news item(s). Skipped: DegenPhantvae $KORIMU/$DIAMOND VIP-TG farms (DIAMOND already skipped prior); Abu4Raaeed/Legend_Britney $PIP already listed; SenatorLTD $/DREAM thin call radar (108 foll); BTCFineArt $sCream (54 foll, 1 imp); solCallermike_ $DONNA 958X call (DONNA already in news); 00Q__ $POKEY shill (134k foll but 0 likes, no CA in visible text); _digitalG $AMC $1.04M→$4K dump claim (939 foll, 18 imp, thin); RaOnChain $pip bundled scam alert (pip already listed, thin eng); Danielbr00kss signal farm; news/move query mostly political Trump spam + unrelated replies.",
   "launches": [
+    {
+      "coin": "crime ($crime)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address J3HvanHPYf189hXGWPQP4zecHoiLhk6gSvB1RWrNpump (pump.fun / pumpfun; still on bonding curve at signal time).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:26 Berlin an AI Signal that crime ($crime) launched on pumpfun on Solana seconds before the signal, still on the bonding curve; it says the name and ticker are both crime and a researched report on this contract describes a cat (text cut off).",
+      "engagement": "315 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118817387323838946",
+      "followers": 38570
+    },
     {
       "coin": "anon ($anon)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "215 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; near graduation when signaled; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118787430715404755",
-      "followers": 38563
-    },
-    {
-      "coin": "Agartha ($AGARTHA)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 51NZdjQQKiE4Gk1uVT86Tf2cAqAqS26sHhbyZzofLoat (described as float-style Loat address; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,563 followers) posted at 20:27 Berlin that Agartha ($AGARTHA) is a hollow-earth themed Solana token about two minutes old when signaled; it notes most of the top hundred buyers are brand-new wallets (text cut off).",
-      "engagement": "218 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; hollow-earth theme; many new-wallet early buyers flagged; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118787423597731906",
       "followers": 38563
     }
   ],
