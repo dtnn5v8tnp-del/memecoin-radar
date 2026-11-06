@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:42 Berlin time (UTC+01:00)",
-  "newestPostId": "2118805970830893120",
-  "note": "Window: X posts since prior newestPostId 2118804867267670340 (recency search: 1 launch-focused query; 1 news/move query; 1 signal-account/pumpfun query — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: AFTERLIGHTKING/$AFTER self-promo (384 foll); goblinsfarmers GOB vault promo (454 foll); dex_kolwatcher Base CA detect with $0 liquidity / no ticker (8,976 foll); toys4kidspump pre-launch hype (372 foll); coding-agent / political / Assembly spam matching loose queries; news query flooded by Trump political replies (not memecoin).",
+  "lastUpdated": "Friday 6 Nov 2026, 21:47 Berlin time (UTC+01:00)",
+  "newestPostId": "2118807224038383890",
+  "note": "Window: X posts since prior newestPostId 2118805970830893120 (recency search: 1 launch-focused query; 1 news/move query; 1 signal/pumpfun query — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: enzocooks Comment-CA farm (442k foll); Legend_Britney TG call spam ($AMD/$WHITE/$DEGEN/$BAGEL/$CEILING); VolumeOnMEMES unnamed CA alert (2,746 foll); CHADSANTA self-shill (7 foll); news query flooded by Trump/election political replies (not memecoin); pumpfun reply spam to ansem/fomo; Breaking_Gud_ satirical FinCEN/pumpfun joke.",
   "launches": [
+    {
+      "coin": "Hyperborean Monstercat ($MONTY)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 7q3MThHKHHmB8jBuXb4jz1owUzNt9oe4tNqBUgsvc2so (Solana-style address; not a pump suffix).",
+      "buzz": "Signal account @solhousesignals (3,121 followers) posted at 21:46 Berlin that $MONTY (Hyperborean Monstercat) was up 2x with market cap $44.6K, liquidity $55.8K, 24h volume $103.5K, and 1,329 buys vs 277 sells (text cut off).",
+      "engagement": "28 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
+      "url": "https://x.com/solhousesignals/status/2118807171055931610",
+      "followers": 3121
+    },
     {
       "coin": "zPEPE ($zPEPE)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; already graduated when signaled; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118780221583425759",
       "followers": 38553
-    },
-    {
-      "coin": "Chonky ($Chonky)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4dFwoYryTJuHsSRciQ5yogSGB67KhfXctFyhx6hfLoat (described as float bonding curve on Raydium LaunchLab; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,538 followers) posted at 19:42 Berlin that Chonky ($Chonky) is a Solana token launched on float, still on its Raydium LaunchLab bonding curve when signaled about 30 seconds in; it says the only matching X post is from small account Vickyrocky25 (text cut off).",
-      "engagement": "262 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin organic mention; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118776033239515328",
-      "followers": 38538
     }
   ],
   "news": [
