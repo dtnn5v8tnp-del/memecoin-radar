@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 09:28 Berlin time (UTC+01:00)",
-  "newestPostId": "2118621331835019462",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; news search skipped). Added 0 launch(s) and 1 news item(s). News: added verified @KCEX_Official initial listing of Solana memecoin $RAMBO; skipped @KCEX_Vietnam duplicate. Skipped launch/call spam: @Sol_Ficra and @lari_riguelme $RM/$FUN/$Red calls (duplicate CAs / shill pattern); @RugReapermqa $IMEME VIP shill; @coin_master80i $COIN calls; @MeowsteinSol self-launch $MEOWSTEIN (28 followers); @Pairitydotwtf/@FusedPad/@Richdegen67 platform promos; @MichealDopetn5 post-rug CTO shill; random memecoin-name reply threads and Product Hunt/Mezzanine non-meme posts.",
+  "lastUpdated": "Friday 6 Nov 2026, 09:31 Berlin time (UTC+01:00)",
+  "newestPostId": "2118621846891585718",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries) plus news search. Added 0 launch(s) and 1 news item(s). News: added X news summary of World Liberty Financial $WLFI buyback program (new trending id). Skipped launches: @MadMaxSolana MAD MAX 'launching soon' self-promo (26 followers, 1 impression); @SolVillageFun SOLV graduation self-post (670 followers, 48 impressions, CA only in image). Second post search mostly political noise after $ stripped from tickers. Ansem Pump.fun rewards and Solana Leap stories already on dashboard.",
   "launches": [
     {
       "coin": "Feijitou / 飞机头 (Feijitou)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Tokenomics / WLFI",
+      "headline": "X News: World Liberty Financial launches WLFI token buyback program",
+      "coins": "WLFI",
+      "detail": "X news summary: World Liberty Financial announced a buyback plan for its $WLFI governance token, potentially funded by fees from its $USD1 stablecoin reserves, aiming to strengthen the ecosystem and boost long-term holder voting power. Timing follows a ~10% WLFI drop since recent U.S. midterms and a larger year-to-date decline; amounts and schedule still early-stage.",
+      "updated": "6 Nov, 09:31 (Berlin)",
+      "url": "https://x.com/i/trending/2118542389040070817"
+    },
+    {
       "topic": "Exchange listing / Solana meme",
       "headline": "KCEX lists RAMBO for spot trading",
       "coins": "RAMBO",
@@ -536,14 +544,6 @@
       "detail": "@jbstrategy (1,315 followers) says $P2P went from a $19.3K to a $171.9K peak about 59 minutes after the call, and warns the dev has rug history, the ticker is a copycat and the top holder has about 12%. Tiny reach (8 impressions); the coin is also being pushed by a shill-call ring.",
       "updated": "1 Nov, 13:35 (Berlin)",
       "url": "https://x.com/jbstrategy/status/2116871630945153504"
-    },
-    {
-      "topic": "Security / DeFi exploit",
-      "headline": "Post claims 12 DeFi websites were hijacked over the weekend, hitting users on the real protocol URLs",
-      "coins": "DeFi front-ends (protocols not named in the post)",
-      "detail": "@IamJaybhee (1,075 followers) says 12 DeFi sites were hijacked this weekend and that some victims were on the protocols' genuine websites rather than phishing links. The post doesn't name the protocols; unverified, and very early (about 12 impressions at scan time). Worth double-checking any dapp URL before signing.",
-      "updated": "1 Nov, 13:27 (Berlin)",
-      "url": "https://x.com/IamJaybhee/status/2116869206226383266"
     }
   ],
   "hourly": [
