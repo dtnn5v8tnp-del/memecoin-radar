@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:59 Berlin time (UTC+01:00)",
-  "newestPostId": "2118825342781808768",
-  "note": "Window: X posts since prior newestPostId 2118824340472963558 (recency search: 1 launch-focused query; 1 news/move query; search_news this run). Added 0 launch(s) and 0 news item(s). Skipped: helloowitsme_/Annatrader22/Kaan_Capitug0/Unlimitedsol2 TG-call spam ($chika/$HODL/$FUSE/$FI); AutorunAlert/WestmarkCalls $UEHI (already on board); 0xsallaw $PI (already listed); NutflixOnSol $Nutflix (17 followers, brand-new acct); HedgedTech HEDGE (2 followers, created today); usedonatelab DonateLab (0 followers); dyroves49393 BLOMBO spam (0 followers); byTheGentleman Robinhood $HMM catalog note (24 impressions, thin); stardevg TDOG DOGE-ETF call spam (112 followers); political Trump/Nobel noise; search_news hits already on board (Pump.fun Diamond/callouts, Kraken SOL deposit, Ansem deal/rewards, Leap, CARD, Sahil feud).",
+  "lastUpdated": "Friday 6 Nov 2026, 23:04 Berlin time (UTC+01:00)",
+  "newestPostId": "2118826692957393312",
+  "note": "Window: X posts since prior newestPostId 2118825342781808768 (recency search: 1 launch-focused query; 1 news/move query; no search_news this run — prior run already used it). Added 2 launch(s) and 0 news item(s). Added: @bitecong $OPSEC privacy bonding-curve signal; @bitecong emoji/targeting-theme flip signal. Skipped: EarlyRada $BOMBERS VIP-TG call spam; ASTRAsol4 $DREAM/$terrorfab call spam; Strong69106 $KoriMu VIP spam; stonksVI 6-follower CA blast; xMANSTICKx $STICK Nov-10 prelaunch (0 followers); Sprytixl Grok Bot deploy scam; 0x_AuraLux1 $UCHI (same CA as listed $UEHI); 1881Erdem Foxtılkı self-shill; GoodBotBadMemes BotCoin promo; TrenchBotDisc $pip recap (already on board); LNOVAfsau SEC/CFTC (1 follower); YupSkillz CARD reply (already on board); Morosaki MEXC/Treasury giveaway bait; memecoinnowx old Moodeng/Vitalik story.",
   "launches": [
+    {
+      "coin": "Opsec Level ($OPSEC)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5xSFnHiJQ2XTniHfPT8eFB83XbT8PCvnW6ZDTz5rpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 23:01 Berlin an AI Signal that Opsec Level ($OPSEC) is a privacy-themed Solana token, only 3 min 13 s old at signal time and already 81% of the way along the pumpfun bonding curve toward graduation; it flags something odd about the crowd (text cut off).",
+      "engagement": "265 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; privacy-theme wave continues; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118826057809932457",
+      "followers": 38570
+    },
+    {
+      "coin": "\"this user is <targeting you>\" (⚡👑)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3kYxNzoUqD2pkVcEVuR5T38j4e4zjDF9fdZjrKjzpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:59 Berlin an AI Signal that a pumpfun token named with lightning/crown emoji and the phrase \"this user is <targeting you>\" is about three minutes old, and most of the top hundred wallets that bought it have already sold at least half; it says there is no clear theme and the description only (text cut off).",
+      "engagement": "263 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme; heavy early seller flip noted in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118825746676527424",
+      "followers": 38570
+    },
     {
       "coin": "Universal extremely high income ($UEHI)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "136 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; Google-branded theme (high brand-risk); thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118797963426414657",
-      "followers": 38574
-    },
-    {
-      "coin": "Magic Money Computer ($MMC)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address ADJr5wxxQFG1VWwxFVXEHjoZkJAk56rDZXX1Jkuhpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 21:04 Berlin that Magic Money Computer ($MMC) is the second money-named Solana launch today and was 24 seconds old when the signal fired; it is still on the pumpfun bonding curve and well on its way (text cut off).",
-      "engagement": "280 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; second money-theme launch today; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118796628513669243",
-      "followers": 38574
-    },
-    {
-      "coin": "FloatFuse ($FUSE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BYifdTuFBiCWJ37tSUzPZZv4VvWJdrJYUJMZ4h942Ywb (described as float bonding curve / Raydium LaunchLab; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 20:55 Berlin that FloatFuse ($FUSE) is a float-themed Solana token that launched barely a minute before the signal and was still on the float bonding curve (Raydium LaunchLab); it says there is no clear theme beyond the name (text cut off).",
-      "engagement": "241 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118794369239281885",
       "followers": 38574
     }
   ],
