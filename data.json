@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 10:04 Berlin time (UTC+01:00)",
-  "newestPostId": "2118630359868883210",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 0 news item(s). Skipped: $TRUMP query noise (political Trump posts); @Cryptodiane Saturday-deploy tease (not live yet); micro BSC $BM scanner alerts (@VolumeOnMEMES / @JohnCryptopeow, tiny MC); @FLOORXFOBO / @memework_all / @Legend_Britney self-promo or call-channel spam; low-engagement iMeme/NEAR commentary quoting an older post.",
+  "lastUpdated": "Friday 6 Nov 2026, 10:17 Berlin time (UTC+01:00)",
+  "newestPostId": "2118633436843790706",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 2 launch(s) and 0 news item(s). Skipped: $TRUMP/political Trump-Iran noise; @chadscabal 5PM UTC memecoin tease (not live); micro/spam $TLM/@GemChaserSOL/@AutorunAlert/@Abu4Raaeed call bots; $COGECOIN/$CHIMP/$FUN self-shills; @Bullrunups unverified 13x $CZ claim (751 followers, 7 impressions); launchpad promos (Umbra/Rebuy/Montra).",
   "launches": [
+    {
+      "coin": "the bubble has popped ($POPPED)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 7SG4QtdLx744ZmnRinbKkDVhXC2nw8DugjUybjGApump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,531 followers) posted at 10:07 Berlin that the bubble has popped ($POPPED) is a pump.fun token on Solana, a few minutes old at signal time and still on the bonding curve; the signal reads the name as a joke about markets topping out.",
+      "engagement": "462 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin joke narrative. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118631420226924618",
+      "followers": 38531
+    },
+    {
+      "coin": "The Red Bull ($CZ)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GfJp1CbDsaoSGf3rXqVbgmwRx3HtZ6mCtv16GzFgpump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,531 followers) posted at 10:06 Berlin that The Red Bull ($CZ) carries a plain bull theme on Solana and graduated from pump.fun to PumpSwap 34 minutes 34 seconds after launch; the signal flags something odd in the buyer list among the first hundred wallets.",
+      "engagement": "439 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; already graduated; buyer-list oddity noted in signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118631147362258954",
+      "followers": 38531
+    },
     {
       "coin": "GMGN ($GMGN)",
       "chain": "BSC",
@@ -282,26 +302,6 @@
       "flags": "Small account; Pumpfun/Alon involvement claims unverified in this sweep. Very early, high risk.",
       "url": "https://x.com/richboyw8/status/2118575562935636333",
       "followers": 270
-    },
-    {
-      "coin": "Daycare Centers ($Daycare)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 2NgdUjFYoU5TWvEMu91rw3oYegvmERtiPcYRKVcBpump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 06:18 Berlin that this school-themed token had already graduated from pump.fun to PumpSwap, with nearly a hundred wallets sitting in the buyer list at signal time.",
-      "engagement": "343 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; dense early buyer list can mean bundling. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118573787302211587",
-      "followers": 38535
-    },
-    {
-      "coin": "COGE ($COGE)",
-      "chain": "Solana",
-      "chainNote": "Posts give contract address 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump (pump.fun suffix).",
-      "buzz": "Caller @EarlyChad_ (5,938 followers) claimed a $22K to $3.2M move (145.5x) at 06:16 Berlin; aggregator @WheelX_fi (14,932 followers) showed ~$3.20M market cap around the same time.",
-      "engagement": "About 90–93 impressions and 0–1 likes per post at scan time.",
-      "flags": "Numbers come from call and aggregator accounts, not a primary project source. Treat as unverified momentum chatter, high risk.",
-      "url": "https://x.com/EarlyChad_/status/2118573244538138629",
-      "followers": 5938
     }
   ],
   "news": [
