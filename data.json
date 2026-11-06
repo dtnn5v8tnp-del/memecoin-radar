@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 00:15 Berlin time (UTC+01:00)",
-  "newestPostId": "2118844557240504468",
-  "note": "Window: X posts since prior newestPostId 2118843202111467829 (recency: 1 launch/pumpfun query + 1 news/rug query + 1 search_news). Added 1 launch(s) and 2 news item(s). Seen but skipped: LobstarWife/FreeBTCdaily6 $HACK shill farm (3/36 followers); abcdbounty $YITO/$SELIM faction-war spam (44 followers); useMCPad 0-follower tool promo; antonjlm6 brand-new 0-follower Pactora reply spam; GabrielTheValor SOL beg; zveilonsol 0-follower OTC promo; AshishK52173066 low-follower dump complaint; news/rug query mostly politics false-positives (Trump/DOGE metaphors); search_news items already on dashboard (Pump.fun Kraken, Ansem rewards/deal, Diamond/callouts, Theo Von $NIO, Leap, Coinbase CARD, Ethan $142K) skipped; StreetHood NFT Spaces skipped as thin memecoin signal.",
+  "lastUpdated": "Saturday 7 Nov 2026, 00:22 Berlin time (UTC+0100)",
+  "newestPostId": "2118846305564872982",
+  "note": "Window: X posts since prior newestPostId 2118844557240504468 (recency: 1 launch/pumpfun query + 1 news/rug query; skipped search_news this run). Added 1 launch(s) and 1 news item(s). Seen but skipped: DonFolga $NAP airdrop (12 followers); JoinPactora/Pactora reply spam; KaelricVaedrin SunPump fair-launch promo; chopmarkets 0-follower intro; HeyD00M $DOOM project promo (101 followers, 10 impressions); Abu4Raaeed Tail Inu migration (3 followers; $TI already on board); dex_kolwatcher paid DEXScreener $HIM (thin MC); LarpCheckPad self-promo (59 followers); awing0523 $SHK low-follower shill; fourtislisting $COGE 200% listing alert (0 likes, promo account); CryptoThro engagement-farm 100x ask; politics false-positives (Trump dump metaphors); crayak $PUMP +1% near $0.0039 (mild, not board-worthy).",
   "launches": [
+    {
+      "coin": "CryptoRuble (₽)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 6ZYutJfUHgbmVYKJzsfDx3yeAqEpgvy4sSt74jt1pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:19 Berlin an AI Signal that CryptoRuble (₽) is the sixth crypto-themed launch on pumpfun today and is 84% of the way to graduation about two minutes twenty-one seconds after launch; it flags something odd about the deployer history (314 tokens mentioned, text cut off).",
+      "engagement": "298 impressions, 1 like, 0 reposts, 1 reply at scan time.",
+      "flags": "Only an automated signal account so far; serial deployer history flagged in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118845759575781755",
+      "followers": 38571
+    },
     {
       "coin": "The Trump Files ($Trumpfiles)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; third privacy-theme launch today; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118814592747135347",
       "followers": 38569
-    },
-    {
-      "coin": "Anon ($Anon)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3ZFQCAvASDqxPimjXfFZJdTWXybfuWNJx6iLWACYGq5x (stonkfun launch on Solana).",
-      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:14 Berlin an AI Signal that Anon ($Anon) is a stonkfun launch on Solana, 36 seconds old at check time, and the deployer wallet had already sold out of it; description only points to a deployment tool (text cut off).",
-      "engagement": "250 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer already sold out; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118814224978006247",
-      "followers": 38569
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun / AI agent launch",
+      "headline": "@0rdlibrary: $CLAWD graduated; bot-designed pump coin aims to pair via create_v2 quotes",
+      "coins": "$CLAWD, Pump.fun",
+      "detail": "@0rdlibrary (22,430 followers) posted at 00:17 Berlin that $CLAWD graduated on @pumpfun on Solana, and that @pumpfun shipped create_v2 pump-coin quotes so a new coin can be priced in an existing pump coin instead of SOL; a follow-up at 00:15 Berlin says the first @pumpfun token designed by a @bot was designed, coded, tested and deployed by Toly, a Grok Bot agent, aiming to launch a pumpfun coin paired with another pump coin ($CLAWD). Early engagement: about 110–117 impressions, 0 likes, 0 reposts at scan time. Primary posts, not a filing.",
+      "updated": "7 Nov 2026, 00:22 Berlin",
+      "url": "https://x.com/0rdlibrary/status/2118845285522985036"
+    },
     {
       "topic": "KOL / celebrity memecoin drama",
       "headline": "@StarPlatinum_ summarizes Sahil Files claims on Ansem and Iggy Azalea $MOTHER deals",
@@ -536,14 +544,6 @@
       "detail": "@chadscabal (25,248 followers) posted at 16:41 Berlin that a streamer was up $50k on his friend's memecoin launch, then that same friend rugged the token to zero live on stream. No ticker or contract address named. Early engagement: 1,839 impressions, 19 likes, 10 replies, 2 reposts at scan time.",
       "updated": "6 Nov, 16:48 (Berlin)",
       "url": "https://x.com/chadscabal/status/2118730564715078018"
-    },
-    {
-      "topic": "Rugs / market hygiene",
-      "headline": "Tracker says 71 tokens flagged as rugs today (62 Solana, 9 Robinhood Chain)",
-      "coins": "",
-      "detail": "@wyckoffweb (219,342 followers) posted at 16:19 Berlin that 71 tokens had already been flagged as rugs today — 62 on Solana and 9 on Robinhood Chain — with insiders said to have made around $351K, including one that rugged about a minute after launch. Early engagement at scan time: 2,967 impressions, 15 likes, 7 replies, 1 repost.",
-      "updated": "6 Nov 2026, 16:28 Berlin",
-      "url": "https://x.com/wyckoffweb/status/2118724953759498459"
     }
   ],
   "hourly": [
