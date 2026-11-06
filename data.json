@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 22:17 Berlin time (UTC+01:00)",
-  "newestPostId": "2118814687865225234",
-  "note": "Window: X posts since prior newestPostId 2118813742033166577 (recency search: 1 launch-focused query; 1 news/move query; no news search this run — prior run already did one). Added 4 launch(s) and 0 news item(s). Skipped: Annatrader22/_Shonsol/_callerhex/BadManLeek $pip TG/shill farms (CA already listed); vheranievhe $Karl VIP-TG (bbvipks4); Kaan_Capitug0 $HODL VIP-TG (bbvpicks4); SenatorLTD $SI (already listed, 108 foll); dex_kolwatcher/Annatrader22 $MIMI (CA already listed); awing0523 $SHK (91 foll); PopCappyy $CPOP self-shill (114 foll); uwisukuriro $GLITCH thin (330 foll); BadManLeek/prior $FUSE VIP-TG farm; Annatrader22 $Leap (already listed); OliviaCryptoX/Defi_Baron14 follow spam; GemChaserSOL $ANAKINCORE ($626K peak / $347 liq scanner noise); AlphaPulsevw $GLITCHPEPE VIP-TG farm; news query returned political/SPY noise only — no genuine listing/rug/exploit/whale memecoin news in the 5m window.",
+  "lastUpdated": "Friday 6 Nov 2026, 22:21 Berlin time (UTC+01:00)",
+  "newestPostId": "2118815802086609028",
+  "note": "Window: X posts since prior newestPostId 2118814687865225234 (recency search: 1 launch-focused query; 1 news/move query; news search this run). Added 1 launch(s) and 2 news item(s). Skipped: Mavericks100xs $zPEPE (already listed); Cryptoprocesing Pepper reply-shill (144 foll); DegenSightApp $LEAP rug-flag (31 foll, CA already listed as Leap); TheShitShowDev $RWB self-shill (85 foll); Kaan_Capitug0 $LAURA VIP-TG (prior skip pattern); solhousesignals $PCAT / _callerhex/vheranievhe/Bullrunups/EarlyRada $pip (already listed / TG farms); dex_kolwatcher BREAK $0 vol thin; xbtscout $testestetest; SOLANALYST01/MEGCRYPT0 $SQRL VIP farms (already listed); ShantiRamkhala1 Toly thin (498 foll); realsdotmoney REALS (2 foll self-promo); news/move query mostly political/ETF spam + ZigZigworth generic rug tips (11 foll) + BTCFineArt $LASTPUMP self-shill (53 foll); news search: Pump.fun callouts/Diamond, Leap app, Pudgy PFPs, Ansem schemes already on board; skipped TORPOR NFT, ETH mump2p, WolfSWAP mixer, Bored Ape, Injective staked ETF (not memecoin).",
   "launches": [
+    {
+      "coin": "Private Property ($Private)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 8o6SUa4sqpR9duz9xd9PYj81Bkwzbi7N9v5ckUyqpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:18 Berlin an AI Signal that Private Property (ticker Private) launched on pumpfun on Solana; it warns that not every post using the Private symbol is about this contract, so check the address before reading into chatter (text cut off).",
+      "engagement": "275 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; ticker-name collision risk flagged in the signal itself; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118815226338697292",
+      "followers": 38569
+    },
     {
       "coin": "Privacy Cat ($PCAT)",
       "chain": "Solana",
@@ -292,19 +302,25 @@
       "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118787300851384665",
       "followers": 38562
-    },
-    {
-      "coin": "WHITE MONSTER ($WMSNT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Bi4Q1rbj8EfBDFm3SAchcS34w2AfU4wnHorFAmTuyzST (described as float's Raydium LaunchLab; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,562 followers) posted at 20:20 Berlin that WHITE MONSTER ($WMSNT) is about a minute old on Solana via float's Raydium LaunchLab, with most early trading described as buys; the token's only linked social is an X post (text cut off).",
-      "engagement": "228 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; another white-monster CA this evening; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118785504770757103",
-      "followers": 38562
     }
   ],
   "news": [
+    {
+      "topic": "Exchange / app listing",
+      "headline": "X News: Thinking Cat $HMM token joins Robinhood app assets",
+      "coins": "$HMM",
+      "detail": "X news summary (updated ~21:52 Berlin): $HMM (Thinking Cat), launched in July on Robinhood Chain via the Pons ecosystem, was added to Robinhood app assets for users to view. Influencers including CryptoKaleo cheered the visibility; the summary cites price near $0.01 with about a $12M market cap, and notes some caution that this is visibility (like past tokens $AI and $PRIORS) rather than full trading.",
+      "updated": "6 Nov 2026, 22:21 Berlin",
+      "url": "https://x.com/i/trending/2118806657606283558"
+    },
+    {
+      "topic": "Price move / listing pump",
+      "headline": "Donna Dollars ($DONNA) up about 300% since Fourtis listing (MC ~$204K → ~$864K)",
+      "coins": "$DONNA",
+      "detail": "@fourtislisting (67,292 followers) posted at 22:18 Berlin a Pump Alert that Donna Dollars (@donnadollars365) is up 300% since listing on Fourtis, citing first MC $204K and last MC $864K. CA from the quoted listing post: FMqWsXKaAe41Kxfji7v5cpzQmr2gKAteAi9wREmkpump (Solana / pump).",
+      "updated": "6 Nov 2026, 22:21 Berlin",
+      "url": "https://x.com/fourtislisting/status/2118815408174076084"
+    },
     {
       "topic": "Influencer / transparency",
       "headline": "X News: Ansem faces accusations of hidden wallet schemes amid Pump.fun reward talk",
@@ -528,22 +544,6 @@
       "detail": "@Codedscientist (2,929 followers) posted at 10:34 Berlin that after Elon trolled CZ again, a memecoin framed as green-morning:native (Green Morning) was already near a $7.1M market cap. No contract address in the post; early engagement low (16 impressions, 1 like). Distinct from the many thin Red Morning ($RM) launches tracked earlier today.",
       "updated": "6 Nov, 10:39 (Berlin)",
       "url": "https://x.com/Codedscientist/status/2118638050028683411"
-    },
-    {
-      "topic": "Pump / The Fallen Hero (躺枪)",
-      "headline": "The Fallen Hero (BSC) hit ~5.1x about an hour after the launch note",
-      "coins": "The Fallen Hero (躺枪)",
-      "detail": "Signal account @bitecong (38,530 followers) posted a 1-hour update quoting its earlier launch note: CA 0xe451b966aa64bee4046cfcb0db5fe6aa9f647777. It says the token peaked at about 5.1x (~55 minutes after the note) and was trading around 4.1x at update time, with market cap cited as up from $35.4K at the note to $360.1K, and 511 buys vs 448 sells in the window described.",
-      "updated": "6 Nov, 09:48 (Berlin)",
-      "url": "https://x.com/bitecong/status/2118625513048871283"
-    },
-    {
-      "topic": "Tokenomics / WLFI",
-      "headline": "X News: World Liberty Financial launches WLFI token buyback program",
-      "coins": "WLFI",
-      "detail": "X news summary: World Liberty Financial announced a buyback plan for its $WLFI governance token, potentially funded by fees from its $USD1 stablecoin reserves, aiming to strengthen the ecosystem and boost long-term holder voting power. Timing follows a ~10% WLFI drop since recent U.S. midterms and a larger year-to-date decline; amounts and schedule still early-stage.",
-      "updated": "6 Nov, 09:31 (Berlin)",
-      "url": "https://x.com/i/trending/2118542389040070817"
     }
   ],
   "hourly": [
