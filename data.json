@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 12:39 Berlin time (UTC+01:00)",
-  "newestPostId": "2118669433900245160",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches query invalid then retry, news-ish, pump.fun/DEX). Added 0 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA BANK paste-farm spam (same CA E8S7hVm… already listed as DESSA 2.0/DESSA BANK; near-identical bot engagement across posts); dex_kolwatcher $Elons paid alert with MC $NAN / $0 volume; GTA6ATM $ATM project flex (already skipped call-farm); dosed_lol brand-new 0-follower leverage promo; Ayoub83004555 political dump false positive; GambitCR $GM joke.",
+  "lastUpdated": "Friday 6 Nov 2026, 12:46 Berlin time (UTC+01:00)",
+  "newestPostId": "2118671312449122555",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 1 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA BANK paste-farm spam (same CA E8S7hVm… already listed); RugReapermqa/OwenSturridge $COGE call-farm flexes; FalouFrases_ $STONK/$whale flex; Botched_caller $PAWKET bags flex; AiSolanaKols $APPLEPAID paid alert (already listed); dosed_lol 0-follower leverage promo (already skipped); LizethMonArt $Capiboo airdrop spam; Abu4Raaeed $NIG influencer-relay (already listed); GoDoG_brb futures promo false positive; JackStr42679640/MavkaSlavka political false positives.",
   "launches": [
+    {
+      "coin": "Moat ($MOAT)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FhpYj7mi8LWpuV8UEL1ox7i9DUUwto8kW8hsaaX3pump (pump.fun → PumpSwap).",
+      "buzz": "Signal account @bitecong (38,531 followers) posted at 12:42 Berlin that Moat ($MOAT) graduated from pump.fun to PumpSwap less than half an hour after launch; the signal notes most holders at signal time arrived through a bundle rather than a normal price discovery path.",
+      "engagement": "401 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; graduated quickly with claimed bundled buyers. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118670256495591533",
+      "followers": 38531
+    },
     {
       "coin": "WEALTH ($WEALTH)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "410 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; different CA from the earlier Solana $RM today; thin narrative. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118599260640096633",
-      "followers": 38530
-    },
-    {
-      "coin": "Red Morning ($RM)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address R6Y7g7an4GCH9LSm5hsPdnkxUtd6mMeXJdj2517pump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 07:57 Berlin that red morning ($RM) reached 93% of the way to graduation on the pump.fun bonding curve with the pair barely half a minute old when the signal fired; second morning-themed Solana launch today.",
-      "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; morning theme copy again; thin narrative beyond the name. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118598731406962931",
       "followers": 38530
     }
   ],
