@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 06:49 Berlin time (UTC+01:00)",
-  "newestPostId": "2118581286558204283",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; news search skipped this run). Added 2 launch(s) and 0 news item(s). Skipped VIP/call-farm spam on $AMD/$DIAMOND/$RETIRE (already dashboarded or shill); skipped airdrop-style $LMAO/$JASON/$PURR/$CHOO/$EGGU posts; skipped DOGE price chatter and Samsung USDC wallet news (not memecoin).",
+  "lastUpdated": "Friday 6 Nov 2026, 06:58 Berlin time (UTC+01:00)",
+  "newestPostId": "2118583572076675235",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries + 1 news search; first launch query had invalid syntax and was retried). Added 1 launch(s) and 1 news item(s). Skipped VIP/call-farm spam on $AMD/$DIAMOND/$BILL/$bracket/$FORKYU/$SSSDFG; skipped airdrop-style $House/$TAXPUP; skipped repeat $fun/$JOB shills already dashboarded or thin; news stories for Pump.fun video, Ansem rewards, Robinhood trenches, and Leap already on dashboard.",
   "launches": [
+    {
+      "coin": "NWO ($NWO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4VTnR3UmTquiCD1Quz5Z577XdgzehWBK8yTc9482pump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 06:56 Berlin that New World Order ($NWO) graduated from pump.fun to PumpSwap a day and change after launch, themed on a takeover story, and flagged something odd about the first seventy buyers.",
+      "engagement": "300 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; odd buyer-list note in the signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118583192240484499",
+      "followers": 38528
+    },
     {
       "coin": "bracket ($bracket)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Automated on-chain signal account; brand-new micro-cap still on the bonding curve.",
       "url": "https://x.com/bitecong/status/2116869872479330490",
       "followers": 38453
-    },
-    {
-      "coin": "Super-Agent (AI agent token)",
-      "chain": "BSC",
-      "chainNote": "CA 0xb832a8c02258059d57ac22d40a232b261ec97777 (from the post)",
-      "buzz": "@bitecong (38,453 followers) reports Super-Agent as the 14th agent-themed BSC launch today; it cleared its bonding curve on Flap and graduated to PancakeSwap 54 minutes after launch, with an unusual concentration in its top buyer list.",
-      "engagement": "0 likes, about 450 impressions at scan time.",
-      "flags": "Automated on-chain signal account; brand-new micro-cap; buyer concentration noted by the poster.",
-      "url": "https://x.com/bitecong/status/2116867511392325711",
-      "followers": 38453
     }
   ],
   "news": [
+    {
+      "topic": "David Dobrik / FOMO app",
+      "headline": "X News: David Dobrik partners with FOMO app, pitches it as stock trading while it is memecoin-focused",
+      "coins": "FOMO app / Solana memecoins (general)",
+      "detail": "X news summary: David Dobrik promoted FOMO as an app to buy and sell stocks; critics say the app is for trading memecoins on chains like Solana (copy-trading, ~0.5% fees) and call the stocks label misleading for mainstream fans. Supporters see it as a way to reach his audience without crypto jargon.",
+      "updated": "6 Nov, 06:58 (Berlin)",
+      "url": "https://x.com/i/trending/2118361136919626012"
+    },
     {
       "topic": "Trump Media / Bitcoin",
       "headline": "X News: Trump Media transfers 4,259 BTC (~$343M) to Crypto.com amid Nov 30 debt deadline",
@@ -536,14 +544,6 @@
       "detail": "@williamclay (4,857 followers) says roughly 485k-487k stolen SOL, about $46M, left the Binance hacker's Solana wallet this morning, flagged by Whale Alert and Lookonchain, and that Lookonchain says it's being swapped into BTC via Relay out of a 970k SOL stash. Low engagement at scan time; secondhand report.",
       "updated": "1 Nov, 11:52 (Berlin)",
       "url": "https://x.com/williamclay/status/2116845031537737855"
-    },
-    {
-      "topic": "Rug / dev wallet",
-      "headline": "$MIKA dev reportedly leaked the dev wallet's private key, then a KOL-backed relaunch reportedly rugged too",
-      "coins": "MIKA",
-      "detail": "@jumplifey9 (5,261 followers) says @mikadontlouz launched $MIKA with 50% of supply in the dev wallet and posted that wallet's private key instead of the contract address, and that a later KOL-backed relaunch also reportedly rugged. Single-account recap with low engagement (1 like) at scan time; unverified.",
-      "updated": "1 Nov, 11:13 (Berlin)",
-      "url": "https://x.com/jumplifey9/status/2116836105634922974"
     }
   ],
   "hourly": [
