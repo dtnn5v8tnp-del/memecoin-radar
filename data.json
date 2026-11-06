@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 00:10 Berlin time (UTC+01:00)",
-  "newestPostId": "2118843202111467829",
-  "note": "Window: X posts since prior newestPostId 2118841746045968634 (recency: 1 launch/pumpfun query + 1 news/rug query + 1 bitecong/AI-signal query; no search_news this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: PumpCrateBot volume-bot spam (5 followers); AURA_cashyx pump.fun referral/last-call shill; Aminetacoin $AMETA (CnBhqs…pump) brand-new project account tagging celebs; etquantz Padre/Pumpfun Terminal narrative (no new CA launch); Bullrunups $HATCH (46r5…pump) already on dashboard; dex_kolwatcher $DCAT (5pdu9…pump) paid-DEXScreener thin signal; ThinkrOS $THKR (GRvm5…pump) self-promo thin followers; SolanonxBot launch-tool spam; DunnBilly87734 off-topic politics; news/rug search returned 0; bitecong/AI-signal search returned 0.",
+  "lastUpdated": "Saturday 7 Nov 2026, 00:15 Berlin time (UTC+01:00)",
+  "newestPostId": "2118844557240504468",
+  "note": "Window: X posts since prior newestPostId 2118843202111467829 (recency: 1 launch/pumpfun query + 1 news/rug query + 1 search_news). Added 1 launch(s) and 2 news item(s). Seen but skipped: LobstarWife/FreeBTCdaily6 $HACK shill farm (3/36 followers); abcdbounty $YITO/$SELIM faction-war spam (44 followers); useMCPad 0-follower tool promo; antonjlm6 brand-new 0-follower Pactora reply spam; GabrielTheValor SOL beg; zveilonsol 0-follower OTC promo; AshishK52173066 low-follower dump complaint; news/rug query mostly politics false-positives (Trump/DOGE metaphors); search_news items already on dashboard (Pump.fun Kraken, Ansem rewards/deal, Diamond/callouts, Theo Von $NIO, Leap, Coinbase CARD, Ethan $142K) skipped; StreetHood NFT Spaces skipped as thin memecoin signal.",
   "launches": [
+    {
+      "coin": "The Trump Files ($Trumpfiles)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address CBRewMwMPR9K8VBWoRriCodFsCx88EvXegyN8xNwpump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 00:14 Berlin an AI Signal that The Trump Files ($Trumpfiles) is the third \"files\" launch on Solana today and had already graduated from pumpfun to PumpSwap about four and a half minutes after launch; it flags the deployer's scale (text cut off).",
+      "engagement": "91 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; third files-themed launch today; thin engagement; Trump branding. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118844535992406521",
+      "followers": 38572
+    },
     {
       "coin": "Hatch ($HATCH)",
       "chain": "Solana",
@@ -292,19 +302,25 @@
       "flags": "Only an automated signal account so far; deployer already sold out; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118814224978006247",
       "followers": 38569
-    },
-    {
-      "coin": "Private Inu ($pINU)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GFNukawRyykMA6DfPJS6kafyDHDDjgqo9jtGvaHCPzQ5 (stonkfun launch, graduated to Raydium CPMM).",
-      "buzz": "Signal account @bitecong (38,569 followers) posted at 22:13 Berlin an AI Signal that Private Inu ($pINU) is a dog-themed memecoin on Solana that graduated from stonkfun to Raydium CPMM just 2 seconds after launch; it notes 140 bundler wallets still hold the token (text cut off).",
-      "engagement": "251 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; instant graduation; 140 bundler wallets flagged; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118814087400530176",
-      "followers": 38569
     }
   ],
   "news": [
+    {
+      "topic": "KOL / celebrity memecoin drama",
+      "headline": "@StarPlatinum_ summarizes Sahil Files claims on Ansem and Iggy Azalea $MOTHER deals",
+      "coins": "$MOTHER",
+      "detail": "@StarPlatinum_ (112,237 followers) posted at 00:14 Berlin that Sahil (behind 2024 celebrity memecoin launches) is \"exposing\" undisclosed KOL deals; the post alleges Ansem received $100K to promote Iggy Azalea's $MOTHER and that Sahil paid Ansem three separate times (thread continues via link). Unverified claims; thin engagement so far (565 impressions, 0 likes at scan).",
+      "updated": "7 Nov 2026, 00:15 Berlin",
+      "url": "https://x.com/StarPlatinum_/status/2118844557240504468"
+    },
+    {
+      "topic": "Wallet / Solana ecosystem",
+      "headline": "X News: Phantom wallet locks users after scammer dust attacks",
+      "coins": "",
+      "detail": "X News story (updated ~23:37 Berlin) says unsolicited dust payments from malicious addresses can trigger Phantom's compliance filter, disabling sends and swaps in-app while the chain still works; critics say that undercuts self-custody. Story notes dusting has hit millions of Solana wallets; Phantom points to terms of use, and users can export the recovery phrase to another wallet. Relevant for Solana memecoin traders. Unverified beyond the X News summary.",
+      "updated": "7 Nov 2026, 00:15 Berlin",
+      "url": "https://x.com/i/trending/2118833478636638625"
+    },
     {
       "topic": "Celebrity / meme coin",
       "headline": "X News: Theo Von posts AI meme video tied to Solana $NIO coin",
@@ -528,22 +544,6 @@
       "detail": "@wyckoffweb (219,342 followers) posted at 16:19 Berlin that 71 tokens had already been flagged as rugs today — 62 on Solana and 9 on Robinhood Chain — with insiders said to have made around $351K, including one that rugged about a minute after launch. Early engagement at scan time: 2,967 impressions, 15 likes, 7 replies, 1 repost.",
       "updated": "6 Nov 2026, 16:28 Berlin",
       "url": "https://x.com/wyckoffweb/status/2118724953759498459"
-    },
-    {
-      "topic": "Celebrity / upcoming launch",
-      "headline": "CreatorKane says they will launch their own memecoin with a 50% community airdrop",
-      "coins": "",
-      "detail": "@CreatorKane (109,289 followers) posted at 16:02 Berlin that they will launch their own memecoin with no team and no presale, airdropping 50% of supply to the community, and asked for likes/RTs plus SOL addresses for a bonus airdrop. Early engagement at scan time: 147 impressions, 1 like, 2 replies, 1 repost. Announcement only — no contract address in the post.",
-      "updated": "6 Nov 2026, 16:06 Berlin",
-      "url": "https://x.com/CreatorKane/status/2118720746319126548"
-    },
-    {
-      "topic": "ETF / regulatory",
-      "headline": "Trader revisits Canary Pepe ETF filing and thin DOGE/PEPE fund interest",
-      "coins": "PEPE",
-      "detail": "@BitcoinStrat (7,025 followers) posted at 16:01 Berlin asking whether a Pepe ETF would matter, noting Canary filed for a Pepe ETF in April, that a 21Shares Dogecoin fund holds only about $1.8M, and that open Pepe futures bets on Coinbase are only about $0.7M (figures from this post). Early engagement at scan time: 105 impressions, 0 likes, 1 reply. Commentary, not a new SEC approval.",
-      "updated": "6 Nov 2026, 16:06 Berlin",
-      "url": "https://x.com/BitcoinStrat/status/2118720343338811673"
     }
   ],
   "hourly": [
