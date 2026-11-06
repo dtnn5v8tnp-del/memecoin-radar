@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 08:03 Berlin time (UTC+01:00)",
-  "newestPostId": "2118599032289604079",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 2 launch(s) and 1 news item(s). Skipped call-farm spam ($COGE/$RETIRE/$BILL/$fun/$COIN/$STONK); skipped shill-farm CA spam (@Tmaia_ $JOB/$funhog/$ELYSIUM); skipped brand-new-account self-shill ($COGE @CODEonsolanaog); skipped paid-Dex $TrollGiving; skipped low-follower $RM scanner bots; skipped political Trump noise and thin $AMD reply.",
+  "lastUpdated": "Friday 6 Nov 2026, 08:10 Berlin time (UTC+01:00)",
+  "newestPostId": "2118601278628737386",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries + 1 retry). Added 2 launch(s) and 0 news item(s). Skipped TG call-farm spam (@Botched_caller/@degen_piilot); skipped thin reply about a Solana rug (68 followers); skipped airdrop-MEV anecdote, Neome news bot, Trump political noise, and brand-new-account World Liberty Financial shill.",
   "launches": [
+    {
+      "coin": "RED MORNING ($RM)",
+      "chain": "BSC",
+      "chainNote": "Post gives contract address 0xdf10a132bb3ed6ed09f5aef192233192d6327777 (Flap).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 08:05 Berlin that RED MORNING ($RM) is a Flap launch on BSC about 1 minute 20 seconds old, and that the deployer has already sold out of it; the signal says the only story is a link to an Elon post.",
+      "engagement": "377 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer already sold out; different CA from the earlier BSC $RM today. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118600720991895896",
+      "followers": 38530
+    },
+    {
+      "coin": "red morning ($RM)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,530 followers) posted at 08:00 Berlin that red morning ($RM) was less than two minutes old on pump.fun, with the morning theme only in the name and the token description just crediting a tracking site.",
+      "engagement": "410 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; different CA from the earlier Solana $RM today; thin narrative. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118599260640096633",
+      "followers": 38530
+    },
     {
       "coin": "Red Morning ($RM)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Copycat theme (fourth of its kind today) and a questionable wallet per the post; only an automated signal account so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2116900335034007940",
       "followers": 38463
-    },
-    {
-      "coin": "Dante ($Dante)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4s8PpvyFsg1EnZxSpogVdsVwMU2R8gg46rKABG3Bs6Tt (pump.fun bonding curve).",
-      "buzz": "Signal account @bitecong (38,463 followers) posted at 15:18 Berlin that this minutes-old coin was already 81% of the way to pump.fun graduation, with no clear theme beyond a link to a Fortnite post, and flagged the deployer's long launch record.",
-      "engagement": "386 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "No clear theme and a deployer with a heavy launch history per the post; only an automated signal account so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2116897762164040016",
-      "followers": 38463
-    },
-    {
-      "coin": "GTA 1s ($GTA1s)",
-      "chain": "Solana",
-      "chainNote": "Posts give contract address JCPAaUXNnHjFWFG69HcdVh4QNWS1Ec5B1DYwZgsqpump (pump.fun suffix).",
-      "buzz": "Signal account @bitecong (38,459 followers) posted at 14:57 Berlin that this Grand Theft Auto-named coin sat at 90% of the pump.fun bonding curve about a minute and a half into trading; caller @ReptoldSol1 also flagged it as a 'high gamble'.",
-      "engagement": "457 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Uses the GTA name with no sign of any official link; only automated signal and caller posts so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2116892306423046425",
-      "followers": 38459
     }
   ],
   "news": [
