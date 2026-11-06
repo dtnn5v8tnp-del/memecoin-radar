@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 15:59 Berlin time (UTC+01:00)",
-  "newestPostId": "2118719489634193538",
-  "note": "Window: X posts since prior newestPostId 2118706758478668265 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; no news search this run; first launch query retried after invalid CA: syntax). Added 1 launch(s) and 1 news item(s). Skipped: call-farm flex spam ($RSHA262599 across @EvansOnSolana/@Sol_Gems00/@_Shonsol/@SOLSignals_/@Botched_caller; $RM @GGMCRYPTO; $NIG @BadManLeek; $WEALTH VIP-DM farms @RugReapermqa/@Meme_King_ups — CA already on dashboard); brand-new thin accounts (@LuciTradess 5 followers; @payreceipts 0 followers fee-routing promo; @SOLSignals_ created today); airdrop spam ($rape/@saggerdudemax, $testicle/@Juannfxp); BoostToken self-promo (@PawPanicsol); past-call flex (@fauxallover0 $DIAMOND, @MrSolanaBlock $401kat); political Trump/listing/whale noise; thin Bitrue Alpha $GATO claim (@market_ceo, 451 followers — GATO already listed).",
+  "lastUpdated": "Friday 6 Nov 2026, 16:06 Berlin time (UTC+01:00)",
+  "newestPostId": "2118720883606835574",
+  "note": "Window: X posts since prior newestPostId 2118719489634193538 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; no news search this run). Added 1 launch(s) and 2 news item(s). Skipped: call-farm flex spam ($RSHA262599 across @aivilgoodd/@_Shonsol/@_MoonGems; $spoon farm @callerfiona11/@EvansOnSolana/@_callerhex/@0x_AuraLux1/@_Shonsol + MemCoinsRadar bots; $401kat/@401KAT flex @SOLANACHAD009/@sol_lord111/@Sol_Gems00; $HOTCOFFEE @ASTRAsol4/@Botched_caller; $CRF VIP-DM farm @Sol_Gems00 — CA already on dashboard; $RM @fauxallover0); brand-new thin accounts (@payreceipts 1 follower fee-routing promo created today; @UseCreedo 3 followers $CRD roadmap); thin ansem/blknoiz06 shill (@nebb_1 CA 9cRCn…pump, 2 impressions; @RealIzzyEx $ANSEM); MemCoinsRadar migration spam ($401k CA HKWqg…, $spoon); Sweden ETP $PUMP/$WIF/$BONK claim (@BRM2246, 47 followers); historical Wormhole exploit thread (@RealJohnnyTime); Binance Oct 29 hack SOL-trace thread (@sprunky_eth — not memecoin-specific); CreatorKane airdrop-farm replies noise; political/opinion replies.",
   "launches": [
+    {
+      "coin": "Anonymous Cats ($ZCATS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address CAMJCW5oNwSKtVbaS3GSqjwZ75MXKmgYgs7Bemui4dVq (stonkfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,532 followers) posted at 16:01 Berlin that Anonymous Cats ($ZCATS) is a Solana token on the stonkfun bonding curve, about half a minute old at signal time, still on that curve; the name and ticker lean on an \"anonymous\" theme.",
+      "engagement": "322 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin anonymous/cats meme theme; stonkfun not pump.fun. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118720358262202805",
+      "followers": 38532
+    },
     {
       "coin": "Crypto Retirement Fund ($CRF)",
       "chain": "Solana",
@@ -292,19 +302,25 @@
       "flags": "Only an automated signal account so far; thin/no theme; also pushed by call accounts (@firepump_house). Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118650727421858041",
       "followers": 38530
-    },
-    {
-      "coin": "Unavailable Knockers ($UK)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GNKV96CghmXbgSxR4HpYgbjxczZBouQ68wjU2xG4pump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:13 Berlin that Unavailable Knockers ($UK) is a pump.fun launch on Solana that sat at about a $15.2K market cap four minutes after it began on the signal’s own tracking; the signal notes it is the second token today built on the word \"knockers\".",
-      "engagement": "437 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; knockers-theme clone wave (distinct CA from United Knockers). Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118648068849705053",
-      "followers": 38530
     }
   ],
   "news": [
+    {
+      "topic": "Celebrity / upcoming launch",
+      "headline": "CreatorKane says they will launch their own memecoin with a 50% community airdrop",
+      "coins": "",
+      "detail": "@CreatorKane (109,289 followers) posted at 16:02 Berlin that they will launch their own memecoin with no team and no presale, airdropping 50% of supply to the community, and asked for likes/RTs plus SOL addresses for a bonus airdrop. Early engagement at scan time: 147 impressions, 1 like, 2 replies, 1 repost. Announcement only — no contract address in the post.",
+      "updated": "6 Nov 2026, 16:06 Berlin",
+      "url": "https://x.com/CreatorKane/status/2118720746319126548"
+    },
+    {
+      "topic": "ETF / regulatory",
+      "headline": "Trader revisits Canary Pepe ETF filing and thin DOGE/PEPE fund interest",
+      "coins": "PEPE",
+      "detail": "@BitcoinStrat (7,025 followers) posted at 16:01 Berlin asking whether a Pepe ETF would matter, noting Canary filed for a Pepe ETF in April, that a 21Shares Dogecoin fund holds only about $1.8M, and that open Pepe futures bets on Coinbase are only about $0.7M (figures from this post). Early engagement at scan time: 105 impressions, 0 likes, 1 reply. Commentary, not a new SEC approval.",
+      "updated": "6 Nov 2026, 16:06 Berlin",
+      "url": "https://x.com/BitcoinStrat/status/2118720343338811673"
+    },
     {
       "topic": "Price move / BNB meme follow-up",
       "headline": "Trader says memecoin $GM (GreenMorning) pumped ~50x after Elon revived the meme",
@@ -528,22 +544,6 @@
       "detail": "X news summary: @Dior100x and others proposed higher starting caps, taxes on zero-balance snipes, and flatter rewards, arguing streamers and high-volume traders dominate early edge. Some replies defend narrative quality over rule changes.",
       "updated": "6 Nov, 06:21 (Berlin)",
       "url": "https://x.com/i/trending/2118317222959440206"
-    },
-    {
-      "topic": "Exploit / Injective",
-      "headline": "Talis Protocol reportedly exploited on its Injective NFT marketplace",
-      "coins": "INJ",
-      "detail": "@popmemecoin (702 followers) posted that an attacker drained 5,700 NFTs from Talis Protocol's Injective marketplace and dumped them for about 445 INJ (roughly $3,100). Low engagement so far (14 impressions); not independently confirmed in this sweep.",
-      "updated": "1 Nov, 15:57 (Berlin)",
-      "url": "https://x.com/popmemecoin/status/2116907573685489716"
-    },
-    {
-      "topic": "DOGE / Community",
-      "headline": "MyDogeVN says it now manages the official @dogecoin account",
-      "coins": "DOGE",
-      "detail": "@MyDogeVN (7,245 followers, part of the MyDoge wallet group) posted that, effective today, the official @dogecoin account will be managed and operated by MyDogeVN, quoting an earlier announcement. Low engagement so far (34 impressions); not independently confirmed in this sweep.",
-      "updated": "1 Nov, 15:52 (Berlin)",
-      "url": "https://x.com/MyDogeVN/status/2116906324453945479"
     }
   ],
   "hourly": [
