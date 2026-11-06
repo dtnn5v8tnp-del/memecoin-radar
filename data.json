@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 23:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118835007523528878",
-  "note": "Window: X posts since prior newestPostId 2118833766554812669 (recency: 1 launch-focused + 1 news/move query; no search_news this run — used 2 runs ago). Added 1 launch(s) and 0 news item(s). Seen but skipped: yourfriendSOMMI Sahil/Ansem/MOTHER paid-shill expose (420 impr, 2 likes; ongoing feud already on news board); popmemecoin $VETO Dex alert (741 followers, thin); dex_kolwatcher $ABORTMAS paid Dexscreener (thin); meme_insiders $COIN 17.4x call account; EvansOnSolana/Sol_Gems00 $Highcap already listed (62GCm…); _gh0st0fs0l $OPENOS self-shill (35 followers); CryptoooRaiden $JOFF HYPE/Elysium thin; shitolabs/R0bin_Hoot_ soon-CA self-promo; Crypto_Retardio pumpfun invite; investoor77 CT KOL drama commentary; ivarmanyu $NINJACAT CoinGecko shill reply; news query mostly political Trump noise / non-memecoin.",
+  "lastUpdated": "Friday 6 Nov 2026, 23:38 Berlin time (UTC+01:00)",
+  "newestPostId": "2118835408779808826",
+  "note": "Window: X posts since prior newestPostId 2118835007523528878 (recency: 1 launch/news query + search_news this run). Added 0 launch(s) and 1 news item(s). Seen but skipped: erykdiamond/DegenFlow_/SOLANACHAD009 $JOSÉ/$JOSE/$Jos call-farm spam (CA 87CQtouHSb6YCXaPZ1pp8jD56VudRMXBVqU3oDMD1UJT; thin engagement, repeated 'Xx from my call' pattern); BadManLeek $LAURA same call-farm pattern (FugyvQb7hrg71eL8iWu6cpZvg9HyJBXN761dzxNFpump); sol_peal VIP Telegram invite spam. search_news: added Ansem whistleblow/legal-cover plea (new story id); Ethan $142K / Pump.fun Diamond / Leap app / Pudgy PFPs already on board; Theo Von AI meme / NIO coin mention older & thin for board; non-crypto noise ignored.",
   "launches": [
     {
       "coin": "Sahil ($Sahil)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Influencer / Pump.fun whistleblower plea",
+      "headline": "X News: Crypto figure urges Ansem to whistleblow on Pump.fun, offers legal coverage",
+      "coins": "Pump.fun, $ANSEM",
+      "detail": "X News story (updated ~23:03 Berlin) summarizes that a prominent crypto personality publicly urged trader @blknoiz06 (Ansem) to turn whistleblower on Pump.fun and offered to cover legal costs via U.S. law firm connections. Context cites Ansem's past criticisms of the launchpad's rewards/fees and a New York federal class action with racketeering claims advancing. Reactions split; unverified plea from the X News summary, not a primary disclosure. Continues Ansem / Pump.fun drama already on the board.",
+      "updated": "6 Nov 2026, 23:38 Berlin",
+      "url": "https://x.com/i/trending/2118824976006721743"
+    },
+    {
       "topic": "Influencer / Pump.fun callout rewards",
       "headline": "X News: Crypto influencer Ethan claims $142K earned from Pump.fun callouts",
       "coins": "n/a (callout rewards)",
@@ -536,14 +544,6 @@
       "detail": "@chadscabal (25,250 followers) posted at 14:25 Berlin that they are launching their own memecoin on Friday 6 Nov at 5PM UTC, citing prior gains on $KIMCHI, $ANSEM and $CATE and framing it as giving back to the community. No ticker or contract in the post.",
       "updated": "6 Nov 2026, 14:27 Berlin",
       "url": "https://x.com/chadscabal/status/2118696149775430047"
-    },
-    {
-      "topic": "Price / relative strength",
-      "headline": "Altcoin Sherpa flags $PEPE relative strength and whale buying",
-      "coins": "PEPE",
-      "detail": "@AltcoinSherpa (263,705 followers) posted at 13:29 Berlin that $PEPE has impressive relative strength lately with clear whale buying (even before an unspecified hack mentioned in the post). Early engagement at scan time: 2,551 impressions, 11 likes, 1 repost, 3 replies.",
-      "updated": "6 Nov, 13:37 (Berlin)",
-      "url": "https://x.com/AltcoinSherpa/status/2118682241023033634"
     }
   ],
   "hourly": [
