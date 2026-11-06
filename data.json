@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 10:28 Berlin time (UTC+01:00)",
-  "newestPostId": "2118636255101747587",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries; 1 invalid then 2 ok). Added 1 launch(s) and 0 news item(s). Added: @bitecong GTA6DOG ($GTA6K9) pump.fun graduate. Skipped: @CTAVICoinAsset $CTA Nov-19 announce (8 followers, no CA); @kimmr7it 0-follower airdrop farm; @setcapdotfun 0-follower platform promo; @Viking4Eth low-engagement shill with unclear ticker; Kaspa wallet swaps; Trump/stock-market political noise; unrelated replies.",
+  "lastUpdated": "Friday 6 Nov 2026, 10:31 Berlin time (UTC+01:00)",
+  "newestPostId": "2118637201387069619",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 1 launch(s) and 0 news item(s). Added: @Theblackbullxxx DESSA BANK (PumpSwap ~$10K, coordinated shill). Skipped: @Kaan_Capitug0 $RETIRE VIP-TG shill farm (already tracked); @CreatorKane 1000x CA bait with no ticker; @FreelancerRaji5/@Juannfxp airdrop spam; @AlphaBullishups $CZ (already in launches as The Red Bull); @robhousesignal $KYTE low-engagement bot; @UOMCxyz 0-follower self-launch; GoFundMe/Notion/Cursor/Splice noise; Elon listing spam.",
   "launches": [
+    {
+      "coin": "DESSA BANK (DESSA BANK)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW (PumpSwap; signal accounts also call it a pump.fun 2.0 of an earlier Tensorflow AI-podcast meme).",
+      "buzz": "Influencer @Theblackbullxxx (183,411 followers) posted repeatedly around 10:27–10:30 Berlin pushing DESSA BANK at about $10K market cap, already live on PumpSwap, with short video clips; each post drew roughly 6–12 likes, 6–13 replies and 6–12 reposts within minutes. @speedyswimmerr (44,918 followers) separately flagged the same CA as a Pumpfun-trending AI podcast/space memecoin 2.0 at $10K MCAP.",
+      "engagement": "@Theblackbullxxx top post in window: 101 impressions, 6 likes, 6 reposts, 6 replies, 4 bookmarks; sibling posts up to 229 impressions / 11 likes / 12 reposts. @speedyswimmerr: 27 impressions, 2 likes, 2 reposts.",
+      "flags": "Coordinated influencer shill wave (\"I told you to buy X, now buy this\" template). Already on PumpSwap. Very early, high risk.",
+      "url": "https://x.com/Theblackbullxxx/status/2118637147368415673",
+      "followers": 183411
+    },
     {
       "coin": "GTA6DOG ($GTA6K9)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "305 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; no clear theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118575346631192618",
-      "followers": 38536
-    },
-    {
-      "coin": "Bracket ($Bracket)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Ejsis9t87kSTpQ6SHhYNdRc2av7Vjp5pyAVMiYvtpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 06:23 Berlin that Bracket Company, Inc. ($Bracket) was about five minutes old, 93% of the way to pump.fun graduation, themed on brackets, and the second bracket-themed token.",
-      "engagement": "363 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Copycat theme (second bracket token) and only an automated signal account so far. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118575007182012517",
       "followers": 38536
     }
   ],
