@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 14:21 Berlin time (UTC+01:00)",
-  "newestPostId": "2118695158187163851",
-  "note": "Window: X posts since prior newestPostId 2118694396975579595 (recency search, 2 queries: launches/pump.fun + rugs/listings/pump; no news search this run). Added 0 launch(s) and 0 news item(s). Skipped: webb_sonn/EarlyChad_ $AMD past-gain call-farm; SOLANACHAD009 $DNUT call flex; Theblackbullxxx DESSA II already covered; withchanu/LizethMonArt/jirka_456 airdrop spam ($BAGEL/$ASI/$HEDGE); WallStreetShift/FusedPad self-promo; DonPablo2024 noise. News window: CryptoWizardd $TRUMP bag talk / bsktradernft Scaramucci-CLARITY opinion not added; Visa stock / politics false positives ignored.",
+  "lastUpdated": "Friday 6 Nov 2026, 14:27 Berlin time (UTC+01:00)",
+  "newestPostId": "2118696402872373386",
+  "note": "Window: X posts since prior newestPostId 2118695158187163851 (recency search, 2 queries: launches/pump.fun + rugs/listings/pump; no news search this run). Added 3 launch(s) and 1 news item(s). Skipped: Theblackbullxxx $DESSA already covered / past-gain call farm; AutorunAlert $LABS deposit spam; NoirTechSol $Noir / miremontrun $MIRE / AngryKittySol $ANGRYK tiny new accounts; webb_sonn $DNUT, Sol_Gems00 $ILY, solCallermike_ $NIG, Meme_Lord_ups $WEALTH, bullish_hunter1 $APPLEPAID call-farm flexes; lvfurtherprous tracker spam; LexaproTrader Slingoor–Pumpfun fud incomplete; Vaultweb3 generic flex; habibiCEO BIRB thin engagement; AnaAndrd $STONK vote scam link.",
   "launches": [
+    {
+      "coin": "Labs ($Labs)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address HaNuBbr9QnuCRws28WXtaVkRfMgpApcFMS52Ln95qh5Z (pump.fun). Distinct from earlier Solana Labs ($LABS) CA 3vpnJAz2JQJDq1tM9BR7E1Q5Z2qexkoaPq7cmsBJjDex and from $LABS CA 4FHEBKNYy6BZ1QFMKj1xL8HDTM12rdXLRYw8DgiCUnQn.",
+      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:24 Berlin that Labs ($Labs) is a pump.fun launch at 75% of the way to graduation on the bonding curve, framed as a Solana founder reaction story rather than an image meme.",
+      "engagement": "357 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; another Labs-named CA in the same window as a separate $LABS token. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118695938344767515",
+      "followers": 38527
+    },
+    {
+      "coin": "Labs ($LABS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4FHEBKNYy6BZ1QFMKj1xL8HDTM12rdXLRYw8DgiCUnQn (pump.fun). Distinct from earlier Solana Labs ($LABS) CA 3vpnJAz2JQJDq1tM9BR7E1Q5Z2qexkoaPq7cmsBJjDex.",
+      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:25 Berlin that Labs ($LABS) is still on the pump.fun bonding curve nearly at graduation, with the deployer sold out; the signal's own tracking puts market cap at about $34.2K.",
+      "engagement": "67 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer sold everything per the signal; same Labs name family as other new CAs. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118696394081145248",
+      "followers": 38527
+    },
+    {
+      "coin": "dont ignore this kitten ($lucky)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address ozbsAkTXgkRntFoQyipz9V7yZb6anedp7HPgP1xpump (pump.fun). Distinct from earlier LUCKY / dont ignore this cat CA 88u51cRpQETNJqomtqgUj9xYKJjkn3RLsZS9qae6pump.",
+      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:21 Berlin that a second ignore-themed launch, dont ignore this kitten ($lucky), is about 21 minutes old and at 91% of the way to graduation on the pump.fun bonding curve.",
+      "engagement": "419 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
+      "flags": "Only an automated signal account so far; second ignore/lucky-cat CA within minutes of the earlier LUCKY entry. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118695347937853891",
+      "followers": 38527
+    },
     {
       "coin": "LUCKY / dont ignore this cat ($lucky)",
       "chain": "Solana",
@@ -272,39 +302,17 @@
       "flags": "Only an automated signal account so far; heavy bundler count at launch. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118642132739301713",
       "followers": 38530
-    },
-    {
-      "coin": "november ($november)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Berk1mwwwV7obmWfMaEwkh63T1ntLZ5pPN4f4NX6pump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 10:42 Berlin that november ($november) launched on pump.fun on Solana and graduated to PumpSwap about 16 minutes 49 seconds after launch; the signal timed the token at roughly eighteen minutes old.",
-      "engagement": "447 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; calendar-month name theme. Already graduated. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118640058089803839",
-      "followers": 38530
-    },
-    {
-      "coin": "Baby Don’t Hurt Me ($BDHM)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3dWe37sqSgR8z4ToBCb6ArUyhgVLLTnYyVU3uqd9pump (pump.fun migrated / PumpSwap).",
-      "buzz": "Scanner @SolanaMemesScan (4,325 followers) posted a SOL CTO alert at 10:44 Berlin for Baby Don’t Hurt Me ($BDHM): migrated off pump.fun, ATH market cap cited at $110.3K, 363 holders, top-10 wallets about 8.90%. Separate call accounts also pushed the same CA around $105K MC.",
-      "engagement": "@SolanaMemesScan: 84 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "CTO / migrated; scanner-led with overlapping call-account noise. Very early, high risk.",
-      "url": "https://x.com/SolanaMemesScan/status/2118640634013823138",
-      "followers": 4325
-    },
-    {
-      "coin": "DESSA BANK (DESSA BANK)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW (PumpSwap; signal accounts also call it a pump.fun 2.0 of an earlier Tensorflow AI-podcast meme).",
-      "buzz": "Influencer @Theblackbullxxx (183,411 followers) posted repeatedly around 10:27–10:30 Berlin pushing DESSA BANK at about $10K market cap, already live on PumpSwap, with short video clips; each post drew roughly 6–12 likes, 6–13 replies and 6–12 reposts within minutes. @speedyswimmerr (44,918 followers) separately flagged the same CA as a Pumpfun-trending AI podcast/space memecoin 2.0 at $10K MCAP.",
-      "engagement": "@Theblackbullxxx top post in window: 101 impressions, 6 likes, 6 reposts, 6 replies, 4 bookmarks; sibling posts up to 229 impressions / 11 likes / 12 reposts. @speedyswimmerr: 27 impressions, 2 likes, 2 reposts.",
-      "flags": "Coordinated influencer shill wave (\"I told you to buy X, now buy this\" template). Already on PumpSwap. Very early, high risk.",
-      "url": "https://x.com/Theblackbullxxx/status/2118637147368415673",
-      "followers": 183411
     }
   ],
   "news": [
+    {
+      "topic": "Upcoming launch announcement",
+      "headline": "Chad's Cabal says they will launch their own memecoin today at 5PM UTC",
+      "coins": "(unnamed)",
+      "detail": "@chadscabal (25,250 followers) posted at 14:25 Berlin that they are launching their own memecoin on Friday 6 Nov at 5PM UTC, citing prior gains on $KIMCHI, $ANSEM and $CATE and framing it as giving back to the community. No ticker or contract in the post.",
+      "updated": "6 Nov 2026, 14:27 Berlin",
+      "url": "https://x.com/chadscabal/status/2118696149775430047"
+    },
     {
       "topic": "Price / relative strength",
       "headline": "Altcoin Sherpa flags $PEPE relative strength and whale buying",
@@ -536,14 +544,6 @@
       "detail": "@MTLabResearch (747 followers) posted that ZEC, TON (incl. USDT) and SUI withdrawals are newly open, joining BTC, ETH, BNB, XRP, Base and DOGE already open. Small account, very low engagement (1 impression); unconfirmed by Binance in this sweep.",
       "updated": "1 Nov, 15:45 (Berlin)",
       "url": "https://x.com/MTLabResearch/status/2116903685985091590"
-    },
-    {
-      "topic": "Exchanges / DOGE",
-      "headline": "DOGE missing from Binance's \"100% backed\" list after the hack, while withdrawals keep reopening",
-      "coins": "DOGE, WIF, BONK",
-      "detail": "@ArchibaldBollz (712 followers) noted Dogecoin is not on Binance's list of fully backed coins and that Binance says about 95% of the hack is covered. Separately @greasydaryle (543 followers) posted that withdrawals are reopening after the $6.3B hack and that WIF was up 1.9% with BONK flat. Small accounts, low engagement (4 and 13 impressions).",
-      "updated": "1 Nov, 15:42 (Berlin)",
-      "url": "https://x.com/ArchibaldBollz/status/2116903526391525584"
     }
   ],
   "hourly": [
