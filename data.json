@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 09:40 Berlin time (UTC+01:00)",
-  "newestPostId": "2118624405026668586",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: 1 invalid syntax, 2 usable). Added 0 launch(s) and 0 news item(s). Skipped: @MAD_AD_SLINGERS ad-spam farm flooding \"just launched\" (0 followers); @Micade86 $HODLPAIN Base self-promo (14 followers, 0 impressions); @MemCoinsRadar $Girlcoin migration alert (2.2k followers, 44 impressions / 0 likes; Girlcoin already on board); @Cavalimo rug-tool reply spam (21 followers, account created yesterday); @_0i00j engagement-farm \"which memecoin\" post; @Richdegen67 SunPump promo (5 impressions); political Trump/gas/Fauci noise after $ stripped from tickers; @MeekaConsult $ANSEM platform reply (448 followers, 0 impressions).",
+  "lastUpdated": "Friday 6 Nov 2026, 09:48 Berlin time (UTC+01:00)",
+  "newestPostId": "2118626438761046170",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 1 news item(s): The Fallen Hero 1h update (~5.1x peak / ~4.1x, bitecong). Skipped: @MAD_AD_SLINGERS ad-spam farm (0 followers); @0xZHWZF $FUNGO launchpad promo (151 followers); @JamesCook140738 $Butny shill (109 followers); @CheekyCrypto generic winners bot; @Atlantis_Ex self-listing SI on own exchange; @kvikash007 iMeme/NEAR lore (1.7k followers, 12 impressions); @Jimmyy_yyyy BOME down-97% commentary (18 impressions); earbud/\"new pair\" false positives; non-meme Rome Protocol / Solana Leap promos.",
   "launches": [
     {
       "coin": "Feijitou / 飞机头 (Feijitou)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Pump / The Fallen Hero (躺枪)",
+      "headline": "The Fallen Hero (BSC) hit ~5.1x about an hour after the launch note",
+      "coins": "The Fallen Hero (躺枪)",
+      "detail": "Signal account @bitecong (38,530 followers) posted a 1-hour update quoting its earlier launch note: CA 0xe451b966aa64bee4046cfcb0db5fe6aa9f647777. It says the token peaked at about 5.1x (~55 minutes after the note) and was trading around 4.1x at update time, with market cap cited as up from $35.4K at the note to $360.1K, and 511 buys vs 448 sells in the window described.",
+      "updated": "6 Nov, 09:48 (Berlin)",
+      "url": "https://x.com/bitecong/status/2118625513048871283"
+    },
+    {
       "topic": "Tokenomics / WLFI",
       "headline": "X News: World Liberty Financial launches WLFI token buyback program",
       "coins": "WLFI",
@@ -536,14 +544,6 @@
       "detail": "Official @binance update: newly re-enabled networks are ZEC (ZEC), TON (USDT, GRAM) and SUI (SUI), on top of BTC, ETH, BSC, XRP, Base, DOGE and others already live. Not every asset is back yet. About 27 likes and 1.6k impressions at scan time.",
       "updated": "1 Nov, 13:36 (Berlin)",
       "url": "https://x.com/binance/status/2116871932075516174"
-    },
-    {
-      "topic": "Risk flag / $P2P",
-      "headline": "Tracker says $P2P ran 8.9x in under an hour but flags a dev with rug history and a copycat ticker",
-      "coins": "$P2P (Solana, pump.fun)",
-      "detail": "@jbstrategy (1,315 followers) says $P2P went from a $19.3K to a $171.9K peak about 59 minutes after the call, and warns the dev has rug history, the ticker is a copycat and the top holder has about 12%. Tiny reach (8 impressions); the coin is also being pushed by a shill-call ring.",
-      "updated": "1 Nov, 13:35 (Berlin)",
-      "url": "https://x.com/jbstrategy/status/2116871630945153504"
     }
   ],
   "hourly": [
