@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 18:58 Berlin time (UTC+01:00)",
-  "newestPostId": "2118764700146319611",
-  "note": "Window: X posts since prior newestPostId 2118762578016956618 (recency search, 2 broad post queries + 1 news search). Added 1 launch(s) and 0 news item(s). Added: bitecong $KOL (Key Opinion Leader) pumpfun signal. Skipped: Charlie_SOL23 $DEGEN TG VIP call farm (already tracked Degen theme / shill); Strong69106/Felipetees/Sol_b33y $CRL / $TURTUR / $CASINO / $BOOMER gain-flexes (already tracked); dex_kolwatcher $Heisto / $RIPPING PAID DEXScreener spam; MemCoinsRadar $trenchelon migration flex (low engagement); TrashxCoin self-launch (27 fol); SheikhDonaldMem brand-new 1-follower spam; B00DIESonSol $MOOF (53 fol); Stupid__CTO $STUPID self-shill; pisklauren $ZOMBCASH thin promo; uday72347 $KHB2 (19 fol); news already tracked: Pump.fun Kraken SOL deposit, Diamond rewards, Leap app, Pudgy/Abstract, Ansem rewards. No rugs, major listings, or high-engagement new launches in window.",
+  "lastUpdated": "Friday 6 Nov 2026, 19:00 Berlin time (UTC+01:00)",
+  "newestPostId": "2118765252502229162",
+  "note": "Window: X posts since prior newestPostId 2118764700146319611 (recency search, 3 broad post queries; news search skipped this run after prior run used one). Added 0 launch(s) and 1 news item(s). Added: Valour Spotlight SEK ETPs for PUMP/WIF/BONK (verified via Valour release + Spotlight). Skipped: ancetacloud rug-pattern thread (45 fol); RTs of already-tracked Chad's Cabal live-rug story; Magmandrock RT of open-ended buy-ask; 0xGaius_ temple-cat ATH flex (no clear new ticker/CA, thin engagement); tnlsol dog-wif-hijab pairing promo (253 fol); market_ceo RT of $GATO LBank listing claim (low engagement shill). Quiet launch window; no high-engagement new launches, rugs, or exploits in-window.",
   "launches": [
     {
       "coin": "Key Opinion Leader ($KOL)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Memecoin ETPs / Sweden",
+      "headline": "Valour lists PUMP, WIF, and BONK SEK ETPs on Sweden's Spotlight Stock Market",
+      "coins": "PUMP (Pump.fun), WIF (dogwifhat), BONK",
+      "detail": "X post by @PetalSoI (3,713 followers) at 18:59 Berlin flagged Valour SEK exchange-traded products covering Pump.fun, Bonk, and dogwifhat on Spotlight Stock Market. Company release and Spotlight listings confirm eight new Valour digital-asset ETPs began trading 5 Nov 2026, including Valour Pump.fun (PUMP) SEK, Valour Dogwifhat (WIF) SEK, and Valour Bonk (BONK) SEK (1.9% management fee each), plus non-meme names such as Raydium and Morpho. Post engagement was still thin at scan (53 impressions, 0 likes).",
+      "updated": "6 Nov 2026, 19:00 Berlin",
+      "url": "https://x.com/PetalSoI/status/2118765166837809650"
+    },
+    {
       "topic": "PENGU / NFT ecosystem",
       "headline": "Pudgy Penguins PFPs fade as Abstract L2 shutdown pushes users toward real photos",
       "coins": "PENGU (Pudgy Penguins)",
@@ -536,14 +544,6 @@
       "detail": "X news summary: Leap early access hit iOS TestFlight on 5 Nov (Android soon), built by the Dialect team Solana Labs acquired. Self-custodial swaps via Jupiter, chart news, fee-inclusive P&L; aims beyond memecoins; tokenized stocks restricted in US/UK/EEA; future fees may burn SOL.",
       "updated": "6 Nov, 06:29 (Berlin)",
       "url": "https://x.com/i/trending/2118544554773377430"
-    },
-    {
-      "topic": "Politics / price move",
-      "headline": "X News: Trump-linked tokens plunge after Democrats take Congress ($TRUMP over 20%, $MELANIA 14–16%)",
-      "coins": "TRUMP, MELANIA, WLFI",
-      "detail": "X news summary: $TRUMP fell over 20% in one day to about $1.25 (down ~98% from its Jan 2025 peak), with $MELANIA down 14–16% and $WLFI down 4–8%, as Democrats prepare probes into family crypto ventures. A Trump Media wallet also moved thousands of BTC this year.",
-      "updated": "6 Nov, 06:21 (Berlin)",
-      "url": "https://x.com/i/trending/2118271016317165877"
     }
   ],
   "hourly": [
