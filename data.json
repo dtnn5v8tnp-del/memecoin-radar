@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:08 Berlin time (UTC+01:00)",
-  "newestPostId": "2118797346532413866",
-  "note": "Window: X posts since prior newestPostId 2118796256273416475 (recency search: 1 launch-focused query; 1 news/move query; 1 signal/CA launch query). Added 1 launch(s) and 0 news item(s). Skipped: 0x_AuraLux1 $MMC/$HOPE serial shill; SolDegen_ $CEILING call farm; solhousesignals $HOPE (offensive-name expansion); SolTokenScan $GPAID bot; dex_kolwatcher $ETERNAL thin DEX alert; phoenix__crypto $FLOAT +79% secondary (already covered in Fourtis listing news); notrandomdotfun Instant CA product promo (thin); AlphaPulsevw VIP-TG spam; French/off-topic noise; Coin_Lackey liquidation spam; vicecircuit_X VICE pre-launch (107 followers).",
+  "lastUpdated": "Friday 6 Nov 2026, 21:10 Berlin time (UTC+01:00)",
+  "newestPostId": "2118797963426414657",
+  "note": "Window: X posts since prior newestPostId 2118797346532413866 (recency search: 1 launch-focused query; 1 news/move query; 1 signal/CA query failed invalid syntax). Added 1 launch(s) and 0 news item(s). Skipped: WestmarkCalls $Diamond 220× claim (call account, 7 impressions); UseMemecoin brand-new 2-follower promo; pizzabasedev1x $AMETA/$ABTC shill; SESTERTIVSCOIN self-promo; SuurlandLee $GLITCH reply shill; KookaburraWeb3 Fungo NFT pad promo; mitch0nsol personal flex; WoodyFinance ZAZA game promo.",
   "launches": [
+    {
+      "coin": "Google Paid ($gPAID)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5Yyxt95UsHtmu2CoxjtgRBuKdF7Zyjff9Pig5R2cpump (pump.fun / pumpfun; past graduation).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 21:09 Berlin that Google Paid ($gPAID) is a pumpfun launch on Solana a few minutes past graduation and roughly six and a half hours old; name and links point to a project calling itself Google Paid (text cut off).",
+      "engagement": "136 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; Google-branded theme (high brand-risk); thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118797963426414657",
+      "followers": 38574
+    },
     {
       "coin": "Magic Money Computer ($MMC)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "332 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; name-only whale theme; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118773282807914592",
-      "followers": 38536
-    },
-    {
-      "coin": "Mochi ($MOCHI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BCLZ9Wh6qay15ZN8PbR8jQBRHs3rWrdbTLR27oqfLoat (described as float-style Loat address; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:29 Berlin that Mochi ($MOCHI) was about 39 seconds old on Solana when signaled; the name hints at a pet theme without a clear story, and it notes about 45 bundler wallets holding the token (text cut off).",
-      "engagement": "348 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; high bundler-wallet count flagged in signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118772863117496475",
       "followers": 38536
     }
   ],
