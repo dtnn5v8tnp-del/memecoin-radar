@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Sunday 1 Nov 2026, 16:01 Berlin time (UTC+1)",
-  "newestPostId": "2116908465352258036",
-  "note": "Window: roughly the last 12 hours of X posts (to 08:45 UTC) plus X news from the last 24 hours. DexScreener was checked for SAFU only.",
+  "lastUpdated": "Friday 6 Nov 2026, 06:21 Berlin time (UTC+1)",
+  "newestPostId": "2118574296628920716",
+  "note": "Window: X posts since prior newestPostId (recency search; dashboard was stale since 1 Nov) plus X news from the last 24 hours. Filtered VIP-Telegram call farms and airdrop spam.",
   "launches": [
+    {
+      "coin": "Daycare Centers ($Daycare)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 2NgdUjFYoU5TWvEMu91rw3oYegvmERtiPcYRKVcBpump (pump.fun / PumpSwap).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 06:18 Berlin that this school-themed token had already graduated from pump.fun to PumpSwap, with nearly a hundred wallets sitting in the buyer list at signal time.",
+      "engagement": "343 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; dense early buyer list can mean bundling. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118573787302211587",
+      "followers": 38535
+    },
+    {
+      "coin": "COGE ($COGE)",
+      "chain": "Solana",
+      "chainNote": "Posts give contract address 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump (pump.fun suffix).",
+      "buzz": "Caller @EarlyChad_ (5,938 followers) claimed a $22K to $3.2M move (145.5x) at 06:16 Berlin; aggregator @WheelX_fi (14,932 followers) showed ~$3.20M market cap around the same time.",
+      "engagement": "About 90–93 impressions and 0–1 likes per post at scan time.",
+      "flags": "Numbers come from call and aggregator accounts, not a primary project source. Treat as unverified momentum chatter, high risk.",
+      "url": "https://x.com/EarlyChad_/status/2118573244538138629",
+      "followers": 5938
+    },
     {
       "coin": "Super Inu ($SI)",
       "chain": "Solana",
@@ -282,29 +302,57 @@
       "flags": "Automated signal post; seasonal joke-theme coins draw many copycats and are high risk.",
       "url": "https://x.com/bitecong/status/2116832378635391135",
       "followers": 38445
-    },
-    {
-      "coin": "The Dead Bull (ANSEM)",
-      "chain": "Solana",
-      "chainNote": "CA GS6DbJJeNzWJ4SHBrMxh9tGCQJjtACjeyk1E6Qrgpump",
-      "buzz": "Automated signal account @bitecong (38,444 followers) says this is the third ANSEM-themed launch on Solana today, moving from the pump.fun bonding curve to PumpSwap about a quarter hour after launch, and flags something odd in the top-holder list.",
-      "engagement": "Low: 0 likes, 340 impressions at scan time.",
-      "flags": "Automated signal post; copycat name-theme launches and unusual buyer lists are high risk.",
-      "url": "https://x.com/bitecong/status/2116826361126092984",
-      "followers": 38444
-    },
-    {
-      "coin": "LaowuCoin (老吴)",
-      "chain": "BSC",
-      "chainNote": "CA 0xdf8a2cccbff4a15616fc4ea6fd3574645d317777",
-      "buzz": "Automated signal account @bitecong (38,443 followers) flagged a cat-named meme coin launched on Flap a few minutes earlier, noting no clear theme and a buyer base dominated by fresh wallets.",
-      "engagement": "Low: 0 likes, 397 impressions at scan time.",
-      "flags": "Automated signal post; heavy fresh-wallet buying is a common wash or bundle pattern. High risk.",
-      "url": "https://x.com/bitecong/status/2116805308404437081",
-      "followers": 38443
     }
   ],
   "news": [
+    {
+      "topic": "Politics / price move",
+      "headline": "X News: Trump-linked tokens plunge after Democrats take Congress ($TRUMP over 20%, $MELANIA 14–16%)",
+      "coins": "TRUMP, MELANIA, WLFI",
+      "detail": "X news summary: $TRUMP fell over 20% in one day to about $1.25 (down ~98% from its Jan 2025 peak), with $MELANIA down 14–16% and $WLFI down 4–8%, as Democrats prepare probes into family crypto ventures. A Trump Media wallet also moved thousands of BTC this year.",
+      "updated": "6 Nov, 06:21 (Berlin)",
+      "url": "https://x.com/i/trending/2118271016317165877"
+    },
+    {
+      "topic": "Industry / Solana",
+      "headline": "X News: Solana co-founder Anatoly Yakovenko calls memecoins and NFTs 'digital slop'",
+      "coins": "Solana memecoins (general)",
+      "detail": "X news summary: Yakovenko likened memecoins and NFTs to mobile-game loot boxes—speculation with near-zero creation cost—and suggested routing trading profits into low-fee index funds. Reactions mixed between praise for honesty and jokes about building the casino then criticizing the slots.",
+      "updated": "6 Nov, 06:21 (Berlin)",
+      "url": "https://x.com/i/trending/2118142599944909199"
+    },
+    {
+      "topic": "Price move / Pump.fun",
+      "headline": "X News: $BATON rallies on Pump.fun as BATONARMY tops squad boards; Ansem highlights it",
+      "coins": "BATON",
+      "detail": "X news summary: $BATON was up about 26% over 24 hours with its community topping Pump.fun squad leaderboards (~$845K holdings). Ansem called it a strong pump-paired coin; charts cited a climb from roughly $4M toward $6M market cap. High volatility.",
+      "updated": "6 Nov, 06:21 (Berlin)",
+      "url": "https://x.com/i/trending/2118410030307578124"
+    },
+    {
+      "topic": "Platform / controversy",
+      "headline": "X News: Pump.fun accused of coordinating an $AMD (A Meme Dog) pump from sub-$100K to $3M+",
+      "coins": "AMD (A Meme Dog), Pump.fun",
+      "detail": "X news summary: observers claimed select traders got early access, then trending and account amplification; Ansem was cited with large daily gains. Skeptics called the pattern rigged amid an ongoing New York lawsuit alleging insider advantages on the platform.",
+      "updated": "6 Nov, 06:21 (Berlin)",
+      "url": "https://x.com/i/trending/2117789431566336458"
+    },
+    {
+      "topic": "Platform / narrative",
+      "headline": "X News: Pump.fun video says memecoin prices follow attention above all else",
+      "coins": "Pump.fun / Solana memecoins; PENGUIN speculation",
+      "detail": "X news summary: Pump.fun released an animated penguin video arguing attention dwarfs product or business plans for memecoin prices. Traders linked the mascot to a $PENGUIN token and floated ideas like $ACM (Attention Capital Markets).",
+      "updated": "6 Nov, 06:21 (Berlin)",
+      "url": "https://x.com/i/trending/2118474982280081502"
+    },
+    {
+      "topic": "Platform / trading",
+      "headline": "X News: traders push Pump.fun for fairer launch rules after insider-edge complaints",
+      "coins": "Pump.fun / Solana memecoins",
+      "detail": "X news summary: @Dior100x and others proposed higher starting caps, taxes on zero-balance snipes, and flatter rewards, arguing streamers and high-volume traders dominate early edge. Some replies defend narrative quality over rule changes.",
+      "updated": "6 Nov, 06:21 (Berlin)",
+      "url": "https://x.com/i/trending/2118317222959440206"
+    },
     {
       "topic": "Exploit / Injective",
       "headline": "Talis Protocol reportedly exploited on its Injective NFT marketplace",
@@ -496,54 +544,6 @@
       "detail": "@420dotmeme (348 followers) says Justin Sun's PEPE position grew from $267k to $51M in 10 days and credits Arkham for calling him the largest individual holder. Unverified: no engagement at scan time and no larger outlet seen yet.",
       "updated": "1 Nov, 09:32 (Berlin)",
       "url": "https://x.com/420dotmeme/status/2116810497505022239"
-    },
-    {
-      "topic": "Price move",
-      "headline": "BSC News: $PEPE up 14% on the week despite the Binance hack turmoil",
-      "coins": "PEPE",
-      "detail": "@BSCNews (1,374,742 followers) says PEPE is among crypto's best performers this week, up 14%, alongside Midnight and Quant. Modest engagement at scan time (1 like, 4,195 impressions).",
-      "updated": "1 Nov, 08:43 (Berlin)",
-      "url": "https://x.com/BSCNews/status/2116798355296993781"
-    },
-    {
-      "topic": "Exchange",
-      "headline": "Post claims Binance withdrawals are live again, phase one covering BTC, ETH, BNB, SOL, XRP and DOGE",
-      "coins": "Market-wide (Binance hack fallout), DOGE",
-      "detail": "@gojoosama (6,708 followers) says phase one of Binance withdrawals opened today after the exchange reached 95% recovery on the $6.3B hack. Single low-engagement source (0 likes, 16 impressions at scan time); not yet confirmed by Binance in this scan.",
-      "updated": "1 Nov, 08:28 (Berlin)",
-      "url": "https://x.com/gojoosama/status/2116794020408271139"
-    },
-    {
-      "topic": "Exploit",
-      "headline": "Trump questions whether North Korea was behind the $6.3B Binance hack, hours after the FBI named TraderTraitor",
-      "coins": "Market-wide (Binance hack fallout)",
-      "detail": "@MarioNawfal (3,975,307 followers) reports Trump questioned North Korea's responsibility for the hack; @cryptothedoggy (55,878 followers) quotes him as 'not concerned' and saying 'We'll talk to North Korea about it.' Low engagement at scan time (1 like each).",
-      "updated": "1 Nov, 08:00 (Berlin)",
-      "url": "https://x.com/MarioNawfal/status/2116787325636080012"
-    },
-    {
-      "topic": "Research",
-      "headline": "Bitquery study: dev wallets, not sniper bots, take most early memecoin launch profits",
-      "coins": "Launchpad memecoins (general)",
-      "detail": "@CryptoAIgoat (1,180 followers) cites a Bitquery analysis of 8.2M launches: 21% had dev wallets already in block 0 holding a median 10% of supply; devs plus bundles made $579M+ after fees (launches to June) versus $31.5M for snipers. 1 like at scan time.",
-      "updated": "1 Nov, 07:47 (Berlin)",
-      "url": "https://x.com/CryptoAIgoat/status/2116784252943769639"
-    },
-    {
-      "topic": "Launchpad",
-      "headline": "windup.fun plans Nov 3 Genesis launch for leveraged memecoin trading on Hyperliquid",
-      "coins": "HYPE, Hyperliquid memecoins",
-      "detail": "@0xSlyth (5,505 followers) says @windupdotfun is building a way to long or short a memecoin the moment it launches on Elysium, and to use native HYPE staking yield to buy memes, with its Genesis launch scheduled for November 3. 12 likes, 7 replies at scan time.",
-      "updated": "1 Nov, 07:31 (Berlin)",
-      "url": "https://x.com/0xSlyth/status/2116779555168178316"
-    },
-    {
-      "topic": "Exchange",
-      "headline": "Commentator says Binance has now fully covered the ~$6B exploit hole",
-      "coins": "BNB, Binance-listed memecoins",
-      "detail": "@TheVictorBuilds (49,542 followers) posted that Binance officially said it has fully covered the 'massive $6B hole' from the recent exploit, framing it as a SAFU power move. Earlier reports on the dashboard said about 90% had been replenished; this post does not link a Binance statement directly in its text. 1 like, 104 impressions at scan time.",
-      "updated": "1 Nov, 06:57 (Berlin)",
-      "url": "https://x.com/TheVictorBuilds/status/2116771503694045546"
     }
   ],
   "hourly": [
