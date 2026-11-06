@@ -1,12 +1,42 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:19 Berlin time (UTC+01:00)",
-  "newestPostId": "2118770129832149399",
-  "note": "Window: X posts since prior newestPostId 2118768648923877824 (recency search, 2 broad post queries; no news search this run). Added 1 launch(s) and 0 news item(s). Added: JUST BOND xQc ($XQC). Skipped: firepump_house $Pooh TG-call farm; Botched_caller/Charlie_SOL23 $CRL/$CRVL VIP-TG shills; VeyroSol/WeHave1DFacts/itsmeflow18/EarlyChad_/FomoChemist/clebers1984/Bullrunups/MemeGameAlpha call farms ($AMD $HODL $LAURA $KINU $CHICXU $Pooh); 0xHaruyuki XI WIF HAT thin ape; youngstar898 generic rug warning; political/noise and INJC ETF (not memecoin).",
+  "lastUpdated": "Friday 6 Nov 2026, 19:27 Berlin time (UTC+01:00)",
+  "newestPostId": "2118772033341497390",
+  "note": "Window: X posts since prior newestPostId 2118770129832149399 (recency search, 2 broad post queries + news search). Added 3 launch(s) and 0 news item(s). Added: SORANA ($SORANA), Borderless ($BORDERLESS), CHILL ($CHILL). Skipped: itsmeflow18 $TTP/$TURTUR/$HODL call farm; Annatrader22 $KORIMU; WeHave1DFacts $DEGEN; EarlyChad_ $401KINU; Charlie_SOL23/ArcTokenScan $BORDERLESS VIP-TG/scanner noise (kept bitecong signal); sol_peal $CRL TG shill; Unlimitedsol2 TG farm; Atittt007 $SPEPE thin; gustavocallesa $GLITCH raid; popmemecoin/dex_kolwatcher $Pooh already listed; CrimeSeasonNFT low-follower mint promo; xbtscout $COVER incomplete/no CA; news Ansem/Diamond/Kraken/Pudgy already on dashboard; political/gas-pump/noise from news-query OR.",
   "launches": [
+    {
+      "coin": "SORANA ($SORANA)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 2KB7q1FRPF6WKcLtK7nMkdYz3WJ1gkJNLAM9tEdDpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:22 Berlin that SORANA ($SORANA) is a cat coin on pumpfun, three minutes past launch and still on the bonding curve, most of the way to graduation; it notes there is no tracked story for this contract so the picture comes from on-chain reads (text cut off).",
+      "engagement": "351 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin cat-coin theme; no tracked story claimed. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118770938179428835",
+      "followers": 38536
+    },
+    {
+      "coin": "Borderless ($BORDERLESS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3rxXFMNgXgefmncUJnbmt9CWNyknbD6q7uZfZza3pump (pump.fun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:21 Berlin that Borderless ($BORDERLESS) has no clear theme beyond its name and graduated from pumpfun to PumpSwap about 1 h 13 min after launch; it flags unusual early-buyer turnover (text cut off at \"only ten\").",
+      "engagement": "304 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; also being VIP-TG shilled by call accounts; thin name-only theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118770781891236234",
+      "followers": 38536
+    },
+    {
+      "coin": "CHILL ($CHILL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address JCCAnhAj4Y67hw9e48LMPD64R4gTTt42yyQdYKYDpump (pump migration to AMM).",
+      "buzz": "Scanner @SolTokenScan (3,269 followers) posted at 19:26 Berlin a Pump migration signal for $CHILL (CHILL) hitting the AMM; it lists market cap about $41.2K, liquidity about $10.1K, 73 holders, mint renounced, and LP showing locked.",
+      "engagement": "28 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated scanner account so far; very thin engagement. Very early, high risk.",
+      "url": "https://x.com/SolTokenScan/status/2118771964810792975",
+      "followers": 3269
+    },
     {
       "coin": "JUST BOND xQc ($XQC)",
       "chain": "Solana",
-      "chainNote": "Post gives contract address Xeiy83eHbh7ctSTQ1pZBxsk5SaTFPPhfH1mvQCtpump (pump_mayhem \u2192 Pump AMM migration).",
+      "chainNote": "Post gives contract address Xeiy83eHbh7ctSTQ1pZBxsk5SaTFPPhfH1mvQCtpump (pump_mayhem → Pump AMM migration).",
       "buzz": "Scanner @GemChaserSOL (2,331 followers) posted at 19:17 Berlin a migration signal for JUST BOND xQc ($XQC) from pump_mayhem to Pump AMM; it lists migration market cap about 410.84 SOL, liquidity about $2.75, 25 holders, no CTO flag, DEX not updated, and mint/freeze/burn/LP-locked checks marked passed (risk line cut off).",
       "engagement": "46 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated scanner account so far; xQc-themed name; very thin engagement. Very early, high risk.",
@@ -29,7 +59,7 @@
       "chainNote": "Post gives contract address 4UYUvMA6vL3uHBnRDSYXfazedV4kvyG5dPnKeb7fLoat (described as still on the float bonding curve; not a pump suffix).",
       "buzz": "Signal account @bitecong (38,535 followers) posted at 19:11 Berlin that Xi Xing Pooh ($Pooh) is 27 seconds old and still on the float bonding curve on Solana; the researched report cites a classic cartoon-bear meme theme (text cut off).",
       "engagement": "292 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; another Pooh-theme clone today; different CA from the graduated F1fv\u2026pump Xi Xing Pooh. Very early, high risk.",
+      "flags": "Only an automated signal account so far; another Pooh-theme clone today; different CA from the graduated F1fv…pump Xi Xing Pooh. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118768259118010737",
       "followers": 38535
     },
@@ -106,7 +136,7 @@
     {
       "coin": "DERPCAT ($DERP)",
       "chain": "Solana",
-      "chainNote": "Post gives contract address 3A8cVZQTB1jSeyviftyS2CsNFyL7WcfHELEwQHCkpump (pump.fun / pump_mayhem \u2192 Pump AMM).",
+      "chainNote": "Post gives contract address 3A8cVZQTB1jSeyviftyS2CsNFyL7WcfHELEwQHCkpump (pump.fun / pump_mayhem → Pump AMM).",
       "buzz": "Scanner @SolTokenScan (3,268 followers) posted at 18:45 Berlin a migration signal for DERPCAT ($DERP) from pump_mayhem to Pump AMM; it lists migration market cap about 410.84 SOL, liquidity about $3.34, 19 holders, no CTO flag, DEX not updated, and mint/freeze/burn/LP-locked checks marked passed (risk line cut off).",
       "engagement": "44 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated scanner so far; reported liquidity is extremely thin (~$3.34) despite a migration MC of ~411 SOL. Very early, high risk.",
@@ -137,7 +167,7 @@
       "coin": "boomer ($boomer)",
       "chain": "Solana",
       "chainNote": "Post gives contract address D7GySLkBDfD3zoSeK34UF1g5uKTTeoTHRG1REAyyvp3u (described as still on the pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:32 Berlin that boomer ($boomer) on Solana is a few minutes old and still on the pumpfun bonding curve, most of the way to graduation; the signal flags something unusual about the buyer list (of the hundred wallets that bought the most, most sold \u2014 text cut off).",
+      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:32 Berlin that boomer ($boomer) on Solana is a few minutes old and still on the pumpfun bonding curve, most of the way to graduation; the signal flags something unusual about the buyer list (of the hundred wallets that bought the most, most sold — text cut off).",
       "engagement": "362 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; unusual seller-heavy top buyer list noted. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118758432128045127",
@@ -272,36 +302,6 @@
       "flags": "Only an automated signal account so far; thin horn/Gabe theme; heavy bundler presence noted. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118733769251356902",
       "followers": 38532
-    },
-    {
-      "coin": "Mr. Popo ($POPO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4SrWPnMz2SzP4sVxgFiB9Fk8d3iwJLn6AEs3RNPLpump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,532 followers) posted at 16:53 Berlin that Mr. Popo ($POPO) is a pumpfun memecoin on Solana about twenty minutes old at signal time and had just graduated to PumpSwap; name and ticker carry the Mr. Popo theme.",
-      "engagement": "314 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
-      "flags": "Only an automated signal account so far; thin anime/character theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118733442854920363",
-      "followers": 38532
-    },
-    {
-      "coin": "Creamcoin ($Cream)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Fd7GBPXVWLBM8rhxznBkpm1AHDDaDmsLfEv1z5czpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,531 followers) posted at 16:45 Berlin that Creamcoin ($Cream) is an ice-cream-themed Solana token already about 80% of the way along the pumpfun bonding curve when tracking began; the signal flags something unusual about the deployer (text cut off).",
-      "engagement": "316 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin ice-cream theme; deployer detail truncated in post. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118731508639056015",
-      "followers": 38531
-    },
-    {
-      "coin": "zolana ($zolana)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address CF4qxGtkwkRem2irswpQj4pQYyaTLS6Sn16rB2CbivTW (stonkfun; signal says graduated to Raydium CPMM).",
-      "buzz": "Signal account @bitecong (38,533 followers) posted at 16:29 Berlin that zolana ($zolana) graduated from stonkfun to Raydium CPMM about eleven minutes after launch; the signal says there is no clear theme in the name and flags an unusual rise in holder count.",
-      "engagement": "264 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin/no-theme name; stonkfun not pump.fun. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118727551766118422",
-      "followers": 38533
     }
   ],
   "news": [
@@ -357,7 +357,7 @@
       "topic": "Rugs / market hygiene",
       "headline": "Tracker says 71 tokens flagged as rugs today (62 Solana, 9 Robinhood Chain)",
       "coins": "",
-      "detail": "@wyckoffweb (219,342 followers) posted at 16:19 Berlin that 71 tokens had already been flagged as rugs today \u2014 62 on Solana and 9 on Robinhood Chain \u2014 with insiders said to have made around $351K, including one that rugged about a minute after launch. Early engagement at scan time: 2,967 impressions, 15 likes, 7 replies, 1 repost.",
+      "detail": "@wyckoffweb (219,342 followers) posted at 16:19 Berlin that 71 tokens had already been flagged as rugs today — 62 on Solana and 9 on Robinhood Chain — with insiders said to have made around $351K, including one that rugged about a minute after launch. Early engagement at scan time: 2,967 impressions, 15 likes, 7 replies, 1 repost.",
       "updated": "6 Nov 2026, 16:28 Berlin",
       "url": "https://x.com/wyckoffweb/status/2118724953759498459"
     },
@@ -365,7 +365,7 @@
       "topic": "Celebrity / upcoming launch",
       "headline": "CreatorKane says they will launch their own memecoin with a 50% community airdrop",
       "coins": "",
-      "detail": "@CreatorKane (109,289 followers) posted at 16:02 Berlin that they will launch their own memecoin with no team and no presale, airdropping 50% of supply to the community, and asked for likes/RTs plus SOL addresses for a bonus airdrop. Early engagement at scan time: 147 impressions, 1 like, 2 replies, 1 repost. Announcement only \u2014 no contract address in the post.",
+      "detail": "@CreatorKane (109,289 followers) posted at 16:02 Berlin that they will launch their own memecoin with no team and no presale, airdropping 50% of supply to the community, and asked for likes/RTs plus SOL addresses for a bonus airdrop. Early engagement at scan time: 147 impressions, 1 like, 2 replies, 1 repost. Announcement only — no contract address in the post.",
       "updated": "6 Nov 2026, 16:06 Berlin",
       "url": "https://x.com/CreatorKane/status/2118720746319126548"
     },
@@ -381,7 +381,7 @@
       "topic": "Price move / BNB meme follow-up",
       "headline": "Trader says memecoin $GM (GreenMorning) pumped ~50x after Elon revived the meme",
       "coins": "GM",
-      "detail": "@TuanNguyen_6789 (75,025 followers) posted at 15:59 Berlin that memecoin $GM (GreenMorning) pumped 50x after @elonmusk brought the meme back, and asked whether any memecoin tied to @cz_binance memes stands out yet. Early engagement at scan time: 383 impressions, 2 likes, 1 reply. Follows earlier chatter that BNB Chain $GM jumped hard after Elon\u2013CZ banter; figures are from this account, not an exchange primary source.",
+      "detail": "@TuanNguyen_6789 (75,025 followers) posted at 15:59 Berlin that memecoin $GM (GreenMorning) pumped 50x after @elonmusk brought the meme back, and asked whether any memecoin tied to @cz_binance memes stands out yet. Early engagement at scan time: 383 impressions, 2 likes, 1 reply. Follows earlier chatter that BNB Chain $GM jumped hard after Elon–CZ banter; figures are from this account, not an exchange primary source.",
       "updated": "6 Nov 2026, 15:59 Berlin",
       "url": "https://x.com/TuanNguyen_6789/status/2118718416513306930"
     },
@@ -421,7 +421,7 @@
       "topic": "Exchange listing / BNB meme",
       "headline": "MEXC Meme+ lists $GM for trading",
       "coins": "GM",
-      "detail": "Verified MEXC Alpha account @Alpha_MEXC (344,137 followers) posted at 12:11 Berlin a MEXC Meme+ listing for $GM, with trade links and a details page. Follows earlier chatter that BNB Chain $GM jumped hard after Elon\u2013CZ meme banter. Early engagement: 2,864 impressions, 8 likes, 1 reply, 1 bookmark at scan time.",
+      "detail": "Verified MEXC Alpha account @Alpha_MEXC (344,137 followers) posted at 12:11 Berlin a MEXC Meme+ listing for $GM, with trade links and a details page. Follows earlier chatter that BNB Chain $GM jumped hard after Elon–CZ meme banter. Early engagement: 2,864 impressions, 8 likes, 1 reply, 1 bookmark at scan time.",
       "updated": "6 Nov, 12:18 (Berlin)",
       "url": "https://x.com/Alpha_MEXC/status/2118662514447937973"
     },
@@ -435,24 +435,24 @@
     },
     {
       "topic": "Price move / BNB meme",
-      "headline": "BNB Chain $GM said to jump ~400% after Elon\u2013CZ meme banter",
+      "headline": "BNB Chain $GM said to jump ~400% after Elon–CZ meme banter",
       "coins": "GM",
-      "detail": "Researcher @BlockLogicX (32,849 followers) posted at 10:31 Berlin that Elon Musk\u2019s CZ meme sent BNB Chain memecoin $GM soaring over 400%, briefly hitting about a $2.72M market cap with $1.6M daily volume. Early engagement on the post itself was low (32 impressions, 0 likes at scan); figures are from that account, not an exchange primary source.",
+      "detail": "Researcher @BlockLogicX (32,849 followers) posted at 10:31 Berlin that Elon Musk’s CZ meme sent BNB Chain memecoin $GM soaring over 400%, briefly hitting about a $2.72M market cap with $1.6M daily volume. Early engagement on the post itself was low (32 impressions, 0 likes at scan); figures are from that account, not an exchange primary source.",
       "updated": "6 Nov, 10:39 (Berlin)",
       "url": "https://x.com/BlockLogicX/status/2118637365141102696"
     },
     {
-      "topic": "Price move / Elon\u2013CZ meme",
-      "headline": "Green Morning memecoin cited near $7.1M after Elon\u2013CZ exchange",
+      "topic": "Price move / Elon–CZ meme",
+      "headline": "Green Morning memecoin cited near $7.1M after Elon–CZ exchange",
       "coins": "Green Morning",
       "detail": "@Codedscientist (2,929 followers) posted at 10:34 Berlin that after Elon trolled CZ again, a memecoin framed as green-morning:native (Green Morning) was already near a $7.1M market cap. No contract address in the post; early engagement low (16 impressions, 1 like). Distinct from the many thin Red Morning ($RM) launches tracked earlier today.",
       "updated": "6 Nov, 10:39 (Berlin)",
       "url": "https://x.com/Codedscientist/status/2118638050028683411"
     },
     {
-      "topic": "Pump / The Fallen Hero (\u8eba\u67aa)",
+      "topic": "Pump / The Fallen Hero (躺枪)",
       "headline": "The Fallen Hero (BSC) hit ~5.1x about an hour after the launch note",
-      "coins": "The Fallen Hero (\u8eba\u67aa)",
+      "coins": "The Fallen Hero (躺枪)",
       "detail": "Signal account @bitecong (38,530 followers) posted a 1-hour update quoting its earlier launch note: CA 0xe451b966aa64bee4046cfcb0db5fe6aa9f647777. It says the token peaked at about 5.1x (~55 minutes after the note) and was trading around 4.1x at update time, with market cap cited as up from $35.4K at the note to $360.1K, and 511 buys vs 448 sells in the window described.",
       "updated": "6 Nov, 09:48 (Berlin)",
       "url": "https://x.com/bitecong/status/2118625513048871283"
@@ -501,7 +501,7 @@
       "topic": "Project shutdown / Solana",
       "headline": "White Claw ($WCLAW) team says it is shutting down after eight months",
       "coins": "WCLAW",
-      "detail": "Official account @wclawonsol (446 followers) posted at 07:01 Berlin a 'Final Message to the White Claw Community' saying after eight months of building and promoting they are officially closing WCLAW on Solana. Very low engagement so far (1\u20132 impressions); treat as a self-announced project wind-down, not a confirmed on-chain rug.",
+      "detail": "Official account @wclawonsol (446 followers) posted at 07:01 Berlin a 'Final Message to the White Claw Community' saying after eight months of building and promoting they are officially closing WCLAW on Solana. Very low engagement so far (1–2 impressions); treat as a self-announced project wind-down, not a confirmed on-chain rug.",
       "updated": "6 Nov, 07:02 (Berlin)",
       "url": "https://x.com/wclawonsol/status/2118584527320760462"
     },
