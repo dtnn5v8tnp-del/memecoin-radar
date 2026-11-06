@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 12:10 Berlin time (UTC+01:00)",
-  "newestPostId": "2118662156195619053",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/CTO). Added 0 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA BANK shill-farm spam (same CA as listed DESSA 2.0/DESSA BANK); flinttrades_1/A33on_ $APPLEPAID call-flex (already listed); CHILLAKIN_DEV self-shill (3 followers); liv_morgan423 $NOCHILL (37 followers); solblender99 $COGE past-call flex; VeyroSol $RED/$RM call-farm; airdrop-farm spam ($ROCKET/$花/$cbBTC/$XAUT/$BABA); Product Hunt / GiveSendGo / Launch AI / ETF false positives; boxdotfun lottery-pause not actionable news.",
+  "lastUpdated": "Friday 6 Nov 2026, 12:18 Berlin time (UTC+01:00)",
+  "newestPostId": "2118664050595000408",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/CTO). Added 0 launch(s) and 1 news item(s). Skipped: Theblackbullxxx $DESSA shill-farm (same CA as listed DESSA 2.0/DESSA BANK); call-farm/past-call flex on $APPLEPAID/$HALO/$ROCCO/$COGE/$BIDWELL/$UK; airdrop-farm spam ($TRUCROWN/$MOOHAN/$Dacity/$Lungcoin/$Doubao/$RM); VEN0MTRADER/GemChaserSOL/GTA6ATM $ATM (26–80 follower project/call noise); gem_insider $WASTED CTO promo (no CA in post, 0 likes); raid100x teaser with no ticker; CHILLAKIN scanner; Chinese-language Pumpfun 'armless developer' rug reposts (thin engagement, no primary source); false positives (politics 'rug', Moat tooling, dosed leverage app).",
   "launches": [
     {
       "coin": "Nigga Pig ($NIG)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exchange listing / BNB meme",
+      "headline": "MEXC Meme+ lists $GM for trading",
+      "coins": "GM",
+      "detail": "Verified MEXC Alpha account @Alpha_MEXC (344,137 followers) posted at 12:11 Berlin a MEXC Meme+ listing for $GM, with trade links and a details page. Follows earlier chatter that BNB Chain $GM jumped hard after Elon–CZ meme banter. Early engagement: 2,864 impressions, 8 likes, 1 reply, 1 bookmark at scan time.",
+      "updated": "6 Nov, 12:18 (Berlin)",
+      "url": "https://x.com/Alpha_MEXC/status/2118662514447937973"
+    },
+    {
       "topic": "Exchange listing",
       "headline": "Upbit said to have listed $cards (trench diary mention)",
       "coins": "cards",
@@ -536,14 +544,6 @@
       "detail": "Follow-up shared by @CryptoPlanet247 (1,358 followers) linking a news article; adds the dollar figure and the zero-token withdrawal method. Not a memecoin, but relevant to market risk. Low engagement at scan time.",
       "updated": "1 Nov, 14:25 (Berlin)",
       "url": "https://x.com/CryptoPlanet247/status/2116884331960381589"
-    },
-    {
-      "topic": "Chain shutdown / Abstract",
-      "headline": "Abstract chain (from Pudgy Penguins parent Igloo) set to shut down on 15 Dec with about $48 million still on it",
-      "coins": "Abstract ecosystem tokens",
-      "detail": "Post by @letsdog2 (2,012 followers) recaps Igloo's 6 Oct announcement that Abstract will shut down on 15 December, with roughly $48M still on-chain. Holders of Abstract-based memecoins should check bridging plans. Very low engagement at scan time.",
-      "updated": "1 Nov, 14:27 (Berlin)",
-      "url": "https://x.com/letsdog2/status/2116884723373109484"
     }
   ],
   "hourly": [
