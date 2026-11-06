@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 07:19 Berlin time (UTC+01:00)",
-  "newestPostId": "2118588979000103211",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 0 launch(s) and 0 news item(s). Skipped VIP/call-farm spam on $Coin/$DIAMOND/$RETIRE/$WABI/$A and engagement-bait CA drops; skipped thin airdrop/self-promo ($MINTED/$STEALTH/$CRD pre-launch); news query returned only off-topic replies and low-signal chatter.",
+  "lastUpdated": "Friday 6 Nov 2026, 07:27 Berlin time (UTC+01:00)",
+  "newestPostId": "2118590996875534630",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 1 launch(s) and 0 news item(s): $HEDGE (bitecong signal, brand-new pump.fun, serial deployer). Skipped VIP/call-farm spam ($fun/$AMD/$DIAMOND/$WABI/$MIL/$coin/$TOYS4KIDS/$monkai/$PENGU TG bait); skipped self-promo ($BYTE/$MATE/$JUSTQ); news query mostly off-topic politics; thin DogeOS DeFi-testnet blurb from low-follower account not added.",
   "launches": [
+    {
+      "coin": "Hedge Fund ($HEDGE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DZ7DLsHwnUzXdhYQGLb98y76xsjXNqKi6VDF1VeQNAd1 (pump.fun).",
+      "buzz": "Signal account @bitecong (38,529 followers) posted at 07:24 Berlin that Hedge Fund ($HEDGE) was less than a minute old on pump.fun, with no story beyond the name and a deployer already counting dozens of prior tokens.",
+      "engagement": "357 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer already has dozens of prior tokens; no narrative beyond the name. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118590451313955282",
+      "followers": 38529
+    },
     {
       "coin": "dog ($dog)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Small account, figures unverified. Big volume on thin liquidity. High risk.",
       "url": "https://x.com/HoodWhisp4663/status/2116876158310732157",
       "followers": 290
-    },
-    {
-      "coin": "$SPACEX",
-      "chain": "Solana (pump.fun)",
-      "chainNote": "CA BqmJMm8Z4WitJ4HgNfdC69jRXuiGAHcdomPWCYB7pump (from the post)",
-      "buzz": "Call account @EarlyChad_ claims its $SPACEX call ran from $38K to $126K market cap (3.3x), minutes after similar claims for $CLAUDE and $FOMO.",
-      "engagement": "1 like, about 52 impressions at scan time.",
-      "flags": "Single call account posting rapid 'x up' updates; no independent buzz. High risk.",
-      "url": "https://x.com/EarlyChad_/status/2116874982651523334",
-      "followers": 5679
     }
   ],
   "news": [
