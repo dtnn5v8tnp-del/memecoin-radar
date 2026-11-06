@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 18:36 Berlin time (UTC+01:00)",
-  "newestPostId": "2118759315897037116",
-  "note": "Window: X posts since prior newestPostId 2118758141605367953 (recency search, 2 post queries; news skipped this run — prior run covered news). Added 1 launch(s) and 0 news item(s). Added: bitecong $boomer (bonding-curve signal). Skipped: GoobloSol $GOOBLO (31 fol); FrogKingFRGK $FRGK (0 fol, brand-new acct); DaCryptoTycoon/_SamuelPatrick/CryptoDominion_ $FIVE Thanksgiving shill-farm; Dr_pumpit $HYPE/$HI; pizzabasedev1x $AMETA (low eng); dex_kolwatcher paid DEXScreener $NEST; MemCoinsRadar $CRL 2.65x (CRL already on launches); cexscan minor Binance %; Gnosis Pay hack hashtag spam; Clawd Chain pumpfun-fork promo (not a memecoin launch). No rugs, major listings, or high-engagement new launches in window.",
+  "lastUpdated": "Friday 6 Nov 2026, 18:43 Berlin time (UTC+01:00)",
+  "newestPostId": "2118760951650595201",
+  "note": "Window: X posts since prior newestPostId 2118759315897037116 (recency search, 2 post queries + news). Added 2 launch(s) and 0 news item(s). Added: Tur Tur Baton ($TURTUR), CRLE ($CRLE). Skipped: call/shill farms (Bullrunups $bELYSIUM, SignalHQT $RAM, CipherEdgeCalls $Degen already tracked, Sol_b33y $Applepaid, SOL_ETH_TRADER $BAGEL, AlphaDrip7 #401kinu, Memecoinspecia $HODL, addamsol_999 $CRL already tracked, whale_pump_ups $LETRO, belemradio $DIAMOND, MemCoinsRadar $CRL); Mr_Altcoin $FIVE Thanksgiving pre-launch shill; trumpforwins $TFW (24 fol, coming soon); ChaosCattt $CHAOS (297 fol, launching soon); market_ceo $GATO Robinhood spam; JimmySsolana 40M shill dump comment (no clear ticker in text); political noise matching pump/dump/rug/ETF keywords. News search: Pump.fun Kraken deposit, Diamond rewards, Ansem callout, Leap app already on board. No rugs, major listings, or high-engagement new launches in window.",
   "launches": [
+    {
+      "coin": "CRLE ($CRLE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address AcGntuaVupsBZ9amn5FPvpmK2TUFymCeJrDvVNAjpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 18:36 Berlin that CRLE ($CRLE) is a pumpfun launch on Solana, minutes old and about 88% of the way along its bonding curve toward graduation; the signal says the story is ticker scarcity after CRL and CRVL were taken (text cut off).",
+      "engagement": "398 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; third same-theme crypto/ETF ticker today after $CRL and $CRVL. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118759405248524530",
+      "followers": 38536
+    },
+    {
+      "coin": "Tur Tur Baton ($TURTUR)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5nMbMFxkzCEUbStJQsjreiYco46bJWqzfer23Xwcpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 18:40 Berlin that Tur Tur Baton ($TURTUR) is a turtle-themed pumpfun launch on Solana roughly twenty minutes old; the research cited in the signal says there is no story beyond a turtle as the picture (text cut off).",
+      "engagement": "336 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin turtle theme with no story noted. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118760334353916121",
+      "followers": 38536
+    },
     {
       "coin": "boomer ($boomer)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin cat-meme theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118691598515196082",
-      "followers": 38527
-    },
-    {
-      "coin": "DESSA II (unnamed ticker in post; CA differs from prior DESSA 2.0)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address dJ7AizbUfMGnKY3WdCwVJPXr5PpwR854ow2pKgRQmfD (Solana; not the earlier DESSA 2.0 CA E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW).",
-      "buzz": "Influencer @Theblackbullxxx (183,408 followers) posted at 14:06 Berlin that DESSA II is live on Solana at about a $10K market cap, calling it a second chance after the original DESSA allegedly hit a $50M market cap; quotes their own earlier clip.",
-      "engagement": "208 impressions, 14 likes, 12 reposts, 15 replies, 4 quotes, 14 bookmarks at scan time.",
-      "flags": "Another DESSA-narrative relaunch with a new CA; same influencer already pushed DESSA BANK / DESSA 2.0 earlier today. Real early engagement. Very early, high risk.",
-      "url": "https://x.com/Theblackbullxxx/status/2118691412870885617",
-      "followers": 183408
-    },
-    {
-      "coin": "Solana Labs ($LABS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3vpnJAz2JQJDq1tM9BR7E1Q5Z2qexkoaPq7cmsBJjDex (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,527 followers) posted at 13:59 Berlin that Solana Labs ($LABS) is a pumpfun token borrowing the Solana Labs wordmark, not the company; a researched report on this contract notes it uses Solana Labs' official visual cues.",
-      "engagement": "261 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme impersonating Solana Labs. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118689757610033240",
       "followers": 38527
     }
   ],
