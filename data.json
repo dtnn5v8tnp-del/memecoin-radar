@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 18:49 Berlin time (UTC+01:00)",
-  "newestPostId": "2118762578016956618",
-  "note": "Window: X posts since prior newestPostId 2118761909239599241 (recency search, 2 broad post queries + 1 tighter signal/launch query; no news search this run). Added 0 launch(s) and 0 news item(s). Skipped: Felipetees/CipherEdgeCalls/Sol_Gems00 $TURTUR / $CRL / $CASINO gain-flexes (already tracked); Sol_Ficra $FI / $KORIMU call-account shills; Sol_b33y $Applepaid call flex; TrumpOnSol77 $TRUMP (1-follower brand-new spam account); degenhousepro $RNC (122 fol scanner); wthejulio $STO French-Kabal Lambo meme (15 fol); market_ceo $GATO (low engagement); 1881Erdem FOXTILKI self-shill; RWAFoundation_ OpenWorld $OPNW Nasdaq tokenized-stock on Solana (RWA, not memecoin). No rugs, major listings, or high-engagement new launches in window.",
+  "lastUpdated": "Friday 6 Nov 2026, 18:58 Berlin time (UTC+01:00)",
+  "newestPostId": "2118764700146319611",
+  "note": "Window: X posts since prior newestPostId 2118762578016956618 (recency search, 2 broad post queries + 1 news search). Added 1 launch(s) and 0 news item(s). Added: bitecong $KOL (Key Opinion Leader) pumpfun signal. Skipped: Charlie_SOL23 $DEGEN TG VIP call farm (already tracked Degen theme / shill); Strong69106/Felipetees/Sol_b33y $CRL / $TURTUR / $CASINO / $BOOMER gain-flexes (already tracked); dex_kolwatcher $Heisto / $RIPPING PAID DEXScreener spam; MemCoinsRadar $trenchelon migration flex (low engagement); TrashxCoin self-launch (27 fol); SheikhDonaldMem brand-new 1-follower spam; B00DIESonSol $MOOF (53 fol); Stupid__CTO $STUPID self-shill; pisklauren $ZOMBCASH thin promo; uday72347 $KHB2 (19 fol); news already tracked: Pump.fun Kraken SOL deposit, Diamond rewards, Leap app, Pudgy/Abstract, Ansem rewards. No rugs, major listings, or high-engagement new launches in window.",
   "launches": [
+    {
+      "coin": "Key Opinion Leader ($KOL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DLRvffucRe1sfmKgUu1SfrAt7geFfxjB4sw8CCS4pump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,535 followers) posted at 18:53 Berlin that Key Opinion Leader ($KOL) is a pumpfun launch on Solana whose name states its theme (leader); it is minutes old, on the bonding curve, short of graduation; a researched report cited in the signal traces it to X user Fear (text cut off).",
+      "engagement": "381 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin name-as-theme launch. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118763616250003967",
+      "followers": 38535
+    },
     {
       "coin": "DERPCAT ($DERP)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "67 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; deployer sold everything per the signal; same Labs name family as other new CAs. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118696394081145248",
-      "followers": 38527
-    },
-    {
-      "coin": "dont ignore this kitten ($lucky)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address ozbsAkTXgkRntFoQyipz9V7yZb6anedp7HPgP1xpump (pump.fun). Distinct from earlier LUCKY / dont ignore this cat CA 88u51cRpQETNJqomtqgUj9xYKJjkn3RLsZS9qae6pump.",
-      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:21 Berlin that a second ignore-themed launch, dont ignore this kitten ($lucky), is about 21 minutes old and at 91% of the way to graduation on the pump.fun bonding curve.",
-      "engagement": "419 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
-      "flags": "Only an automated signal account so far; second ignore/lucky-cat CA within minutes of the earlier LUCKY entry. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118695347937853891",
       "followers": 38527
     }
   ],
