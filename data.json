@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:38 Berlin time (UTC+01:00)",
-  "newestPostId": "2118774576016654340",
-  "note": "Window: X posts since prior newestPostId 2118772731789377858 (recency search, 2 broad post queries; cashtags stripped by API on news query). Added 5 launch(s) and 1 news item(s). Skipped: bitecong $BALL JBr7n… (explicit call theme / no story); Abu4Raaeed $POOH shill of existing CA; EdduVault $EDU self-launch (3 followers); clawddevs $CLAWD spam; whyusfun launchpad promo; Meme_Lord_ups $HODL TG shill; whalewatchalert $MELANIA $8.27K buy (tiny vs $64.3M MC); Binance-hack recycle with #memecoin farm; political Trump/news-query OR noise; reply threads.",
+  "lastUpdated": "Friday 6 Nov 2026, 19:44 Berlin time (UTC+01:00)",
+  "newestPostId": "2118776418230468645",
+  "note": "Window: X posts since prior newestPostId 2118774576016654340 (recency search, 2 broad post queries). Added 2 launch(s) and 1 news item(s). Skipped: Soltimeline 0-follower cryptic promo; Brunna_leto TG shill farm ($CHICXU $KORIMU $FI $401KINU $MEOWCRAT); bitecong $BALL call-theme variants (2idV9…pump, 7xTkz…); Pet3rAs Solana Leap app; vega_xlm $DOPE self-promo article; Bullrunups $BORDERLESS repeat shill; Mta6_sol Monke GTA6 (13 followers); MemCoinsRadar $Whale tiny 2x; botmarketplaceh listing spam; political Trump/Iran OR noise; Oracle stock post.",
   "launches": [
+    {
+      "coin": "Chonky ($Chonky)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4dFwoYryTJuHsSRciQ5yogSGB67KhfXctFyhx6hfLoat (described as float bonding curve on Raydium LaunchLab; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,538 followers) posted at 19:42 Berlin that Chonky ($Chonky) is a Solana token launched on float, still on its Raydium LaunchLab bonding curve when signaled about 30 seconds in; it says the only matching X post is from small account Vickyrocky25 (text cut off).",
+      "engagement": "262 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin organic mention; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118776033239515328",
+      "followers": 38538
+    },
+    {
+      "coin": "Return To Tradition ($Return)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 2pE71Sdwnb3ftmXnwBehrpRvgyR9PLUg6iiDep2fLoat (described as float-style Loat address; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,538 followers) posted at 19:39 Berlin that Return To Tradition ($Return) reads as a call back to tradition and, three days in, is still on the Solana bonding curve; it flags about 191 bundler wallets in tracking (text cut off).",
+      "engagement": "322 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; very high bundler-wallet count flagged; still on curve after ~3 days. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118775330135777614",
+      "followers": 38538
+    },
     {
       "coin": "Ball ($BALL)",
       "chain": "Solana",
@@ -282,29 +302,17 @@
       "flags": "Only an automated signal account so far; no clear theme; unusual wallet concentration noted. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118749489964171684",
       "followers": 38536
-    },
-    {
-      "coin": "Habibi ($Habibi)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BC7q32LH2pCawt8EvRoATC8J7kM4aSW3PNQpC21Gpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,533 followers) posted at 17:44 Berlin that Habibi ($Habibi) is the second token with this name on Solana today and sat at about 88% of the way along the pumpfun bonding curve a little over a minute and a half after launch; the signal flags something unusual about the buyer list (text cut off).",
-      "engagement": "297 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; second same-name Habibi token today; unusual buyer list noted. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118746278947618848",
-      "followers": 38533
-    },
-    {
-      "coin": "Cornecoin ($CORNE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address A9X187z7tuARePU3jszX5kKXgviPADQjA2uyvpHspump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,532 followers) posted at 17:38 Berlin that Cornecoin ($CORNE) is a pumpfun token on Solana, minutes old and still on the bonding curve; the signal says the name and ticker state a \"corne\" theme and that a second token on that theme has appeared today.",
-      "engagement": "315 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin corne theme; second same-theme token noted today. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118744939718918374",
-      "followers": 38532
     }
   ],
   "news": [
+    {
+      "topic": "Pump / listing",
+      "headline": "FLOAT up about 200% since Fourtis listing (MC ~$2.4M → ~$8.3M)",
+      "coins": "FLOAT",
+      "detail": "Listing-alert account @fourtislisting (67,295 followers) posted at 19:37 Berlin that FLOAT (@floatdotxyz) is up about 200% since its Fourtis listing, citing first market cap about $2.4M and last about $8.3M. Post had about 6,431 impressions, 1 like, 0 reposts at scan time. Contract in the quoted listing: Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr.",
+      "updated": "6 Nov 2026, 19:44 Berlin",
+      "url": "https://x.com/fourtislisting/status/2118774805755277754"
+    },
     {
       "topic": "Pump.fun / product",
       "headline": "Pump.fun lets callers time callouts with their buy",
@@ -536,14 +544,6 @@
       "detail": "X news summary: blockchain trackers saw Trump Media move over 4,000 Bitcoin (about $343M) to Crypto.com in two batches this week from wallets labeled as collateral for 2028 convertible notes, emptying most of those addresses ahead of a Nov 30 holder cash-repayment option on ~$1B notes. No sales confirmed; firm still holds roughly 14,139 BTC total. Chatter ties timing to post-midterm stock drops.",
       "updated": "6 Nov, 06:45 (Berlin)",
       "url": "https://x.com/i/trending/2118553338274824537"
-    },
-    {
-      "topic": "Pump.fun / traders",
-      "headline": "X News: Trader Ansem turns SOL short loss into profit via Pump.fun callout rewards",
-      "coins": "SOL, Pump.fun",
-      "detail": "X news summary: Ansem closed a $1.7M SOL short earlier with a ~$10.8K loss, then shorted ~$1M more on Pump.fun and took about $35K in callout rewards even while the short sat ~$60K underwater. The story frames Pump.fun callout USDC payouts as able to outpace direct trade P&L for top callers.",
-      "updated": "6 Nov, 06:29 (Berlin)",
-      "url": "https://x.com/i/trending/2118022300381622700"
     }
   ],
   "hourly": [
