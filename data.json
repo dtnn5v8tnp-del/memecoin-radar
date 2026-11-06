@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 17:41 Berlin time (UTC+01:00)",
-  "newestPostId": "2118745386772803819",
-  "note": "Window: X posts since prior newestPostId 2118744468748681520 (recency search, 2 post queries + news search). Added 2 launch(s) and 1 news item(s). Added: Cornecoin ($CORNE), Cornetcoin ($CORNET); Pudgy Penguins PFPs fade as Abstract L2 shutdown pushes user. Skipped: call-farm $CHICXU/@EarlyChad_/@erykdiamond; call-farm $DIAMOND/$RSHA262599 (@Botched_caller); self-promo $HODL (@hodldiamondboob, 1 fol); pre-CA @Joiaix/@solmatetool; tip-jar spam @LeftVoicChannel; reply spam; coordinated $COGE shill (@leionnell/@LogicGateio/@itsanita_ai); self-promo Doge Head Coin (@hugh_stiel); $DOG shill (@TrueGemHunter); political Trump noise; duplicate Diamond rewards / Kraken SOL / Ansem callout news already on board.",
+  "lastUpdated": "Friday 6 Nov 2026, 17:46 Berlin time (UTC+01:00)",
+  "newestPostId": "2118746575925027015",
+  "note": "Window: X posts since prior newestPostId 2118745386772803819 (recency search, 2 post queries; no news search this run). Added 1 launch(s) and 0 news item(s). Added: Habibi ($Habibi). Skipped: pre-launch Fomo Skeleton (0 fol); pre-CA $FIVE Thanksgiving teaser (@FIVEEMPIE, 2 fol, brand-new acct); airdrop/referral scam (@binfergu_eth); self-promo $hatepump (@hate_pump, 22 fol); launchpad reply spam; call-farm $TRUMP reply spam (@Crypto_bapu17, 23 fol); $SANTACOIN shill; political Trump noise; engagement-bait memecoin poll (@itsFoxCrypto).",
   "launches": [
+    {
+      "coin": "Habibi ($Habibi)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BC7q32LH2pCawt8EvRoATC8J7kM4aSW3PNQpC21Gpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,533 followers) posted at 17:44 Berlin that Habibi ($Habibi) is the second token with this name on Solana today and sat at about 88% of the way along the pumpfun bonding curve a little over a minute and a half after launch; the signal flags something unusual about the buyer list (text cut off).",
+      "engagement": "297 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; second same-name Habibi token today; unusual buyer list noted. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118746278947618848",
+      "followers": 38533
+    },
     {
       "coin": "Cornecoin ($CORNE)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Creator self-launch with claimed airdrop and buyback plan; ticker not stated. Very early, high risk.",
       "url": "https://x.com/_rise/status/2118673066868011419",
       "followers": 19791
-    },
-    {
-      "coin": "Moat ($MOAT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FhpYj7mi8LWpuV8UEL1ox7i9DUUwto8kW8hsaaX3pump (pump.fun → PumpSwap).",
-      "buzz": "Signal account @bitecong (38,531 followers) posted at 12:42 Berlin that Moat ($MOAT) graduated from pump.fun to PumpSwap less than half an hour after launch; the signal notes most holders at signal time arrived through a bundle rather than a normal price discovery path.",
-      "engagement": "401 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; graduated quickly with claimed bundled buyers. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118670256495591533",
-      "followers": 38531
     }
   ],
   "news": [
