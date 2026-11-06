@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 13:58 Berlin time (UTC+01:00)",
-  "newestPostId": "2118689267366989953",
-  "note": "Window: X posts since prior newestPostId 2118687383604371899 (recency search, 2 queries: launches/pump.fun, rugs/listings/pump; news search skipped this run). Added 0 launch(s) and 0 news item(s). Skipped: call-farm past-gain spam on $RAM/$NIG/$COGE/$WEALTH/$COIN/$MAMESUKE (Sol_Gems00, Charlie_SOL23, Annatrader22, Memecoinspecia, MemeRadar__, VeyroSol, MrTitanBull, MrSolanaBlock); dyoradar $DNUT DEV SOLD signal (147 fol, 7 impressions, already in launches); MangoModeDegen $MMODE community promo (72 fol); PumpetSol Nov-19 tease (not live); JohannMartrarg $INUCROK (1 fol); RealGigacatCTO $GIGACAT vibes; CORELABS2026 launchpad promo; AbigailEgw77529 $GMBSC WEEX listing spam (7 fol); political/BTC noise matching Trump/rug/pump terms (BitcoinHopium Trump Media BTC sale, coinswavezhq votes).",
+  "lastUpdated": "Friday 6 Nov 2026, 14:00 Berlin time (UTC+01:00)",
+  "newestPostId": "2118689757610033240",
+  "note": "Window: X posts since prior newestPostId 2118689267366989953 (recency search, 2 queries: rugs/listings/pump + launches/pump.fun; plus news search). Added 1 launch(s) and 0 news item(s). Skipped: wanebobbyshane $XPIN telegram join spam; Jettyfuncoin DOGJET reply-shill (35 fol); gem_sonar $coin past-gain farm (52 fol); AlphaBullishups $RAM 14.5x call-farm; jjjesti CA-ask reply; TrenchRadarLive $WASTED rug alert (15 fol, account age 2 days, 1 impression); Tyler_Did_It morning digest (Leap/SOL already covered). News search: Pump.fun 76k SOL→Kraken and Solana Labs Leap already in news; other stories were SOL price, Ansem rewards, non-meme (Squeek/Zeru/Monad/NCT).",
   "launches": [
+    {
+      "coin": "Solana Labs ($LABS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 3vpnJAz2JQJDq1tM9BR7E1Q5Z2qexkoaPq7cmsBJjDex (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,527 followers) posted at 13:59 Berlin that Solana Labs ($LABS) is a pumpfun token borrowing the Solana Labs wordmark, not the company; a researched report on this contract notes it uses Solana Labs' official visual cues.",
+      "engagement": "261 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; brand-name / trademark-risk meme theme impersonating Solana Labs. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118689757610033240",
+      "followers": 38527
+    },
     {
       "coin": "Rise (relaunch, unnamed ticker)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "462 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin joke narrative. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118631420226924618",
-      "followers": 38531
-    },
-    {
-      "coin": "The Red Bull ($CZ)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GfJp1CbDsaoSGf3rXqVbgmwRx3HtZ6mCtv16GzFgpump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,531 followers) posted at 10:06 Berlin that The Red Bull ($CZ) carries a plain bull theme on Solana and graduated from pump.fun to PumpSwap 34 minutes 34 seconds after launch; the signal flags something odd in the buyer list among the first hundred wallets.",
-      "engagement": "439 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; already graduated; buyer-list oddity noted in signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118631147362258954",
       "followers": 38531
     }
   ],
