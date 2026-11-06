@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 08:50 Berlin time (UTC+01:00)",
-  "newestPostId": "2118611406236901627",
-  "note": "Window: X posts since prior newestPostId (recency search, 2 queries; 1 invalid then retry). Added 1 launch(s) and 0 news item(s). Added BSC Flap Lying Gun / 躺枪 via @bitecong (0xa70a…7777, different CA from earlier 躺枪). Skipped tiny-account $MEOWSTEIN shill (@MeowsteinSol, 26 followers); skipped non-memecoin QuickMatch (@trylaunchai); skipped tiny $PUFFIN ICP promo (@Oisraelbless, 57 followers); skipped reply noise (@OttoSuwen, @RayhanTreader, @B0risTh3Blade).",
+  "lastUpdated": "Friday 6 Nov 2026, 08:59 Berlin time (UTC+01:00)",
+  "newestPostId": "2118613958865133905",
+  "note": "Window: X posts since prior newestPostId (recency search, 2 queries). Added 1 launch(s) and 0 news item(s). Added BSC Flap 蘑菇头 via @bitecong (0xc0e429…7777). Skipped brand-new 0-follower $COWBOY self-shill (@txashldmcowboy) and dosed.lol promo (@dosed_SOL); skipped call-farm spam ($coin/@JEREMYhboo, $RM/$RETIRE/@Strong69106, $RM/$Red/@itsmeflow18, $DIAMOND/@DegenFlow_, $AMD/@solblender99, $bracket/@meme_opportunit, $Red shills); skipped tiny $NILF reply (@CFCSLIMM) and Donkey reply (@nihaoa2026); skipped non-news (@bigfrug, @degenerateux).",
   "launches": [
+    {
+      "coin": "蘑菇头 (蘑菇头)",
+      "chain": "BSC",
+      "chainNote": "Post gives contract address 0xc0e429bfd9df3fbb02c262eb1d570fce5e077777 (Flap).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 08:52 Berlin that 蘑菇头 (mushroom head), ticker 蘑菇头, is a Flap launch on BSC about five minutes old and 41% along its bonding curve; the signal says the name and ticker state no plain-words theme.",
+      "engagement": "442 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only with no stated theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118612470059393114",
+      "followers": 38528
+    },
     {
       "coin": "Lying Gun (躺枪)",
       "chain": "BSC",
@@ -292,16 +302,6 @@
       "flags": "Bundled first buy per the post (a common sign of insider supply); only an automated signal account so far. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2116905929916764546",
       "followers": 38463
-    },
-    {
-      "coin": "$SA",
-      "chain": "Solana",
-      "chainNote": "Posts give contract address DgkKGYiJZMCah6iphatZeqCGJ5S51ND7qxQZQdP5pump (pump.fun).",
-      "buzz": "Several call accounts posted between 15:48 and 15:50 Berlin claiming $SA ran from roughly $6K-19K to about $583K-629K market cap (claims of 30x to 105x), including @DegenFlow_ (6,473 followers) and @CipherEdgeCalls (4,095 followers).",
-      "engagement": "About 200 impressions and 1 like per post at scan time.",
-      "flags": "Only paid-group 'call' accounts so far, with conflicting numbers; unverified. Treat as shill activity, high risk.",
-      "url": "https://x.com/DegenFlow_/status/2116905395973214244",
-      "followers": 6473
     }
   ],
   "news": [
