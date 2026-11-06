@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 13:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118683899249496225",
-  "note": "Window: X posts since prior newestPostId 2118682193761296767 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 1 launch(s) and 1 news item(s). Skipped: LizethMonArt/sbusfzi airdrop-spam farm; call-farm past-gain spam on $DNUT/$ROCCO/$OGGATO/Diamond (CipherEdgeCalls, A33on_, sol_lord111, EarlyChad_, AxisAlpha_, Sol_Ficra, firepump_house, MemeLaunchups, ReptoldSolx, solblender99); dex_kolwatcher PAID DEXScreener $RAM/$Rot; Ryder_100X $GMFRENS thin self-shill; AlphaGenesisHQ $TIKI brand-new 1-fol account; Hamlawcourt00 $HAMLAW self-promo; Anatolii_Volf Pump.fun Kraken SOL move (already in news); fallund Trump-token crash thin; JMDarkSide6 $GBunny low-fol self-launch; crypto_ripples $HALO already listed; timcryptocon reply shill.",
+  "lastUpdated": "Friday 6 Nov 2026, 13:41 Berlin time (UTC+01:00)",
+  "newestPostId": "2118684986068840953",
+  "note": "Window: X posts since prior newestPostId 2118683899249496225 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 1 launch(s) and 0 news item(s). Skipped: call-farm past-gain spam on $RAM/$COGE/$COIN (CipherEdgeCalls, A33on_, erykdiamond, ReptoldSolx, solblender99, SOLANACHAD009); firepump_house $GLAZE call; Theblackbullxxx DESSA II template shill farm (already tracked DESSA); GemChaserSOL $PILOT thin auto-signal; CheckBubblesSOL $Bubbles 18-fol self-tool; TERBiumSolana/DreadPirateDale $GTHIC/JohannMartrarg $FATCAT low-fol self-launches; RongrongBell Pump.fun→Kraken SOL (already in news); chadscabal vague 'runner soon' teaser (no CA); drugsfaxx QQQx airdrop spam; politics/noise from news query.",
   "launches": [
+    {
+      "coin": "Pair ($PAIR)",
+      "chain": "Robinhood chain",
+      "chainNote": "Post gives contract address 0x3024d06034a3fc1faf85f11fabb491c25ff7e5fd (EVM / Robinhood chain per signal).",
+      "buzz": "Signal account @bitecong (38,528 followers) posted at 13:37 Berlin that Pair ($PAIR) is roughly twenty minutes old on Robinhood chain, with the pair said to have moved +3192% in the last hour; the signal notes a plain name, no clear theme, and links to pair·cx.",
+      "engagement": "393 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; extreme claimed short-window move on a brand-new pair; thin theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118684200375324839",
+      "followers": 38528
+    },
     {
       "coin": "Crocs ($Crocs)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; no official narrative. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118627858260361711",
       "followers": 38530
-    },
-    {
-      "coin": "Feijitou / 飞机头 (Feijitou)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0x837a06303892a8425e23fbf0a54bcf6469587777 (Flap).",
-      "buzz": "Signal account @bitecong (38,527 followers) posted at 09:15 Berlin that Feijitou (飞机头 / plane head), ticker Feijitou, launched on Flap on BSC about eleven minutes earlier and was 46% along its bonding curve; the signal says there is no clear theme beyond the name.",
-      "engagement": "405 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; name-only with no stated theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118618169606873466",
-      "followers": 38527
     }
   ],
   "news": [
