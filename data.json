@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 00:45 Berlin time (UTC+01:00)",
-  "newestPostId": "2118852104341078204",
-  "note": "Window: X posts since prior newestPostId 2118850740693127319 (recency: 1 launch/pumpfun query + 1 ticker news query + 1 bitecong/AI-Signal query; no search_news this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: Strong69106 $DEGEN AgnsZb…pump (call-farm VIP shill, 8 impressions); _FalconGems $AURA HdXK…pump (270 followers); AiSolanaKols incomplete $PUMPFUN caution (no full CA); camiladasilvaca/Tata_Solana group-bio shills ($DCAT / $GTA6 already-aged pumps); maxmaxmon95 $HOPE project account (91 followers); DemonsAngel1313 $CHAOS shill (382 followers); bitecong reply on SolPadRadar/ape mint risk (reply, not new launch); 0rdlibrary voice-agent/$CLAWD commentary (CLAWD already on news); Ansem–Pumpfun deal reply chatter (drama already on news board); second query polluted by political Trump/dump noise (no memecoin listings/rugs/ETFs).",
+  "lastUpdated": "Saturday 7 Nov 2026, 00:52 Berlin time (UTC+01:00)",
+  "newestPostId": "2118853795153064009",
+  "note": "Window: X posts since prior newestPostId 2118852104341078204 (recency: 1 launch/pumpfun query + 1 listing/rug/pump ticker query + 1 search_news). Added 1 launch(s) and 1 news item(s). Seen but skipped: PapuCoinDev $PAPUCOIN project account (288 followers); itsmeflow18 $DCAT / $HATCH call spam (already on launches or aged); Strong69106 $DEGEN AgnsZb…pump (call-farm VIP, already skipped prior); Solalmighty001 alternate $PUMPFUN 4ajK…pump call-farm; solhousesignals CryptoRuble update (already on launches); popmemecoin José Robinhood bot alert (741 followers); dex_kolwatcher $tailr paid-DEX alert; Ansem–Pumpfun / Ethan / Theo Von /$NIO / Phantom / Leap / Coinbase CARD / Diamond rewards already on news board.",
   "launches": [
+    {
+      "coin": "OFFICIAL PUMPFUN COIN ($PUMPFUN)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Fvk7Yhpz5baWgAfdVgVfPvRJFy41pViE9Hu1HAdMpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:47 Berlin an AI Signal that OFFICIAL PUMPFUN COIN ($PUMPFUN) is a pumpfun launch about three minutes old at signal and 86% of the way to graduation; it says the story is a fee dispute, not a character, and cites a researched report on the contract (text cut off).",
+      "engagement": "330 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; fee-dispute narrative; thin engagement; ticker copies the launchpad name (distinct CA from call-farm 4ajK…pump $PUMPFUN shills). Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118852806849474614",
+      "followers": 38571
+    },
     {
       "coin": "HABIBI PAC ($HABIBI)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118817387323838946",
       "followers": 38570
-    },
-    {
-      "coin": "anon ($anon)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FLFA1BVw3btfSTcRBW691MEnDujzQdfhxD2LD4U1pump (pump.fun / pumpfun; graduated to PumpSwap). Distinct from the earlier stonkfun Anon listing.",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:25 Berlin an AI Signal that anon ($anon) launched on pumpfun on Solana and graduated to PumpSwap about three minutes after launch; it notes nothing in the name states a theme and the description only points to a tracker link (text cut off).",
-      "engagement": "99 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; ticker-name collision with earlier stonkfun Anon (different CA); thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118817073673687404",
-      "followers": 38570
     }
   ],
   "news": [
+    {
+      "topic": "Paid promo / influencer",
+      "headline": "X News: Sahil accuses Clavicular of undisclosed Pump.fun pay to promote $CHAD",
+      "coins": "$CHAD, Pump.fun",
+      "detail": "X news summary (updated ~00:51 Berlin): Sahil accused Clavicular of being paid by Pump.fun to promote Solana memecoin $CHAD on stream. During the stream, Clavicular's friend Androgenic took a call from Orangie's manager, and the summary says $CHAD market cap spiked to about $500,000 before collapsing to about $3,000–$5,000; Clavicular reacted live with frustration over being left out. Continues prior Clavicular / Pump.fun paid-promo chatter already on the board. Unverified accusation from the X news summary, not a primary disclosure.",
+      "updated": "7 Nov 2026, 00:52 Berlin",
+      "url": "https://x.com/i/trending/2118852544349032479"
+    },
     {
       "topic": "Pump.fun / AI agent launch",
       "headline": "@0rdlibrary: $CLAWD graduated; bot-designed pump coin aims to pair via create_v2 quotes",
@@ -536,14 +544,6 @@
       "detail": "X news story (updated ~17:06 Berlin) says Pump.fun added a Diamond callout reward tier beside the existing Degen tab, aimed at higher market-cap tokens and less frequent broadcasts to encourage longer holding; community posts praised it as supporting conviction over quick flips, while noting a small daily rewards pot and possible side-wallet workarounds.",
       "updated": "6 Nov 2026, 17:10 Berlin",
       "url": "https://x.com/i/trending/2118735317964648644"
-    },
-    {
-      "topic": "Rug / live stream",
-      "headline": "Chad's Cabal: streamer was up $50k on a friend's memecoin, then that friend rugged it to zero live",
-      "coins": "unnamed memecoin (friend launch)",
-      "detail": "@chadscabal (25,248 followers) posted at 16:41 Berlin that a streamer was up $50k on his friend's memecoin launch, then that same friend rugged the token to zero live on stream. No ticker or contract address named. Early engagement: 1,839 impressions, 19 likes, 10 replies, 2 reposts at scan time.",
-      "updated": "6 Nov, 16:48 (Berlin)",
-      "url": "https://x.com/chadscabal/status/2118730564715078018"
     }
   ],
   "hourly": [
