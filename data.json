@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 16:06 Berlin time (UTC+01:00)",
-  "newestPostId": "2118720883606835574",
-  "note": "Window: X posts since prior newestPostId 2118719489634193538 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; no news search this run). Added 1 launch(s) and 2 news item(s). Skipped: call-farm flex spam ($RSHA262599 across @aivilgoodd/@_Shonsol/@_MoonGems; $spoon farm @callerfiona11/@EvansOnSolana/@_callerhex/@0x_AuraLux1/@_Shonsol + MemCoinsRadar bots; $401kat/@401KAT flex @SOLANACHAD009/@sol_lord111/@Sol_Gems00; $HOTCOFFEE @ASTRAsol4/@Botched_caller; $CRF VIP-DM farm @Sol_Gems00 — CA already on dashboard; $RM @fauxallover0); brand-new thin accounts (@payreceipts 1 follower fee-routing promo created today; @UseCreedo 3 followers $CRD roadmap); thin ansem/blknoiz06 shill (@nebb_1 CA 9cRCn…pump, 2 impressions; @RealIzzyEx $ANSEM); MemCoinsRadar migration spam ($401k CA HKWqg…, $spoon); Sweden ETP $PUMP/$WIF/$BONK claim (@BRM2246, 47 followers); historical Wormhole exploit thread (@RealJohnnyTime); Binance Oct 29 hack SOL-trace thread (@sprunky_eth — not memecoin-specific); CreatorKane airdrop-farm replies noise; political/opinion replies.",
+  "lastUpdated": "Friday 6 Nov 2026, 16:12 Berlin time (UTC+01:00)",
+  "newestPostId": "2118722495285272894",
+  "note": "Window: X posts since prior newestPostId 2118720883606835574 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; news search this run, max_age 6h). Added 1 launch(s) and 0 news item(s). Skipped: call-farm flex spam ($RSHA262599 @ASTRAsol4/@addamsol_999/@Sol_Gems00/@Botched_caller; $spoon @Sol_Gems00/@EvansOnSolana/@sol_peal; $401KAT VIP-DM @Vanta_Sol_; $Steve/$POMBERT flex @Annatrader22; $THREE @EARLYSOLINSGHT; $CHILLJAKX shill @BangBorscs no CA); thin ansem/blknoiz06 claim (@nebb_1 CA 7ypCq2…uGrQ); paid DEX bot $UTC (@dex_kolwatcher); brand-new thin $FRAM (@fram_toncoin 15 followers); $Diamond Pump-icon narrative posts without CA (@BestQualityBD/@vMonadLogic/@ClockworkCqs/@alicaglayan4); Trencher existing-project promo (@grizzle_art); politics/gas-pump noise; news already on dashboard (Pump.fun~76K SOL→Kraken; Solana Labs Leap; Ansem callout rewards); SHIB Binance-hacker dump headline (@RagnarShiba, 125 impressions/0 likes — too thin).",
   "launches": [
+    {
+      "coin": "Receipts ($RECEIPTS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 9ZtuW8JzjCPNirmhKne2EnWknTj7wjv7k4cRaFEhpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,533 followers) posted at 16:04 Berlin that Receipts ($RECEIPTS) is under a minute old on the pumpfun bonding curve and already most of the way along it, so graduation could come soon; the signal notes the deployer has eight tokens including this one.",
+      "engagement": "376 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin receipts/deployer-history theme; prior window had a separate thin @payreceipts fee-routing promo. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118721123705848239",
+      "followers": 38533
+    },
     {
       "coin": "Anonymous Cats ($ZCATS)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Influencer narrative push (GTA6CAT theme; distinct CA from listed GTA6DOG). Early/high risk; not a fresh bonding-curve signal.",
       "url": "https://x.com/theAdamcrypto/status/2118651622578672089",
       "followers": 25842
-    },
-    {
-      "coin": "Xi The Pooh ($Xi)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address A2EGRb4JufhyHjZxzR7z39UKuYbm6hnCzW41xEuwpump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:24 Berlin that Xi The Pooh ($Xi) is a pump.fun launch on Solana that reached about 89% of the bonding curve toward graduation in under three minutes; the signal says the name carries no clear theme from the facts on hand.",
-      "engagement": "350 impressions, 1 like, 1 repost at scan time.",
-      "flags": "Only an automated signal account so far; thin/no theme; also pushed by call accounts (@firepump_house). Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118650727421858041",
-      "followers": 38530
     }
   ],
   "news": [
