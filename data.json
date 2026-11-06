@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 13:26 Berlin time (UTC+01:00)",
-  "newestPostId": "2118681296297705859",
-  "note": "Window: X posts since prior newestPostId 2118679957308104749 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 0 launch(s) and 0 news item(s). Skipped: Felipetees $PAIR VIP TG spam; ChillguySocial $CHILL 0-fol brand-new self-promo; marevivakk $RM VIP TG farm; PumpminatiHQ thin project; GenYOnChain 0-fol self-launch; 0x_AuraLux1/firepump_house $DNUT already listed; MemCoinsRadar $OGGATO scanner migration (prior skip); LizethMonArt/alaahnassar/drugsfaxx/Lin252525 airdrop-spam farm pattern; CipherEdgeCalls/Memecoinspecia $APPLEPAID already listed; crypto_ripples $ATM past-call VIP flex (prior farm skip); PawgleOnchain $pawgle 0-fol; MINI_Gentle Leap already in news; solblender99 $ROCCO already listed; Strong69106 $LEONIDA VIP TG call farm; CipherEdgeCalls $MAMESUKE (prior Yakuza narrative skip); political Trump/Iran/pump metaphor noise; elyscreener/Vincs_eth tool promo thin eng.",
+  "lastUpdated": "Friday 6 Nov 2026, 13:30 Berlin time (UTC+01:00)",
+  "newestPostId": "2118682193761296767",
+  "note": "Window: X posts since prior newestPostId 2118681296297705859 (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 0 launch(s) and 1 news item(s). Skipped: LizethMonArt/alaahnassar/drugsfaxx airdrop-spam farm; Felipetees $PAIR VIP TG (prior skip); CipherEdgeCalls $DNUT already listed; marevivakk $fun VIP TG farm; AcordOF_NG $VERSEUS 7-day pre-launch TG; blackpantherbos $PANTHER 9-fol; josecrypt_eth $STONK past-call TG bait; bwthyo $TLM thin chart call; Koikoifishme $HACKED thin shill; rootofsol $EGG low-fol self-launch; French/unrelated noise.",
   "launches": [
     {
       "coin": "Krispy Kreme / DNUT ($DNUT)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Memecoin developer arrest / alleged scam",
+      "headline": "British memecoin developer Oliver Harrington reportedly arrested in London over alleged $4.7M crypto scam",
+      "coins": "n/a (developer arrest)",
+      "detail": "@Nbmbroadcast (4,691 followers) posted at 13:27 Berlin a breaking note that 23-year-old British cryptocurrency developer Oliver Harrington has reportedly been arrested in London in connection with an alleged $4.7 million cryptocurrency scam tied to memecoin development. Early engagement at scan time: 16 impressions, 0 likes, 1 quote.",
+      "updated": "6 Nov, 13:30 (Berlin)",
+      "url": "https://x.com/Nbmbroadcast/status/2118681738972909592"
+    },
+    {
       "topic": "Pump.fun / SOL selling",
       "headline": "Pump.fun moved ~76K SOL (~$6.85M) to Kraken; tracker claims ~5.55M SOL sold historically",
       "coins": "SOL, Pump.fun",
@@ -536,14 +544,6 @@
       "detail": "Crypto YouTuber @MichaelSuppo (148,794 followers) said three coins are vying for the GTA6 mascot spot and backed GATO, the cat from the GTA6 trailer, saying it trades on 4 exchanges. Promotional post. 1,131 impressions, 11 likes, 4 reposts at scan time.",
       "updated": "1 Nov, 15:20 (Berlin)",
       "url": "https://x.com/MichaelSuppo/status/2116897459901522191"
-    },
-    {
-      "topic": "Exploit / b14g",
-      "headline": "CORE token hits an all-time low after the $1.47 million b14g exploit on a Bitcoin staking protocol",
-      "coins": "CORE",
-      "detail": "Headline shared by news account @hokanewscom (27,346 followers) with an article link. Not a memecoin, but relevant to market risk. 361 impressions, no likes at scan time.",
-      "updated": "1 Nov, 14:59 (Berlin)",
-      "url": "https://x.com/hokanewscom/status/2116892925326242051"
     }
   ],
   "hourly": [
