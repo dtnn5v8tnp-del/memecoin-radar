@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 21:30 Berlin time (UTC+01:00)",
-  "newestPostId": "2118803047534993534",
-  "note": "Window: X posts since prior newestPostId 2118801633412886744 (recency search: 1 launch-focused query; 1 news/move query — cashtags stripped on news query; launch query retried once after invalid CA: operator). Added 0 launch(s) and 0 news item(s). Skipped: MotofitCrypto rug-reply spam; leviathan_news general digest (not memecoin-specific); BoomerOnCC/$Boomer (5 foll); Rashidtalw $PEPE (1 foll); DavidMa83240370 reply spam; 1YA50 reply to TrumpOnSol shill; YneraX_Sol/$YNX self-promo (270 foll, thin eng); TheLionCalls ROCCO call (no CA, 0 likes); TheGemSniper1+itsmeflow18 $CEILING TG call-farm; GTArobocop/$GTACOP near-zero foll; RWerkaccount YINYANG$ self-listing spam; logicthenoti FloatFuse (already on dashboard).",
+  "lastUpdated": "Friday 6 Nov 2026, 21:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2118804867267670340",
+  "note": "Window: X posts since prior newestPostId 2118803047534993534 (recency search: 1 launch-focused query; 1 news/move query — cashtags stripped by API). Added 1 launch(s) and 0 news item(s). Skipped: Bullrunups/$FUSE 17X TG shill (753 foll); SolanaSpin__ wheel/airdrop spam (405 foll); rayv4eera FOMO reply (374 foll); Spooky_LabuBoo/ChimpSol self-promo (323 foll); Deemz_Sol Pumpfun-fees opinion (126 foll); DanielLikesArt/$FEELSGOOD Pepe-beta shill (1,120 foll, thin eng); kenokki trading-bot $WIF promo (536 foll); political Trump dump/rug/SEC noise matching news query.",
   "launches": [
+    {
+      "coin": "Sticky Fingers ($SODL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address G1zL1rRHZNSVh58dk8PK7FHPJD4mXevgPQkj8yjvpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,575 followers) posted at 21:35 Berlin that Sticky Fingers ($SODL) launched on pumpfun about a minute ago and is still on the bonding curve, 92% of the way to graduation; name and description say little and the only link is a post from an account (text cut off).",
+      "engagement": "283 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; theme unclear from signal text. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118804604683165759",
+      "followers": 38575
+    },
     {
       "coin": "Seppuku ($Seppuku)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; very high bundler-wallet count flagged; still on curve after ~3 days. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118775330135777614",
       "followers": 38538
-    },
-    {
-      "coin": "Ball ($BALL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address E6XfeqWCzu84TLtx5kdtmN4C9jSU9YHxCTjd5RGppump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:36 Berlin that Ball ($BALL) is the second ball-themed launch on Solana today and was about 31% of the way to graduation in its first 37 seconds on the pumpfun bonding curve; it flags an odd early buyer list (text cut off at three wallets within one minute).",
-      "engagement": "208 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; second ball theme today; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118774440955928816",
-      "followers": 38536
     }
   ],
   "news": [
