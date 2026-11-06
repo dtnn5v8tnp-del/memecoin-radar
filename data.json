@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 10:31 Berlin time (UTC+01:00)",
-  "newestPostId": "2118637201387069619",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 1 launch(s) and 0 news item(s). Added: @Theblackbullxxx DESSA BANK (PumpSwap ~$10K, coordinated shill). Skipped: @Kaan_Capitug0 $RETIRE VIP-TG shill farm (already tracked); @CreatorKane 1000x CA bait with no ticker; @FreelancerRaji5/@Juannfxp airdrop spam; @AlphaBullishups $CZ (already in launches as The Red Bull); @robhousesignal $KYTE low-engagement bot; @UOMCxyz 0-follower self-launch; GoFundMe/Notion/Cursor/Splice noise; Elon listing spam.",
+  "lastUpdated": "Friday 6 Nov 2026, 10:39 Berlin time (UTC+01:00)",
+  "newestPostId": "2118639021584715957",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries). Added 0 launch(s) and 2 news item(s). Added: @BlockLogicX $GM ~400% BNB claim after Elon–CZ meme; @Codedscientist Green Morning ~$7.1M claim. Skipped: continued @Theblackbullxxx DESSA BANK shill (already tracked); @ASTRAsol4/@A33on_ $CZ 25–26x call spam; @Samurai_Gems0 $RETIRE 11x (already tracked); @firepump_house $UK/$UST TG farm; @EarlyRada $GTA6K9K VIP-TG; @ArcTokenScan Grand Theft Airlines $GTA bot-only; @UOMCxyz 0-follower spam; @ProSol9ja 0-follower $HNAIJA; university/graduation noise; Capiboo low-engagement call.",
   "launches": [
     {
       "coin": "DESSA BANK (DESSA BANK)",
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Price move / BNB meme",
+      "headline": "BNB Chain $GM said to jump ~400% after Elon–CZ meme banter",
+      "coins": "GM",
+      "detail": "Researcher @BlockLogicX (32,849 followers) posted at 10:31 Berlin that Elon Musk’s CZ meme sent BNB Chain memecoin $GM soaring over 400%, briefly hitting about a $2.72M market cap with $1.6M daily volume. Early engagement on the post itself was low (32 impressions, 0 likes at scan); figures are from that account, not an exchange primary source.",
+      "updated": "6 Nov, 10:39 (Berlin)",
+      "url": "https://x.com/BlockLogicX/status/2118637365141102696"
+    },
+    {
+      "topic": "Price move / Elon–CZ meme",
+      "headline": "Green Morning memecoin cited near $7.1M after Elon–CZ exchange",
+      "coins": "Green Morning",
+      "detail": "@Codedscientist (2,929 followers) posted at 10:34 Berlin that after Elon trolled CZ again, a memecoin framed as green-morning:native (Green Morning) was already near a $7.1M market cap. No contract address in the post; early engagement low (16 impressions, 1 like). Distinct from the many thin Red Morning ($RM) launches tracked earlier today.",
+      "updated": "6 Nov, 10:39 (Berlin)",
+      "url": "https://x.com/Codedscientist/status/2118638050028683411"
+    },
+    {
       "topic": "Pump / The Fallen Hero (躺枪)",
       "headline": "The Fallen Hero (BSC) hit ~5.1x about an hour after the launch note",
       "coins": "The Fallen Hero (躺枪)",
@@ -528,22 +544,6 @@
       "detail": "Reported by @WhaleAlertNews (326 followers); not yet confirmed by an official source in this sweep. Not a memecoin, but relevant to market risk. 1 like at scan time.",
       "updated": "1 Nov, 13:49 (Berlin)",
       "url": "https://x.com/WhaleAlertNews/status/2116874556530889147"
-    },
-    {
-      "topic": "Pump / ANSEM",
-      "headline": "Call account claims $ANSEM ran from $24K to $420K market cap",
-      "coins": "$ANSEM",
-      "detail": "@Kaan_Capitug0 (881 followers) posted a series of escalating updates ($177K, $314K, then $420K MC) with VIP Telegram funnels. A separate small account (@Dev_Great_dev, 31 followers) claims a big SOL bull opened about an $880K short on a memecoin perps app and $ANSEM dumped; that claim is unverified. Near-zero engagement on all of these posts.",
-      "updated": "1 Nov, 13:45 (Berlin)",
-      "url": "https://x.com/Kaan_Capitug0/status/2116873921446150265"
-    },
-    {
-      "topic": "Exchange / Binance recovery",
-      "headline": "Binance re-enables withdrawals for ZEC, TON (USDT, GRAM) and SUI",
-      "coins": "$DOGE, $ZEC, $SUI, GRAM and other re-enabled assets",
-      "detail": "Official @binance update: newly re-enabled networks are ZEC (ZEC), TON (USDT, GRAM) and SUI (SUI), on top of BTC, ETH, BSC, XRP, Base, DOGE and others already live. Not every asset is back yet. About 27 likes and 1.6k impressions at scan time.",
-      "updated": "1 Nov, 13:36 (Berlin)",
-      "url": "https://x.com/binance/status/2116871932075516174"
     }
   ],
   "hourly": [
