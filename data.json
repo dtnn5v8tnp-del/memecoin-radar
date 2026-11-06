@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118789743336956009",
-  "note": "Window: X posts since prior newestPostId 2118787810555760867 (recency search: 1 launch-focused query; 1 news/move query returned mostly political noise; 1 prior launch query failed on invalid operators). Added 2 launch(s) and 0 news item(s). Skipped: call-farm $Boomer/$MONEYERO/$oddly/$CHROME/$FI spam (itsmeflow18/ceaser_callz/callerfiona11/21Huncho_sol/Sol_Gems00/Crypt_gms021/marevivakk); dex_kolwatcher $DISCIPLINE bot ping; TheShitShowDev $RWB thin/offensive self-shill; hashtag-spam $MNTD farms; Anatolii_Volf Solana Leap app note (infra, not memecoin); political Trump dump/hack noise from news query.",
+  "lastUpdated": "Friday 6 Nov 2026, 20:42 Berlin time (UTC+01:00)",
+  "newestPostId": "2118791141373968826",
+  "note": "Window: X posts since prior newestPostId 2118789743336956009 (recency search: 1 launch-focused query; 1 news/move query; 1 launch query failed on invalid operators then retried). Added 1 launch(s) and 0 news item(s). Skipped: political Trump/Netanyahu noise; MemCoinsRadar $GLITCHPEPE bot promo (repeat alerts + TG spam); TheShitShowDev $RWB offensive self-shill; $Diamond/$VOLTA call-farm RTs; SniperinoSol $JOEYSAVE thin self-shill; $COGE/$CARDS fake pump.fun vote phishing links; partner-seek/reply spam around Pumpfun.",
   "launches": [
+    {
+      "coin": "Squirrelcoin ($SQRL)",
+      "chain": "BSC",
+      "chainNote": "Post gives contract address 0x0c32ad50c7e8e503f442c3a84bc27d4cb2de7777 (Flap launchpad on BSC).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 20:40 Berlin that Squirrelcoin ($SQRL) is the third Squirrelcoin launch today on Flap on BSC, about six minutes after launch and sitting at 43% of the way to graduation; it flags three wallets that bought within three minutes of each other (text cut off).",
+      "engagement": "296 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; third Squirrelcoin clone today on BSC; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118790735709552749",
+      "followers": 38571
+    },
     {
       "coin": "Moshi ($Moshi)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated scanner account so far; xQc-themed name; very thin engagement. Very early, high risk.",
       "url": "https://x.com/GemChaserSOL/status/2118769801900261668",
       "followers": 2331
-    },
-    {
-      "coin": "Xi Jing Pooh ($Pooh)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DpfdUDWNu1nagAZLcbbucbt4Cai1F7RhWMF7e3Fgpump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,535 followers) posted at 19:11 Berlin that Xi Jing Pooh ($Pooh) is a pumpfun launch on Solana that graduated to PumpSwap about 42 seconds after launch (signal at 54 s); it is the third Pooh-themed launch today (text cut off).",
-      "engagement": "247 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; third Pooh theme today; different CA from earlier Xi Xing Pooh rows. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118768216575193110",
-      "followers": 38535
     }
   ],
   "news": [
