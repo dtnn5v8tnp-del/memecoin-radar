@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 16:28 Berlin time (UTC+01:00)",
-  "newestPostId": "2118727028908437512",
-  "note": "Window: X posts since prior newestPostId 2118724740424806452 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; plus news search this run). Added 1 launch(s) and 1 news item(s): OCTAGON ($OCTAGON) BSC Flap; wyckoffweb 71 rugs flagged today. Skipped: $RECEIPTS paid-DEX alert already on dashboard (@dex_kolwatcher); $ZCATS call-farm (@MemeLaunchups); $ETFDESK brand-new 0-follower promo (@0xetfdesk); $Diamond affiliate promo (@hoodicorns); thin $CHIMP reply (@Salman14jr); $GM 50x edit already on dashboard (@TuanNguyen_6789); personal rug diary (@Saq3oh 1 follower); Red Sea DEX promo (@bossvybes); Leap/Solana Labs already on dashboard; Ansem STONK-ZEC call thin/no ticker (@0x_abu 4 likes); Pump.fun Kraken 76K SOL already on dashboard; X news Ansem callout rewards / Squeek NFTs / Fomopoly / Zeru / Monad off-scope or thin.",
+  "lastUpdated": "Friday 6 Nov 2026, 16:31 Berlin time (UTC+01:00)",
+  "newestPostId": "2118727683961946519",
+  "note": "Window: X posts since prior newestPostId 2118727028908437512 (recency search, 2 queries: launches/pump.fun + rugs/listings/ETF; no news search this run). Added 1 launch(s) and 0 news item(s): zolana ($zolana) stonkfun→Raydium. Skipped: $NIG already on dashboard (call farms @itsmeflow18/@SOLORACLE8s); $ZCATS call-farm (@SolMoh0x/@westcalls0); $Diamond call farm (@CipherEdgeCalls) already skipped prior; $POPO thin signal (@solhousesignals); Fortnite $PIRATE dispute thin engagement (@Schoen_xyz); TRUMP CA-starts-with promo 0-follower brand-new (@TrumpOnSol77); airdrop spam (@Juannfxp/@drugsfaxx/@withchanu); KasForge pad announce not a coin (@Pump_Forge_); rent beg; countdown no-ticker (@memecoinking20); news query mostly political noise.",
   "launches": [
+    {
+      "coin": "zolana ($zolana)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address CF4qxGtkwkRem2irswpQj4pQYyaTLS6Sn16rB2CbivTW (stonkfun; signal says graduated to Raydium CPMM).",
+      "buzz": "Signal account @bitecong (38,533 followers) posted at 16:29 Berlin that zolana ($zolana) graduated from stonkfun to Raydium CPMM about eleven minutes after launch; the signal says there is no clear theme in the name and flags an unusual rise in holder count.",
+      "engagement": "264 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin/no-theme name; stonkfun not pump.fun. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118727551766118422",
+      "followers": 38533
+    },
     {
       "coin": "OCTAGON ($OCTAGON)",
       "chain": "BNB Chain (BSC)",
@@ -292,16 +302,6 @@
       "flags": "Scanner/CTO ping only so far; thin organic engagement. Early/high risk.",
       "url": "https://x.com/SolanaMemesScan/status/2118652567018213829",
       "followers": 4324
-    },
-    {
-      "coin": "HaloPad ($HALO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address G2apw4XQdSfTv9836JHWhRZGyqG43m93eMEF4zjnpump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 11:31 Berlin that HaloPad ($HALO) is framed as a Solana trading and launch platform token that had already graduated from pump.fun to PumpSwap before the signal; call accounts (@A33on_/@DegenFlow_/@webb_sonn/@_Shonsol/@Sol_Gems00) also pushed the same CA with past-call flex posts.",
-      "engagement": "393 impressions, 0 likes, 0 reposts on the signal post at scan time.",
-      "flags": "Only an automated signal account plus call-farm flexes so far; product/platform framing. Already graduated. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118652504078742010",
-      "followers": 38530
     }
   ],
   "news": [
