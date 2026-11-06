@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 12:26 Berlin time (UTC+01:00)",
-  "newestPostId": "2118666238658306478",
-  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/DEX). Added 0 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA BANK shill-farm (same CA as listed); call-farm/past-call flex on $HALO/$ATM/$NIG/$APPLEPAID/$SOLCAR/$GPU/$BIDWELL/$ROBLOX/$RAM; paid DEXScreener $VUTOMI (dex_kolwatcher/GemChaserSOL); GTA6ATM project noise; thin $RM red-morning narrative (1 impression); $CHILLAKIN call spam; brand-new $PAWG account (0 followers); false positives (Trump/whale politics).",
+  "lastUpdated": "Friday 6 Nov 2026, 12:29 Berlin time (UTC+01:00)",
+  "newestPostId": "2118666871461294208",
+  "note": "Window: X posts since prior newestPostId (recency search, 3 queries: launches, news-ish, pump.fun/DEX — third query rejected invalid CA: syntax). Added 1 launch(s) and 0 news item(s). Skipped: Theblackbullxxx DESSA BANK shill-farm (same CA as listed DESSA 2.0); Brunna_leto TG-farm flex spam ($Diamond/$fun/$bracket/$COIN); _callerhex $ATM call; enzocooks comment-ME engagement bait (no CA); allstarsgta $ALLSTARS self-graduation (99 followers); AiSolanaKols $TRUST migration (8 holders); NeroneTheBunny HYPERCAT (17 followers); thin PBOC-Solana promo from low-engagement account; false positives (Quadtastic, implants study, ecosystem list).",
   "launches": [
+    {
+      "coin": "WEALTH ($WEALTH)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump (pump.fun).",
+      "buzz": "Influencer @AntonyCryptoi (43,318 followers) posted at 12:27 Berlin that SOL $WEALTH just launched, claiming it was launched by someone from the $USELESS team and is pinned in the $USELESS X Community, with 2% of the developer supply locked.",
+      "engagement": "14 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Influencer launch call with claimed USELESS-team link; very thin organic engagement so far. Very early, high risk.",
+      "url": "https://x.com/AntonyCryptoi/status/2118666455088546269",
+      "followers": 43318
+    },
     {
       "coin": "Nigga Pig ($NIG)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; morning theme copy again; thin narrative beyond the name. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118598731406962931",
-      "followers": 38530
-    },
-    {
-      "coin": "RED MORNING ($RM)",
-      "chain": "BSC",
-      "chainNote": "Post gives contract address 0x4a40933f48a0cc36ab2a2ff755fded75a9207777 (Flap / PancakeSwap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 07:57 Berlin that RED MORNING ($RM) is a Flap launch on BSC that reached PancakeSwap 31 seconds after launch, with most supply labels pointing at one crowd.",
-      "engagement": "290 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; name-only theme; concentrated supply note in the signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118598709869256880",
       "followers": 38530
     }
   ],
