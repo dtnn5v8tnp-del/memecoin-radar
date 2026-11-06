@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 14:00 Berlin time (UTC+01:00)",
-  "newestPostId": "2118689757610033240",
-  "note": "Window: X posts since prior newestPostId 2118689267366989953 (recency search, 2 queries: rugs/listings/pump + launches/pump.fun; plus news search). Added 1 launch(s) and 0 news item(s). Skipped: wanebobbyshane $XPIN telegram join spam; Jettyfuncoin DOGJET reply-shill (35 fol); gem_sonar $coin past-gain farm (52 fol); AlphaBullishups $RAM 14.5x call-farm; jjjesti CA-ask reply; TrenchRadarLive $WASTED rug alert (15 fol, account age 2 days, 1 impression); Tyler_Did_It morning digest (Leap/SOL already covered). News search: Pump.fun 76k SOL→Kraken and Solana Labs Leap already in news; other stories were SOL price, Ansem rewards, non-meme (Squeek/Zeru/Monad/NCT).",
+  "lastUpdated": "Friday 6 Nov 2026, 14:10 Berlin time (UTC+01:00)",
+  "newestPostId": "2118691899439448333",
+  "note": "Window: X posts since prior newestPostId 2118689757610033240 (recency search, 2 queries: launches/pump.fun + rugs/listings/pump; no news search this run). Added 2 launch(s) and 0 news item(s). Skipped: SOLANACHAD009/erykdiamond $GM call-farms; MemeGameAlpha $ROCCO past-gain farm (213 fol); A33on_ $NIG call-farm; Annatrader22 $RAM/$Diamond call-farms; webb_sonn/Sol_Gems00 $DNUT already covered; SOL__WHALE/Whale___SOLL identical $SPEPE promo farms; Angelaxai $ANGELA self-shill (31 fol); airdrop spam (SPX6900/SpaceBunny); coinswavezhq rug-checker spam; political/non-meme noise on rug query. DESSA II is a new CA vs prior DESSA 2.0/DESSA BANK entries.",
   "launches": [
+    {
+      "coin": "LUCKY / dont ignore this cat ($lucky)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 88u51cRpQETNJqomtqgUj9xYKJjkn3RLsZS9qae6pump (pump.fun).",
+      "buzz": "Signal account @bitecong (38,527 followers) posted at 14:06 Berlin that LUCKY (full name dont ignore this cat) is a Solana pump.fun launch about five minutes old at signal time, still on the bonding curve, framed as a lucky-cat token.",
+      "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin cat-meme theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118691598515196082",
+      "followers": 38527
+    },
+    {
+      "coin": "DESSA II (unnamed ticker in post; CA differs from prior DESSA 2.0)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address dJ7AizbUfMGnKY3WdCwVJPXr5PpwR854ow2pKgRQmfD (Solana; not the earlier DESSA 2.0 CA E8S7hVmTyuawgVPf8YGSxwJb8DVkRwKvFyGqoBhLVZUW).",
+      "buzz": "Influencer @Theblackbullxxx (183,408 followers) posted at 14:06 Berlin that DESSA II is live on Solana at about a $10K market cap, calling it a second chance after the original DESSA allegedly hit a $50M market cap; quotes their own earlier clip.",
+      "engagement": "208 impressions, 14 likes, 12 reposts, 15 replies, 4 quotes, 14 bookmarks at scan time.",
+      "flags": "Another DESSA-narrative relaunch with a new CA; same influencer already pushed DESSA BANK / DESSA 2.0 earlier today. Real early engagement. Very early, high risk.",
+      "url": "https://x.com/Theblackbullxxx/status/2118691412870885617",
+      "followers": 183408
+    },
     {
       "coin": "Solana Labs ($LABS)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "Coordinated influencer shill wave (\"I told you to buy X, now buy this\" template). Already on PumpSwap. Very early, high risk.",
       "url": "https://x.com/Theblackbullxxx/status/2118637147368415673",
       "followers": 183411
-    },
-    {
-      "coin": "GTA6DOG ($GTA6K9)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump (pump.fun / PumpSwap).",
-      "buzz": "Signal account @bitecong (38,530 followers) posted at 10:25 Berlin that GTA6DOG ($GTA6K9) borrows the GTA6 theme on Solana and had already graduated from the pump.fun bonding curve to PumpSwap about 3 hours 20 minutes after launch when the signal fired.",
-      "engagement": "358 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; GTA6 theme clone. Already graduated. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118635982899790278",
-      "followers": 38530
-    },
-    {
-      "coin": "the bubble has popped ($POPPED)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 7SG4QtdLx744ZmnRinbKkDVhXC2nw8DugjUybjGApump (pump.fun).",
-      "buzz": "Signal account @bitecong (38,531 followers) posted at 10:07 Berlin that the bubble has popped ($POPPED) is a pump.fun token on Solana, a few minutes old at signal time and still on the bonding curve; the signal reads the name as a joke about markets topping out.",
-      "engagement": "462 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin joke narrative. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118631420226924618",
-      "followers": 38531
     }
   ],
   "news": [
