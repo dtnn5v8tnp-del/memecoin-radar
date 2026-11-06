@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 20:04 Berlin time (UTC+01:00)",
-  "newestPostId": "2118781231898710218",
-  "note": "Window: X posts since prior newestPostId 2118779927998660969 (recency search, 2 broad post queries + 1 news search). Added 4 launch(s) and 1 news item(s). Skipped: FATHO0D reply-farm ($FATHOOD); Bullrunups/Massivepumpmast/Legend_Britney/_hillscaller VIP-TG call shills ($MTA6 $ROCCO $HODL $DIAMOND); Legend_whale1/CryptoButcher28/degenlyapp thin self-promo or farm; Gr8rdaz Lizex $TURBO reply-shill; Cernovich/political Trump–Susie Wiles OR noise; BPFonStonk Pumpfun boycott meta; news already on dashboard (Pump.fun Diamond rewards, Pump.fun Kraken SOL deposit).",
+  "lastUpdated": "Friday 6 Nov 2026, 20:07 Berlin time (UTC+01:00)",
+  "newestPostId": "2118782067433525605",
+  "note": "Window: X posts since prior newestPostId 2118781231898710218 (recency search, 2 broad post queries; first launch query rejected for invalid ca: syntax then retied without it; news-style query ran but returned mostly non-meme noise). Added 2 launch(s) and 0 news item(s). Skipped: Pump_Data 0-follower graduate round-trip bot; Sol_Command TG promo; UniswapVillain float/deployer commentary (no new launch); ShantiRamkhala1 $CHROME risk note (already on dashboard); OLeksa_trader Grok-bot copytrade shill; EmeraldRobinson/political Trump–Susie Wiles OR noise; Neome_com general crypto wire (Binance PoR / ABTC / AAVE) not memecoin-specific.",
   "launches": [
+    {
+      "coin": "Fat Cat ($FATCAT)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 6G55GJ4Ht61YVPrmUNJyfyyGmXrWv8zqxL5t273TVLSz (described as float bonding curve; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,554 followers) posted at 20:05 Berlin that Fat Cat ($FATCAT) is the second fatcat-themed launch on Solana today, about a minute old and still on the float bonding curve when signaled; an unusual early-buyer fact is noted (text cut off).",
+      "engagement": "237 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; second fatcat theme today; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118781761799045383",
+      "followers": 38554
+    },
+    {
+      "coin": "Fat Cat ($FATCAT)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4rERRiordJycRWPRPkij23E2YQk9xdAYvBrYqiEfLoat (described as Raydium LaunchLab / float-style Loat address; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,554 followers) posted at 20:03 Berlin that Fat Cat ($FATCAT) is a cat-themed Solana token on Raydium LaunchLab, barely seconds old when signaled; name and ticker state a cat theme and nothing more (text cut off).",
+      "engagement": "278 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; distinct CA from the other $FATCAT signal this window; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118781381530767443",
+      "followers": 38554
+    },
     {
       "coin": "Ascending ($ascending)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "362 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; unusual seller-heavy top buyer list noted. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118758432128045127",
-      "followers": 38537
-    },
-    {
-      "coin": "Crypto Revenue Leaders ETF ($CRL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Dx1QUmfWkGjp9VP7ZScqg3ip37VM8HWF9dc8WGc8pump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:24 Berlin that Crypto Revenue Leaders ETF ($CRL) is the fourth crypto-themed launch on Solana today and reached about 80% of the way to graduation on the pumpfun bonding curve in about two minutes; the signal flags an oddity about the CRL ticker (text cut off).",
-      "engagement": "354 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; fourth same-theme crypto/ETF token today; different CA from $CRVL. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118756303871066152",
-      "followers": 38537
-    },
-    {
-      "coin": "No Crying In The Casino ($Casino)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Aq9XUf43RhqEmsGPkfrvDqvjJACUZxb3Pn4i3yTgpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,537 followers) posted at 18:23 Berlin that Casino, named No Crying In The Casino ($Casino), is about forty minutes old on Solana and still on the pumpfun bonding curve, most of the way to graduation; the casino wording is the only theme noted in the name.",
-      "engagement": "327 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin casino-name theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118756108177473735",
       "followers": 38537
     }
   ],
