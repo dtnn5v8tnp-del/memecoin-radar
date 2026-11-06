@@ -1,8 +1,58 @@
 {
-  "lastUpdated": "Friday 6 Nov 2026, 19:29 Berlin time (UTC+01:00)",
-  "newestPostId": "2118772731789377858",
-  "note": "Window: X posts since prior newestPostId 2118772033341497390 (recency search, 2 broad post queries; launch query retried after invalid CA:/$ syntax). Added 0 launch(s) and 0 news item(s). Skipped: bitecong $DACITY (9 days old, deployer sold); robhousesignal $VELUM call/shill; fourtislisting FLOAT pump alert (paid listing promo); whyusfun launchpad promo; clawddevs $CLAWD spam; Prado29230685 $BOBI thin; dex_kolwatcher incomplete PAID scan; Bucciboss Diamond rewards (already on dashboard); political Trump/news-query OR noise.",
+  "lastUpdated": "Friday 6 Nov 2026, 19:38 Berlin time (UTC+01:00)",
+  "newestPostId": "2118774576016654340",
+  "note": "Window: X posts since prior newestPostId 2118772731789377858 (recency search, 2 broad post queries; cashtags stripped by API on news query). Added 5 launch(s) and 1 news item(s). Skipped: bitecong $BALL JBr7n… (explicit call theme / no story); Abu4Raaeed $POOH shill of existing CA; EdduVault $EDU self-launch (3 followers); clawddevs $CLAWD spam; whyusfun launchpad promo; Meme_Lord_ups $HODL TG shill; whalewatchalert $MELANIA $8.27K buy (tiny vs $64.3M MC); Binance-hack recycle with #memecoin farm; political Trump/news-query OR noise; reply threads.",
   "launches": [
+    {
+      "coin": "Ball ($BALL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address E6XfeqWCzu84TLtx5kdtmN4C9jSU9YHxCTjd5RGppump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:36 Berlin that Ball ($BALL) is the second ball-themed launch on Solana today and was about 31% of the way to graduation in its first 37 seconds on the pumpfun bonding curve; it flags an odd early buyer list (text cut off at three wallets within one minute).",
+      "engagement": "208 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; second ball theme today; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118774440955928816",
+      "followers": 38536
+    },
+    {
+      "coin": "Top Floor Boss ($TJR)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4aHLHiAqrKA5CV3isUiX7JC7C4HcWdjC322KPWVfLoat (described as float bonding curve on Raydium LaunchLab; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:34 Berlin that Top Floor Boss ($TJR) is about a minute old on Solana via float's bonding curve on Raydium LaunchLab, and highlights the deployer's record as the sharpest detail (text cut off).",
+      "engagement": "303 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; float/LaunchLab path; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118774132146119095",
+      "followers": 38536
+    },
+    {
+      "coin": "wif diamond ($wifdiamond)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address J4KRz3CYf6mgX6Uh9chKb1u97QMB5xTdwUnTcQjQpump (pump.fun / pumpfun).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:32 Berlin that wif diamond ($wifdiamond) is the third diamond-themed launch on Solana today; at about 8 min 52 s old it sat roughly 77% along its pumpfun bonding curve, with an oddity noted in early buyers (text cut off).",
+      "engagement": "305 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; third diamond theme today; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118773605677056487",
+      "followers": 38536
+    },
+    {
+      "coin": "whal ($whal)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4ZxkDMniDeKJ26Ro9KPRaDaCET5yB1hnLcdRJPKfLoat (described as float launchpad; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:31 Berlin that whal ($whal) is a whale-themed Solana token on the float launchpad, signaled about 22 seconds after launch; name and ticker point at whales but the post says nothing else states a story (text cut off).",
+      "engagement": "332 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; name-only whale theme; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118773282807914592",
+      "followers": 38536
+    },
+    {
+      "coin": "Mochi ($MOCHI)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BCLZ9Wh6qay15ZN8PbR8jQBRHs3rWrdbTLR27oqfLoat (described as float-style Loat address; not a pump suffix).",
+      "buzz": "Signal account @bitecong (38,536 followers) posted at 19:29 Berlin that Mochi ($MOCHI) was about 39 seconds old on Solana when signaled; the name hints at a pet theme without a clear story, and it notes about 45 bundler wallets holding the token (text cut off).",
+      "engagement": "348 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; high bundler-wallet count flagged in signal; thin engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118772863117496475",
+      "followers": 38536
+    },
     {
       "coin": "SORANA ($SORANA)",
       "chain": "Solana",
@@ -252,59 +302,17 @@
       "flags": "Only an automated signal account so far; thin corne theme; second same-theme token noted today. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118744939718918374",
       "followers": 38532
-    },
-    {
-      "coin": "Cornetcoin ($CORNET)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 2Pj7WTsvy6mhuCqKHGBvN8tFwcvq1XKdcsqd4kTrpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,532 followers) posted at 17:37 Berlin that Cornetcoin ($CORNET) is on the pumpfun bonding curve and already about 92% of the way to graduation roughly a minute after launch on Solana; the signal flags something unusual about wallets (text cut off at 165).",
-      "engagement": "353 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin cornet theme; unusual wallet activity noted. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118744587724579322",
-      "followers": 38532
-    },
-    {
-      "coin": "Ram The Orangutan ($RAM)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DiHxAwXMMm9F8QG4qxkGd57a4dVQYvs1iUyTn9VKpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,533 followers) posted at 17:13 Berlin that Ram The Orangutan ($RAM) is an orangutan-themed Solana memecoin that was about six minutes old at signal time and was already most of the way along the pumpfun bonding curve toward graduation.",
-      "engagement": "180 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin animal/orangutan theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118738675999859055",
-      "followers": 38533
-    },
-    {
-      "coin": "Poobert ($Poobert)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address EgMd4DGxcR5BfJHKCUE1H7nDYrJX6aiMWMoZ1z6Eji2F (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,533 followers) posted at 17:13 Berlin that Poobert ($Poobert) is a pumpfun launch on Solana about two minutes old at signal time and still on the bonding curve; the signal says there is no clear theme beyond a cat name, with an empty description and unclear links.",
-      "engagement": "238 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin/no-theme cat name; description and links flagged as empty or unclear. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118738648606920868",
-      "followers": 38533
-    },
-    {
-      "coin": "TrendTrader ($TRND)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address eU26YFkPuKEk8FCYmA2krwBZhjDusWKQQZ2w4vcpump (pump.fun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,532 followers) posted at 17:07 Berlin that TrendTrader ($TRND) is a Solana token framed as a hedge-fund buyback story (claimed $1M fund trading gold and oil, with half its profit said to buy and burn the token); the signal says it graduated from pumpfun to PumpSwap in about six minutes fifty-eight seconds.",
-      "engagement": "0 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; buyback/hedge-fund claims are unverified in the post. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118737096974447049",
-      "followers": 38532
-    },
-    {
-      "coin": "Gabe Horn ($Gabe)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address D6zTdqgWcB63c7FnV9nZ1wnHMxKAQ4T6NxAegWRHpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,532 followers) posted at 16:54 Berlin that Gabe Horn ($Gabe) is a second horn-themed Solana launch today, about 82% of the way to graduation on the bonding curve; the signal flags 109 bundler wallets at signal time with six remaining.",
-      "engagement": "294 impressions, 1 like, 0 reposts, 1 reply at scan time.",
-      "flags": "Only an automated signal account so far; thin horn/Gabe theme; heavy bundler presence noted. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118733769251356902",
-      "followers": 38532
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun / product",
+      "headline": "Pump.fun lets callers time callouts with their buy",
+      "coins": "Pump.fun",
+      "detail": "Official @Pumpfun post (about 19:34 Berlin) says callers can now post a callout alongside their buy so the callout price matches the entry, instead of having to buy first and then write the idea (which made callouts look higher than the real buy). Post had about 10.4K impressions, 75 likes, 8 reposts, and 41 replies at scan time.",
+      "updated": "6 Nov 2026, 19:38 Berlin",
+      "url": "https://x.com/Pumpfun/status/2118773994522624338"
+    },
     {
       "topic": "Pump.fun / treasury",
       "headline": "Pump.fun deposits about $6.85M in SOL to Kraken after a 15-day pause",
@@ -536,14 +544,6 @@
       "detail": "X news summary: Ansem closed a $1.7M SOL short earlier with a ~$10.8K loss, then shorted ~$1M more on Pump.fun and took about $35K in callout rewards even while the short sat ~$60K underwater. The story frames Pump.fun callout USDC payouts as able to outpace direct trade P&L for top callers.",
       "updated": "6 Nov, 06:29 (Berlin)",
       "url": "https://x.com/i/trending/2118022300381622700"
-    },
-    {
-      "topic": "Robinhood / memecoin culture",
-      "headline": "X News: Robinhood CEO Vlad Tenev posts 'The trenches are calling and I must go'",
-      "coins": "Robinhood Chain",
-      "detail": "X news summary: On 5 Nov Tenev's short trenches post became a meme rallying traders around memecoins and tokenized stocks on Robinhood Chain (Ethereum L2 live since 1 Jul 2026), with quotes hyping 'RH szn round 2'.",
-      "updated": "6 Nov, 06:29 (Berlin)",
-      "url": "https://x.com/i/trending/2118555308767244374"
     }
   ],
   "hourly": [
