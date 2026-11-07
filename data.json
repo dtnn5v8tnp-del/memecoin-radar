@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 06:44 Berlin time (UTC+01:00)",
-  "newestPostId": "2118942594822459804",
-  "note": "Window: X posts since prior newestPostId 2118942128747458581 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; 1 X news search this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: @Gwak_grn $GWAK project promo (11 fol, 2 impr); @Charlie_SOL23 $MEME TG VIP call spam (repeat); @tommy_GV1 engagement-bait reply on $SOLQUE; @drugsfaxx $Jotchua airdrop spam; @DanTradesSol low-fol investment shill (8 fol); @ajohcho CT-sentiment/Pumpfun bottoming opinion (0 impr); @CZArmy01/@Eren_X93 spam replies on Pumpfun giveaways. News search stories already on board (Robinhood Chain, Pump.fun Diamond, Theo Von $NIO, Coinbase CARD, Leap, Ansem/Sahil, SPX6900) or off-topic (Rarelist creator payouts, Hyperliquid HYPE, BAYC). No rugs/exploits/major listings with real engagement; no launch with real organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 06:51 Berlin time (UTC+01:00)",
+  "newestPostId": "2118944186074284322",
+  "note": "Window: X posts since prior newestPostId 2118942594822459804 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; no X news search this run — prior run already used one). Added 1 launch(s) and 0 news item(s): @bitecong AI Signal for mem ($mem) CA B1qsF4nwxbRz2mhgAv7mGsP1xbVfPeP39RDHtcx5pump (84% to graduation, 443 impr). Seen but skipped: @GlassDexio $SLINGFOLIO CAUTION scan / creator sold 100% (39 fol, 14 impr; CA already on launches); @swapupw1ol $CYBULL promo (0 fol, brand-new account); @Bullrunups/$TauriLuna $meme/$MEME call/engagement bait; @TripleBrains pumpfun referral spam; @BundlerProTools goodnight spam; @KortesPartner low-fol CA shill; @cookdbot high-risk reply bot; @JeremeehK2GJ generic lessons/SPX6900 promo; @MPSFOUNDATION_1 self-promo; @LizethMonArt/@FixitCanada airdrop spam; @Milsaftermils OTC-sentiment opinion; Pumpfun giveaway reply spam (@enigmafantasies/@kellyofweb3_); low-engagement replies naming CAs. No rugs/exploits/major listings with real engagement; no launch with real organic engagement beyond the signal account.",
   "launches": [
+    {
+      "coin": "mem ($mem)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address B1qsF4nwxbRz2mhgAv7mGsP1xbVfPeP39RDHtcx5pump (pump.fun / pumpfun bonding curve; signal says 84% to graduation).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 06:46 Berlin an AI Signal that mem ($mem) is the second memecoin-themed launch on Solana today and reached 84% of the way to graduation on the pumpfun bonding curve within about two minutes of launch; it flags something unusual about the deployer (text cut off).",
+      "engagement": "443 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; second memecoin-theme launch today; near graduation; deployer oddity flagged. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118943250174427384",
+      "followers": 38574
+    },
     {
       "coin": "Verified ($VERIFIED)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; serial-deployer history flagged; thin engagement; same ticker as earlier boarded GAE but different CA. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118860133489156474",
       "followers": 38572
-    },
-    {
-      "coin": "GAE ($GAE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address JBv9C3HJfp96jMb1e5DQY9iFyWmtQ8Rjs4BecMx4pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 01:13 Berlin an AI Signal that GAE ($GAE) on Solana takes its name from the Grindr joke line and reached 82% of the way to graduation about three minutes forty-one seconds in; it flags that most bundler wallets were tagged at signal time (text cut off).",
-      "engagement": "210 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; bundler-heavy buyer list flagged in signal; thin engagement; adult-joke theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118859469182627874",
-      "followers": 38574
     }
   ],
   "news": [
