@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 04:36 Berlin time (UTC+01:00)",
-  "newestPostId": "2118910230549643768",
-  "note": "Window: X posts since prior newestPostId 2118908739520713070 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query; news search skipped this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: CipherEdgeCalls/SOLANACHAD009/dex_kolwatcher $Alice pump recaps on CA already on board (BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump); CipherEdgeCalls/aureoncalls $SCAMCHI call-farm alerts (thin eng, call accounts); AlphaPulsevw $CALL 45x call (28 imp); karmaexe9 democrats memecoin CA (45 fol, 2 imp); airdrop-spam farms (Tmaia_/Juannfxp/LizethMonArt/saggerdudemax/unconquerablee/lagesjullia); Makemoneyswarm $makemoney shill (41 fol, 0 eng); listing query mostly Trump/politics false positives plus geeknik Binance/NK allege (not memecoin-specific) and Pepe-ETF spam reply.",
+  "lastUpdated": "Saturday 7 Nov 2026, 04:42 Berlin time (UTC+01:00)",
+  "newestPostId": "2118911617064902665",
+  "note": "Window: X posts since prior newestPostId 2118910230549643768 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query; news search skipped this run). Added 2 launch(s) and 0 news item(s). Added: bitecong $GOONRIPS (Avevqix…pump, 385 imp) and third-today Alice CA 5uz626…pump (199 imp). Seen but skipped: MonsterNfts MIR fair-launch reply-farm (thin eng); AugerExlusive $WOODY brand-new 0-fol spam; nailirosai $ETRM (31 fol, 5 imp); AureliaNayza/Mraloneofficial empty replies; firepump_house $GOONRIPS call-farm (22 imp); DRKAMILAHSTEV Trump/Binance-hack politics (not memecoin-specific); AmmyAfterDark generic rug-safety article (8 imp).",
   "launches": [
+    {
+      "coin": "Alice ($ALICE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5uz626HLsA84NARLMWzDyfd3g93L87hC5YwW2x9mpump (pump.fun / pumpfun bonding curve; signal says most of the way to graduation).",
+      "buzz": "Signal account @bitecong (38,568 followers) posted at 04:41 Berlin an AI Signal that Alice ($ALICE), branded The Chinese Spy (ALICE), is the third ALICE-themed launch on Solana today and was already most of the way to graduation on the pumpfun bonding curve about three minutes in; it flags something about the deployer (text cut off).",
+      "engagement": "199 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; third Alice-theme launch today (serial-theme risk); near graduation. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118911617064902665",
+      "followers": 38568
+    },
+    {
+      "coin": "Goon Rips ($GOONRIPS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address AvevqixX6G3RFwRFsy6a5rtjQVN7V4Xn9y6Fpmifpump (pump.fun / pumpfun bonding curve; signal says 90% to graduation).",
+      "buzz": "Signal account @bitecong (38,568 followers) posted at 04:37 Berlin an AI Signal that Goon Rips ($GOONRIPS) launched on pumpfun about five minutes earlier and was still on the bonding curve at 90% of the way to graduation; it says there is no clear theme beyond the name and that the description says fees go (text cut off).",
+      "engagement": "385 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; no clear theme beyond the name. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118910564890239027",
+      "followers": 38568
+    },
     {
       "coin": "Gorillae ($GORILLAE)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "330 impressions, 1 like, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; fee-dispute narrative; thin engagement; ticker copies the launchpad name (distinct CA from call-farm 4ajK…pump $PUMPFUN shills). Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118852806849474614",
-      "followers": 38571
-    },
-    {
-      "coin": "HABIBI PAC ($HABIBI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address By58uKcTGN51dkTYfLcnJkzVHJ6D8JTJaYnJ3Ri3pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:37 Berlin an AI Signal that HABIBI PAC ($HABIBI) is the second Habibi-themed launch on Solana today and hit 93% of the way to graduation on the pumpfun bonding curve about a minute in; it flags the deployer's pace (token 847 mentioned, text cut off).",
-      "engagement": "290 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; serial deployer pace flagged in signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118850172113531200",
-      "followers": 38571
-    },
-    {
-      "coin": "ape ($ape)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5jqzgwyQMGjJyZPUHXbFCiQ7KmxdGK67ipJAowjHpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:25 Berlin an AI Signal that ape ($ape) is a pumpfun launch on Solana only seconds old at signal; it flags split early buying heavy with bundler wallets and fresh wallets, a pattern that suggests coordinated buying (text cut off).",
-      "engagement": "270 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; bundler/fresh-wallet mix flagged in signal; thin engagement; generic ape ticker. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118847168048242696",
       "followers": 38571
     }
   ],
