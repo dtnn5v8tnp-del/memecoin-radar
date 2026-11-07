@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 06:05 Berlin time (UTC+01:00)",
-  "newestPostId": "2118932613448740985",
-  "note": "Window: X posts since prior newestPostId 2118932192684552489 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; 1 signal/CA query; no X news search this run — last run also skipped after prior had one). Added 0 launch(s) and 0 news item(s). Seen but skipped: @Aminetacoin reply shilling #AMETA/$ANIMETA website + CA CnBhqsZ4WdyhNcfeQhbsPdHAxZT6yU5bHnjJPfeZpump (account created 6 Nov, 100 fol, 1 imp — self-shill / new farm); @salsal2themax23 reply to @Saint_pablo123 $2k Pumpfun giveaway (233 fol, 1 imp — giveaway spam). Listing/rug/news query returned 0 hits in window. No rugs/exploits/major listings with real engagement this window; no launch with real organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 06:13 Berlin time (UTC+01:00)",
+  "newestPostId": "2118934465686941934",
+  "note": "Window: X posts since prior newestPostId 2118932613448740985 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; 1 X news search). Added 1 launch(s) and 0 news item(s). Seen but skipped: @Bullrunups $SLINGFOLIO call on already-tracked CA Goqdp…pump (754 fol, 7 imp — call/shill); @AutorunAlert generic $meme alert B4Kw…pump with deposit promo (8,148 fol, 140 imp — alert-farm spam); @pravathesis $HEKNITT shill (101 fol, 6 imp); @Mistyweb03 / @thetradingpepe / @Rexxie_XvX / @TopBlastS0L / @GabrielTheValor reply spam or giveaway replies; @listingntm Leonida +200% since listing BWJf…pump (27,315 fol, 491 imp, 0 likes — thin automated listing-tracker alert, MC ~$114K→~$261K); listing/rug query mostly political false positives. X news: Robinhood Chain, Pump.fun Diamond, SPX6900, Theo Von $NIO, Coinbase CARD already on dashboard; other news hits not memecoin-actionable. No rugs/exploits/major listings with real engagement this window; no launch with real organic engagement.",
   "launches": [
+    {
+      "coin": "Slingfolio ($Slingfolio)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address EMSpXbsxHbmGwb2oHMBVacGVoFc4L1Uz3PsZC41qsoNs (pump.fun / pumpfun bonding curve; signal says about four fifths of the way to graduation).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 06:11 Berlin an AI Signal that Slingfolio ($Slingfolio) is the third launch today carrying its own name as the theme, about two minutes old and still on the pumpfun bonding curve roughly four fifths of the way to graduation (text cut off).",
+      "engagement": "323 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; third Slingfolio-theme launch today with a distinct CA from earlier entries in this window (serial-theme / redeploy risk). Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118934243116261572",
+      "followers": 38571
+    },
     {
       "coin": "Slingfolio ($SLINGFOLIO)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "209 impressions, 1 like, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; Pokemon IP branding risk. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118856429557907609",
-      "followers": 38573
-    },
-    {
-      "coin": "OFFICIAL COIN ($OFFICIAL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address EyJhGdWdKcE5LZzwq8UvWDQTC3yfEQQcYmsLb8Uypump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 00:57 Berlin an AI Signal that OFFICIAL COIN ($OFFICIAL) is a pumpfun token on Solana that graduated to PumpSwap about 54 seconds after launch and was about six minutes old at signal; it says there is no clear theme in the name, ticker or (text cut off).",
-      "engagement": "364 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme flagged in signal; thin engagement; generic OFFICIAL ticker. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118855318033805804",
       "followers": 38573
     }
   ],
