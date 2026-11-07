@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 03:20 Berlin time (UTC+01:00)",
-  "newestPostId": "2118891037909242099",
-  "note": "Window: X posts since prior newestPostId 2118889449111105898 (recency: 1 pumpfun/launch query failed on invalid $ / ca: syntax and was retried cleaned; 1 listing/rug/pump query; 1 pumpfun/AI-Signal query; no news search this run). Added 1 launch(s) and 0 news item(s). Added: bitecong AI Signal Ponzi ($Ponzi) CA 6HKV8fXQEchEsrTYSrsXdxd5n8kWLyxzr26TXRPopump (~48s old at signal; 334 impressions, 0 likes). Seen but skipped: TrenchRadarLive $Busted rug alert (15 followers, account created Nov 4, 0 engagement); cxnowbaba scamsem 397x call (already have scamsem launch; call-account pattern); gtaonsolana joke Palestine 'rug' promo for $GTA (marketing, not a rug story); Coiniseasy JOB +$499 smart-money inflow (0 likes); Tmaia_ $LIFE airdrop netlify spam; Solanartist0603 pumpfun partners spam; Forbesforsolana Solana-wheel giveaway spam; Orvaqh 0-follower PumpFun fluff.",
+  "lastUpdated": "Saturday 7 Nov 2026, 03:26 Berlin time (UTC+01:00)",
+  "newestPostId": "2118892664133435740",
+  "note": "Window: X posts since prior newestPostId 2118891037909242099 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query; 1 X news search). Added 1 launch(s) and 2 news item(s). Added launches: Ponzi ($Ponzi). Added news: X News: SPX6900 community sticks with daily memecoin buys; X News: Pump.fun launches Diamond rewards to boost bigger token calls. Seen but skipped: mooddyor pumpfun meme reply (not a launch); Rexxie_XvX Telegram growth spam; degenhousepro $DIC x4 call (126 followers, Oct 19 account, call-scanner pattern); Trumpcryyi1g $TCRY live (7 followers, account created this hour); XMASMEOWtg $AMETA shill reply (53 followers); Coiniseasy PUMP/Upbit research fluff (0 likes); dannyboyai pumpfun-vs-fomo opinion; astech99 $scamsem whale-radar bot (23 followers); Theo Von $NIO / Phantom dust / Ethan $142K / Coinbase CARD / Leap / Ansem stories already on dashboard.",
   "launches": [
+    {
+      "coin": "Ponzi ($Ponzi)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 7wXSFoENnY1jBQAJwmk54bPB6ndv6HvToC125io2pump (pump.fun / pumpfun; signal says already graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,566 followers) posted at 03:25 Berlin an AI Signal that Ponzi ($Ponzi) launched on pumpfun about two and a half minutes earlier and had already graduated to PumpSwap; name and ticker state the theme as ponzi, with no researched story behind the contract (text cut off).",
+      "engagement": "226 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; second distinct Ponzi-named CA in this window (serial-theme risk); instant graduation. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118892463700181044",
+      "followers": 38566
+    },
     {
       "coin": "Ponzi ($Ponzi)",
       "chain": "Solana",
@@ -292,19 +302,25 @@
       "flags": "Only an automated signal account so far; thin engagement; distinct CA and ticker from earlier Tail Inu ($TI, AFQ5…pump). Also shilled by @solhousesignals. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118840570156310690",
       "followers": 38571
-    },
-    {
-      "coin": "Be Like José ($JOSE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5RJ1frE7hNMawWLjfPjemZVQu4bMj7ukDsN9xGgfLoat (Solana-style address; signal labels it a pumpfun-style launch).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 23:55 Berlin an AI Signal that Be Like José ($JOSE) is the fourth \"like\"-named launch on Solana today, 34 seconds old at signal; it says dozens of bundler wallets bought in the launch slot and none remain.",
-      "engagement": "263 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; bundler in-and-out flagged; thin engagement; distinct CA from earlier $LIKEJOSE (5PBx…Loat), $JOSE (8EYL…pump), and skipped 87CQ… $JOSÉ call-farm spam. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118839756981502412",
-      "followers": 38571
     }
   ],
   "news": [
+    {
+      "topic": "Platform / rewards",
+      "headline": "X News: Pump.fun launches Diamond rewards to boost bigger token calls",
+      "coins": "PUMP / Pump.fun",
+      "detail": "X News story (updated ~03:10 Berlin) says Pump.fun is updating Callout Rewards with a Diamond algorithm that increases payouts for calls on higher market-cap tokens, perps, and non-Solana assets while keeping the Degen system; leaderboards split Degen and Diamond, with cited top callout earners in six figures and the platform having disbursed tens of millions total.",
+      "updated": "Saturday 7 Nov 2026, 03:26 Berlin time (UTC+01:00)",
+      "url": "https://x.com/i/trending/2118735317964648644"
+    },
+    {
+      "topic": "Community / memecoin loyalty",
+      "headline": "X News: SPX6900 community sticks with daily memecoin buys",
+      "coins": "$SPX6900",
+      "detail": "X News story (updated ~01:36 Berlin) summarizes SPX6900 holders dollar-cost averaging daily (one cited streak of 502 straight days), with the satirical Ethereum S&P-parody memecoin described around a ~$330M market cap / ~$0.36; community memes like Persist Forever and claims of large holder upside circulate alongside the buys.",
+      "updated": "Saturday 7 Nov 2026, 03:26 Berlin time (UTC+01:00)",
+      "url": "https://x.com/i/trending/2118878937040429414"
+    },
     {
       "topic": "Price move / listing pump",
       "headline": "COGE Coin ($COGE) up about 300% since Fourtis listing (MC ~$2.8M → ~$11.3M)",
@@ -528,22 +544,6 @@
       "detail": "X news story (updated ~16:36 Berlin) says Pump.fun sent 76,111 SOL (about $6.85 million) to Kraken after 15 quiet days, continuing a treasury pattern; cumulative sales cited at roughly 5.55 million SOL for about $882.4 million at an average near $158.88. Debate continues on selling pressure vs routine fee-treasury moves while SOL traded near $90.",
       "updated": "6 Nov 2026, 19:13 Berlin",
       "url": "https://x.com/i/trending/2118679336639164900"
-    },
-    {
-      "topic": "Memecoin ETPs / Sweden",
-      "headline": "Valour lists PUMP, WIF, and BONK SEK ETPs on Sweden's Spotlight Stock Market",
-      "coins": "PUMP (Pump.fun), WIF (dogwifhat), BONK",
-      "detail": "X post by @PetalSoI (3,713 followers) at 18:59 Berlin flagged Valour SEK exchange-traded products covering Pump.fun, Bonk, and dogwifhat on Spotlight Stock Market. Company release and Spotlight listings confirm eight new Valour digital-asset ETPs began trading 5 Nov 2026, including Valour Pump.fun (PUMP) SEK, Valour Dogwifhat (WIF) SEK, and Valour Bonk (BONK) SEK (1.9% management fee each), plus non-meme names such as Raydium and Morpho. Post engagement was still thin at scan (53 impressions, 0 likes).",
-      "updated": "6 Nov 2026, 19:00 Berlin",
-      "url": "https://x.com/PetalSoI/status/2118765166837809650"
-    },
-    {
-      "topic": "PENGU / NFT ecosystem",
-      "headline": "Pudgy Penguins PFPs fade as Abstract L2 shutdown pushes users toward real photos",
-      "coins": "PENGU (Pudgy Penguins)",
-      "detail": "X news story (updated ~17:06 Berlin) says crypto users are swapping Pudgy Penguins profile pictures for real photos after Igloo Inc. announced Abstract, its Ethereum layer-2, will shut down on 15 Dec 2026 amid liquidity issues; the company is said to be refocusing on the Pudgy brand, NFTs, and the PENGU token, with mixed community reactions.",
-      "updated": "6 Nov 2026, 17:41 Berlin",
-      "url": "https://x.com/i/trending/2118735315678736766"
     }
   ],
   "hourly": [
