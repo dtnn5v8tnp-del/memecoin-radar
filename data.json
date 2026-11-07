@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 02:20 Berlin time (UTC+01:00)",
-  "newestPostId": "2118876169336652251",
-  "note": "Window: X posts since prior newestPostId 2118875548936200583 (recency: 1 launch/pumpfun query [first attempt returned 0 after $ stripped] + 1 listing/rug/pump query + 1 launch retry; no news search this run). Added 1 launch(s) and 0 news item(s). Seen but skipped: astech99 $HODL whale-radar bot (23 followers, 0 imp); SOLTrenchHQ /check trench promo (168 followers, account created Oct 2026, 5 imp); Nefarii @blastdotfun promo vs Pumpfun rugs (14,837 followers, 100 imp, no specific coin).",
+  "lastUpdated": "Saturday 7 Nov 2026, 02:27 Berlin time (UTC+01:00)",
+  "newestPostId": "2118877724588769521",
+  "note": "Window: X posts since prior newestPostId 2118876169336652251 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 CA/signal retry; no news search this run). Added 0 launch(s) and 1 news item(s). Seen but skipped: SpeedRacersGo scamsem bonding-speed suspicion (214 followers, 11 imp); KevinLopezJr3 $HLOPS self-shill (51 followers, 7 imp); Prism_La $PRISM self-promo (101 followers, 6 imp); goldrobesalpha $HONEY call (5,475 followers, 26 imp, not a fresh launch); JohnCryptopeow Solana queen migration bot (1,299 followers, 22 imp); AlphaPulsevw/RugReapermqa/themasterchart repeated call-farm spam ($DCAT/$HODL/$BUSTED); SOLTrenchHQ /check promo (168 followers); netlify airdrop-spam farms ($XMAS/$STRCx/$LEAP/$USAR/$Penny/$Gatto/$ROCKET/$Macca/$wtCOIN).",
   "launches": [
     {
       "coin": "Market Makers ($MAKERS)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Price move / listing pump",
+      "headline": "COGE Coin ($COGE) up about 300% since Fourtis listing (MC ~$2.8M → ~$11.3M)",
+      "coins": "$COGE",
+      "detail": "@fourtislisting (67,296 followers) posted at 02:24 Berlin a Pump Alert that COGE Coin (@COGECOINMeme) is up 300% since listing on Fourtis, citing first MC $2.8M and last MC $11.3M. CA from the quoted listing post: 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump (Solana / pump). Engagement on the alert: 5,283 impressions, 3 likes, 2 reposts, 1 reply, 1 bookmark at scan.",
+      "updated": "Saturday 7 Nov 2026, 02:27 Berlin time (UTC+01:00)",
+      "url": "https://x.com/fourtislisting/status/2118877212984172812"
+    },
+    {
       "topic": "Paid promo / DEXScreener",
       "headline": "Paid DEXScreener boost flagged for $LUCKY on PumpSwap Solana",
       "coins": "$LUCKY",
@@ -536,14 +544,6 @@
       "detail": "X news story (updated ~17:06 Berlin) says crypto users are swapping Pudgy Penguins profile pictures for real photos after Igloo Inc. announced Abstract, its Ethereum layer-2, will shut down on 15 Dec 2026 amid liquidity issues; the company is said to be refocusing on the Pudgy brand, NFTs, and the PENGU token, with mixed community reactions.",
       "updated": "6 Nov 2026, 17:41 Berlin",
       "url": "https://x.com/i/trending/2118735315678736766"
-    },
-    {
-      "topic": "Influencer launch",
-      "headline": "Travladd says his memecoin launches in 10 days, runs $1,000 giveaway",
-      "coins": "Travladd (unnamed, pre-launch)",
-      "detail": "Futures trader @travladd (about 475,977 followers; OKX partner in bio) posted that his memecoin launches in 10 days, with a $1,000 giveaway plus $100 for someone who retweets. He claims no active bundle, plans to buy around 60% of supply and burn it, pay marketing in stables, and take profit from taxes rather than dumping tokens. Post had about 5,026 impressions, 203 likes, 199 reposts, 146 replies, and 15 bookmarks at scan time. No ticker or contract address yet.",
-      "updated": "6 Nov 2026, 17:38 Berlin",
-      "url": "https://x.com/travladd/status/2118743476041039915"
     }
   ],
   "hourly": [
