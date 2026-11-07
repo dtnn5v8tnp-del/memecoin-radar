@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 05:03 Berlin time (UTC+01:00)",
-  "newestPostId": "2118916869293850802",
-  "note": "Window: X posts since prior newestPostId 2118915687728955509 (recency: 1 pumpfun/launch query; 1 listing/rug/meme-news query). Added 0 launch(s) and 0 news item(s). Seen but skipped: saggerdudemax/Tmaia_/unconquerablee/FixitCanada/LizethMonArt airdrop spam ($cbBTC/$VVV/$HRBN/$BEKI/$NOXO/$HATCH/$MarsCoin/$火龙果/$JYPA/$BEAM); Makemoneyswarm $makemoney reply-spam farm (41 fol); AlphaPulsevw $LUCKY TG-call farm (2.3k fol, ~28–33 imp, serial MC spam); Sol_masteri $STM call farm (1.1k fol, 0–1 imp); dex_kolwatcher $Slingfolio PAID DEX bot (9k fol, 158 imp, no ticker story); tahurcrypto $GORILLAE shill of already-boarded CA (147 fol, 4 imp); nft_drop4u $CCAT self-promo (129 fol, 4 imp); Sendping_yfi $PING self-launch (71 fol, brand-new acct, 7 imp); Goatcabal_sol game-feedback promo not a launch (272 fol); EricSolProphet $PI TG-farm quote (1.7k fol, 14 imp); wirelyss generic memecoin-trader joke (37.7k fol, 244 imp, no coin); LaTijeraVillage Trump/Melania rug opinion reply (310 fol). No genuine new launches with real engagement; no rugs/exploits/major listings/ETF.",
+  "lastUpdated": "Saturday 7 Nov 2026, 05:09 Berlin time (UTC+01:00)",
+  "newestPostId": "2118918264021782712",
+  "note": "Window: X posts since prior newestPostId 2118916869293850802 (recency: 1 pumpfun/launch query; 1 listing/rug/meme-news query). Added 1 launch(s) and 0 news item(s). Seen but skipped: unnattybrah Pumpfun portfolio self-promo (21.2k fol, 109 imp, no new ticker); FanRHwe $OOOBER upcoming Block-0 hype not live yet (62k fol, 7 imp); Canglnx/xsclbp/FlwChn/Starcn_/Xbisyin identical $Diamond OKX-shill farm (1.2k–5.7k fol, 1–19 imp); yhyy79822 CA reply-spam (6 fol, 0 imp); cryptobaba_ Ansem/rugpull opinion reply (647 fol, 6 imp); web3_animesh Monad meme-rug accusation (2.1k fol, 20 imp, thin). No genuine new launches with real engagement; no rugs/exploits/major listings/ETF.",
   "launches": [
+    {
+      "coin": "Slingfolio ($Slingfolio)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Bhe7zAmLTxsV2JiiibujUX4yHJbKjPFYTLSGTQUzpump (pump.fun / pumpfun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 05:06 Berlin an AI Signal that Slingfolio ($Slingfolio) is a pumpfun token on Solana about eight and a half minutes old and had already graduated from pumpfun to PumpSwap shortly before the signal; it says the links point to a site (text cut off / image).",
+      "engagement": "340 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; instant graduation. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118918088141988273",
+      "followers": 38570
+    },
     {
       "coin": "Alice ($ALICE)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "292 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; no researched story flagged; thin engagement; distinct from earlier Fourtis-listing FLOAT news on the board. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118853949352796216",
-      "followers": 38571
-    },
-    {
-      "coin": "OFFICIAL PUMPFUN COIN ($PUMPFUN)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Fvk7Yhpz5baWgAfdVgVfPvRJFy41pViE9Hu1HAdMpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:47 Berlin an AI Signal that OFFICIAL PUMPFUN COIN ($PUMPFUN) is a pumpfun launch about three minutes old at signal and 86% of the way to graduation; it says the story is a fee dispute, not a character, and cites a researched report on the contract (text cut off).",
-      "engagement": "330 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; fee-dispute narrative; thin engagement; ticker copies the launchpad name (distinct CA from call-farm 4ajK…pump $PUMPFUN shills). Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118852806849474614",
       "followers": 38571
     }
   ],
