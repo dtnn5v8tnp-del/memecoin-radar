@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 04:09 Berlin time (UTC+01:00)",
-  "newestPostId": "2118903002442486094",
-  "note": "Window: X posts since prior newestPostId 2118902458793574636 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query). Added 2 launch(s) and 0 news item(s). Seen but skipped: TheShitShowDev $UNCBOND shill (91 fol, 4 imp); JohnKahlooniQ Trump/Fed/BTC conspiracy (4.3k fol, 19 imp, not memecoin news); TimmyPczkrash early-ones reply farm (253 fol, 2 imp).",
+  "lastUpdated": "Saturday 7 Nov 2026, 04:14 Berlin time (UTC+01:00)",
+  "newestPostId": "2118904581371605039",
+  "note": "Window: X posts since prior newestPostId 2118903002442486094 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query; 1 news search). Added 1 launch(s) and 0 news item(s). Seen but skipped: airdrop spam farms (sbusfzi/Tmaia_/unconquerablee/lagesjullia $UCI/$Lungcoin/$CLAWVE/$bBTC/$LETTER/$CATPAD/$NOB/$PiX); AlphaPulsevw $SCAMCHI/$SCAMSEM call-farm (2.3k fol, low eng); CipherEdgeCalls/sol_t01/EricSolProphet/SOLANACHAD009/Bitkesh2/_Shonsol call accounts; TheShitShowDev $UNCBOND (91 fol); GemChaserSOL $JBTRUMP ATH $2K bot alert; JohnCryptopeow Solana queen migration (thin); TheTagPriceApp (2 fol). News search hits already on dashboard (Pump.fun Diamond, Theo Von $NIO, Coinbase CARD, Ethan callouts, Leap app, SPX6900, Phantom dust, Ansem whistleblow).",
   "launches": [
+    {
+      "coin": "Gorillae ($GORILLAE)",
+      "chain": "Solana",
+      "chainNote": "Project account posts contract address 3xdJo9mxpjQcRkfDuieBHemCRoNkxYgarUQbUUZCpump (pump.fun / pumpfun; also names a paired token BvAFW1yio8GiM2ptXBsTB4n5SVnAdFJ2rYPcsk45pump for $REX and says holder rewards are on pumpfun).",
+      "buzz": "Project account @GorillaeDAO (8,297 followers) posted at 04:12 Berlin that The Gorilla is officially live again on Solana, with $GORILLAE paired with $REX and holder rewards on pumpfun; a follow-up at 04:10 Berlin repeats the same CA and comeback framing.",
+      "engagement": "23 impressions, 0 likes, 0 reposts, 1 quote on the main live post at scan time; follow-up had 24 impressions.",
+      "flags": "Self-announced relaunch from an established community account; very thin engagement so far; second CA named for paired $REX. Early, high risk.",
+      "url": "https://x.com/GorillaeDAO/status/2118904367382511639",
+      "followers": 8297
+    },
     {
       "coin": "Alice ($ALICE)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "270 impressions, 1 like, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; bundler/fresh-wallet mix flagged in signal; thin engagement; generic ape ticker. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118847168048242696",
-      "followers": 38571
-    },
-    {
-      "coin": "CryptoRuble (₽)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 6ZYutJfUHgbmVYKJzsfDx3yeAqEpgvy4sSt74jt1pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:19 Berlin an AI Signal that CryptoRuble (₽) is the sixth crypto-themed launch on pumpfun today and is 84% of the way to graduation about two minutes twenty-one seconds after launch; it flags something odd about the deployer history (314 tokens mentioned, text cut off).",
-      "engagement": "298 impressions, 1 like, 0 reposts, 1 reply at scan time.",
-      "flags": "Only an automated signal account so far; serial deployer history flagged in signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118845759575781755",
       "followers": 38571
     }
   ],
