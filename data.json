@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 02:35 Berlin time (UTC+01:00)",
-  "newestPostId": "2118879610230247749",
-  "note": "Window: X posts since prior newestPostId 2118878643245973931 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 CA/signal query invalid then skipped; no news search this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: nailirosai $ETRM self-shill (23 followers); Barbachew007 losses meme; 0rdlibrary pumpfun AI-gate promo (not a launch); Realwhales_ DM-farm reply; JackMcd07 0-follower $TRUMP spam; DoubleAAU political rug joke.",
+  "lastUpdated": "Saturday 7 Nov 2026, 02:43 Berlin time (UTC+01:00)",
+  "newestPostId": "2118881660666098008",
+  "note": "Window: X posts since prior newestPostId 2118879610230247749 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query; no news search this run). Added 3 launch(s) and 0 news item(s). Seen but skipped: zveilonsol $Zveil self-promo (0 followers); Trumpcryyi1g $TRUMPCRY 0-follower pre-launch; NoirTechSol $Noir self-promo (106 followers); Barbachew007 losses meme; dex_kolwatcher paid dexscreener $LKY (covered via bitecong); Mrjackreal 100x shill request; rami_poker point-farm math; 0xkarm/sekt666 Ansem-rug chatter (already on board); KitchenHorrorX commentary.",
   "launches": [
+    {
+      "coin": "LuckyCoin ($LKY)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Ey4YG29k4hQmTPfRr3aRrpzSx8THEeSWbgCo2yWypump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:39 Berlin an AI Signal that LuckyCoin ($LKY) is a pumpfun launch on Solana that, roughly half an hour in, still sat on the bonding curve, most of the way to graduation; the story comes from a researched report on this exact contract (text cut off).",
+      "engagement": "307 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; still on bonding curve near graduation. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118880920656838795",
+      "followers": 38571
+    },
+    {
+      "coin": "ReleaseTheOdds ($ODDS)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BKvjmtidJCeDNtryFyVgJaVu8oLdKZMix9xW61Sepump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:39 Berlin an AI Signal that #ReleaseTheOdds ($ODDS) was 75% of the way to graduation on the pumpfun bonding curve within minutes of opening on Solana; the name points at the #ReleaseTheOdds hashtag (text cut off).",
+      "engagement": "308 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; hashtag-theme launch. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118880913673310671",
+      "followers": 38571
+    },
+    {
+      "coin": "the little guy ($guy)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BPAf83sLngNw65raUdEGEPT1rUpARxSmKfhYAPGupump (pump.fun / pumpfun bonding curve; signal says graduated).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:39 Berlin an AI Signal that the little guy ($guy) launched on pumpfun about seventeen minutes earlier and graduated from the bonding curve at 13 min 7 s after launch; researched report says the project is built (text cut off).",
+      "engagement": "283 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; fast graduation (~13 min). Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118880898901033166",
+      "followers": 38571
+    },
     {
       "coin": "Market Makers ($MAKERS)",
       "chain": "Solana",
@@ -271,36 +301,6 @@
       "engagement": "258 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; serial deployer (232 tokens) flagged; thin engagement; earlier thin Tail Inu shill from low-follower account was skipped. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118838436241219939",
-      "followers": 38572
-    },
-    {
-      "coin": "Daumenfrosch ($Daumen)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address HWx9EpkS4WwrgnsZuVQSLRzf2pfzCiwvE2nwiH98pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:42 Berlin an AI Signal that Daumenfrosch ($Daumen) is a frog-named memecoin on Solana already 81% of the way to graduation about three minutes after launch; it flags something odd about the bundle count (text cut off).",
-      "engagement": "336 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; bundle count flagged in signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118836386568749427",
-      "followers": 38572
-    },
-    {
-      "coin": "Booby Trap Coin ($BTC)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 7xoLYJM3CjLVqQcaMPWxpbtiodfa9MXsuZKXgmNupump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:39 Berlin an AI Signal that Booby Trap Coin (ticker BTC) is roughly five minutes old on pumpfun and still on the bonding curve, most of the way to graduation; the deployer has created 1,375 tokens (text cut off).",
-      "engagement": "351 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; serial deployer (1,375 tokens) flagged; thin engagement; ticker collides with Bitcoin branding. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118835730210595025",
-      "followers": 38572
-    },
-    {
-      "coin": "Be Like Jose ($JOSE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 8EYL6RxqjKGK6h98caFnKXkqUvY3ymgpnMufQLBipump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:38 Berlin an AI Signal that Be Like Jose ($JOSE) is the second \"like\"-themed launch on Solana today, about half an hour old at signal and still on the pumpfun bonding curve most of the way to graduation (text cut off).",
-      "engagement": "326 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; distinct CA from earlier $JOSÉ/$JOSE call-farm spam already skipped; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118835510278041658",
       "followers": 38572
     }
   ],
