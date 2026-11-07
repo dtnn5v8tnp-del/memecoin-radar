@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 05:50 Berlin time (UTC+01:00)",
-  "newestPostId": "2118928953448489069",
-  "note": "Window: X posts since prior newestPostId 2118927703634047422 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; 1 AI-signal/bonding-curve query). Added 0 launch(s) and 0 news item(s). Seen but skipped: Botched_caller $Jose serial multiplier call spam (5.1k fol); dex_kolwatcher $MUTTAPE paid DEXScreener promo (142 imp); Charlie_SOL23/_Shonsol call-account shills $JAILSEM/$TWIZTER/$Capiboo; mass solana-airdrop-coin.netlify.app airdrop spam; rodriguez_94449 BLE-style Pump.fun→Kraken / PEPE whale posts (155 fol, 0 imp); DegenWar01 $SCAMOORS call (70 imp); deekay_btc $ANSEM revenue thread (19.4k fol, only 24 imp / 0 likes — thin). No rugs/exploits/major listings/ETF; no brand-new launches with real engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 05:56 Berlin time (UTC+01:00)",
+  "newestPostId": "2118930337753420172",
+  "note": "Window: X posts since prior newestPostId 2118928953448489069 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; 1 X news search). Added 1 launch(s) and 1 news item(s). Seen but skipped: GoldenRoachCoin $GROACH (0 fol, brand-new empty project acct); 0x2risky $0XRISKY/$RSK self-shill (99 fol, ~0–4 imp); dex_kolwatcher $COOKD paid DEXScreener promo; cookdbot serial HIGH-risk investigation reply spam; DxInfo24 hashtag-farm image spam; ETF outflow roundups (BTC/ETH/SOL) not memecoin-specific; satyaXBT Leap Labs trading-app thread (already covered Leap theme). News already on board: Pump.fun Diamond, Theo Von $NIO, Coinbase CARD, Ansem/Sahil, SPX6900, Ethan $142K. No rugs/exploits/major listings this window; no launch with real organic engagement.",
   "launches": [
+    {
+      "coin": "Slingfolio ($SLINGFOLIO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address GoqdpMVvqawNUvdfTmqXvvoSaDRrqDQexzG7wzf2pump (pump.fun / pumpfun; signal says already graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 05:54 Berlin an AI Signal that Slingfolio ($SLINGFOLIO) trades on Solana after graduating from pumpfun to PumpSwap before the signal; it notes the deployer's earlier tokens have never graduated and the name carries no stated theme beyond itself.",
+      "engagement": "273 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; distinct CA from an earlier Slingfolio signal in this window (serial-theme / redeploy risk); instant graduation; deployer history flagged. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118930167913718236",
+      "followers": 38571
+    },
     {
       "coin": "cr*pto ($CR*PTO)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; no clear theme flagged in signal; thin engagement; generic OFFICIAL ticker. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118855318033805804",
       "followers": 38573
-    },
-    {
-      "coin": "OFFICIAL FOMO COIN ($FOMO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Fv6g3Zx5FgnMYzza58rbHEDZT6Cs8A8JcJTNMh6rpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 00:54 Berlin an AI Signal that FOMO, the OFFICIAL FOMO COIN ($FOMO), launched on pumpfun and was about four minutes old at signal; it says there is no clear theme beyond the name itself and flags something unusual about the deployer's record (text cut off).",
-      "engagement": "336 impressions, 2 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer record flagged in signal; thin engagement; generic FOMO ticker. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118854486466957490",
-      "followers": 38573
     }
   ],
   "news": [
+    {
+      "topic": "Chain / memecoins",
+      "headline": "X News: Robinhood Chain sees memecoins and duck NFTs driving volume",
+      "coins": "$ROBINHOOD / Robinhood Chain",
+      "detail": "X News story (updated ~05:52 Berlin) says Robinhood's Ethereum L2 (launched July 2026 on Arbitrum for tokenized stocks/RWAs) is seeing fresh volume and TVL from memecoins like $ROBINHOOD and NFT projects such as Mallard Order (duck-themed collectibles tied to on-chain stock vaults), with community spaces under StreetHood discussing pumps and tips.",
+      "updated": "Saturday 7 Nov 2026, 05:56 Berlin time (UTC+01:00)",
+      "url": "https://x.com/i/trending/2118928415889731705"
+    },
     {
       "topic": "Platform / rewards",
       "headline": "X News: Pump.fun launches Diamond rewards to boost bigger token calls",
@@ -536,14 +544,6 @@
       "detail": "Official @Pumpfun post (about 19:34 Berlin) says callers can now post a callout alongside their buy so the callout price matches the entry, instead of having to buy first and then write the idea (which made callouts look higher than the real buy). Post had about 10.4K impressions, 75 likes, 8 reposts, and 41 replies at scan time.",
       "updated": "6 Nov 2026, 19:38 Berlin",
       "url": "https://x.com/Pumpfun/status/2118773994522624338"
-    },
-    {
-      "topic": "Pump.fun / treasury",
-      "headline": "Pump.fun deposits about $6.85M in SOL to Kraken after a 15-day pause",
-      "coins": "Pump.fun, SOL",
-      "detail": "X news story (updated ~16:36 Berlin) says Pump.fun sent 76,111 SOL (about $6.85 million) to Kraken after 15 quiet days, continuing a treasury pattern; cumulative sales cited at roughly 5.55 million SOL for about $882.4 million at an average near $158.88. Debate continues on selling pressure vs routine fee-treasury moves while SOL traded near $90.",
-      "updated": "6 Nov 2026, 19:13 Berlin",
-      "url": "https://x.com/i/trending/2118679336639164900"
     }
   ],
   "hourly": [
