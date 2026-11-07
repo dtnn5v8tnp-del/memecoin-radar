@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 07:32 Berlin time (UTC+01:00)",
-  "newestPostId": "2118954446722072904",
-  "note": "Window: X posts since prior newestPostId 2118953058097090939 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; no news search this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: @lvfurtherprous pumpfun watchlist (6 followers, 2 impr); @charlievictor9 $SOLE/Footcoin shill (69 followers, 11 impr); @zextu opinion exiting KOL/pumpfun citing rugs (22.9k followers, 57 impr, no new event); @FvctCrvpto Ansem/blknoiz06 response call (3.1k followers, 25 impr; Ansem drama already on dashboard); @igetsjiggy6767 stock x memecoin shill (999 followers, 17 impr); non-crypto noise (Jensen Huang conspiracy; Trump politics). No rugs/exploits/major listings; no launch with real organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 07:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2118955790547791897",
+  "note": "Window: X posts since prior newestPostId 2118954446722072904 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; 1 news search max_age_hours=6). Added 0 launch(s) and 2 news item(s). Seen but skipped: @MemCoinsRadar $Alice 5.08x migration alert (already on launches; 36 impr); @DegenFlow_ $РОКЕНОО 7x call (6.8k followers, ~173 impr, 1 like; call account); @gio_bioo $scamsem 17x call (already on launches; 13 impr); @Charlie_SOL23 $CASHDOG shill (already on launches); @WeHave1DFacts $ALICE 46.5x claim (shill); Chinese $Diamond GMGN farm spam cluster; airdrop-spam CA posts (@LizethMonArt, @sbusfzi, @FixitCanada); @gwom83113 $BATON celebrity-rug shill; @minnus Pump.fun $90M Oct creator-fees stat (4.7k fol, 42 impr, no new event); Hyperliquid/HYPE and Zcash NU7 news (not memecoin-focused). No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement (Fluffy is upcoming announce only).",
   "launches": [
     {
       "coin": "Cash Dog ($CASHDOG)",
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Investigative / KOL dumping",
+      "headline": "X News: Bubblemaps to expose crypto KOL dumping on followers",
+      "coins": "n/a (KOL / copy-trading)",
+      "detail": "X News story (updated ~07:35 Berlin) says Bubblemaps will soon unmask a major KOL for luring copy traders with public wallets while dumping via hidden side wallets. Context cites FOMO-style leaderboards and one-tap copy trading, community calls for launchpad audits/bans, and prior exposé teases. Continues Ansem / Pump.fun / KOL drama already on the board; unverified pending reveal from the X News summary.",
+      "updated": "Saturday 7 Nov 2026, 07:37 Berlin",
+      "url": "https://x.com/i/trending/2118954262374015147"
+    },
+    {
+      "topic": "Upcoming launch / KOL",
+      "headline": "Fluffy (@fluffycrypt) teases Solana memecoin launch today 7PM UTC",
+      "coins": "FLUFFY (unnamed ticker yet)",
+      "detail": "@fluffycrypt (155,856 followers) posted at 07:32 Berlin a FAQ for an upcoming \"FLUFFY MEME COIN\" launch: Solana chain, 70% supply detail cut off in post text, timed for today 7PM UTC. Early engagement at scan: about 2,091 impressions, 11 likes, 3 reposts, 10 replies, 1 bookmark. No contract address in the post yet; promotional KOL announce, not a live graduated coin.",
+      "updated": "Saturday 7 Nov 2026, 07:37 Berlin",
+      "url": "https://x.com/fluffycrypt/status/2118954763073008083"
+    },
+    {
       "topic": "Chain / memecoins",
       "headline": "X News: Robinhood Chain sees memecoins and duck NFTs driving volume",
       "coins": "$ROBINHOOD / Robinhood Chain",
@@ -528,22 +544,6 @@
       "detail": "Listing-alert account @fourtislisting (67,295 followers) posted at 19:49 Berlin that #COGE COIN (@COGECOINMeme) is up 100% since listing on Fourtis, citing first market cap about $2.8M and last about $5.6M. Post had about 5,943 impressions, 11 likes, 1 quote, 1 reply, 1 repost at scan time. Contract in the quoted listing: 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump.",
       "updated": "6 Nov 2026, 19:58 Berlin",
       "url": "https://x.com/fourtislisting/status/2118777720259702911"
-    },
-    {
-      "topic": "Pump / listing",
-      "headline": "FLOAT up about 200% since Fourtis listing (MC ~$2.4M → ~$8.3M)",
-      "coins": "FLOAT",
-      "detail": "Listing-alert account @fourtislisting (67,295 followers) posted at 19:37 Berlin that FLOAT (@floatdotxyz) is up about 200% since its Fourtis listing, citing first market cap about $2.4M and last about $8.3M. Post had about 6,431 impressions, 1 like, 0 reposts at scan time. Contract in the quoted listing: Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr.",
-      "updated": "6 Nov 2026, 19:44 Berlin",
-      "url": "https://x.com/fourtislisting/status/2118774805755277754"
-    },
-    {
-      "topic": "Pump.fun / product",
-      "headline": "Pump.fun lets callers time callouts with their buy",
-      "coins": "Pump.fun",
-      "detail": "Official @Pumpfun post (about 19:34 Berlin) says callers can now post a callout alongside their buy so the callout price matches the entry, instead of having to buy first and then write the idea (which made callouts look higher than the real buy). Post had about 10.4K impressions, 75 likes, 8 reposts, and 41 replies at scan time.",
-      "updated": "6 Nov 2026, 19:38 Berlin",
-      "url": "https://x.com/Pumpfun/status/2118773994522624338"
     }
   ],
   "hourly": [
