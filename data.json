@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 02:54 Berlin time (UTC+01:00)",
-  "newestPostId": "2118884458518434213",
-  "note": "Window: X posts since prior newestPostId 2118883332263989602 (recency: 1 listing/rug/pump query + 1 pumpfun/bonding-curve query; first launch query failed invalid syntax on CA: and was retried without CA:; no news search this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: BerkeImper0099 mika/PumpSwap sell gossip (136 followers, 6 impressions); helloimthatdude Trump/pump joke (not a coin event); Nopetynope49294 FEC-hack reply spam; Im___saraaa $TRUMP follow-beg (24k followers, 4 impressions); PvtSnyper75414 $XRP self-shill CA reply (30 followers, 2 impressions); pizzabasedev1x $ANIMETA/$AMETA shill (6.3k followers, 17 impressions, 0 likes); Al_Nasl_Minium $AUDREY Avalanche self-shill (174 followers, 7 impressions); DegenKit_ $24MONSTERS serial-launcher bot reply (98 followers); PumpScopeX product promo (20 followers, new account); _WhoFollowswho follow-tracker promo (110 followers, 0 impressions); zhang455599 Leap referral reply spam.",
+  "lastUpdated": "Saturday 7 Nov 2026, 03:03 Berlin time (UTC+01:00)",
+  "newestPostId": "2118886590525354426",
+  "note": "Window: X posts since prior newestPostId 2118884458518434213 (recency: 1 pumpfun/launch query + 1 listing/rug/pump query; no news search this run). Added 1 launch(s) and 0 news item(s). Seen but skipped: MemeGrokbot $GM +840% BNB update (1,085 followers, 2 impressions — thin; circular bot-style alert); 0x_AuraLux1 $GTA6K9 TG/DM shill (6.4k followers, 24 impressions, 0 likes); WeHave1DFacts $BUSTED private-TG pump shill (1.7k followers, 7 impressions); MemeGameAlpha $SCAMSEM call-profit (already on board as launch; 213 followers); SolanaMemesScan Work Coin CTO alert (already on board); drugsfaxx Filecoin/$FIL and $butt airdrop spam; lagesjullia $meme airdrop spam; Nopetynope49294 FEC-hack reply spam; Im___saraaa $Pumpfun follow-beg; jbear_crypto12 low-follower rug-recovery self-shill; snowmoonerc self-ATH (new account); solhousesignals contradictory $PUMPFUN 20x bot; Gochmaster SolClans game promo; market_ceo GTA6 hashtag shill; Signal_MathBot ETH event-contract promo.",
   "launches": [
+    {
+      "coin": "Scamcoin ($Scamcoin)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 5k5aDdkTBWDE9pM4GB9aSjG4t5bynFWDdv8PPjKfLoat (float bonding curve; signal says not yet graduated).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 03:01 Berlin an AI Signal that Scamcoin ($Scamcoin) on Solana was barely a minute old at signal, sitting at about a $40.7K market cap on a float bonding curve and not yet graduated; the name and ticker state the theme as scam (text cut off).",
+      "engagement": "238 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; theme is literally scam. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118886473164595654",
+      "followers": 38570
+    },
     {
       "coin": "LuckyCoin ($LKY)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "162 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; heavy bundler hold flagged; thin engagement; distinct CA from earlier $JOSE (8EYL…pump) and skipped 87CQ… $JOSÉ call-farm spam. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118838732434632797",
-      "followers": 38572
-    },
-    {
-      "coin": "Tail Inu ($TI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address AFQ5Un5AdYbD92RkLJV6XGkvaex1nfgtzSUnsdz5pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:50 Berlin an AI Signal that Tail Inu ($TI) is about three minutes old on pumpfun on Solana; the deployer has created 232 tokens counting this one (text cut off).",
-      "engagement": "258 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; serial deployer (232 tokens) flagged; thin engagement; earlier thin Tail Inu shill from low-follower account was skipped. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118838436241219939",
       "followers": 38572
     }
   ],
