@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 03:49 Berlin time (UTC+01:00)",
-  "newestPostId": "2118898392625766817",
-  "note": "Window: X posts since prior newestPostId 2118897476975681744 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query). Added 0 launch(s) and 0 news item(s). Seen but skipped: WOWBigTitty_ CA pair spam (117 fol, 1 imp); ThinkrOS $THKR self-promo (130 fol, 8 imp); Raccnado $RCNDO self-launch (77 fol, acct 1d old); pxte067 $DIAMOND hunt joke; EBOTTLE Binance-listing poll (1 fol); simple_crypto7 Trump/Binance-hack clip (thin); DannyKPolitics metaphoric rug politics; getderug $DERUG FAQ promo; PersianDoge 21Shares/TDOG support-end claim (50 fol, 5 imp, unverified here); FixitCanada/drugsfaxx airdrop spam; misc reply noise.",
+  "lastUpdated": "Saturday 7 Nov 2026, 03:55 Berlin time (UTC+01:00)",
+  "newestPostId": "2118900003263697193",
+  "note": "Window: X posts since prior newestPostId 2118898392625766817 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query). Added 1 launch(s) and 0 news item(s). Added: bitecong $Leap (third leap-theme today, 99% to graduation, early wallets gone). Seen but skipped: a8c2DlJjBVBgSvL Pumpfun reply farm (30 fol); Trumpcryyi1g $TCRY reply (8 fol, acct hours old); 3BBlB growth-DM spam; DeneldTrimp BTC/memecoin parody (154 fol, 3 imp); dex_kolwatcher paid DEXScreener detect; _WhoFollowswho follower-watch promo; starlav33 reply hype; cxnowbaba $SCAMCHI 44x/next-100x shill (685 fol, 3 imp); drugsfaxx cbBTC airdrop spam.",
   "launches": [
+    {
+      "coin": "Leap ($Leap)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address DhZ9LaH9TqEi4JCdPZ961hCcBABfhcYm7kNdqkyTLeap (pump.fun / pumpfun bonding curve; signal says 99% to graduation).",
+      "buzz": "Signal account @bitecong (38,568 followers) posted at 03:53 Berlin an AI Signal that Leap ($Leap) is the third leap-themed launch on Solana today and was already 99% of the way to graduation on the pumpfun bonding curve; it flags that none of the early buying wallets stuck around and mentions two bundlers (text cut off).",
+      "engagement": "311 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; third leap-theme launch today (serial-theme risk); early wallets and bundlers already gone. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118899534776746333",
+      "followers": 38568
+    },
     {
       "coin": "Ponzi ($Ponzi)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin narrative flagged in signal; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118841023791345991",
-      "followers": 38571
-    },
-    {
-      "coin": "Tailinu ($TAILINU)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address CCnJwZK9KCtfffchzo7rF6KRs3n6qZV7aXrmj2Capump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 23:58 Berlin an AI Signal that Tailinu ($TAILINU) is a dog-named meme coin about ten minutes old at signal and already close to graduation on the pumpfun bonding curve; it flags something odd about the wallet mix (text cut off).",
-      "engagement": "179 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; distinct CA and ticker from earlier Tail Inu ($TI, AFQ5…pump). Also shilled by @solhousesignals. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118840570156310690",
       "followers": 38571
     }
   ],
