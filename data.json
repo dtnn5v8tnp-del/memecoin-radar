@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 02:01 Berlin time (UTC+01:00)",
-  "newestPostId": "2118871181868593551",
-  "note": "Window: X posts since prior newestPostId 2118869801909236026 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query; 3rd bitecong/CA query rejected invalid CA: operator). Added 0 launch(s) and 0 news item(s). Seen but skipped: dex_kolwatcher paid DEXScreener spam ($MASCOT/$KCAT/$DUMO, ~9k followers, 0 likes); AiSolanaKols $MEMECOIN CTO/migrated scanner (1,824 followers, 44 imp); NOvaX415 Solana rug-stats bait (49 followers); MarsTrends insider-group shill (71 followers); nyxveilxt reply alleging a Dobrik-coin rug (217 followers, 0 imp); MoonGremlinX 0-follower reply on Pumpfun monster pairs.",
+  "lastUpdated": "Saturday 7 Nov 2026, 02:11 Berlin time (UTC+01:00)",
+  "newestPostId": "2118873633963561319",
+  "note": "Window: X posts since prior newestPostId 2118871181868593551 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query; no news search this run). Added 1 launch(s) and 0 news item(s). Seen but skipped: AutorunAlert $ASTEROID promo bot (8,148 followers, 126 imp, deposit-bonus spam); whitemnstersol MNST/Monster pair (5 followers, account created this hour); settlep2p Settlepad self-launch (2 followers); hercul_eth $PANGEA shill (1,516 followers, 16 imp); dex-style/reply noise and ansem-fomo giveaway replies.",
   "launches": [
+    {
+      "coin": "Pibblemas ($Pibblemas)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FRCpQFvy2mj2X2T3n4NvR5GvyUcmHXQaF6KpvCi1pump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 02:01 Berlin an AI Signal that Pibblemas ($Pibblemas) has no clear theme in its name or links; it graduated from pumpfun to PumpSwap about twenty-two minutes thirty-four seconds after launch, so graduation landed before the signal (text cut off).",
+      "engagement": "288 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; no clear theme flagged in signal. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118871441336926215",
+      "followers": 38573
+    },
     {
       "coin": "Work Coin ($Work)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "279 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; bundler-heavy early buyers flagged in signal; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118832166826283325",
-      "followers": 38572
-    },
-    {
-      "coin": "Highcap ($Highcap)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address EeLHPELuJbrMkRHQLag6XNHBSVi8scKFKqHbSxw6pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:23 Berlin an AI Signal that Highcap ($Highcap) has no clear theme and is already 84% of the way to graduation on the pumpfun bonding curve on Solana; it flags something odd about the buyer list (text cut off).",
-      "engagement": "254 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme; thin engagement. Distinct CA from the same-window deployer-sold-out $Highcap signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118831765947306132",
       "followers": 38572
     }
   ],
