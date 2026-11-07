@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 01:47 Berlin time (UTC+01:00)",
-  "newestPostId": "2118867771820011975",
-  "note": "Window: X posts since prior newestPostId 2118865428835705153 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 bitecong/CA/graduated query). Added 0 launch(s) and 0 news item(s). Seen but skipped: Brunna_leto / RugReapermqa / Gutta_sol / CoinPump01 / Meme_Lord_ups TG-VIP shills ($LAURA $HANDS $PICASSO $HODL $BORDERLESS $CCF $MIMI); mass airdrop spam farms (unconquerablee, sbusfzi, wemmas34, LizethMonArt, Tmaia_, Oluwasogo123, FixitCanada, drugsfaxx, saggerdudemax); dex_kolwatcher paid $Libtard ping (142 imp, 0 likes); SolTokenScan bot scanner; fourtislisting BagsPay +100% listing alert (thin likes); SneakypeekSol Ansem/Bubblemaps rumor (34 imp); 1881Erdem self-shill $FOXTILKI; THEBORKBYTE 0-follower promo; Cryptoprocesing $Pepper reply spam; BIGLURDYV ticker dump; LillLoydTheHood rug rant (8 followers).",
+  "lastUpdated": "Saturday 7 Nov 2026, 01:52 Berlin time (UTC+01:00)",
+  "newestPostId": "2118868785834987820",
+  "note": "Window: X posts since prior newestPostId 2118867771820011975 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 bitecong/CA/graduated query). Added 1 launch(s) and 0 news item(s). Boarded: bitecong AI Signal $Libtard (CA 8b4SeQFq…pump, third same-day libtard-name launch, 328 imp / 0 likes). Seen but skipped: loudteep (406 followers) ATH/explosion shill for 8VdrHbx…pump (8 imp).",
   "launches": [
+    {
+      "coin": "Libtard ($Libtard)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 8b4SeQFqBG2Td7wcB8Z7HofcRYG6aFpAqSsyvgbBpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:47 Berlin an AI Signal that Libtard ($Libtard) is the third launch on pumpfun today built around the libtard name, with the pair about four minutes one second old; it notes mint and freeze authorities on Solana (text cut off).",
+      "engagement": "328 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; third same-day libtard-name launch (serial-theme risk). Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118868000510222593",
+      "followers": 38573
+    },
     {
       "coin": "Justice For Piper ($Piper)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "282 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; deployer fully sold per signal; thin engagement. Distinct CA from the same-window 84%-curve $Highcap signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118831642295042114",
-      "followers": 38572
-    },
-    {
-      "coin": "butt ($butt)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address ErSBfq7PxjqbjjrFZuoQdJyXoN9TMVg86TL78sWgpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:19 Berlin an AI Signal that butt ($butt) is a few-minutes-old pumpfun launch on Solana already most of the way to graduation, with no researched story attached to the contract (text cut off).",
-      "engagement": "402 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme beyond the ticker; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118830738992972145",
       "followers": 38572
     }
   ],
