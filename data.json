@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 07:37 Berlin time (UTC+01:00)",
-  "newestPostId": "2118955790547791897",
-  "note": "Window: X posts since prior newestPostId 2118954446722072904 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; 1 news search max_age_hours=6). Added 0 launch(s) and 2 news item(s). Seen but skipped: @MemCoinsRadar $Alice 5.08x migration alert (already on launches; 36 impr); @DegenFlow_ $РОКЕНОО 7x call (6.8k followers, ~173 impr, 1 like; call account); @gio_bioo $scamsem 17x call (already on launches; 13 impr); @Charlie_SOL23 $CASHDOG shill (already on launches); @WeHave1DFacts $ALICE 46.5x claim (shill); Chinese $Diamond GMGN farm spam cluster; airdrop-spam CA posts (@LizethMonArt, @sbusfzi, @FixitCanada); @gwom83113 $BATON celebrity-rug shill; @minnus Pump.fun $90M Oct creator-fees stat (4.7k fol, 42 impr, no new event); Hyperliquid/HYPE and Zcash NU7 news (not memecoin-focused). No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement (Fluffy is upcoming announce only).",
+  "lastUpdated": "Saturday 7 Nov 2026, 07:43 Berlin time (UTC+01:00)",
+  "newestPostId": "2118957208578695431",
+  "note": "Window: X posts since prior newestPostId 2118955790547791897 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; news search skipped this run). Added 1 launch(s) and 1 news item(s). Seen but skipped: @dyoradar $USDF coordinated-launch radar (147 fol, 4 impr); @BKC_Network Instanodes post-quantum accounts (not memecoin); follow-back / engagement-farm Pumpfun replies; @DoriDigital Solana-cooked opinion (13k fol, 31 impr, no coin event); @0xDolon Pumpfun creator-concentration study (4.7k fol, 12 impr); @theHaneth @vibevibefun Robinhood GameFi tease (32k fol, 140 impr / 14 likes; not a new coin launch); @donroc1987 Pumpfun verification quote (thin); @Tata_Solana $GM 107x call (2.5k fol, 36 impr; call account); @PR0H0S engagement-bait \"100X next\" poll (100k fol, 869 impr; no coin); Ansem trade-blame reply. No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement.",
   "launches": [
+    {
+      "coin": "Morgano ($Morgano)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address FpUtpHmLH37zEym49jqYYq3TcKCVDMsEm1KnQKFRpump (pump.fun / pumpfun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 07:37 Berlin an AI Signal that Morgano ($Morgano), full name \"0.2 SOL and a Dream\", graduated from pumpfun to PumpSwap about 7 min 46 s after launch; it flags something odd about the wallet lineup (text cut off).",
+      "engagement": "420 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; unusual wallet lineup flagged at graduation. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118955863868309892",
+      "followers": 38574
+    },
     {
       "coin": "Cash Dog ($CASHDOG)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; thin engagement; animal-justice / real-world lawsuit theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118863950460887101",
       "followers": 38573
-    },
-    {
-      "coin": "I Saw Joe At 3k ($JOE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address C6qzCXZC9zoau81rtmgbLReG9bExnqe9NDM818typump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 01:28 Berlin an AI Signal that I Saw Joe At 3k ($JOE) is a pumpfun token named for Ansem's tweet about the number 3k, still on the bonding curve and most of the way to graduation; the token description points to a third-party (text cut off).",
-      "engagement": "142 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; theme tied to Ansem tweet / 3k meme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118863131959304507",
-      "followers": 38574
     }
   ],
   "news": [
+    {
+      "topic": "Paid promo / DEXScreener",
+      "headline": "Paid DEXScreener boost flagged for $notion on Pumpfun Solana",
+      "coins": "$notion",
+      "detail": "Watcher @dex_kolwatcher (8,981 followers) posted at 07:41 Berlin detecting a paid DEXScreener listing for $notion (CA 4C6LMX3q8iwShzW6j6A71NAUCgZ9G72T93hh4bKDpump) on Pumpfun Solana; it cited ~$13.4K buy / ~$11.2K sell volume over 24h, $0 liquidity, and ~$8.2K market cap at scan. Thin engagement on the alert itself (217 impressions, 0 likes).",
+      "updated": "Saturday 7 Nov 2026, 07:43 Berlin",
+      "url": "https://x.com/dex_kolwatcher/status/2118956932992307409"
+    },
     {
       "topic": "Investigative / KOL dumping",
       "headline": "X News: Bubblemaps to expose crypto KOL dumping on followers",
@@ -536,14 +544,6 @@
       "detail": "X news summary (updated ~19:44 Berlin): trader @blknoiz06 (Ansem) shared a ~1M SOL short that reportedly netted about $60K in trading profit plus roughly $35K–$36K in Pump.fun Callout Rewards USDC for posting the call publicly, with annualized rewards framed near $12.6M in screenshots circulating in the story. Supporters call it pay for natural posts; critics say it favors audience size and blurs analysis with paid promotion. Figures are from the X news summary, not a primary exchange disclosure.",
       "updated": "6 Nov 2026, 20:04 Berlin",
       "url": "https://x.com/i/trending/2118727609873821869"
-    },
-    {
-      "topic": "Pump / listing",
-      "headline": "COGE COIN up about 100% since Fourtis listing (MC ~$2.8M → ~$5.6M)",
-      "coins": "COGE",
-      "detail": "Listing-alert account @fourtislisting (67,295 followers) posted at 19:49 Berlin that #COGE COIN (@COGECOINMeme) is up 100% since listing on Fourtis, citing first market cap about $2.8M and last about $5.6M. Post had about 5,943 impressions, 11 likes, 1 quote, 1 reply, 1 repost at scan time. Contract in the quoted listing: 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump.",
-      "updated": "6 Nov 2026, 19:58 Berlin",
-      "url": "https://x.com/fourtislisting/status/2118777720259702911"
     }
   ],
   "hourly": [
