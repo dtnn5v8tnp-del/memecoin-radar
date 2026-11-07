@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 00:54 Berlin time (UTC+01:00)",
-  "newestPostId": "2118854331931771209",
-  "note": "Window: X posts since prior newestPostId 2118853795153064009 (recency: 1 launch/pumpfun query + 1 listing/rug query [0 hits after $ strip] + 1 search_news). Added 1 launch(s) and 0 news item(s). Seen but skipped: OkCat_pf $OKCAT project account (4 followers); Sol_Gems00 $PUMPFUN 4ajK…pump VIP call-farm (already skipped prior); Strong69106 $BTX FY8F…pump (call-farm VIP); LitecoinFirst chart spam; ahmad_sherhan low-follower CA spam; scoutradar_sig $HATCH (already on launches); itsmeflow18 $DCAT call spam (already on launches); AlperJDev Pumpfun reply noise; Clavicular / Theo Von /$NIO / Ethan / Pump.fun Diamond / Coinbase CARD / Leap already on news board.",
+  "lastUpdated": "Saturday 7 Nov 2026, 01:03 Berlin time (UTC+01:00)",
+  "newestPostId": "2118856718025376010",
+  "note": "Window: X posts since prior newestPostId 2118854331931771209 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query; news search skipped this run). Added 3 launch(s) and 0 news item(s). Seen but skipped: firepump_house / Sol_Gems00 $PUMPFUN 4ajK…pump VIP call-farm (already skipped prior); nailirosai $ETRM project spam (20 followers); AutorunAlert generic $Memecoin bot; BullishCalls_ $HODL VIP call; dex_kolwatcher paid-DEXScreener spam; Otnashii bundler promo; Vijayanvishnu2 float meme reply noise; astech99 $DCAT whale-bot (23 followers; DCAT already on launches); Johnsmithg0cm low-follower rug accusation reply; EntitledTrader Wormhole alert (not memecoin news); I_Xvision Rarelist / kaziiSobaeid CT list noise.",
   "launches": [
+    {
+      "coin": "Pokemon in the Hood ($POKEHOOD)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BLYdKSwcRnEmtesj5aP6NzV9EyRA9Dr83sL5yhW8pump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:01 Berlin an AI Signal that Pokemon in the Hood ($POKEHOOD) is a pumpfun launch on Solana about two hours old at signal that had already graduated to PumpSwap; the Pokemon theme sits in the name itself, and it says there is no researched story (text cut off).",
+      "engagement": "209 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; Pokemon IP branding risk. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118856429557907609",
+      "followers": 38573
+    },
+    {
+      "coin": "OFFICIAL COIN ($OFFICIAL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address EyJhGdWdKcE5LZzwq8UvWDQTC3yfEQQcYmsLb8Uypump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 00:57 Berlin an AI Signal that OFFICIAL COIN ($OFFICIAL) is a pumpfun token on Solana that graduated to PumpSwap about 54 seconds after launch and was about six minutes old at signal; it says there is no clear theme in the name, ticker or (text cut off).",
+      "engagement": "364 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme flagged in signal; thin engagement; generic OFFICIAL ticker. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118855318033805804",
+      "followers": 38573
+    },
+    {
+      "coin": "OFFICIAL FOMO COIN ($FOMO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address Fv6g3Zx5FgnMYzza58rbHEDZT6Cs8A8JcJTNMh6rpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 00:54 Berlin an AI Signal that FOMO, the OFFICIAL FOMO COIN ($FOMO), launched on pumpfun and was about four minutes old at signal; it says there is no clear theme beyond the name itself and flags something unusual about the deployer's record (text cut off).",
+      "engagement": "336 impressions, 2 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; deployer record flagged in signal; thin engagement; generic FOMO ticker. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118854486466957490",
+      "followers": 38573
+    },
     {
       "coin": "Official Float Coin ($FLOAT)",
       "chain": "Solana",
@@ -271,36 +301,6 @@
       "engagement": "331 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; privacy-theme wave continues; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118823047499235393",
-      "followers": 38570
-    },
-    {
-      "coin": "WHY ARE YOU GAY? ($GAY)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address C8KadrGvtkbTAbLbNX6HsB8QJvPistXRToWjsm2vpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:40 Berlin an AI Signal that WHY ARE YOU GAY? ($GAY) is twenty-six seconds old and already 74% of the way along the pumpfun bonding curve, with no clear theme beyond the question the name asks; it flags an oddity in the deployer's pace (text cut off).",
-      "engagement": "237 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; name/theme is a crude joke. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118820785813156107",
-      "followers": 38570
-    },
-    {
-      "coin": "dopameme ($DOPA)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BZ3LFGBya69a9UCsm29yXLQtD1WsHBpwWEm3piD1RFiR (pump.fun / pumpfun bonding curve; not a pump suffix).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:38 Berlin an AI Signal that DOPA (ticker of dopameme) is a pumpfun launch roughly three minutes old and still on the bonding curve; name and ticker point at a dopamine joke (text cut off). A same-window project account @dopamemefun (7 followers, created today) also posted that dopameme.fun is live with the same CA.",
-      "engagement": "311 impressions, 0 likes, 0 reposts at scan time (@bitecong); project account post had 3 impressions.",
-      "flags": "Only an automated signal account plus a brand-new project account so far; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118820354647076868",
-      "followers": 38570
-    },
-    {
-      "coin": "WHITE ($WHITE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address F7feBs4rVg9aYVaSiBpiHbEq9ZgcHYpNk35NYo7Npump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:37 Berlin an AI Signal that WHITE is the ninth white-themed launch on Solana today, 2 min 25 s old and already 89% of the way to graduation on the pumpfun bonding curve; it flags something odd on the buyer list (text cut off).",
-      "engagement": "308 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; ninth white-theme clone today; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118820077890163072",
       "followers": 38570
     }
   ],
