@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 07:43 Berlin time (UTC+01:00)",
-  "newestPostId": "2118957208578695431",
-  "note": "Window: X posts since prior newestPostId 2118955790547791897 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; news search skipped this run). Added 1 launch(s) and 1 news item(s). Seen but skipped: @dyoradar $USDF coordinated-launch radar (147 fol, 4 impr); @BKC_Network Instanodes post-quantum accounts (not memecoin); follow-back / engagement-farm Pumpfun replies; @DoriDigital Solana-cooked opinion (13k fol, 31 impr, no coin event); @0xDolon Pumpfun creator-concentration study (4.7k fol, 12 impr); @theHaneth @vibevibefun Robinhood GameFi tease (32k fol, 140 impr / 14 likes; not a new coin launch); @donroc1987 Pumpfun verification quote (thin); @Tata_Solana $GM 107x call (2.5k fol, 36 impr; call account); @PR0H0S engagement-bait \"100X next\" poll (100k fol, 869 impr; no coin); Ansem trade-blame reply. No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 07:47 Berlin time (UTC+01:00)",
+  "newestPostId": "2118958176515047857",
+  "note": "Window: X posts since prior newestPostId 2118957208578695431 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; news search included this run). Added 0 launch(s) and 1 news item(s). Seen but skipped: @Bullrunups $Alice 12X call/shill (757 fol, 14 impr); @blueondefi CT recap Bubblemaps/FungoLabs/villainmonkey (835 fol, 6 impr; not a coin event); @Rashidtalw spam $PEPE pump bots (8 fol, account ~1 day old); @dav49004 Trump/Pete Hegseth reply false-positive on \"dump\". News already on board: Robinhood Chain memecoins, Pump.fun Diamond, SPX6900 DCA, Theo Von $NIO, Thinking Cat $HMM, Leap app. No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement.",
   "launches": [
     {
       "coin": "Morgano ($Morgano)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Whale / Pumpfun positions",
+      "headline": "@jussy_world: Ansem (@blknoiz06) shorting SOL and ETH on Pumpfun after \"60k 1500 60\" post",
+      "coins": "SOL, ETH (via Pumpfun)",
+      "detail": "Tracker @jussy_world (76,563 followers) posted at 07:44 Berlin that Ansem is already short on Pumpfun: about $957K of SOL at 20x (entry ~$92.9, +~$29K) and about $501K of ETH at 10x (entry ~$2,221, added overnight), tying it to Ansem's overnight \"60k 1500 60\" call. Engagement at scan: 1,089 impressions, 5 likes, 1 reply.",
+      "updated": "Saturday 7 Nov 2026, 07:47 Berlin",
+      "url": "https://x.com/jussy_world/status/2118957640655225064"
+    },
+    {
       "topic": "Paid promo / DEXScreener",
       "headline": "Paid DEXScreener boost flagged for $notion on Pumpfun Solana",
       "coins": "$notion",
@@ -536,14 +544,6 @@
       "detail": "X news summary (updated earlier today, still current): Solana Labs launched Leap, an iPhone app for trading tokenized stocks, ETFs, commodities, currencies, crypto, and memecoins on Solana with onchain trades and no platform fees for now. Built by the Dialect team after acquisition; plans to burn SOL from future fees. Early iPhone access via TestFlight; Android later; U.S. users can't trade tokenized stocks. Details from the X news summary.",
       "updated": "6 Nov 2026, 20:18 Berlin",
       "url": "https://x.com/i/trending/2118544554773377430"
-    },
-    {
-      "topic": "Pump.fun / callout rewards",
-      "headline": "X News: Trader Ansem cites large Pump.fun callout rewards on a SOL short",
-      "coins": "SOL, Pump.fun",
-      "detail": "X news summary (updated ~19:44 Berlin): trader @blknoiz06 (Ansem) shared a ~1M SOL short that reportedly netted about $60K in trading profit plus roughly $35K–$36K in Pump.fun Callout Rewards USDC for posting the call publicly, with annualized rewards framed near $12.6M in screenshots circulating in the story. Supporters call it pay for natural posts; critics say it favors audience size and blurs analysis with paid promotion. Figures are from the X news summary, not a primary exchange disclosure.",
-      "updated": "6 Nov 2026, 20:04 Berlin",
-      "url": "https://x.com/i/trending/2118727609873821869"
     }
   ],
   "hourly": [
