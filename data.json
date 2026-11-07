@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 01:12 Berlin time (UTC+01:00)",
-  "newestPostId": "2118858961696727147",
-  "note": "Window: X posts since prior newestPostId 2118857876840272151 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 failed tighter launch query). Added 0 launch(s) and 0 news item(s). Seen but skipped: dex_kolwatcher $KOLDEX paid DEXScreener signal (8,976 followers; 130 impressions, 0 likes; thin engagement); drug-spam posts matching listing/Trump keywords; political Trump dump/hack replies; ByteFlow23 tokenized-stock volume reply (41 followers; not memecoin).",
+  "lastUpdated": "Saturday 7 Nov 2026, 01:14 Berlin time (UTC+01:00)",
+  "newestPostId": "2118859469182627874",
+  "note": "Window: X posts since prior newestPostId 2118858961696727147 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 AI-signal/bitecong query). Added 1 launch(s) and 0 news item(s). Seen but skipped: airdrop/shill replies (paulcointm, abcdbounty); Abu4Raaeed call-farm repost of already-boarded $OFFICIAL; drug-spam posts matching Trump/listing keywords; ThomasKDunphy Valour Spotlight PUMP/WIF/BONK ETP post (already on board); FOMO DOGE personal-loss reply; low-follower rug/memecoin chatter.",
   "launches": [
+    {
+      "coin": "GAE ($GAE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address JBv9C3HJfp96jMb1e5DQY9iFyWmtQ8Rjs4BecMx4pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 01:13 Berlin an AI Signal that GAE ($GAE) on Solana takes its name from the Grindr joke line and reached 82% of the way to graduation about three minutes forty-one seconds in; it flags that most bundler wallets were tagged at signal time (text cut off).",
+      "engagement": "210 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; bundler-heavy buyer list flagged in signal; thin engagement; adult-joke theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118859469182627874",
+      "followers": 38574
+    },
     {
       "coin": "Official X Coin ($X)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "164 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; income-theme clone wave. Distinct CA from the same-window pumpfun $UEHI signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118823720622108776",
-      "followers": 38570
-    },
-    {
-      "coin": "Universal extremely high income ($UEHI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address F8XXtaCPBwew71a8jy2qRUzxShTacbEskzG7KkU5ejMW (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:51 Berlin an AI Signal that Universal extremely high income ($UEHI) is the fourth income-themed launch on Solana today and hit 75% of the way to graduation on the pumpfun bonding curve within seconds of launch (text cut off).",
-      "engagement": "222 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; fourth income-theme launch today; thin engagement. Distinct CA from the same-window float $UEHI signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118823629530239179",
       "followers": 38570
     }
   ],
