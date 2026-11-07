@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 06:13 Berlin time (UTC+01:00)",
-  "newestPostId": "2118934465686941934",
-  "note": "Window: X posts since prior newestPostId 2118932613448740985 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; 1 X news search). Added 1 launch(s) and 0 news item(s). Seen but skipped: @Bullrunups $SLINGFOLIO call on already-tracked CA Goqdp…pump (754 fol, 7 imp — call/shill); @AutorunAlert generic $meme alert B4Kw…pump with deposit promo (8,148 fol, 140 imp — alert-farm spam); @pravathesis $HEKNITT shill (101 fol, 6 imp); @Mistyweb03 / @thetradingpepe / @Rexxie_XvX / @TopBlastS0L / @GabrielTheValor reply spam or giveaway replies; @listingntm Leonida +200% since listing BWJf…pump (27,315 fol, 491 imp, 0 likes — thin automated listing-tracker alert, MC ~$114K→~$261K); listing/rug query mostly political false positives. X news: Robinhood Chain, Pump.fun Diamond, SPX6900, Theo Von $NIO, Coinbase CARD already on dashboard; other news hits not memecoin-actionable. No rugs/exploits/major listings with real engagement this window; no launch with real organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 06:18 Berlin time (UTC+01:00)",
+  "newestPostId": "2118935926684651879",
+  "note": "Window: X posts since prior newestPostId 2118934465686941934 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; news search skipped this run). Added 1 launch(s) and 0 news item(s). Seen but skipped: @bitecong $meme CA B4Kw…pump graduated to PumpSwap (38,571 fol, 354 imp — same CA skipped last window as AutorunAlert spam; still 0 likes); @MarioPrezldente DOGEOS/SQRL pumpfun shill claim (1,091 fol, 13 imp — thin/unverified); @Bullrunups $Capiboo 16X call (754 fol, 4 imp — call account); @Dylan_Coopod2s $JOSE 84x call (658 fol, 3 imp — call/shill); @lvfurtherprous / @MoonDom_Da_Goat / @awing0523 $SHK / @LizethMonArt $LIFE airdrop-netlify spam / reply spam; @AntInfluence $QENIS ATH update (2,069 fol, 25 imp — not major news); listing/rug query had ACH riddle / Binance Alpha commentary / Chinese trading-bot spam false positives. No rugs/exploits/major listings with real engagement this window; no launch with real organic engagement.",
   "launches": [
+    {
+      "coin": "Slingfolio ($Slingfolio)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 48PmG4973KKSLqYt5RVzfyFcVbaTVsB2u3vG7X3Kpump (pump.fun / pumpfun bonding curve; signal says only minutes old).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 06:15 Berlin an AI Signal that Slingfolio ($Slingfolio) is the fourth Slingfolio token launched today and was only minutes old on the pumpfun bonding curve; it flags the deployer's history of 1057 tokens (text cut off).",
+      "engagement": "367 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; fourth Slingfolio-theme launch today with a distinct CA from earlier entries (serial-theme / redeploy risk); deployer mass-deploy history flagged. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118935312537964613",
+      "followers": 38571
+    },
     {
       "coin": "Slingfolio ($Slingfolio)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; generic X ticker; concentrated buyer list flagged in signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118856988490903647",
       "followers": 38574
-    },
-    {
-      "coin": "Pokemon in the Hood ($POKEHOOD)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BLYdKSwcRnEmtesj5aP6NzV9EyRA9Dr83sL5yhW8pump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:01 Berlin an AI Signal that Pokemon in the Hood ($POKEHOOD) is a pumpfun launch on Solana about two hours old at signal that had already graduated to PumpSwap; the Pokemon theme sits in the name itself, and it says there is no researched story (text cut off).",
-      "engagement": "209 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; Pokemon IP branding risk. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118856429557907609",
-      "followers": 38573
     }
   ],
   "news": [
