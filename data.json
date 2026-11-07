@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 01:28 Berlin time (UTC+01:00)",
-  "newestPostId": "2118863131959304507",
-  "note": "Window: X posts since prior newestPostId 2118862337038028811 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 AI-signal/bitecong query). Added 1 launch(s) and 0 news item(s). Seen but skipped: AFTERLIGHTKING self-shill $AFTER (384 followers, 9 impressions); listing/rug/pump query returned empty.",
+  "lastUpdated": "Saturday 7 Nov 2026, 01:35 Berlin time (UTC+01:00)",
+  "newestPostId": "2118864257907294276",
+  "note": "Window: X posts since prior newestPostId 2118863131959304507 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 AI-signal/bitecong query). Added 1 launch(s) and 0 news item(s). Seen but skipped: stinkycubert pumpfun-as-rugs opinion (no specific coin); Hekje100X / Crypto944158 low-follower shills; TrenchRadarLive $Chunkee ETH rug alert (15 followers, 0 impressions); Alastor_crypto general launch-stats post (32 followers).",
   "launches": [
+    {
+      "coin": "Justice For Piper ($Piper)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address A1ENry4pvSPnEhjUdSmp6Nak77GdscWhAiAth7fdpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:31 Berlin an AI Signal that Justice For Piper ($Piper) ties its Piper theme to a real case: Alley Cat Allies, an animal protection group, has sued the city and mayor of Lincolnton, Georgia, over the shooting of Piper the cat (text cut off).",
+      "engagement": "338 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; animal-justice / real-world lawsuit theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118863950460887101",
+      "followers": 38573
+    },
     {
       "coin": "I Saw Joe At 3k ($JOE)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "402 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; no clear theme beyond the ticker; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118830738992972145",
-      "followers": 38572
-    },
-    {
-      "coin": "Automated Milkers Machine ($AMM)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address gwN3emBPQEA9hpofKsjF4ci3MrCS6D5NkpQvJrepump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:12 Berlin an AI Signal that Automated Milkers Machine ($AMM) carried 121 bundler wallets at signal time on Solana; two remain, and neither holds any of the token. The name reads as an automated milking machine with no other clear theme (text cut off).",
-      "engagement": "285 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; heavy bundler footprint flagged in signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118829004828660024",
       "followers": 38572
     }
   ],
