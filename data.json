@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 04:05 Berlin time (UTC+01:00)",
-  "newestPostId": "2118902458793574636",
-  "note": "Window: X posts since prior newestPostId 2118901355561501147 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query). Added 0 launch(s) and 0 news item(s). Seen but skipped: Zaccardoooo Jeff Raydium lore (1k fol, 1 imp); pizzabasedev1x $ANIMETA pumpfun shill (6.3k fol, 9 imp); MonoSwapDotDev $mono brand-new acct (3 fol); BreexAzouli $ANGEL coming-soon (21 fol); Makemoneyswarm $makemoney reply farm (41 fol); mynameisbyte/velox_Fx/droxonsol pumpfun giveaway reply spam; notrandomdotfun $Leap graduation (already on launches; 150 imp); copytop_xbt cashcat $144k exit note (418 fol, 10 imp); ponke7solana1 PONKE nostalgia; TrendingMemeCns Phantom top-5 bot; notmetalface Leap larp warning (reply); paulsauereyes CA shill; Chill_llLaw Meta AI / BrwnSkinGirly / Mortgage Masters off-topic.",
+  "lastUpdated": "Saturday 7 Nov 2026, 04:09 Berlin time (UTC+01:00)",
+  "newestPostId": "2118903002442486094",
+  "note": "Window: X posts since prior newestPostId 2118902458793574636 (recency: 1 pumpfun/launch query; 1 listing/rug/pump query). Added 2 launch(s) and 0 news item(s). Seen but skipped: TheShitShowDev $UNCBOND shill (91 fol, 4 imp); JohnKahlooniQ Trump/Fed/BTC conspiracy (4.3k fol, 19 imp, not memecoin news); TimmyPczkrash early-ones reply farm (253 fol, 2 imp).",
   "launches": [
+    {
+      "coin": "Alice ($ALICE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address JDShCRwfPyWUbDEbxDXXK4wstWNEhadpN7gJ9NL6AZfj (pump.fun / pumpfun bonding curve; signal says 98% to graduation).",
+      "buzz": "Signal account @bitecong (38,568 followers) posted at 04:05 Berlin an AI Signal that Alice ($ALICE), branded The Chinese Spy (ALICE), is the second launch under that name on its radar today and sits on the pumpfun bonding curve at 98% of the way to graduation; it flags something odd in the wallet record (text cut off).",
+      "engagement": "343 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; second Alice-theme launch today (serial-theme risk); near graduation. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118902558077100485",
+      "followers": 38568
+    },
+    {
+      "coin": "Alice ($Alice)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump (pump.fun / pumpfun; signal says seconds old).",
+      "buzz": "Signal account @bitecong (38,568 followers) posted at 04:05 Berlin an AI Signal that The Nvidia Spy (Alice) is a pumpfun launch seconds old and the deployer has already sold its whole balance; the name and a linked Verge story about Nvidia's CEO and China suggest a news-joke theme (text cut off).",
+      "engagement": "302 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; deployer already fully sold; news-joke / Nvidia-China theme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118902532680700116",
+      "followers": 38568
+    },
     {
       "coin": "Leap ($Leap)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "298 impressions, 1 like, 0 reposts, 1 reply at scan time.",
       "flags": "Only an automated signal account so far; serial deployer history flagged in signal; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118845759575781755",
-      "followers": 38571
-    },
-    {
-      "coin": "The Trump Files ($Trumpfiles)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address CBRewMwMPR9K8VBWoRriCodFsCx88EvXegyN8xNwpump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 00:14 Berlin an AI Signal that The Trump Files ($Trumpfiles) is the third \"files\" launch on Solana today and had already graduated from pumpfun to PumpSwap about four and a half minutes after launch; it flags the deployer's scale (text cut off).",
-      "engagement": "91 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; third files-themed launch today; thin engagement; Trump branding. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118844535992406521",
-      "followers": 38572
-    },
-    {
-      "coin": "Hatch ($HATCH)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:00 Berlin an AI Signal that Hatch ($HATCH) is a pumpfun launch on Solana that graduated from the bonding curve to PumpSwap about ten minutes after launch, just past the signal; it says the story is thin and the name and links point to Hatch (text cut off).",
-      "engagement": "289 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin narrative flagged in signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118841023791345991",
       "followers": 38571
     }
   ],
