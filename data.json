@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 01:52 Berlin time (UTC+01:00)",
-  "newestPostId": "2118868785834987820",
-  "note": "Window: X posts since prior newestPostId 2118867771820011975 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 bitecong/CA/graduated query). Added 1 launch(s) and 0 news item(s). Boarded: bitecong AI Signal $Libtard (CA 8b4SeQFq…pump, third same-day libtard-name launch, 328 imp / 0 likes). Seen but skipped: loudteep (406 followers) ATH/explosion shill for 8VdrHbx…pump (8 imp).",
+  "lastUpdated": "Saturday 7 Nov 2026, 01:55 Berlin time (UTC+01:00)",
+  "newestPostId": "2118869801909236026",
+  "note": "Window: X posts since prior newestPostId 2118868785834987820 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 bitecong/CA/graduated query). Added 1 launch(s) and 0 news item(s). Boarded: bitecong AI Signal $Work (CA 7jRGjc5W7Dm…pump, graduated to PumpSwap ~15m old, 268 imp / 1 like). Seen but skipped: Memecoinspecia $KoriMu call-farm shill (1,597 followers, 18 imp); airdrop-spam bots (unconquerablee/saggerdudemax/wemmas34 et al.); AlphaPulsevw $HOLD VIP-call spam; Moosaswrld engagement-bait; Warppadfun $WARP (2 followers, brand-new account); SolanaMemesScan $JOKER thin scanner (76 imp, 16 holders); BscKOLScanner Starry Night ATH note (already boarded).",
   "launches": [
+    {
+      "coin": "Work Coin ($Work)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 7jRGjc5W7Dmfs9NVQQqA8SzDGqi8PQQQdXeRAjgwpump (pump.fun / pumpfun bonding curve; signal says already off the bonding curve on PumpSwap).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:53 Berlin an AI Signal that Work Coin ($Work) is a pumpfun launch on Solana, roughly a quarter of an hour old at signal, and already off the bonding curve on PumpSwap; it says the theme is work and there is no description or links giving a story (text cut off).",
+      "engagement": "268 impressions, 1 like, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; generic work theme with no story. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118869294838857926",
+      "followers": 38573
+    },
     {
       "coin": "Libtard ($Libtard)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "254 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; no clear theme; thin engagement. Distinct CA from the same-window deployer-sold-out $Highcap signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118831765947306132",
-      "followers": 38572
-    },
-    {
-      "coin": "Highcap ($Highcap)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 62GCmXJQVUZ5BZ5EJqDavtQmQRcAXXwFAXEv1h5apump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 23:23 Berlin an AI Signal that Highcap ($Highcap) is about two minutes old on pumpfun, and the deployer has already sold out completely (text cut off).",
-      "engagement": "282 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; deployer fully sold per signal; thin engagement. Distinct CA from the same-window 84%-curve $Highcap signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118831642295042114",
       "followers": 38572
     }
   ],
