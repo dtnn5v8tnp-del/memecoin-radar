@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 07:50 Berlin time (UTC+01:00)",
-  "newestPostId": "2118959046879265271",
-  "note": "Window: X posts since prior newestPostId 2118958176515047857 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; news search skipped this run, included last run). Added 0 launch(s) and 0 news item(s). Seen but skipped: @evolvedotfun_ Evolve launchpad promo (3 fol, account created today, 0 impr); @AlphaCaIIs $BARRON call/shill (3,876 fol, 11 impr); @Fandrogg pumpfun rant reply (37 fol, 3 impr); @Crypto_bapu17 $TRUMP whale-call spam (24 fol, 1 impr); @Xndrx04 generic rug reply (220 fol, 0 impr); political false-positives on dump/rug (EdLudbrook, nomandatesco, XSnakePlissken). No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 07:56 Berlin time (UTC+01:00)",
+  "newestPostId": "2118960547869667775",
+  "note": "Window: X posts since prior newestPostId 2118959046879265271 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; news search included this run). Added 0 launch(s) and 1 news item(s). Seen but skipped: @Sennauwin / @Coop_Web3 low-eng promo replies on pumpfun (13 / 19k fol, 1–2 impr); @OrblivionLayer agent-vault essay (230 fol, 18 impr); @Tmaia_ cbZEC airdrop-style shill (2,003 fol, 1 impr); @CryptoPeakX giveaway spam (255 fol); @trystonka Stonka launchpad v0.2 (73 fol, account created today, 28 impr); @asskksjjd $FIDA binance-tag spam (27 fol, 1 impr). No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement. News added: memecoin-era-ended debate story.",
   "launches": [
     {
       "coin": "Morgano ($Morgano)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Sector / sentiment",
+      "headline": "X News: Memecoin debate questions if the era has ended",
+      "coins": "n/a (sector)",
+      "detail": "X News story (updated ~07:54 Berlin) summarizes chatter that memecoins may have run their course: fatigue from repeated narratives, launchpads, and mechanics that drain liquidity without lasting value; sector total value cited around $27–31B vs peaks, with Pump.fun seeing far fewer new users/launches than 2025 highs. Some call it the logical end of extraction plays; others hold out for revivals via real community and memes like Pepe.",
+      "updated": "Saturday 7 Nov 2026, 07:56 Berlin",
+      "url": "https://x.com/i/trending/2118959279361417526"
+    },
+    {
       "topic": "Whale / Pumpfun positions",
       "headline": "@jussy_world: Ansem (@blknoiz06) shorting SOL and ETH on Pumpfun after \"60k 1500 60\" post",
       "coins": "SOL, ETH (via Pumpfun)",
@@ -536,14 +544,6 @@
       "detail": "Verified @BackpackOnchain (14,121 followers) posted at 20:17 Berlin that $MNST issued by Backpack Securities is listed on Solana with @Sunrise, redeemable 1:1 for Monster Beverage shares and transferable to traditional brokerages. This is a tokenized equity product, not a memecoin launch.",
       "updated": "6 Nov 2026, 20:18 Berlin",
       "url": "https://x.com/BackpackOnchain/status/2118784749024276748"
-    },
-    {
-      "topic": "Solana Labs / trading app",
-      "headline": "X News: Solana Labs launches Leap mobile trading app (stocks, crypto, memecoins)",
-      "coins": "SOL, memecoins",
-      "detail": "X news summary (updated earlier today, still current): Solana Labs launched Leap, an iPhone app for trading tokenized stocks, ETFs, commodities, currencies, crypto, and memecoins on Solana with onchain trades and no platform fees for now. Built by the Dialect team after acquisition; plans to burn SOL from future fees. Early iPhone access via TestFlight; Android later; U.S. users can't trade tokenized stocks. Details from the X news summary.",
-      "updated": "6 Nov 2026, 20:18 Berlin",
-      "url": "https://x.com/i/trending/2118544554773377430"
     }
   ],
   "hourly": [
