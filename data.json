@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 06:29 Berlin time (UTC+01:00)",
-  "newestPostId": "2118938770666119311",
-  "note": "Window: X posts since prior newestPostId 2118938068258623925 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; news search this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: @Legend_Britney serial TG/call spam ($STM/$BTC-meme/$SCAMCHI); @Strong69106 $Twizter calls; @MrTitanBull $Alice call; @apx_gmso2I $Slingfolio call spam (CA already on dashboard); @marevivakk $FUSE call; @pumpviewfun thin $SLINGFOLIO analytics (distinct CA, 310 fol / 0 likes); @APaid_Fun 0-fol self-promo; @0x2risky thin self-promo; airdrop spam (@lagesjullia/@saggerdudemax/@Tmaia_/@drugsfaxx); @eyez_telegram TG signal feed. News: Hyperliquid HYPE buybacks (not memecoin-specific) and BAYC/Mudwater NFT (skipped); Robinhood Chain / Pump.fun Diamond / Theo Von $NIO / Coinbase CARD / Leap / SPX6900 / Ansem / Thinking Cat already on dashboard. No rugs/exploits/major listings with real engagement; no launch with real organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 06:34 Berlin time (UTC+01:00)",
+  "newestPostId": "2118940007691923921",
+  "note": "Window: X posts since prior newestPostId 2118938770666119311 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; no news search this run). Added 1 launch(s) and 0 news item(s). Added: @bitecong $VERIFIED (CA 2boGZeUc…pump, near graduation, 348 impr / 0 likes). Seen but skipped: airdrop spam (@lagesjullia $MONERO / @drugsfaxx $0DAY / @unconquerablee $ADOF); @Gwak_grn $GWAK self-promo (8 fol); @OmniPadsol (4 fol); @bootyclapsol $BCLAP brand-new acct (7 fol); @Legend_Britney serial TG/call spam ($ALICE/$STM); @Strong69106 $Alice call; reply/collab spam (@zevanpc/@CZArmy01/@WorldCrypto07); @cookdbot bot replies; @cexscan routine Binance memecoin gainers (sub-1%); BlackRock ETF exit engagement-bait (not memecoin-specific). No rugs/exploits/major listings with real engagement; no launch with real organic engagement beyond the thin AI signal.",
   "launches": [
+    {
+      "coin": "Verified ($VERIFIED)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 2boGZeUcMN73VrcG6XJQEBAg4cP1KbYUFuNR3Swipump (pump.fun / pumpfun bonding curve; signal says close to graduation).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 06:32 Berlin an AI Signal that Verified ($VERIFIED) launched on pumpfun on Solana, is minutes old and still on the bonding curve close to graduation; it says there is no clear theme and the description names a deployment tool (text cut off / image).",
+      "engagement": "348 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; no clear theme beyond the ticker; near graduation. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118939614715253053",
+      "followers": 38572
+    },
     {
       "coin": "Slingfolio ($Slingfolio)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "210 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; bundler-heavy buyer list flagged in signal; thin engagement; adult-joke theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118859469182627874",
-      "followers": 38574
-    },
-    {
-      "coin": "Official X Coin ($X)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3sHwwWx1BeJwnHooL726Eanz889yqff2YcFcgMfLpump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 01:04 Berlin an AI Signal that Official X Coin ($X) graduated from pumpfun to PumpSwap about seven minutes thirty-four seconds after launch, before the signal; it says there is no clear theme beyond the name and ticker, and flags an odd buyer list (85 of the hundred biggest buyers mentioned, text cut off).",
-      "engagement": "296 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; generic X ticker; concentrated buyer list flagged in signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118856988490903647",
       "followers": 38574
     }
   ],
