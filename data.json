@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 01:14 Berlin time (UTC+01:00)",
-  "newestPostId": "2118859469182627874",
-  "note": "Window: X posts since prior newestPostId 2118858961696727147 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 AI-signal/bitecong query). Added 1 launch(s) and 0 news item(s). Seen but skipped: airdrop/shill replies (paulcointm, abcdbounty); Abu4Raaeed call-farm repost of already-boarded $OFFICIAL; drug-spam posts matching Trump/listing keywords; ThomasKDunphy Valour Spotlight PUMP/WIF/BONK ETP post (already on board); FOMO DOGE personal-loss reply; low-follower rug/memecoin chatter.",
+  "lastUpdated": "Saturday 7 Nov 2026, 01:23 Berlin time (UTC+01:00)",
+  "newestPostId": "2118861595405320433",
+  "note": "Window: X posts since prior newestPostId 2118859469182627874 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 AI-signal/bitecong query). Added 3 launch(s) and 0 news item(s). Seen but skipped: drug-spam posts matching Trump/listing keywords; call-farm 'Xx from my call' shills (DegenFlow_, itsmeflow18, Annatrader22, sol_peal, ValenOnchains) for $HODL/$HATCH/$PUMPFUN/$TI; SOLANA_EMPIRE1 $Sahli gambles; AutorunAlert/solhousesignals/VolumeOnMEMES/dex_kolwatcher paid-radar bots; LeoOpinion $GM (2 followers); brickvaultt self-promo; political Dump Trump replies; already-boarded theme chatter.",
   "launches": [
+    {
+      "coin": "LATE ($LATE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 9irzXvqHLGdCXkHxQD9ZTZFbeYRVmBg1cT2oT7ppump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 01:22 Berlin an AI Signal that LATE ($LATE) launched on pumpfun on Solana and graduated to PumpSwap about four minutes and twenty-eight seconds into its life; it says the name, ticker and description carry no story beyond the word (text cut off).",
+      "engagement": "205 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; no clear theme flagged in signal; thin engagement; generic LATE ticker. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118861595405320433",
+      "followers": 38572
+    },
+    {
+      "coin": "Starry Night ($Starry)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address CfoQMUkfrezDBtWPptASHVcwsHmkpJKN57EnYDi6pump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 01:21 Berlin an AI Signal that Starry Night ($Starry) points at a night-sky theme and sat on the pumpfun bonding curve about two minutes thirty-nine seconds old; it says the name and ticker are the only theme the facts hold, and flags something unusual (text cut off).",
+      "engagement": "286 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; night-sky theme only. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118861250373501414",
+      "followers": 38572
+    },
+    {
+      "coin": "GAE ($GAE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 2Dw5T9CYNaomzjoNg4useZWsrAubU4nVyk2iUUXC94ob (distinct CA from earlier boarded JBv9…pump $GAE).",
+      "buzz": "Signal account @bitecong (38,572 followers) posted at 01:16 Berlin an AI Signal that GAE ($GAE) is a joke-question meme on Solana already climbing its curve at signal time; it flags the deployer as having created many thousands of tokens (text cut off).",
+      "engagement": "373 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; serial-deployer history flagged; thin engagement; same ticker as earlier boarded GAE but different CA. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118860133489156474",
+      "followers": 38572
+    },
     {
       "coin": "GAE ($GAE)",
       "chain": "Solana",
@@ -272,36 +302,6 @@
       "flags": "Only an automated signal account so far; ticker collisions with Solana dogwifhat ($WIF); thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118826836885119200",
       "followers": 38571
-    },
-    {
-      "coin": "Opsec Level ($OPSEC)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5xSFnHiJQ2XTniHfPT8eFB83XbT8PCvnW6ZDTz5rpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 23:01 Berlin an AI Signal that Opsec Level ($OPSEC) is a privacy-themed Solana token, only 3 min 13 s old at signal time and already 81% of the way along the pumpfun bonding curve toward graduation; it flags something odd about the crowd (text cut off).",
-      "engagement": "265 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; privacy-theme wave continues; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118826057809932457",
-      "followers": 38570
-    },
-    {
-      "coin": "\"this user is <targeting you>\" (⚡👑)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 3kYxNzoUqD2pkVcEVuR5T38j4e4zjDF9fdZjrKjzpump (pump.fun / pumpfun).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:59 Berlin an AI Signal that a pumpfun token named with lightning/crown emoji and the phrase \"this user is <targeting you>\" is about three minutes old, and most of the top hundred wallets that bought it have already sold at least half; it says there is no clear theme and the description only (text cut off).",
-      "engagement": "263 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme; heavy early seller flip noted in signal; thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118825746676527424",
-      "followers": 38570
-    },
-    {
-      "coin": "Universal extremely high income ($UEHI)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GvfdDLVjjPpSPEmpA8ov8q4GHnFakPf5S2tTvLrjRdmJ (float launchpad / Raydium LaunchLab bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 22:51 Berlin an AI Signal that Universal extremely high income ($UEHI) is a brand-new Solana token on the float launchpad, still on the float bonding curve at Raydium LaunchLab, roughly 35 seconds old; name and ticker state an income theme (text cut off).",
-      "engagement": "164 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; income-theme clone wave. Distinct CA from the same-window pumpfun $UEHI signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118823720622108776",
-      "followers": 38570
     }
   ],
   "news": [
