@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 01:25 Berlin time (UTC+01:00)",
-  "newestPostId": "2118862337038028811",
-  "note": "Window: X posts since prior newestPostId 2118861595405320433 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 AI-signal/bitecong query). Added 0 launch(s) and 0 news item(s). Seen but skipped: dex_kolwatcher paid-radar $LATE (already boarded CA); DRAGON100years self-shill $DRAGON (11 followers, account hours old); True_Rick_ referral promo; icheckchart reply thread; turbs888 political billboard rant false-positive; no bitecong AI signals in window.",
+  "lastUpdated": "Saturday 7 Nov 2026, 01:28 Berlin time (UTC+01:00)",
+  "newestPostId": "2118863131959304507",
+  "note": "Window: X posts since prior newestPostId 2118862337038028811 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query + 1 AI-signal/bitecong query). Added 1 launch(s) and 0 news item(s). Seen but skipped: AFTERLIGHTKING self-shill $AFTER (384 followers, 9 impressions); listing/rug/pump query returned empty.",
   "launches": [
+    {
+      "coin": "I Saw Joe At 3k ($JOE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address C6qzCXZC9zoau81rtmgbLReG9bExnqe9NDM818typump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 01:28 Berlin an AI Signal that I Saw Joe At 3k ($JOE) is a pumpfun token named for Ansem's tweet about the number 3k, still on the bonding curve and most of the way to graduation; the token description points to a third-party (text cut off).",
+      "engagement": "142 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; theme tied to Ansem tweet / 3k meme. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118863131959304507",
+      "followers": 38574
+    },
     {
       "coin": "LATE ($LATE)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; heavy bundler footprint flagged in signal; thin engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118829004828660024",
       "followers": 38572
-    },
-    {
-      "coin": "wallahi im finished ($WIF)",
-      "chain": "Robinhood Chain",
-      "chainNote": "Post gives contract address 0x5dbd791069b347782b55f2d0b2e3e97179822de2 (Robinhood chain EVM pair; not Solana dogwifhat).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 23:04 Berlin an AI Signal that wallahi im finished ($WIF) is a young Robinhood chain pair with no clear theme; last hour's trading volume was 2.92x the market cap, and the name reads like an exclamation (text cut off).",
-      "engagement": "273 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; ticker collisions with Solana dogwifhat ($WIF); thin engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118826836885119200",
-      "followers": 38571
     }
   ],
   "news": [
