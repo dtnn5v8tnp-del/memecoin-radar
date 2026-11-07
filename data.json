@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 02:13 Berlin time (UTC+01:00)",
-  "newestPostId": "2118874188534411550",
-  "note": "Window: X posts since prior newestPostId 2118873633963561319 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query; no news search this run). Added 1 launch(s) and 1 news item(s). Seen but skipped: Samurai_Gems0 $RETARDO call/shill (1,874 followers, thin engagement); WestmarkCalls $Lucky 20× call account (2,480 followers, 42 imp); SolTokenScan Busted CTO alert (3,275 followers, 0 imp); airdrop-farm spam ($HANA/$SI/$NATF/本命年); low-follower self-launch $HLOPS/$MTA; French-reply noise matching CA:.",
+  "lastUpdated": "Saturday 7 Nov 2026, 02:18 Berlin time (UTC+01:00)",
+  "newestPostId": "2118875548936200583",
+  "note": "Window: X posts since prior newestPostId 2118874188534411550 (recency: 1 launch/pumpfun query + 1 listing/rug/pump query; no news search this run; first launch query failed on invalid CA: operator and was retried). Added 1 launch(s) and 0 news item(s). Seen but skipped: justaguy_sol $Pirate CA quote (6 followers, 1 imp); DonkeyoverSolan stealth-launch spam (0 followers, brand-new account); awing0523 $SHK BADShark shill (91 followers); ibrahim97325566 solana ATH call (50 followers); political rug-pull replies (Trump/Bitcoin noise); cryptokendefi $QUBIC delist/hack reply (318 followers, 11 imp); Liftoff XRPL launchpad reply (153 followers); MRNA_Coin self-shill (10 followers); follow- beg replies.",
   "launches": [
+    {
+      "coin": "Callset ($CALL)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 7tAjeX7mNQg2jsJkDH1ePwVNBG5J9xKoys2CMZdfpump (pump.fun / pumpfun bonding curve).",
+      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:16 Berlin an AI Signal that Callset ($CALL) is a pumpfun launch on Solana; the sharpest fact it flags is bundler behavior: 124 wallets were bundled into the launch and by signal time almost none of that group was still holding (text cut off).",
+      "engagement": "277 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; heavy bundler exit flagged (124 wallets, nearly all gone). Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118875216499941839",
+      "followers": 38571
+    },
     {
       "coin": "scamsem ($scamsem)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "280 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; graduated already per signal; thin engagement. Theme ties to ongoing CT Sahil/Ansem drama names, not verified connection. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118834521684767072",
-      "followers": 38571
-    },
-    {
-      "coin": "Billy ($BILLY)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address CrZWVTzg58C2b7rPhAh5fqT5xjtRafFoMWHC3aS9pump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 23:30 Berlin an AI Signal that Billy ($BILLY) is a pumpfun token on Solana less than two minutes past launch, and scores of bundler wallets showed up at signal time; the name carries no story of its own (text cut off).",
-      "engagement": "309 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; bundler wallets flagged in signal; thin engagement. Distinct CA from the earlier same-name Billy (GyDhp…) already on the board. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118833372013494631",
       "followers": 38571
     }
   ],
