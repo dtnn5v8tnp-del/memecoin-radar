@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 07:13 Berlin time (UTC+01:00)",
-  "newestPostId": "2118949922884243878",
-  "note": "Window: X posts since prior newestPostId 2118949755573199281 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query with $ stripped by API → 0 hits; 1 news search max_age 6h). Added 0 launch(s) and 0 news item(s). Seen but skipped: @ThinkrOS $THKR Pumpfun self-promo (132 followers, 0 likes / 0 impr — project account, no organic engagement). News search returned stories already on board (Robinhood Chain memecoins, Pump.fun Diamond rewards, Theo Von $NIO, SPX6900 DCA, Thinking Cat $HMM Robinhood, Solana Leap app) plus non-memecoin items skipped (Coinbase PAXG borrow, Hyperliquid HYPE burns, Rarelist creator payouts, BAYC Mudwater). No rugs/exploits/major listings with real engagement; no launch with real organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 07:20 Berlin time (UTC+01:00)",
+  "newestPostId": "2118951418946293800",
+  "note": "Window: X posts since prior newestPostId 2118949922884243878 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query with $ stripped by API). Added 1 launch(s) and 0 news item(s). Seen but skipped: @dex_kolwatcher $CI paid DEXScreener bot; @Iprintfigures/$Cashcat pairing shill (543 followers, 7 impr); @Aminetacoin project reply; @KodaqSOL 'Tail' meme narrative with no CA (672 followers, 16 impr); @suisamuii $BTTY opinion; @coco961001 IPXExchange Base IP platform promo (not a memecoin launch); @Tmaia_ $TENDIES Robinhood Chain airdrop (7 impr); trading-signal spam ($LYN/$PEPE); political Trump rug/pump replies; @gwom83113 $wojak Runes shill; @JayMarWeb3 thin reply to older WatcherGuru MEXC Treasury-ban story (not re-added). No rugs/exploits/major listings with real engagement; no launch with real organic engagement beyond thin AI signal.",
   "launches": [
+    {
+      "coin": "Cash Dog ($CASHDOG)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address AR282rBKsxZbhXsYvjcgF5UuS4ckQtRM5KU7k9DHpump (pump.fun / pumpfun bonding curve; signal says most of the way to graduation).",
+      "buzz": "Signal account @bitecong (38,573 followers) posted at 07:15 Berlin an AI Signal that Cash Dog ($CASHDOG) is a pumpfun memecoin still on its bonding curve and most of the way to graduation, with a cash-and-dog theme. Nearby posts also pitch pairing Cashdog with $Cashcat (Robinhood-savior narrative flipped to Sol).",
+      "engagement": "425 impressions, 0 likes, 0 reposts at scan time on the signal; related chatter still thin (low single-digit likes).",
+      "flags": "Only an automated signal account so far; thin engagement; cash-and-dog / Cashcat-pair narrative. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118950543636967823",
+      "followers": 38573
+    },
     {
       "coin": "Ze ($Ze)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; theme tied to Ansem tweet / 3k meme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118863131959304507",
       "followers": 38574
-    },
-    {
-      "coin": "LATE ($LATE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 9irzXvqHLGdCXkHxQD9ZTZFbeYRVmBg1cT2oT7ppump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 01:22 Berlin an AI Signal that LATE ($LATE) launched on pumpfun on Solana and graduated to PumpSwap about four minutes and twenty-eight seconds into its life; it says the name, ticker and description carry no story beyond the word (text cut off).",
-      "engagement": "205 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no clear theme flagged in signal; thin engagement; generic LATE ticker. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118861595405320433",
-      "followers": 38572
     }
   ],
   "news": [
