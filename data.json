@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 05:21 Berlin time (UTC+01:00)",
-  "newestPostId": "2118921523494854692",
-  "note": "Window: X posts since prior newestPostId 2118920054213579116 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; 1 AI-signal/bonding-curve query). Added 0 launch(s) and 0 news item(s). Seen but skipped: 0rdlibrary Solana voice-trading promo (22.4k fol, 90 imp); Gwak_grn $GWAK coming soon pre-announce (1 fol, 1 imp); ThatUrchin pump.fun paid-influencer commentary (719 fol, 3 imp); Influencer_786 reply connect-spam (30.3k fol, 2 imp); GorillaeDAO community hold callout for existing CA (8.3k fol, 29 imp, 1 like); Bitkesh2 $MUTTAPE 2x call (170 fol, 11 imp); souvik_eth1 ETH pump/dump joke (566 fol, 0 imp); Crypto__Haris own-coin '4 days before launch' teaser (93.9k fol, 1870 imp, 5 likes, 2 RTs) — not live yet; Tanis2087 rug-protection meme (31 fol, 0 imp); monowvs rug-central commentary (730 fol, 1 imp); FallingGuy112 pump spam (0 fol, 5 imp); TopBlastS0L run-a-coin-for-genny (16 fol, 3 imp); venomtraders_ Montra/Elysium launch-platform promo (1.4k fol, 13 imp). No genuine new launches with real engagement; no rugs/exploits/major listings/ETF.",
+  "lastUpdated": "Saturday 7 Nov 2026, 05:26 Berlin time (UTC+01:00)",
+  "newestPostId": "2118922834718101642",
+  "note": "Window: X posts since prior newestPostId 2118921523494854692 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; 1 AI-signal/bonding-curve query). Added 1 launch(s) and 0 news item(s). Seen but skipped: Jacknotsparrow_ launch-mania / $AMD / $PEPE spam (29 fol, thin imp); joycejam08 $SLINGFOLIO 71x call (324 fol, 3 imp, 1 like) — already tracked coin; AlphaPulsevw / EarlyRada / CipherEdgeCalls / EvansOnSolana / VELORA_GEMS $SLINGFOLIO call farm (already in launches); unconquerablee / LizethMonArt / Juannfxp / Tmaia_ / lagesjullia / FixitCanada airdrop spam farms; dex_kolwatcher $iMoney paid DEXScreener detect (8.9k fol, 190 imp); 0rdlibrary Solana x AI promo (22.4k fol, 107 imp); SolRipBurn breadhead NFT reclaim promo (863 fol, 10 imp); 0x5teve pumpfun reply spam (13 fol); VictorSlavic Crypto__Haris 4-days-before-launch reply (1.2k fol, 1 imp); EvansOnSolana $PALICO / $Alice entry watch (1.1k fol, thin); Makemoneyswarm $makemoney reply (41 fol); AlanTrading / politics / Diwali off-topic noise. No rugs/exploits/major listings/ETF; Slingfolio call-farm noise only (already listed).",
   "launches": [
+    {
+      "coin": "cr*pto ($CR*PTO)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 4HKFBG2289TRVNfE9SJ7UnwekEAkcWTApTHEPjiupump (pump.fun / pumpfun bonding curve; signal says 84% to graduation).",
+      "buzz": "Signal account @bitecong (38,570 followers) posted at 05:22 Berlin an AI Signal that cr*pto (CR*PTO), which spells its name with an asterisk in place of a letter, was about six minutes old and 84% of the way along the pumpfun bonding curve to graduation on Solana.",
+      "engagement": "369 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; name stylized with asterisk. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118922056511508799",
+      "followers": 38570
+    },
     {
       "coin": "Slingfolio ($Slingfolio)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; deployer record flagged in signal; thin engagement; generic FOMO ticker. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118854486466957490",
       "followers": 38573
-    },
-    {
-      "coin": "Official Float Coin ($FLOAT)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5a6xM1r5KmpSVVr1v6hiwVa5hmT3h7GjZd3bwgYfLoat (signal labels it a float launchpad / Raydium LaunchLab coin).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 00:52 Berlin an AI Signal that Official Float Coin ($FLOAT) is 23 seconds old on Solana, a float launchpad coin on Raydium LaunchLab; tracking since the signal puts it near where it started, and it says there is no researched story (text cut off).",
-      "engagement": "292 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; no researched story flagged; thin engagement; distinct from earlier Fourtis-listing FLOAT news on the board. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118853949352796216",
-      "followers": 38571
     }
   ],
   "news": [
