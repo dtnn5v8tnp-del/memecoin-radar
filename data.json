@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 06:55 Berlin time (UTC+01:00)",
-  "newestPostId": "2118945276119425437",
-  "note": "Window: X posts since prior newestPostId 2118944186074284322 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; 1 X news search this run). Added 0 launch(s) and 0 news item(s). Seen but skipped: @AlphaPulsevw/@Solid_calls/@solhousesignals $MEME call/signal spam (CA CuDaiesYbXQgAJsMowt61k6EhhS2sjbao3g9i3GMpump; thin likes, TG promo); @dex_kolwatcher $baton paid-DEXScreener bot (169 impr, $22 buy vol); @GGMCRYPTO $DCAT / @doganayodabass $HODL multiplier call bait; @jackson_co42465 $NEX (3 fol); airdrop spam (@drugsfaxx/@sbusfzi/@lagesjullia); @cookdbot reply bot. News search returned Robinhood Chain / Pump.fun Diamond / SPX6900 / Theo Von $NIO stories already on the board. No rugs/exploits/major listings with real engagement; no launch with real organic engagement.",
+  "lastUpdated": "Saturday 7 Nov 2026, 07:01 Berlin time (UTC+01:00)",
+  "newestPostId": "2118946549799727260",
+  "note": "Window: X posts since prior newestPostId 2118945276119425437 (recency: 1 broad launch/pumpfun query; 1 listing/rug/meme-news query; no X news search this run — prior run covered news). Added 1 launch(s) and 0 news item(s). Added: @bitecong $Hakutaku (CA 21azpu32…pump; graduated to PumpSwap; dog/Yahoo Auctions theme; 396 impr, 0 likes). Seen but skipped: @0x_why85 ActionFi reward-pool promo (not a memecoin launch); @cookdbot reply bot; @Cryptosulli01 follow-back spam; @Itachi_insidors 'launching soon' vaporware (105 fol); @ZAYRO_SOL self-shill (81 fol, 2 impr); @LisaKingGems/$FROG follow-back reply; @dev_dkm21 Elon Coin ($ELON) BAGS spam (0 fol); giveaway/politics noise in news query. No rugs/exploits/major listings with real engagement; no launch with real organic engagement beyond the thin AI signal.",
   "launches": [
+    {
+      "coin": "Hakutaku ($Hakutaku)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 21azpu32qfuNZR6TkKdUZKVnDtmvTUSBrXxhRFE5pump (pump.fun / pumpfun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,574 followers) posted at 06:57 Berlin an AI Signal that Hakutaku ($Hakutaku / HAKUTAKU) carries a dog theme (one post says a dog's owner replied to it; another calls the dog the new model for Yahoo Auctions) and that Hakutakucoin graduated from pumpfun to PumpSwap.",
+      "engagement": "396 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin engagement; dog / Yahoo Auctions meme theme; already graduated. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2118945929747472584",
+      "followers": 38574
+    },
     {
       "coin": "mem ($mem)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "286 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; night-sky theme only. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118861250373501414",
-      "followers": 38572
-    },
-    {
-      "coin": "GAE ($GAE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 2Dw5T9CYNaomzjoNg4useZWsrAubU4nVyk2iUUXC94ob (distinct CA from earlier boarded JBv9…pump $GAE).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 01:16 Berlin an AI Signal that GAE ($GAE) is a joke-question meme on Solana already climbing its curve at signal time; it flags the deployer as having created many thousands of tokens (text cut off).",
-      "engagement": "373 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; serial-deployer history flagged; thin engagement; same ticker as earlier boarded GAE but different CA. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118860133489156474",
       "followers": 38572
     }
   ],
