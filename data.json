@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 17:57 Berlin time (UTC+01:00)",
-  "newestPostId": "2119836607817584768",
-  "note": "Window: X posts since ~17:45 Berlin (prior newestPostId 2118960547869667775 was from 7 Nov, so this run scanned only the last ~12 min; recency: 1 launch/pumpfun query; 1 listing/rug/whale/ETF query). Added 1 launch(es) and 0 news item(s). Seen but skipped: repeated 'X-fold call' accounts (@itsmeflow18, @CipherEdgeCalls, @Alpharadarp, @SOLANALYST01, @MEGCRYPT0, @Legend_Britney) on $AIB/$BMT/$QUAKE/$POVERTY/$CUPSEY; @Theblackbullxxx $PUSSY shill (183k fol, likely engagement farm); @dex_kolwatcher paid-DEX bot; @perpspadapp Perpspad launchpad (account created today, 2 fol); @tikoxbt $mihao mention (low engagement). No rugs/exploits/major listings/ETF news.",
+  "lastUpdated": "Monday 9 Nov 2026, 18:01 Berlin time (UTC+01:00)",
+  "newestPostId": "2119837704569676284",
+  "note": "Window: X posts since 2119836607817584768 (1 broad recency query) plus X News search (6h). Added 1 launch(es) and 3 news item(s). Seen but skipped: repeated call/VIP accounts (@Sol_Gems00 $ELON2028, @Botched_caller $QUAKE, @CipherEdgeCalls $LASTTRUCK, @SOLANALYST01/@SOLEARLYINSIGHT $POVERTY, @DegenFlow_ $MYWAY); new low-follower launchpad/tool accounts (Flux, LaunchSafe, Soltimeline, ApesHaveFun); @0xfamzy_ $WIN on Uphold (not a memecoin, low engagement).",
   "launches": [
+    {
+      "coin": "WIFE ($WIFE)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 9nm9PkqnMegygdH3P3XUsM57AZKtsDqMuhNGt7chpWwD (graduated from pumpfun to PumpSwap). A second $WIFE (CA 8DairKVq88C3T7rFP5prre2rhB8UuNGha1gbKFfPzYYh, float launch) was flagged a minute later with a 65% bundler share.",
+      "buzz": "Signal account @bitecong (38,602 followers) posted at 17:59 Berlin that this was the second wife-themed Solana launch today, about eleven minutes old, graduating to PumpSwap just before the signal.",
+      "engagement": "276 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Copycat tickers; one version has a 65% bundler share. Automated signal only, no organic engagement. Very high risk.",
+      "url": "https://x.com/bitecong/status/2119837400893628421",
+      "followers": 38602
+    },
     {
       "coin": "Loom Terminal ($LOOM)",
       "chain": "Solana",
@@ -292,19 +302,33 @@
       "flags": "Only an automated signal account so far; thin engagement; generic work theme with no story. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118869294838857926",
       "followers": 38573
-    },
-    {
-      "coin": "Libtard ($Libtard)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 8b4SeQFqBG2Td7wcB8Z7HofcRYG6aFpAqSsyvgbBpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:47 Berlin an AI Signal that Libtard ($Libtard) is the third launch on pumpfun today built around the libtard name, with the pair about four minutes one second old; it notes mint and freeze authorities on Solana (text cut off).",
-      "engagement": "328 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; third same-day libtard-name launch (serial-theme risk). Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118868000510222593",
-      "followers": 38573
     }
   ],
   "news": [
+    {
+      "topic": "Exploit / laundering",
+      "headline": "X News: North Korean hackers mint meme coins to launder Binance heist funds",
+      "coins": "Throwaway NEAR tokens (one touting 'Elon 2028 President')",
+      "detail": "X News story says the TraderTraitor group, blamed by the FBI for the 29 Oct Binance hack (reported as a record $6.4B heist), created at least six tokens on NEAR between 5 and 7 Nov and funneled about $430,000 in stolen NEAR through their liquidity pools using separate wallet clusters. Elliptic spotted the tactic; each token cost about $90 to make, and almost no real traders joined in.",
+      "updated": "Monday 9 Nov 2026, 16:35 Berlin",
+      "url": "https://x.com/i/trending/2119814869281378384"
+    },
+    {
+      "topic": "Dump / influencer",
+      "headline": "X News: Solana influencer Slingoor dumps Big Titty Coin stake",
+      "coins": "Big Titty Coin (Solana)",
+      "detail": "X News story says Slingoor (about 190,000 followers, a top Pump.fun earner with over $526,000 in rewards) heavily promoted the coin, then his wallet sold 62% of supply in under a minute, taking it from millions to near zero. He cited extortion attempts and death threats and said he had lost money overall through earlier buybacks.",
+      "updated": "Monday 9 Nov 2026, 17:38 Berlin",
+      "url": "https://x.com/i/trending/2119481829040259480"
+    },
+    {
+      "topic": "Rug accusation",
+      "headline": "X News: PercolatorTrade abandons its pump.fun token for a new $250K raise",
+      "coins": "$PERCOLATOR (old), PERC (new)",
+      "detail": "X News story says PercolatorTrade moved to MetaDAO's Backable platform for a $250,000 raise with a new PERC token, leaving old $PERCOLATOR holders with no migration or airdrop beyond $50,000 reserved for eligible holders; the old token reportedly fell 90%. Critics call it a rug; the team says the old token was a community takeover and the work stays open source.",
+      "updated": "Monday 9 Nov 2026, 17:49 Berlin",
+      "url": "https://x.com/i/trending/2119243490630746435"
+    },
     {
       "topic": "Sector / sentiment",
       "headline": "X News: Memecoin debate questions if the era has ended",
@@ -520,30 +544,6 @@
       "detail": "Verified @beincrypto (87,615 followers) posted at 20:18 Berlin that India's Enforcement Directorate searched three offices tied to CoinDCX and Delta Exchange over alleged foreign exchange violations, claiming customer rupee deposits were converted into $USDT for offshore routing (text cut off). Outlet-reported regulatory action, not a memecoin-specific event.",
       "updated": "6 Nov 2026, 20:19 Berlin",
       "url": "https://x.com/beincrypto/status/2118785188222341443"
-    },
-    {
-      "topic": "Exchange listing / Collector Crypt",
-      "headline": "X News: Coinbase opens spot trading for Collector Crypt (CARD)",
-      "coins": "CARD, CARDS, Solana",
-      "detail": "X news summary (updated ~20:10 Berlin): Coinbase opened spot trading for Collector Crypt (CARD) on 6 Nov 2026 after liquidity requirements in supported regions. Native as CARDS on Solana, it tokenizes graded physical trading cards into redeemable NFTs (gacha packs, trade, or redeem vaulted cards); platform cited at $433.5M Q3 sales. Auction mode for 10 minutes then full orders; availability varies by jurisdiction. Figures and details are from the X news summary.",
-      "updated": "6 Nov 2026, 20:18 Berlin",
-      "url": "https://x.com/i/trending/2118780727491772832"
-    },
-    {
-      "topic": "Pump.fun / influencer speculation",
-      "headline": "X News: Speculation that Ansem may have a Pump.fun deal",
-      "coins": "Pump.fun, $ANSEM",
-      "detail": "X news summary (updated ~20:11 Berlin): Claims circulate that trader @blknoiz06 (Ansem) cut a deal with Pump.fun, citing boosts of low-follower accounts that then post pro-platform content. Tied to Pump.fun callout USDC rewards and talk around $ANSEM sliding from about $0.40 peak to $0.05. Unverified speculation from the X news summary, not a primary disclosure.",
-      "updated": "6 Nov 2026, 20:18 Berlin",
-      "url": "https://x.com/i/trending/2118780734357766384"
-    },
-    {
-      "topic": "Tokenized equity / Backpack",
-      "headline": "Backpack: $MNST (Monster Beverage share token) listed on Solana with Sunrise",
-      "coins": "MNST, Solana",
-      "detail": "Verified @BackpackOnchain (14,121 followers) posted at 20:17 Berlin that $MNST issued by Backpack Securities is listed on Solana with @Sunrise, redeemable 1:1 for Monster Beverage shares and transferable to traditional brokerages. This is a tokenized equity product, not a memecoin launch.",
-      "updated": "6 Nov 2026, 20:18 Berlin",
-      "url": "https://x.com/BackpackOnchain/status/2118784749024276748"
     }
   ],
   "hourly": [
