@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 21:59 Berlin time (UTC+01:00)",
-  "newestPostId": "2119897594193199133",
-  "note": "Window: X posts since 2119896783811952882 (1 page of 1 recency query, 18 posts; covered about 21:56 to 21:59 Berlin). Added nothing new. Seen but skipped: $HWAN 3x to 78x calls; $MAYA $16K to $734K MC call; $CAT 98x call; $tagcat bot signal; $GATO, $LBT, $PENNYWISE (pre-launch), OnePieceSol teasers; ALM promo; repost of the North Korea memecoin laundering story (already delivered); Solana Shanghai skyscraper event shutdown joke (unverified, 46 followers). DELIVERED: the user has already been sent the $HODLER and Elizabeth Warren alerts (and earlier North Korea, Cupsey alerts); do not re-send them.",
+  "lastUpdated": "Monday 9 Nov 2026, 22:05 Berlin time (UTC+01:00)",
+  "newestPostId": "2119898915659255982",
+  "note": "Window: X posts since 2119897594193199133 (1 page of 1 recency query, 25 posts; covered about 21:59 to 22:04 Berlin) plus one news search. Added 1 news item ($BAGWORK bagworking narrative). Seen but skipped: $HWAN 3x to 11x calls; $HYPEPE $59K to $1M call; $Plorb bot signal; $PEPEE pre-launch for 11 Nov 17:00 UTC (2.2K impressions, 1 like); @raid100x '$230 to $40.6M' post (no ticker); Anza plan to remove Solana durable nonces, cited by Drift in its $295.7M exploit (from a 21-follower account, not verified); MICHLER, GUDDOG, Elysium promos. News search also repeated the North Korea, PercolatorTrade and slingoor stories already on the dashboard. DELIVERED: the user has already been sent the $HODLER and Elizabeth Warren alerts (and earlier North Korea, Cupsey alerts); do not re-send them.",
   "launches": [
     {
       "coin": "Diamond Ape HODLER ($HODLER)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Narrative",
+      "headline": "Traders call for a return of 'bagworking' as memecoin market cools",
+      "coins": "$BAGWORK (new token riding the theme)",
+      "detail": "X's news summary (updated 20:56 Berlin) says traders are nostalgic for 'bagworking', holding and promoting a single memecoin like a full-time job, as in early Solana days, with posts like 'We need to make bag working great again'. It says new tokens such as $BAGWORK aim to revive the idea, while some doubt it can return amid fast flips. No price or market-cap figures were given.",
+      "updated": "Monday 9 Nov 2026, 22:05 Berlin",
+      "url": "https://x.com/i/trending/2119453397216821660"
+    },
+    {
       "topic": "Regulation",
       "headline": "Warren set to chair Senate Banking, with Trump-family crypto and prediction markets as first targets",
       "coins": "Trump-family crypto ventures (incl. the $TRUMP meme coin ecosystem); prediction markets Polymarket and Kalshi",
@@ -536,14 +544,6 @@
       "detail": "@StarPlatinum_ (112,237 followers) posted at 00:14 Berlin that Sahil (behind 2024 celebrity memecoin launches) is \"exposing\" undisclosed KOL deals; the post alleges Ansem received $100K to promote Iggy Azalea's $MOTHER and that Sahil paid Ansem three separate times (thread continues via link). Unverified claims; thin engagement so far (565 impressions, 0 likes at scan).",
       "updated": "7 Nov 2026, 00:15 Berlin",
       "url": "https://x.com/StarPlatinum_/status/2118844557240504468"
-    },
-    {
-      "topic": "Wallet / Solana ecosystem",
-      "headline": "X News: Phantom wallet locks users after scammer dust attacks",
-      "coins": "",
-      "detail": "X News story (updated ~23:37 Berlin) says unsolicited dust payments from malicious addresses can trigger Phantom's compliance filter, disabling sends and swaps in-app while the chain still works; critics say that undercuts self-custody. Story notes dusting has hit millions of Solana wallets; Phantom points to terms of use, and users can export the recovery phrase to another wallet. Relevant for Solana memecoin traders. Unverified beyond the X News summary.",
-      "updated": "7 Nov 2026, 00:15 Berlin",
-      "url": "https://x.com/i/trending/2118833478636638625"
     }
   ],
   "hourly": [
