@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:47 Berlin time (UTC+01:00)",
-  "newestPostId": "2119849365644710230",
-  "note": "Window: X posts since 2119848103993917780 (1 broad recency query). Added 0 launches and 0 news items. Seen but skipped: @wizardofsoho (143k fol) saying he rotated from ZEC to $PEPE (opinion, 4 likes); @chadscabal next-call tease (no ticker); $QUADRILLIONS first-day $4.13M claim from an 82-follower account; call accounts on $BabyPunch, $MYWAY, $LASTTRUCK, $CUPSEY, $HODL, $GTA; $AUDREY (Avalanche), $VANITY (1 fol), $texcat, $1% promos.",
+  "lastUpdated": "Monday 9 Nov 2026, 18:52 Berlin time (UTC+01:00)",
+  "newestPostId": "2119850426279309589",
+  "note": "Window: X posts since 2119849365644710230 (1 broad recency query) plus X News search (2h). Added 0 launches and 1 news item (viral 'NOT a Chinese spy' meme). Seen but skipped: X News 'community warns of memecoin risks' roundup (repeats North Korea/Plan B stories); another $NVIDIOT copycat (5HGFx1g9...pump, $26.3K MC, scanner bot); a second $Cupsey contract (3mCvCUtg...pump) pushed by call accounts; call accounts on $LASTTRUCK, $BMT, $GTA, $BABYPUNCH; @speedyswimmerr $PUSSY shill; $CLU, $BUFFCAT, Piju promos.",
   "launches": [
     {
       "coin": "NVIDIOT ($NVIDIOT)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Viral meme",
+      "headline": "X News: 'I am NOT a Chinese spy' meme spreads through crypto circles",
+      "coins": "n/a (no coin cited yet)",
+      "detail": "X News story (updated ~17:16 Berlin) says crypto journalist Tiffany Fong started it on 9 Nov with a selfie captioned 'I am NOT a Chinese spy', drawing thousands of likes; influencer Irene Zhao and others joined with variants ('NOT a CIA spy'). It riffs on recent OpenAI warnings about romance 'honeypot' spies. Fresh crypto-native meme that could spawn coins; none reported in the sources so far.",
+      "updated": "Monday 9 Nov 2026, 17:16 Berlin",
+      "url": "https://x.com/i/trending/2119771688799707597"
+    },
+    {
       "topic": "Insider dump allegation",
       "headline": "Bubblemaps alleges Solana trader Cupsey dumped on followers via ~30 hidden wallets",
       "coins": "Various Solana memecoins (unnamed in post)",
@@ -536,14 +544,6 @@
       "detail": "@fourtislisting (67,292 followers) posted at 22:18 Berlin a Pump Alert that Donna Dollars (@donnadollars365) is up 300% since listing on Fourtis, citing first MC $204K and last MC $864K. CA from the quoted listing post: FMqWsXKaAe41Kxfji7v5cpzQmr2gKAteAi9wREmkpump (Solana / pump).",
       "updated": "6 Nov 2026, 22:21 Berlin",
       "url": "https://x.com/fourtislisting/status/2118815408174076084"
-    },
-    {
-      "topic": "Influencer / transparency",
-      "headline": "X News: Ansem faces accusations of hidden wallet schemes amid Pump.fun reward talk",
-      "coins": "Pump.fun, $ANSEM",
-      "detail": "X news summary (updated ~21:27 Berlin): Bubblemaps said it plans to expose a major KOL for allegedly drawing copy traders to public wallets while selling via hidden side wallets, farming rewards, and bundling tokens. Community speculation centered on trader @blknoiz06 (Ansem), with talk of Pump.fun trading, large shorts, and past paid promos. Unverified accusations from the X news summary, not a primary disclosure; continues earlier Ansem / Pump.fun reward speculation already on the board.",
-      "updated": "6 Nov 2026, 22:08 Berlin",
-      "url": "https://x.com/i/trending/2118761302281822240"
     }
   ],
   "hourly": [
