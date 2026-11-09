@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 20:57 Berlin time (UTC+01:00)",
-  "newestPostId": "2119881876361904237",
-  "note": "Window: X posts since 2119879717805605341 (1 page of 1 recency query plus 1 news search; covered about 20:50 to 20:56 Berlin). Added $FAIR call-account pump claim. Seen but skipped: @jackthewolff link saying Binance calls a 335.9M-record data-sale listing likely a scam with no breach found; Elliptic/TraderTraitor NEAR memecoin laundering and PercolatorTrade token switch (already listed); $PAYDAY, $PILL, $RIGBY, $CLMFND, $Hannah, $PUSSY, $TREMP calls and promos; rug-call posts by @lykttrades.",
+  "lastUpdated": "Monday 9 Nov 2026, 21:01 Berlin time (UTC+01:00)",
+  "newestPostId": "2119883044475580709",
+  "note": "Window: X posts since 2119881876361904237 (1 page of 1 recency query; covered about 20:57 to 21:01 Berlin). Updated the $FAIR row with more call-account gain claims. Seen but skipped: $ORBIT (claimed 17x by @DegenFlow_), $WOLF call, $FEELSGOOD listed on FunTok (~$1.24M MC per FunTok), $EACC HyperCore spot listing claim (40-follower account), $FORK claim promo, and new zero-follower launches $VPAR, $CAT, $DOZMO.",
   "launches": [
     {
       "coin": "$FAIR",
       "chain": "Solana",
       "chainNote": "Contract FairDR2UmRqHxsVPdPcetePCjFaDqVYv3oQX9fcQTpTg (as posted by call accounts).",
-      "buzz": "@universolumina claimed at 20:53 Berlin that $FAIR went from about $15K to $129K market cap in under 18 minutes (about 8.6x). @_Shonsol and @degen_piilot posted the same 'watch your entry, gamble for now' call at 20:55 Berlin.",
-      "engagement": "Call posts: 0 to 1 likes, 4 to 58 impressions at scan.",
+      "buzz": "@universolumina claimed at 20:53 Berlin that $FAIR went from about $15K to $129K market cap in under 18 minutes (about 8.6x). @_Shonsol and @degen_piilot posted the same 'watch your entry, gamble for now' call at 20:55 Berlin. Between 20:57 and 21:01 Berlin, call accounts kept claiming bigger gains: @BillyOnChain1 said 8.8x, @Botched_caller 30x, and @_Shonsol 27x, then 31x, then 35x.",
+      "engagement": "Call posts: 0 to 1 likes, up to about 70 impressions at scan.",
       "flags": "Move figures come from a Telegram-promo call account and are unverified; copy-paste call posts; very new token; very high risk.",
       "url": "https://x.com/universolumina/status/2119881065904951489",
       "followers": 657
