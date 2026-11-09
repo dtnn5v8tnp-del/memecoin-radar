@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:25 Berlin time (UTC+01:00)",
-  "newestPostId": "2119843802022056352",
-  "note": "Window: X posts since 2119842430287544778 (1 broad recency query). Added 1 launch ($HODL, promoter-reported run) and 0 news items. Seen but skipped: @Ging1y note that the $MAGGIE deployer wallet has launched 20,000+ pump.fun tokens (106 impr); @enzocooks unnamed-memecoin '$54 to $11.7M' gains post (442k fol, no ticker, 751 impr); @trapmapdotfun $TMAP tool token launch; @speedyswimmerr $PUSSY 2.0 shill; call accounts on $AIB, $GTA, $BRUCE, $WIFE; $NHEX (2 fol), $BROKE, $BBTC, Vyra, Parity promos.",
+  "lastUpdated": "Monday 9 Nov 2026, 18:29 Berlin time (UTC+01:00)",
+  "newestPostId": "2119844595018486088",
+  "note": "Window: X posts since 2119843802022056352 (1 broad recency query). Added 0 launches and 0 news items; updated the $HODL row with an unverified $68.8M claim. Seen but skipped: @OldmanScalping post that Charles Schwab now lets clients trade $SOL, $AVAX and $LINK (157k fol, 1,177 impr, not memecoin-specific); @CrypttraderDave recap of the already-listed North Korea/NEAR meme-coin laundering story; @bitecong signals for $Osaru and $BabyPunch; call accounts on $LASTTRUCK, $MYWAY, $POVERTY, $AGENTDOM, $GNOSIS, $GTA; Elysium-chain $EDOGE and $VONSPEED promos.",
   "launches": [
     {
       "coin": "HODL ($HODL)",
       "chain": "Solana",
       "chainNote": "Posts give contract address 4N1pRfEMnWAUE8rhyhqwnsWe6TNjuQFhgvNB3Nr9pump (pump.fun).",
-      "buzz": "Several call accounts tracked a fast run between about 18:16 and 18:25 Berlin: @AlphaPulsevw (2,365 followers) posted market-cap updates of $143K, $242K, $321K, $1.0M, $2.2M and then $3.8M (from an $11K start); @EarlyChad_ and @SolMoh0x also posted about it.",
+      "buzz": "Several call accounts tracked a fast run between about 18:16 and 18:25 Berlin: @AlphaPulsevw (2,365 followers) posted market-cap updates of $143K, $242K, $321K, $1.0M, $2.2M and then $3.8M (from an $11K start); @EarlyChad_ and @SolMoh0x also posted about it. At 18:27 Berlin the same account claimed $4.1M and then $68.8M (6,254.5x).",
       "engagement": "Very low: 0 to 35 impressions per update, 0 to 1 likes at scan time.",
-      "flags": "All figures come from promoter/call accounts, not independently verified. Extremely fast move on a fresh pump.fun coin; very high risk of a sharp reversal.",
-      "url": "https://x.com/AlphaPulsevw/status/2119843802022056352",
+      "flags": "All figures come from one promoter account (@AlphaPulsevw) and are unverified; the jump from $4.1M to $68.8M within about a minute looks implausible. Treat as unconfirmed; very high risk.",
+      "url": "https://x.com/AlphaPulsevw/status/2119844401769828727",
       "followers": 2365
     },
     {
