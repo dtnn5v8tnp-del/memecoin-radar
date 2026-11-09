@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:34 Berlin time (UTC+01:00)",
-  "newestPostId": "2119846032167121208",
-  "note": "Window: X posts since 2119844595018486088 (1 broad recency query). Added 1 launch ($HODLER, promoter-reported) and 0 news items; added a follow-up detail to the Cupsey/Bubblemaps row. Seen but skipped: @pakhayok Slingoor recap claiming 620M Big Titty Coin tokens dumped in 42 seconds and his account going private (2,017 fol, 0 impr, already covered); @bitecong signals for $MERLYN; scanner posts on $NOVOS; call accounts on $GTA, $QUAKE, $CUPSEY; $WNO (BSC), $HIM, $LUCKYSLP and Moonshot promos.",
+  "lastUpdated": "Monday 9 Nov 2026, 18:42 Berlin time (UTC+01:00)",
+  "newestPostId": "2119848103993917780",
+  "note": "Window: X posts since 2119846032167121208 (1 broad recency query). Added 1 launch (NVIDIOT meme coins) and 0 news items; added spread details to the North Korea row. Seen but skipped: @raid100x '100x call' tease (908k fol, no ticker); @thePaulMcDonald pre-launch tease (no ticker); call accounts on $HODLER, $HODL, $LASTTRUCK, $HYPEPE, $BabyPunch, $cupsey; scanner/bot promos (Trench Radar, CredsBuyBot, DexBooster); $FROG promo.",
   "launches": [
+    {
+      "coin": "NVIDIOT ($NVIDIOT)",
+      "chain": "Solana",
+      "chainNote": "Several copycat contracts: FyVLetA1Jt84CPYPZTvxb8noxMrwbKj178ZoqkdWeVjc (already at $62.7K market cap when flagged); 64bxAF8S4aN9dQo15yUpRw3WM4CGYTSkYfYtkgxwoiG7 (ticker NVlDIOT, Raydium LaunchLab); 9JaFpv1gv6rxavqd73kFaALPKZyrArd6LxSWRcsFAENQ (Raydium LaunchLab).",
+      "buzz": "Fresh meme spawning coins: signal account @bitecong (38,605 followers) flagged three NVIDIOT launches between 18:40 and 18:41 Berlin and said it was the fourth nvidiot-themed Solana launch today. The name comes from a post/headline by tech outlet The Verge.",
+      "engagement": "193 to 248 impressions per signal, 0 likes at scan time.",
+      "flags": "Multiple copycat contracts with near-identical tickers (one uses a lowercase L); automated signals only; very early, very high risk.",
+      "url": "https://x.com/bitecong/status/2119847758748385467",
+      "followers": 38605
+    },
     {
       "coin": "HODLER ($HODLER)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; heavy bundler exit flagged (124 wallets, nearly all gone). Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118875216499941839",
       "followers": 38571
-    },
-    {
-      "coin": "scamsem ($scamsem)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 41WpXn15fxQXEGhiKnkqHcoJn14tNXXgmymLKE57pump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 02:11 Berlin an AI Signal that scamsem ($scamsem) is the second scamsem-themed launch on Solana today and had already graduated from pumpfun to PumpSwap one second after launch; it says the name and ticker carry no clear theme beyond the word itself (text cut off).",
-      "engagement": "274 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; second same-day scamsem-name launch (serial-theme risk); instant graduation. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118873900239204591",
-      "followers": 38573
     }
   ],
   "news": [
@@ -317,7 +317,7 @@
       "topic": "Exploit / laundering",
       "headline": "X News: North Korean hackers mint meme coins to launder Binance heist funds",
       "coins": "Throwaway NEAR tokens (one touting 'Elon 2028 President')",
-      "detail": "X News story says the TraderTraitor group, blamed by the FBI for the 29 Oct Binance hack (reported as a record $6.4B heist), created at least six tokens on NEAR between 5 and 7 Nov and funneled about $430,000 in stolen NEAR through their liquidity pools using separate wallet clusters. Elliptic spotted the tactic; each token cost about $90 to make, and almost no real traders joined in.",
+      "detail": "X News story says the TraderTraitor group, blamed by the FBI for the 29 Oct Binance hack (reported as a record $6.4B heist), created at least six tokens on NEAR between 5 and 7 Nov and funneled about $430,000 in stolen NEAR through their liquidity pools using separate wallet clusters. Elliptic spotted the tactic; each token cost about $90 to make, and almost no real traders joined in. Story spreading at 18:41 Berlin: @blocknewsdotcom (87,446 followers) posted it; @MarketSignalMK adds that similar activity appeared on Tron and Solana.",
       "updated": "Monday 9 Nov 2026, 16:35 Berlin",
       "url": "https://x.com/i/trending/2119814869281378384"
     },
