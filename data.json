@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Saturday 7 Nov 2026, 07:56 Berlin time (UTC+01:00)",
-  "newestPostId": "2118960547869667775",
-  "note": "Window: X posts since prior newestPostId 2118959046879265271 (recency: 1 launch/pumpfun query; 1 listing/rug/meme-news query; news search included this run). Added 0 launch(s) and 1 news item(s). Seen but skipped: @Sennauwin / @Coop_Web3 low-eng promo replies on pumpfun (13 / 19k fol, 1–2 impr); @OrblivionLayer agent-vault essay (230 fol, 18 impr); @Tmaia_ cbZEC airdrop-style shill (2,003 fol, 1 impr); @CryptoPeakX giveaway spam (255 fol); @trystonka Stonka launchpad v0.2 (73 fol, account created today, 28 impr); @asskksjjd $FIDA binance-tag spam (27 fol, 1 impr). No rugs/exploits/major exchange listings; no brand-new launch with strong organic engagement. News added: memecoin-era-ended debate story.",
+  "lastUpdated": "Monday 9 Nov 2026, 17:57 Berlin time (UTC+01:00)",
+  "newestPostId": "2119836607817584768",
+  "note": "Window: X posts since ~17:45 Berlin (prior newestPostId 2118960547869667775 was from 7 Nov, so this run scanned only the last ~12 min; recency: 1 launch/pumpfun query; 1 listing/rug/whale/ETF query). Added 1 launch(es) and 0 news item(s). Seen but skipped: repeated 'X-fold call' accounts (@itsmeflow18, @CipherEdgeCalls, @Alpharadarp, @SOLANALYST01, @MEGCRYPT0, @Legend_Britney) on $AIB/$BMT/$QUAKE/$POVERTY/$CUPSEY; @Theblackbullxxx $PUSSY shill (183k fol, likely engagement farm); @dex_kolwatcher paid-DEX bot; @perpspadapp Perpspad launchpad (account created today, 2 fol); @tikoxbt $mihao mention (low engagement). No rugs/exploits/major listings/ETF news.",
   "launches": [
+    {
+      "coin": "Loom Terminal ($LOOM)",
+      "chain": "Solana",
+      "chainNote": "Post gives contract address 89X3ncKEjkdhkZfMQeogYYQ8D6d5Jie2Vtt84tFiB3Xm (launched on pumpfun; signal says graduated to PumpSwap).",
+      "buzz": "Signal account @bitecong (38,602 followers) posted at 17:55 Berlin an AI Signal that Loom Terminal ($LOOM), about an hour old, launched on pumpfun and graduated to PumpSwap a minute after the signal; nine X accounts had posted about it, only one above 10K followers.",
+      "engagement": "315 impressions, 0 likes, 0 reposts at scan time.",
+      "flags": "Only an automated signal account so far; thin organic engagement. Very early, high risk.",
+      "url": "https://x.com/bitecong/status/2119836217068191747",
+      "followers": 38602
+    },
     {
       "coin": "Morgano ($Morgano)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "328 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; third same-day libtard-name launch (serial-theme risk). Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118868000510222593",
-      "followers": 38573
-    },
-    {
-      "coin": "Justice For Piper ($Piper)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address A1ENry4pvSPnEhjUdSmp6Nak77GdscWhAiAth7fdpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:31 Berlin an AI Signal that Justice For Piper ($Piper) ties its Piper theme to a real case: Alley Cat Allies, an animal protection group, has sued the city and mayor of Lincolnton, Georgia, over the shooting of Piper the cat (text cut off).",
-      "engagement": "338 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; animal-justice / real-world lawsuit theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118863950460887101",
       "followers": 38573
     }
   ],
