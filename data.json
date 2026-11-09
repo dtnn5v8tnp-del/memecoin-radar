@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 20:00 Berlin time (UTC+01:00)",
-  "newestPostId": "2119867720959471946",
-  "note": "Window: X posts since 2119866835831292149 (2 pages of 1 recency query; covered 19:56 to 20:00 Berlin, full window). Added nothing new. Seen but skipped: a fourth SINU-themed launch on BSC (0x485cf07a...) graduating to PancakeSwap per @bitecong's automated signal; more $TJR float-launchpad contracts (bot signals); $STIFF baby hippo and alligator meme coin and 'Antropic ($ ANT)' AI meme coin promos (small accounts, no engagement); call-account gain claims on $CUPSEY (up to ~$455K MC), $BEAUTY (~$206K), $LASTTRUCK (~$438K), $TREMP; 'biggest meme coin launching tomorrow' Nov 10 6 PM UTC teasers.",
+  "lastUpdated": "Monday 9 Nov 2026, 20:08 Berlin time (UTC+01:00)",
+  "newestPostId": "2119869456079823068",
+  "note": "Window: X posts since 2119867720959471946 (2 pages of 1 recency query plus 1 X News search; covered 20:00 to 20:07 Berlin, full window). Added 2 news items: Pieverse up 500% since Fourtis listing, and the X News story on Pump.fun traders questioning the top-holders strategy. Seen but skipped: $RINER launch claimed by the $KEKIUS dev after a Teddy Riner announcement (28-follower account); $PAYDAY graduated to PumpSwap and more $TJR contracts (bot signals); $CBOOM capybara and $WRV comics coin promos; Justin Sun copycat-token thread; $HARIS Nov 10 promos; call claims on $HODLER (up to ~$12.4M MC), $TREMP, $LASTTRUCK, $BEAUTY, $CUPSEY, $EL, $ONION.",
   "launches": [
     {
       "coin": "Stolen Inu ($SINU)",
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Price move / listing pump",
+      "headline": "Pieverse token reportedly up 500% since Fourtis listing (MC ~$63M → ~$383.3M)",
+      "coins": "Pieverse (@pieverse_io)",
+      "detail": "@fourtislisting (67,336 followers) posted at 20:00 Berlin a Pump Alert that the Pieverse token is up 500% since listing on Fourtis, citing first MC $63M and last MC $383.3M. Fourtis is the listing service's own promo account; no contract address in the post. About 7,418 impressions and 4 likes at scan.",
+      "updated": "Monday 9 Nov 2026, 20:08 Berlin",
+      "url": "https://x.com/fourtislisting/status/2119867853239091528"
+    },
+    {
+      "topic": "Platform",
+      "headline": "X News: Pump.fun traders question the 'check top holders' strategy",
+      "coins": "Pump.fun tokens (general)",
+      "detail": "X News story says Pump.fun's head of content claims checking top holders gives better insight than other apps thanks to its social graph, while traders push back with examples of losses after following prominent wallets or KOL calls such as Ansem's. The story says 95% of the platform's revenue comes from coins under $250K market cap, amid concerns about fake volume on migrated tokens.",
+      "updated": "Monday 9 Nov 2026, 20:08 Berlin",
+      "url": "https://x.com/i/trending/2119226750626669031"
+    },
+    {
       "topic": "Platform",
       "headline": "@alexxxx: Pump.fun stops callout rewards for Slingoor",
       "coins": "Big Titty Coin ($BTC) context",
@@ -528,14 +544,6 @@
       "detail": "X News story (updated ~23:03 Berlin) summarizes that a prominent crypto personality publicly urged trader @blknoiz06 (Ansem) to turn whistleblower on Pump.fun and offered to cover legal costs via U.S. law firm connections. Context cites Ansem's past criticisms of the launchpad's rewards/fees and a New York federal class action with racketeering claims advancing. Reactions split; unverified plea from the X News summary, not a primary disclosure. Continues Ansem / Pump.fun drama already on the board.",
       "updated": "6 Nov 2026, 23:38 Berlin",
       "url": "https://x.com/i/trending/2118824976006721743"
-    },
-    {
-      "topic": "Influencer / Pump.fun callout rewards",
-      "headline": "X News: Crypto influencer Ethan claims $142K earned from Pump.fun callouts",
-      "coins": "n/a (callout rewards)",
-      "detail": "X News story (updated ~23:26 Berlin) summarizes that influencer Ethan posted a screenshot boasting about $142,474 all-time earned from Pump.fun callout promotions in USDC; critics called it dumping on followers, while Bubblemaps analyzed 49 of his callouts estimating about $125,000 from rewards and timely trades via connected wallets (figures from the X News summary, not a primary filing).",
-      "updated": "6 Nov 2026, 23:28 Berlin",
-      "url": "https://x.com/i/trending/2118830789332975793"
     }
   ],
   "hourly": [
