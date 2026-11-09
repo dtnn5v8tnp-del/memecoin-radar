@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:52 Berlin time (UTC+01:00)",
-  "newestPostId": "2119850426279309589",
-  "note": "Window: X posts since 2119849365644710230 (1 broad recency query) plus X News search (2h). Added 0 launches and 1 news item (viral 'NOT a Chinese spy' meme). Seen but skipped: X News 'community warns of memecoin risks' roundup (repeats North Korea/Plan B stories); another $NVIDIOT copycat (5HGFx1g9...pump, $26.3K MC, scanner bot); a second $Cupsey contract (3mCvCUtg...pump) pushed by call accounts; call accounts on $LASTTRUCK, $BMT, $GTA, $BABYPUNCH; @speedyswimmerr $PUSSY shill; $CLU, $BUFFCAT, Piju promos.",
+  "lastUpdated": "Monday 9 Nov 2026, 18:55 Berlin time (UTC+01:00)",
+  "newestPostId": "2119851350205071388",
+  "note": "Window: X posts since 2119850426279309589 (1 broad recency query, no news search this run). Added 1 launch (Solana NVDA-logo/'Chinese spy' joke coin via @Viking4Eth) and 1 news item ($TRUMP reported new all-time low ~$1.12). Seen but skipped: call accounts on $Cupsey, $LASTTRUCK, $LAMPORT, $BMT; $TANUKI and NEON COON shills; Trady bonus spam; 'Grok turned $100 into $214K' bait; e/accrime rug accusations against Elysium-linked launchpads (5-follower account); $WNO BSC launch from a brand-new 0-follower account.",
   "launches": [
+    {
+      "coin": "Unnamed NVDA-logo coin (ticker not given)",
+      "chain": "Solana",
+      "chainNote": "Contract cited in the post: FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat.",
+      "buzz": "@Viking4Eth (65,527 followers) posted at 18:54 Berlin that memecoin traders spun a coin off a joke about Nvidia CEO Jensen Huang and a 'Chinese spy', saying the Nvidia logo looks like the Solana logo. Riffs on today's viral 'NOT a Chinese spy' meme and the NVIDIOT wave.",
+      "engagement": "3 likes, 3 reposts, 1 reply, 36 impressions at scan time.",
+      "flags": "The cheating claim is a joke premise, not news; single promoter post; ticker and market cap not stated; very early, very high risk.",
+      "url": "https://x.com/Viking4Eth/status/2119851029285974444",
+      "followers": 65527
+    },
     {
       "coin": "NVIDIOT ($NVIDIOT)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; zero engagement at scan; deployer has prior graduated launches. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118876169336652251",
       "followers": 38571
-    },
-    {
-      "coin": "Callset ($CALL)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 7tAjeX7mNQg2jsJkDH1ePwVNBG5J9xKoys2CMZdfpump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:16 Berlin an AI Signal that Callset ($CALL) is a pumpfun launch on Solana; the sharpest fact it flags is bundler behavior: 124 wallets were bundled into the launch and by signal time almost none of that group was still holding (text cut off).",
-      "engagement": "277 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; heavy bundler exit flagged (124 wallets, nearly all gone). Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118875216499941839",
-      "followers": 38571
     }
   ],
   "news": [
+    {
+      "topic": "Price move",
+      "headline": "$TRUMP reportedly hits a new all-time low near $1.12",
+      "coins": "TRUMP ($TRUMP)",
+      "detail": "@Millon_Sancet (3,201 followers) posted at 18:53 Berlin that $TRUMP is around $1.12, about 1.5% of its $73.43 all-time high and down 31% this week. Figures come from that single post and weren't independently confirmed; low engagement so far.",
+      "updated": "Monday 9 Nov 2026, 18:55 Berlin",
+      "url": "https://x.com/Millon_Sancet/status/2119850919240048653"
+    },
     {
       "topic": "Viral meme",
       "headline": "X News: 'I am NOT a Chinese spy' meme spreads through crypto circles",
@@ -536,14 +544,6 @@
       "detail": "X news summary (updated ~21:52 Berlin): $HMM (Thinking Cat), launched in July on Robinhood Chain via the Pons ecosystem, was added to Robinhood app assets for users to view. Influencers including CryptoKaleo cheered the visibility; the summary cites price near $0.01 with about a $12M market cap, and notes some caution that this is visibility (like past tokens $AI and $PRIORS) rather than full trading.",
       "updated": "6 Nov 2026, 22:21 Berlin",
       "url": "https://x.com/i/trending/2118806657606283558"
-    },
-    {
-      "topic": "Price move / listing pump",
-      "headline": "Donna Dollars ($DONNA) up about 300% since Fourtis listing (MC ~$204K → ~$864K)",
-      "coins": "$DONNA",
-      "detail": "@fourtislisting (67,292 followers) posted at 22:18 Berlin a Pump Alert that Donna Dollars (@donnadollars365) is up 300% since listing on Fourtis, citing first MC $204K and last MC $864K. CA from the quoted listing post: FMqWsXKaAe41Kxfji7v5cpzQmr2gKAteAi9wREmkpump (Solana / pump).",
-      "updated": "6 Nov 2026, 22:21 Berlin",
-      "url": "https://x.com/fourtislisting/status/2118815408174076084"
     }
   ],
   "hourly": [
