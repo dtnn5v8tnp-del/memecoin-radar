@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 21:24 Berlin time (UTC+01:00)",
-  "newestPostId": "2119888770811969574",
-  "note": "Window: X posts since 2119887250838409647 (1 page of 1 recency query; covered about 21:21 to 21:24 Berlin). Added nothing new. Seen but skipped: copy-paste call farm claims on $HWAN (now 11x to 78x), $BMT 10.9x, $GTA 22.9x, $ORBIT 23.8x, $FAIR 10.2x; TrenchScan copy-wallet trade on $Inu (+70.1%); $RSRV, $XMAS, $ASIAN, $VNDST (TON) promos; a 127-follower post calling the 67 coin a rug; DataFortis spam.",
+  "lastUpdated": "Monday 9 Nov 2026, 21:33 Berlin time (UTC+01:00)",
+  "newestPostId": "2119890851983933700",
+  "note": "Window: X posts since 2119888770811969574 (1 page of 1 recency query plus 1 $HODLER check; covered about 21:27 to 21:32 Berlin). Added $HODLER after several call accounts claimed a $14K to about $15M MC run. Seen but skipped: Big Titty Coin +182% in 24h to $1.69M MC (per @CraftbroNFTs, 1,514 followers); $CAT CTO ping (~$184.9K MC); $GTA ~10x call; $HWAN 20x to 28x and $FAIR 16.9x farm calls; $2MF, $MAYA, $PCAT, Fire Goat promos; DataFortis spam.",
   "launches": [
+    {
+      "coin": "Diamond Ape HODLER ($HODLER)",
+      "chain": "Solana",
+      "chainNote": "Pump.fun contract 8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump; project account appears to be @DiamondApeHODL.",
+      "buzz": "Several call accounts say it ran from about $14K MC to multi-million in hours. @Mr_sol_win claimed above $12.3M MC at 20:46 Berlin. Call accounts posted 821x and 878x at 21:19 to 21:27, and @WestmarkCalls said $14K to $15M MC (about 1,071x) at 21:31 Berlin. A Chinese-language channel claimed 65x from a $227.97K entry, which roughly matches. Community posts push a 'diamond hands ape' theme.",
+      "engagement": "Low: call posts get 0 to 1 likes and up to about 194 impressions; community posts up to 4 likes.",
+      "flags": "All market-cap figures come from call accounts and are not verified on-chain; pairs with $HODL call posts; a run this steep is extremely volatile; very high risk.",
+      "url": "https://x.com/WestmarkCalls/status/2119890742537510978",
+      "followers": 2533
+    },
     {
       "coin": "$ORBIT",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; theme is literally ponzi. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118890056618483720",
-      "followers": 38570
-    },
-    {
-      "coin": "Scamcoin ($Scamcoin)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 5k5aDdkTBWDE9pM4GB9aSjG4t5bynFWDdv8PPjKfLoat (float bonding curve; signal says not yet graduated).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 03:01 Berlin an AI Signal that Scamcoin ($Scamcoin) on Solana was barely a minute old at signal, sitting at about a $40.7K market cap on a float bonding curve and not yet graduated; the name and ticker state the theme as scam (text cut off).",
-      "engagement": "238 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; theme is literally scam. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118886473164595654",
       "followers": 38570
     }
   ],
