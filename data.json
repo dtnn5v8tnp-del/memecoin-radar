@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 22:58 Berlin time (UTC+01:00)",
-  "newestPostId": "2119912359435153906",
-  "note": "Window: X posts since 2119910206562025775 (1 page of 1 recency query, 25 posts; covered about 22:56:47 to 22:57:47 Berlin, earlier minutes of the window not paged). Added 1 news item ($PUMP 7-day buyback of $4.35M per @CKJCryptonews). Seen but skipped: $Peace (Peace House, Trump-video-themed pump.fun launch) AI-signal bot post by @bitecong; $FAIR 9.5x call by @COSBYOFCRYPTO; AKotzk...pump 4x call by @Memecoinspecia; @hubzify giveaway replies. DELIVERED: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts were sent. The $牛逼 alert handoff was attempted at 22:40 and 22:44 but both returned 'Aborted'; delivery unconfirmed, do not retry.",
+  "lastUpdated": "Monday 9 Nov 2026, 23:03 Berlin time (UTC+01:00)",
+  "newestPostId": "2119913589188497543",
+  "note": "Window: X posts since 2119912359435153906 (1 page of 1 recency query, 25 posts; covered about 23:00:11 to 23:02:40 Berlin, earlier minutes not paged). Added 1 news item (CoinJar lists $PUMP). Seen but skipped: @bitecong AI-signal bot posts on $zuzu, $A, $LESTER; $FAIR 54x, $MAYA 190x, $JENSENHUNG 2.4x/5.3x paid-group calls; $DIP and $UNLOCK promos; @kmoney (166K) saying Elysium trading is live on the pumpfun app; more Cupsey copy-trade wallet allegations (Cupsey alert already sent earlier); a small account alleging a $3.2K rug by @beaverd on a Monad 'retardio relaunch'. DELIVERED: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts were sent. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
     {
       "coin": "牛逼 / NIUBI ($牛逼)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exchange listing",
+      "headline": "CoinJar lists Pump.fun's $PUMP",
+      "coins": "$PUMP",
+      "detail": "CoinJar (@GetCoinJar, 13.8K followers, verified) posted at 23:00 Berlin that PUMP can now be bought and sold on CoinJar and CoinJar Exchange. Low engagement at scan (16 impressions).",
+      "updated": "Monday 9 Nov 2026, 23:03 Berlin",
+      "url": "https://x.com/GetCoinJar/status/2119913008847585487"
+    },
+    {
       "topic": "Buyback",
       "headline": "Pump.fun bought back and burned about $4.35M of $PUMP over the past 7 days",
       "coins": "$PUMP",
@@ -536,14 +544,6 @@
       "detail": "Watcher @dex_kolwatcher (8,977 followers) posted at 02:10 Berlin detecting a paid DEXScreener listing for $LUCKY (CA BFkjyPar9gFv49gvEzwFW3PcjvyWn77LNYhnBSzYpump) on PumpSwap Solana; it cited ~$72.8K buy / ~$69.9K sell volume over 24h, ~$21.3K liquidity, and ~$74.6K market cap at scan. Thin engagement on the alert itself (135 impressions, 0 likes).",
       "updated": "Saturday 7 Nov 2026, 02:13 Berlin time (UTC+01:00)",
       "url": "https://x.com/dex_kolwatcher/status/2118873812859322380"
-    },
-    {
-      "topic": "Paid promo / influencer",
-      "headline": "X News: Sahil accuses Clavicular of undisclosed Pump.fun pay to promote $CHAD",
-      "coins": "$CHAD, Pump.fun",
-      "detail": "X news summary (updated ~00:51 Berlin): Sahil accused Clavicular of being paid by Pump.fun to promote Solana memecoin $CHAD on stream. During the stream, Clavicular's friend Androgenic took a call from Orangie's manager, and the summary says $CHAD market cap spiked to about $500,000 before collapsing to about $3,000–$5,000; Clavicular reacted live with frustration over being left out. Continues prior Clavicular / Pump.fun paid-promo chatter already on the board. Unverified accusation from the X news summary, not a primary disclosure.",
-      "updated": "7 Nov 2026, 00:52 Berlin",
-      "url": "https://x.com/i/trending/2118852544349032479"
     }
   ],
   "hourly": [
