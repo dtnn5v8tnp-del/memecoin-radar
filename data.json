@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 19:03 Berlin time (UTC+01:00)",
-  "newestPostId": "2119853341778080073",
-  "note": "Window: X posts since 2119852664926138660 (1 broad recency query). Added nothing new. Seen but skipped: official @pepecoineth 'knock knock $PEPE' teaser (24 likes, no detail); another $NVIDIOT contract from a scanner bot ($23.5K MC); call accounts on $LASTTRUCK, $GTA, $HYPEPE; $RUSH launch promo; unnamed fair launch teased for 10 Nov 19:00 Berlin; $USELESS and $tripleT shills; non-crypto posts about Meta's new Muse Ember AI model.",
+  "lastUpdated": "Monday 9 Nov 2026, 19:09 Berlin time (UTC+01:00)",
+  "newestPostId": "2119854702405792047",
+  "note": "Window: X posts since 2119853341778080073 (1 broad recency query). Added 0 launches and 1 news item (@raid100x memecoin launch teaser). Seen but skipped: @Protos repost of the North Korea memecoin laundering story (already listed); @Theblackbullxxx 'PUSSY Life' shill (likes far above impressions, likely engagement farm); @bitecong scanner signals for $PUMP, $Nomoji; call accounts on $LASTTRUCK, $QUAKE, $Cupsey; $WNO, STILL, $GETA, BRUM promos.",
   "launches": [
     {
       "coin": "Unnamed NVDA-logo coin (ticker not given)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Launch teaser",
+      "headline": "@raid100x teases launching 'the BIGGEST memecoin of 2026'",
+      "coins": "n/a (no ticker or contract given)",
+      "detail": "@raid100x (907,767 followers) posted at 19:07 Berlin: 'I am launching the BIGGEST memecoin of 2026. Are you in?' No name, chain, or date given. Early engagement was modest (4 likes, 2 replies, about 1,064 impressions at scan time). Big-account teasers like this often draw copycat contracts, so treat any CA claiming to be it with caution.",
+      "updated": "Monday 9 Nov 2026, 19:09 Berlin",
+      "url": "https://x.com/raid100x/status/2119854492917387678"
+    },
+    {
       "topic": "Rug / dump",
       "headline": "@gumsays: Percolator and Big Titty Coin holders down $1.8M in 24 hours",
       "coins": "PERCOLATOR ($PERCOLATOR), Big Titty Coin ($BTC)",
@@ -536,14 +544,6 @@
       "detail": "@villainmonkey (21,645 followers) posted at 22:37 Berlin that @clavicular admitted to being paid often by @Pumpfun to pump certain coins, citing the $CHAD incident from late March 2026 (clips circulated March 30, 2026) in which a friend took a call from @orangie manager and promoted a Solana memecoin $CHAD on stream (text cut off). Early engagement: 821 impressions, 28 likes, 10 replies, 1 repost, 1 bookmark at scan time. Allegation/recap from this account, not a primary Pump.fun disclosure.",
       "updated": "6 Nov 2026, 22:41 Berlin",
       "url": "https://x.com/villainmonkey/status/2118820167174259183"
-    },
-    {
-      "topic": "Influencer feud / doxxing claims",
-      "headline": "X News: Sahil shares screenshots in Ansem Solana feud, sparking doxxing claims",
-      "coins": "Pump.fun, $ANSEM",
-      "detail": "X news summary (updated ~22:04 Berlin): Sahil posted photos of a couple plus WhatsApp messages tied to his public accusations against trader Ansem (@blknoiz06), with reactions ranging from shock and doxxing concerns to jokes about relationship drama in Solana memecoin circles. Continues the Ansem / Pump.fun speculation already on the board. Unverified drama summary from X news, not a primary disclosure.",
-      "updated": "6 Nov 2026, 22:41 Berlin",
-      "url": "https://x.com/i/trending/2118809984326672805"
     }
   ],
   "hourly": [
