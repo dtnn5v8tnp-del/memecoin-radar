@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 20:33 Berlin time (UTC+01:00)",
-  "newestPostId": "2119876088784630004",
-  "note": "Window: X posts since 2119875588928242094 (1 page of 1 recency query; covered 20:31 to 20:33 Berlin, full window). Added nothing new. Seen but skipped: a promo bot flagging a 'bigguygta' Pump.fun token as trending; Kodak Black GTA 6 coin and $DHC promos (tiny accounts); Trady USDC-claim posts; call claims on $LASTTRUCK.",
+  "lastUpdated": "Monday 9 Nov 2026, 20:38 Berlin time (UTC+01:00)",
+  "newestPostId": "2119877213377954109",
+  "note": "Window: X posts since 2119876088784630004 (1 page of 1 recency query; covered 20:33 to 20:38 Berlin, full window). Added 1 launch: $LASTTRUCK, after its project account said it applied for a CoinMarketCap listing. Seen but skipped: a 1-follower bot's 'rug autopsy' of $Respect (claims 442 of 462 buyers lost $109K); UWU opening at a $750K MC on launchfair; $fork claim on @wikifork; $NEET culture-coin post from @Crypto_Alch (51K followers, low engagement); $ELON2028, $BROKE and a 4-chain memecoin promo; a 288-follower post on a Senate records deadline for Trump crypto firms; PNC Bank USDC pilot (not memecoin); call claims on $BEAUTY.",
   "launches": [
+    {
+      "coin": "Last Truck ($LASTTRUCK)",
+      "chain": "Solana",
+      "chainNote": "Pump.fun contract 6kmkcwKxxmoREhkxrbBvwDY3N2KSfpdMMtWtNoPpump; migrated to PumpSwap per the project.",
+      "buzz": "Heavily called by Solana call accounts all evening (claims ranging from about 30x to 152x, with one citing a ~$438K MC at 20:00 Berlin). At 20:35 Berlin the project account @TheLastTruck said it has applied for a CoinMarketCap listing, after paying for DEX (DEXScreener) listing.",
+      "engagement": "Project post: 2 likes, about 37 impressions at scan. Call-account posts mostly 0 to 1 likes.",
+      "flags": "Gain figures come from paid-group call accounts, not verified; CMC application is not a listing; tiny project account; very high risk.",
+      "url": "https://x.com/TheLastTruck/status/2119876481556029709",
+      "followers": 121
+    },
     {
       "coin": "Stolen Inu ($SINU)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "308 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; hashtag-theme launch. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118880913673310671",
-      "followers": 38571
-    },
-    {
-      "coin": "the little guy ($guy)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BPAf83sLngNw65raUdEGEPT1rUpARxSmKfhYAPGupump (pump.fun / pumpfun bonding curve; signal says graduated).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:39 Berlin an AI Signal that the little guy ($guy) launched on pumpfun about seventeen minutes earlier and graduated from the bonding curve at 13 min 7 s after launch; researched report says the project is built (text cut off).",
-      "engagement": "283 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; fast graduation (~13 min). Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118880898901033166",
       "followers": 38571
     }
   ],
