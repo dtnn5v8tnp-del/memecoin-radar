@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 23:44 Berlin time (UTC+01:00)",
-  "newestPostId": "2119924125871620412",
-  "note": "Window: X posts since 2119922711031926798 (1 recency query, 24 posts; about 23:39:31 to 23:44:32 Berlin, full window). No new items added. Seen but skipped: @memelordx_ (7.9K) claiming $HODLER at $3.9M MC (4.66x from $836K; $HODLER alert already sent earlier); $FAIR 22.7x/28.4x calls; small account accusing Ansem of a coordinated buy-and-call on $testicles (unverified); $PUMPBANK, $SLAP, Neon Coon, MOIN, CB Token promos; a 2M $SKR buy claim; general Pump.fun callout-reward complaints. DELIVERED: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts were sent. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
+  "lastUpdated": "Monday 9 Nov 2026, 23:53 Berlin time (UTC+01:00)",
+  "newestPostId": "2119926203364888689",
+  "note": "Window: X posts since 2119924125871620412 (1 page of 1 recency query, 25 posts; about 23:48:18 to 23:52:47 Berlin, a few earlier minutes not paged) plus 1 $HODLER check. Updated and moved up the $HODLER row: @memelordx_ claimed a re-run from $836K to $15M MC between 23:43 and 23:52 Berlin (single call account, unverified; $HODLER alert already sent earlier, it had already claimed $15M at 21:31). Seen but skipped: @bitecong AI-signal bot posts on two $FART launches; $QUINN 20x, $PMURT 134.5x, $TURTLES 3x, $FAIR 36.2x, $MAYA calls; $COOPER (Robinhood chain), $MERY, 36h Pump.fun stream promo; small complaint of failing Elysium orders via Pump.fun. DELIVERED: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts were sent. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
+    {
+      "coin": "Diamond Ape HODLER ($HODLER)",
+      "chain": "Solana",
+      "chainNote": "Pump.fun contract 8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump; project account appears to be @DiamondApeHODL.",
+      "buzz": "Several call accounts say it ran from about $14K MC to multi-million in hours. @Mr_sol_win claimed above $12.3M MC at 20:46 Berlin. Call accounts posted 821x and 878x at 21:19 to 21:27, and @WestmarkCalls said $14K to $15M MC (about 1,071x) at 21:31 Berlin. A Chinese-language channel claimed 65x from a $227.97K entry, which roughly matches. Community posts push a 'diamond hands ape' theme. At 21:35 Berlin @DegenFlow_ also posted 1,071.4x, and another call account posted 316x. Later, @memelordx_ (7.9K followers) posted a fresh 'call' at $836K MC at 23:43 Berlin, then claimed $2.3M, $3.9M, $5.5M, $9.4M and $15M MC between 23:45 and 23:52 Berlin, implying it had fallen back below $1M before re-running. @roxydegen says the project burned 10% of supply.",
+      "engagement": "Low: call posts get 0 to 1 likes and up to about 194 impressions; community posts up to 4 likes.",
+      "flags": "All market-cap figures come from call accounts and are not verified on-chain; pairs with $HODL call posts; a run this steep is extremely volatile; very high risk.",
+      "url": "https://x.com/WestmarkCalls/status/2119890742537510978",
+      "followers": 2533
+    },
     {
       "coin": "牛逼 / NIUBI ($牛逼)",
       "chain": "BNB Chain (BSC)",
@@ -22,16 +32,6 @@
       "flags": "Creator-launched token with a holder-airdrop promise; the planned buy and airdrop are the creator's own claims, not verified; very early and very high risk.",
       "url": "https://x.com/_rise/status/2119903924547191169",
       "followers": 19906
-    },
-    {
-      "coin": "Diamond Ape HODLER ($HODLER)",
-      "chain": "Solana",
-      "chainNote": "Pump.fun contract 8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump; project account appears to be @DiamondApeHODL.",
-      "buzz": "Several call accounts say it ran from about $14K MC to multi-million in hours. @Mr_sol_win claimed above $12.3M MC at 20:46 Berlin. Call accounts posted 821x and 878x at 21:19 to 21:27, and @WestmarkCalls said $14K to $15M MC (about 1,071x) at 21:31 Berlin. A Chinese-language channel claimed 65x from a $227.97K entry, which roughly matches. Community posts push a 'diamond hands ape' theme. At 21:35 Berlin @DegenFlow_ also posted 1,071.4x, and another call account posted 316x.",
-      "engagement": "Low: call posts get 0 to 1 likes and up to about 194 impressions; community posts up to 4 likes.",
-      "flags": "All market-cap figures come from call accounts and are not verified on-chain; pairs with $HODL call posts; a run this steep is extremely volatile; very high risk.",
-      "url": "https://x.com/WestmarkCalls/status/2119890742537510978",
-      "followers": 2533
     },
     {
       "coin": "$ORBIT",
