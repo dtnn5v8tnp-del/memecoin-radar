@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 00:44 Berlin time (UTC+01:00)",
-  "newestPostId": "2119939135351705646",
-  "note": "Window: X posts since 2119937613322748306 (1 recency query excluding VIP, DataFortis, bbvipks4 and GroveX spam, 17 posts; about 00:38 to 00:44 Berlin). Nothing new added. Seen but skipped: tiny Pump AMM migrations ($APUMP, a 'grok bot' $SOL token, under $1K liquidity); second @bitecong signal on a different $PERPULATOR contract; $AGE (TON) TGE with listing claimed for 23 Nov (no exchange named); new zero/low-follower launches $TNSS, $RCVI, $ROACHY, an 'I'm not a Chinese spy' token; $GTA, $AIB, $PMURT calls; Forge perps re-post. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 00:52 Berlin time (UTC+01:00)",
+  "newestPostId": "2119941130724774257",
+  "note": "Window: X posts since 2119939135351705646 (1 page of 1 recency query excluding VIP, DataFortis, bbvipks4 and GroveX spam, 25 posts; about 00:45 to 00:52 Berlin, a minute or so not paged) plus 1 X News search. Added news: Float launchpad vamping backlash ($FLOAT/$DOPE) and Charles Schwab adding SOL/AVAX/LINK. Seen but skipped: coordinated 'FAKE CA' reply spam on one 0x address under @WolfyRecoleta; @milo_crypt01 (220K followers) teasing his own Solana memecoin (2 likes); @ancetacloud stat that 41,797 Solana coins launched Monday and 573 of 663 graduates rugged; $PERPULATOR holder-concentration warning; $CCC paid Dex push; $AGE listing repost; $RCVI live, $DACAT new CA, $BUSTED, $FORK, RallyCat promos; Formation Securities Solana tokenized-stocks filing, Breakpoint London 15-17 Nov (not memecoin). DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
     {
       "coin": "Beepz ($BEEPZ)",
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Launchpad drama",
+      "headline": "Float launchpad accused of 'vamping' existing Solana memecoins",
+      "coins": "$FLOAT, $DOPE",
+      "detail": "X News story (updated 00:12 Berlin): Float, a Solana launchpad launched in late October that promised to stop copycat 'vamp' launches, is accused of its users doing exactly that to coins like $DOPE (a Doge-Pepe hybrid). The summary says the drama has pushed $FLOAT down from its peaks. Solana trader Unipcs ('Bonk Guy') also vented about trading backlash in a related trending thread. AI-generated summary; no prices given.",
+      "updated": "Tuesday 10 Nov 2026, 00:52 Berlin",
+      "url": "https://x.com/i/trending/2119929406814887950"
+    },
+    {
+      "topic": "Exchange listing",
+      "headline": "Charles Schwab adds Solana, Avalanche and Chainlink trading",
+      "coins": "$SOL, $AVAX, $LINK",
+      "detail": "X News story (updated 23:22 Berlin): Schwab Crypto now offers SOL, AVAX and LINK alongside BTC and ETH for eligible clients, at a 0.75% fee per trade, per the summary. Not a memecoin listing, but SOL is the main memecoin chain.",
+      "updated": "Tuesday 10 Nov 2026, 00:52 Berlin",
+      "url": "https://x.com/i/trending/2119799343062327352"
+    },
+    {
       "topic": "Exchange listing",
       "headline": "CoinJar lists Pump.fun's $PUMP",
       "coins": "$PUMP",
@@ -528,22 +544,6 @@
       "detail": "X News story (updated ~01:36 Berlin) summarizes SPX6900 holders dollar-cost averaging daily (one cited streak of 502 straight days), with the satirical Ethereum S&P-parody memecoin described around a ~$330M market cap / ~$0.36; community memes like Persist Forever and claims of large holder upside circulate alongside the buys.",
       "updated": "Saturday 7 Nov 2026, 03:26 Berlin time (UTC+01:00)",
       "url": "https://x.com/i/trending/2118878937040429414"
-    },
-    {
-      "topic": "Price move / listing pump",
-      "headline": "COGE Coin ($COGE) up about 300% since Fourtis listing (MC ~$2.8M → ~$11.3M)",
-      "coins": "$COGE",
-      "detail": "@fourtislisting (67,296 followers) posted at 02:24 Berlin a Pump Alert that COGE Coin (@COGECOINMeme) is up 300% since listing on Fourtis, citing first MC $2.8M and last MC $11.3M. CA from the quoted listing post: 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump (Solana / pump). Engagement on the alert: 5,283 impressions, 3 likes, 2 reposts, 1 reply, 1 bookmark at scan.",
-      "updated": "Saturday 7 Nov 2026, 02:27 Berlin time (UTC+01:00)",
-      "url": "https://x.com/fourtislisting/status/2118877212984172812"
-    },
-    {
-      "topic": "Paid promo / DEXScreener",
-      "headline": "Paid DEXScreener boost flagged for $LUCKY on PumpSwap Solana",
-      "coins": "$LUCKY",
-      "detail": "Watcher @dex_kolwatcher (8,977 followers) posted at 02:10 Berlin detecting a paid DEXScreener listing for $LUCKY (CA BFkjyPar9gFv49gvEzwFW3PcjvyWn77LNYhnBSzYpump) on PumpSwap Solana; it cited ~$72.8K buy / ~$69.9K sell volume over 24h, ~$21.3K liquidity, and ~$74.6K market cap at scan. Thin engagement on the alert itself (135 impressions, 0 likes).",
-      "updated": "Saturday 7 Nov 2026, 02:13 Berlin time (UTC+01:00)",
-      "url": "https://x.com/dex_kolwatcher/status/2118873812859322380"
     }
   ],
   "hourly": [
