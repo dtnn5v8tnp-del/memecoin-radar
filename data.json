@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 21:33 Berlin time (UTC+01:00)",
-  "newestPostId": "2119890851983933700",
-  "note": "Window: X posts since 2119888770811969574 (1 page of 1 recency query plus 1 $HODLER check; covered about 21:27 to 21:32 Berlin). Added $HODLER after several call accounts claimed a $14K to about $15M MC run. Seen but skipped: Big Titty Coin +182% in 24h to $1.69M MC (per @CraftbroNFTs, 1,514 followers); $CAT CTO ping (~$184.9K MC); $GTA ~10x call; $HWAN 20x to 28x and $FAIR 16.9x farm calls; $2MF, $MAYA, $PCAT, Fire Goat promos; DataFortis spam.",
+  "lastUpdated": "Monday 9 Nov 2026, 21:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2119892032017572044",
+  "note": "Window: X posts since 2119890851983933700 (1 page of 1 recency query plus 1 news search; covered about 21:33 to 21:37 Berlin). Added the Warren Senate Banking story and updated the $HODLER row. Seen but skipped: $ORBIT claims of $18K to $463K MC and '$3.9K to $421K'; $HWAN farm calls up to 79x; $ALICE ~$156K MC call; Peak launchpad's new 'oxygen tank' dev-collateral feature (17 likes); $OWLA, $BQC, $GLUNGO, $BAYOU, $STVS promos.",
   "launches": [
     {
       "coin": "Diamond Ape HODLER ($HODLER)",
       "chain": "Solana",
       "chainNote": "Pump.fun contract 8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump; project account appears to be @DiamondApeHODL.",
-      "buzz": "Several call accounts say it ran from about $14K MC to multi-million in hours. @Mr_sol_win claimed above $12.3M MC at 20:46 Berlin. Call accounts posted 821x and 878x at 21:19 to 21:27, and @WestmarkCalls said $14K to $15M MC (about 1,071x) at 21:31 Berlin. A Chinese-language channel claimed 65x from a $227.97K entry, which roughly matches. Community posts push a 'diamond hands ape' theme.",
+      "buzz": "Several call accounts say it ran from about $14K MC to multi-million in hours. @Mr_sol_win claimed above $12.3M MC at 20:46 Berlin. Call accounts posted 821x and 878x at 21:19 to 21:27, and @WestmarkCalls said $14K to $15M MC (about 1,071x) at 21:31 Berlin. A Chinese-language channel claimed 65x from a $227.97K entry, which roughly matches. Community posts push a 'diamond hands ape' theme. At 21:35 Berlin @DegenFlow_ also posted 1,071.4x, and another call account posted 316x.",
       "engagement": "Low: call posts get 0 to 1 likes and up to about 194 impressions; community posts up to 4 likes.",
       "flags": "All market-cap figures come from call accounts and are not verified on-chain; pairs with $HODL call posts; a run this steep is extremely volatile; very high risk.",
       "url": "https://x.com/WestmarkCalls/status/2119890742537510978",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Regulation",
+      "headline": "Warren set to chair Senate Banking, with Trump-family crypto and prediction markets as first targets",
+      "coins": "Trump-family crypto ventures (incl. the $TRUMP meme coin ecosystem); prediction markets Polymarket and Kalshi",
+      "detail": "X's news summary (updated 21:36 Berlin) says Elizabeth Warren, as the incoming Banking Committee chair, plans to go after a 'Wild West-style lack of oversight' in prediction markets. It also says she is warning Trump-family crypto businesses, reportedly earning at least $2.3B, to keep their documents, and that hearings with subpoena power could start in January. It surfaced in the sweep via a @Morosaki headline at 21:33 Berlin.",
+      "updated": "Monday 9 Nov 2026, 21:37 Berlin",
+      "url": "https://x.com/i/trending/2119889818381668465"
+    },
+    {
       "topic": "Rug / scam allegation",
       "headline": "Vibecoin token dev accused of taking about $23,000 from the community",
       "coins": "Vibecoin",
@@ -536,14 +544,6 @@
       "detail": "X News story (updated ~23:37 Berlin) says unsolicited dust payments from malicious addresses can trigger Phantom's compliance filter, disabling sends and swaps in-app while the chain still works; critics say that undercuts self-custody. Story notes dusting has hit millions of Solana wallets; Phantom points to terms of use, and users can export the recovery phrase to another wallet. Relevant for Solana memecoin traders. Unverified beyond the X News summary.",
       "updated": "7 Nov 2026, 00:15 Berlin",
       "url": "https://x.com/i/trending/2118833478636638625"
-    },
-    {
-      "topic": "Celebrity / meme coin",
-      "headline": "X News: Theo Von posts AI meme video tied to Solana $NIO coin",
-      "coins": "$NIO",
-      "detail": "X News story (updated ~23:48 Berlin) says comedian Theo Von shared an AI clip of his face rising from a fiery mushroom cloud, captioning it as AI, nodding to the viral meme format that inspired Solana memecoin $NIO (Pump.fun launch around 21 Oct; story cites market cap near $1.5M amid volatile swings). Community reactions mixed surprise at his engagement with jokes echoing the meme punchline. Unverified beyond the X News summary.",
-      "updated": "6 Nov 2026, 23:52 Berlin",
-      "url": "https://x.com/i/trending/2118794398783979545"
     }
   ],
   "hourly": [
