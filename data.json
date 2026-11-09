@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 19:31 Berlin time (UTC+01:00)",
-  "newestPostId": "2119860420794294433",
-  "note": "Window: X posts since 2119859033947697407 (1 recency query; 25 results reached back only to 19:29 Berlin, so 19:26 to 19:29 was only partly covered). Added 1 launch (Stolen Inu $SINU, spun off the North Korea laundering story). Seen but skipped: call accounts claiming $SI (A5oX91q9...pump) ran from $28K to ~$482K MC, $TREMP ~$162K, $GTA ~$190K, $Cupsey, $WOLF; RugRadar bot alert on $DOPE; @Moosaswrld (71K followers) teasing a memecoin airdrop for likes/RTs (engagement bait); Claim Fund promo about $9M unclaimed Pump.fun creator fees; more reposts of the North Korea story.",
+  "lastUpdated": "Monday 9 Nov 2026, 19:34 Berlin time (UTC+01:00)",
+  "newestPostId": "2119861153669017966",
+  "note": "Window: X posts since 2119860420794294433 (1 recency query; covered from 19:32 Berlin, about a minute short). Added 1 news item (Pump.fun web3 login sunset, per @Crypto_Retardio). Seen but skipped: call account @AlphaPulsevw claiming $SI hit $50.9M MC (implausible 1,818x; a second $SI contract is also being called); call claims on $Cupsey (~$374K), $BMT, $NVIDIOT (an EVM copy); @bitecong signal on black-sheep coin $shigga; $ELYXIR relaunch, $ORGANIC, $HARIS promos; unverified small-account claim that Binance's co-CEO said $2.85B of hacked funds were frozen; more North Korea story reposts.",
   "launches": [
     {
       "coin": "Stolen Inu ($SINU)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Platform",
+      "headline": "Pump.fun reportedly sunsetting web3 wallet login in about 20 days",
+      "coins": "n/a (Pump.fun platform)",
+      "detail": "@Crypto_Retardio (4,157 followers) posted at 19:33 Berlin that users who imported a wallet into the Pump.fun app have 20 more days to add a social login before web3 login is sunsetted; the same post says the Pump.fun app can be used to trade on Elysium. Single post, not yet confirmed by Pump.fun in the sources seen.",
+      "updated": "Monday 9 Nov 2026, 19:34 Berlin",
+      "url": "https://x.com/Crypto_Retardio/status/2119861008470856027"
+    },
+    {
       "topic": "Launch teaser",
       "headline": "@raid100x teases launching 'the BIGGEST memecoin of 2026'",
       "coins": "n/a (no ticker or contract given)",
@@ -536,14 +544,6 @@
       "detail": "@oglakaz (1,088 followers) posted at 22:42 Berlin that a Frontrun scan of @leapxyz found founder Solana wallet D1ALECTfeCZt9bAbPWtJk7ntv24vDYGPmyS7swp7DY5h, which transferred a token named Leap to 4L5ccBfLtvoCrukWJua5SMtZvBTEKShxw8W4AZnjy4kt, and that second wallet had deployed (text cut off). Early engagement: 21 impressions, 7 likes, 1 repost at scan time. Unverified on-chain narrative from this account.",
       "updated": "6 Nov 2026, 22:45 Berlin",
       "url": "https://x.com/oglakaz/status/2118821244518932703"
-    },
-    {
-      "topic": "Influencer / paid promo",
-      "headline": "@clavicular said to have admitted being paid often by Pump.fun to pump coins ($CHAD incident)",
-      "coins": "Pump.fun, $CHAD",
-      "detail": "@villainmonkey (21,645 followers) posted at 22:37 Berlin that @clavicular admitted to being paid often by @Pumpfun to pump certain coins, citing the $CHAD incident from late March 2026 (clips circulated March 30, 2026) in which a friend took a call from @orangie manager and promoted a Solana memecoin $CHAD on stream (text cut off). Early engagement: 821 impressions, 28 likes, 10 replies, 1 repost, 1 bookmark at scan time. Allegation/recap from this account, not a primary Pump.fun disclosure.",
-      "updated": "6 Nov 2026, 22:41 Berlin",
-      "url": "https://x.com/villainmonkey/status/2118820167174259183"
     }
   ],
   "hourly": [
