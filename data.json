@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 22:49 Berlin time (UTC+01:00)",
-  "newestPostId": "2119910206562025775",
-  "note": "Window: X posts since 2119908904238759957 (1 page of 1 recency query, 21 posts; covered about 22:44 to 22:49 Berlin). Added 1 news item (XXYY terminal winding down, per a recap post). Seen but skipped: @KytroCrypto (133K followers) announcing a $KYTRO launch 'today at 1 PM EST' with 'we're finally safe' wording (pattern seen in hacked-account scams, posted after that time had passed); $ORBIT 28.2x, $MAYA 20.9x, $CAT 8.1x, $Unison 4x, $ANTHROPIG 2.4x, $NATO 2x calls; $DOINK, $JENSENHUNG bot signals; $NEET, $SHOKU, $dacity promos; $PUMP near $1.66B (down about 2%) per a small account; unverified Binance 335M-records sale claim. DELIVERED: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts were sent. The $牛逼 alert handoff was attempted at 22:40 and 22:44 but both attempts returned 'Aborted', so its delivery is unconfirmed; do not keep retrying it.",
+  "lastUpdated": "Monday 9 Nov 2026, 22:58 Berlin time (UTC+01:00)",
+  "newestPostId": "2119912359435153906",
+  "note": "Window: X posts since 2119910206562025775 (1 page of 1 recency query, 25 posts; covered about 22:56:47 to 22:57:47 Berlin, earlier minutes of the window not paged). Added 1 news item ($PUMP 7-day buyback of $4.35M per @CKJCryptonews). Seen but skipped: $Peace (Peace House, Trump-video-themed pump.fun launch) AI-signal bot post by @bitecong; $FAIR 9.5x call by @COSBYOFCRYPTO; AKotzk...pump 4x call by @Memecoinspecia; @hubzify giveaway replies. DELIVERED: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts were sent. The $牛逼 alert handoff was attempted at 22:40 and 22:44 but both returned 'Aborted'; delivery unconfirmed, do not retry.",
   "launches": [
     {
       "coin": "牛逼 / NIUBI ($牛逼)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Buyback",
+      "headline": "Pump.fun bought back and burned about $4.35M of $PUMP over the past 7 days",
+      "coins": "$PUMP",
+      "detail": "A 22:57 Berlin post by @CKJCryptonews (60.7K followers) says Pump.fun bought back and burned $4,353,500 worth of $PUMP over the past 7 days. Figure is from that post only, not verified on-chain in this sweep; low engagement at scan (about 200 impressions).",
+      "updated": "Monday 9 Nov 2026, 22:58 Berlin",
+      "url": "https://x.com/CKJCryptonews/status/2119912225507020909"
+    },
+    {
       "topic": "Platform shutdown",
       "headline": "Solana memecoin terminal XXYY reportedly winding down",
       "coins": "Solana memecoin trading (XXYY users)",
@@ -536,14 +544,6 @@
       "detail": "X news summary (updated ~00:51 Berlin): Sahil accused Clavicular of being paid by Pump.fun to promote Solana memecoin $CHAD on stream. During the stream, Clavicular's friend Androgenic took a call from Orangie's manager, and the summary says $CHAD market cap spiked to about $500,000 before collapsing to about $3,000–$5,000; Clavicular reacted live with frustration over being left out. Continues prior Clavicular / Pump.fun paid-promo chatter already on the board. Unverified accusation from the X news summary, not a primary disclosure.",
       "updated": "7 Nov 2026, 00:52 Berlin",
       "url": "https://x.com/i/trending/2118852544349032479"
-    },
-    {
-      "topic": "Pump.fun / AI agent launch",
-      "headline": "@0rdlibrary: $CLAWD graduated; bot-designed pump coin aims to pair via create_v2 quotes",
-      "coins": "$CLAWD, Pump.fun",
-      "detail": "@0rdlibrary (22,430 followers) posted at 00:17 Berlin that $CLAWD graduated on @pumpfun on Solana, and that @pumpfun shipped create_v2 pump-coin quotes so a new coin can be priced in an existing pump coin instead of SOL; a follow-up at 00:15 Berlin says the first @pumpfun token designed by a @bot was designed, coded, tested and deployed by Toly, a Grok Bot agent, aiming to launch a pumpfun coin paired with another pump coin ($CLAWD). Early engagement: about 110–117 impressions, 0 likes, 0 reposts at scan time. Primary posts, not a filing.",
-      "updated": "7 Nov 2026, 00:22 Berlin",
-      "url": "https://x.com/0rdlibrary/status/2118845285522985036"
     }
   ],
   "hourly": [
