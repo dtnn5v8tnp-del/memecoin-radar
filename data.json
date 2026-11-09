@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 19:34 Berlin time (UTC+01:00)",
-  "newestPostId": "2119861153669017966",
-  "note": "Window: X posts since 2119860420794294433 (1 recency query; covered from 19:32 Berlin, about a minute short). Added 1 news item (Pump.fun web3 login sunset, per @Crypto_Retardio). Seen but skipped: call account @AlphaPulsevw claiming $SI hit $50.9M MC (implausible 1,818x; a second $SI contract is also being called); call claims on $Cupsey (~$374K), $BMT, $NVIDIOT (an EVM copy); @bitecong signal on black-sheep coin $shigga; $ELYXIR relaunch, $ORGANIC, $HARIS promos; unverified small-account claim that Binance's co-CEO said $2.85B of hacked funds were frozen; more North Korea story reposts.",
+  "lastUpdated": "Monday 9 Nov 2026, 19:43 Berlin time (UTC+01:00)",
+  "newestPostId": "2119863221674799281",
+  "note": "Window: X posts since 2119861153669017966 (1 recency query; the 25 results only covered 19:40 to 19:42 Berlin, so about 6 minutes after the previous sweep were not covered) plus X News search (1h). Added 2 news items (Elysium mainnet launch; Pump.fun reportedly stopping Slingoor's callout rewards). Seen but skipped: call accounts claiming $BEAUTY ran to ~$400K MC, $SI ~$106K, $TREMP, $POVERTY, $AIB; @Theblackbullxxx again shilling $PUSSY; $FUK launches on Float (Solana) and NEAR; $ANSEM airdrop rumor from a fan account; @0rdlibrary complaining that @fomo is holding $500 USDC; Grok trading-bot bait posts.",
   "launches": [
     {
       "coin": "Stolen Inu ($SINU)",
@@ -307,6 +307,22 @@
   "news": [
     {
       "topic": "Platform",
+      "headline": "@alexxxx: Pump.fun stops callout rewards for Slingoor",
+      "coins": "Big Titty Coin ($BTC) context",
+      "detail": "@alexxxx (12,960 followers) posted at 19:40 Berlin that Pump.fun has taken action and stopped callout rewards for Slingoor, the Solana influencer accused of dumping his Big Titty Coin stake (see the X News item below). Single post; no Pump.fun statement seen in the sources yet.",
+      "updated": "Monday 9 Nov 2026, 19:43 Berlin",
+      "url": "https://x.com/alexxxx/status/2119862822800924935"
+    },
+    {
+      "topic": "New chain",
+      "headline": "X News: Elysium mainnet launches for the Hyperliquid ecosystem",
+      "coins": "HYPE (gas), KNTQ; new Elysium memecoins",
+      "detail": "X News story (updated 19:39 Berlin) says Kinetiq launched the Elysium Layer 2 mainnet on 9 Nov (chain ID 99901, HYPE as gas, an Arbitrum Orbit chain settling to HyperEVM), with a perps-backed launchpad and 50% of sequencer fees funding KNTQ buybacks and burns. Memecoin launches on Elysium are already showing up in the X feed, alongside rug accusations against some Elysium launchpads.",
+      "updated": "Monday 9 Nov 2026, 19:39 Berlin",
+      "url": "https://x.com/i/trending/2119780041781563418"
+    },
+    {
+      "topic": "Platform",
       "headline": "Pump.fun reportedly sunsetting web3 wallet login in about 20 days",
       "coins": "n/a (Pump.fun platform)",
       "detail": "@Crypto_Retardio (4,157 followers) posted at 19:33 Berlin that users who imported a wallet into the Pump.fun app have 20 more days to add a social login before web3 login is sunsetted; the same post says the Pump.fun app can be used to trade on Elysium. Single post, not yet confirmed by Pump.fun in the sources seen.",
@@ -528,22 +544,6 @@
       "detail": "Pump.fun co-founder @a1lon9 (433,139 followers) posted at 23:09 Berlin that over the past few days the Callout Rewards program got major changes aimed at (1) incentivizing calls on higher market-cap tokens and (2) rewarding users from other ecosystems such as perps and crosschain (non-SOL). Early engagement at scan: about 8,307 impressions, 66 likes, 11 reposts, 66 replies, 3 bookmarks. Amplifiers (@popmemecoin) framed it as expanding beyond Pumpfun.",
       "updated": "6 Nov 2026, 23:12 Berlin",
       "url": "https://x.com/a1lon9/status/2118828155750306227"
-    },
-    {
-      "topic": "Price move / migration pump",
-      "headline": "pip ($pip) ~13.6x after PumpSwap migration (MC ~$50K → ~$682K in ~20 min)",
-      "coins": "$pip",
-      "detail": "@MemCoinsRadar (2,241 followers) posted at 22:45 Berlin that $pip hit about 13.6x after migration, citing MC $50.1K → $682.4K in 20 minutes. Same CA as the earlier dashboard launch row: 4VyS1DWXDEbu8jVyJUjqNJN3SXGgZYf2uo3YZ6QLpump (Solana / pump.fun → PumpSwap). Early engagement on the alert: 3 impressions, 0 likes, 0 reposts at scan time (bot alert).",
-      "updated": "6 Nov 2026, 22:45 Berlin",
-      "url": "https://x.com/MemCoinsRadar/status/2118821459631939646"
-    },
-    {
-      "topic": "Investigative / wallet trail",
-      "headline": "Wallet scan claims @leapxyz founder moved Leap token and second wallet deployed",
-      "coins": "Leap ($Leap)",
-      "detail": "@oglakaz (1,088 followers) posted at 22:42 Berlin that a Frontrun scan of @leapxyz found founder Solana wallet D1ALECTfeCZt9bAbPWtJk7ntv24vDYGPmyS7swp7DY5h, which transferred a token named Leap to 4L5ccBfLtvoCrukWJua5SMtZvBTEKShxw8W4AZnjy4kt, and that second wallet had deployed (text cut off). Early engagement: 21 impressions, 7 likes, 1 repost at scan time. Unverified on-chain narrative from this account.",
-      "updated": "6 Nov 2026, 22:45 Berlin",
-      "url": "https://x.com/oglakaz/status/2118821244518932703"
     }
   ],
   "hourly": [
