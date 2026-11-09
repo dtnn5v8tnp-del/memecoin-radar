@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 19:26 Berlin time (UTC+01:00)",
-  "newestPostId": "2119859033947697407",
-  "note": "Window: X posts since 2119858173804700038 (1 recency query with tighter memecoin terms; full window covered). Added nothing new. Seen but skipped: call account @AlphaPulsevw claiming $NVIDIOT (FyVLetA1...) reached ~$209K MC; call claims on $HODL (~$2.2M MC), $Cupsey, $GTA, $LASTTRUCK, $BEAUTY; @bitecong scanner flag on a second $HONEYPOT launch; paid DEXScreener flag on $HIGHER ($13K MC); reposts of the North Korea memecoin laundering story (already listed); $CATCHME, SweetyFox, $TREMP promos; complaints about Pump.fun callout payouts.",
+  "lastUpdated": "Monday 9 Nov 2026, 19:31 Berlin time (UTC+01:00)",
+  "newestPostId": "2119860420794294433",
+  "note": "Window: X posts since 2119859033947697407 (1 recency query; 25 results reached back only to 19:29 Berlin, so 19:26 to 19:29 was only partly covered). Added 1 launch (Stolen Inu $SINU, spun off the North Korea laundering story). Seen but skipped: call accounts claiming $SI (A5oX91q9...pump) ran from $28K to ~$482K MC, $TREMP ~$162K, $GTA ~$190K, $Cupsey, $WOLF; RugRadar bot alert on $DOPE; @Moosaswrld (71K followers) teasing a memecoin airdrop for likes/RTs (engagement bait); Claim Fund promo about $9M unclaimed Pump.fun creator fees; more reposts of the North Korea story.",
   "launches": [
+    {
+      "coin": "Stolen Inu ($SINU)",
+      "chain": "Solana",
+      "chainNote": "Pump.fun contract 4G57L2PpuzAxHp2j3NhHYYKjhT9Es1Ru1djwrGxSpump (not yet graduated at scan time).",
+      "buzz": "News-spawned meme: riffs on today's Elliptic report that North Korea-linked Binance hackers laundered funds through homemade meme coins. Signal account @bitecong (38,605 followers) flagged it at 19:30 Berlin as 'most of the way to graduation' on Pump.fun; the coin's lore cites a post by Wintalt.",
+      "engagement": "About 196 impressions on the signal post, 0 likes at scan time.",
+      "flags": "Automated signal only; no organic engagement yet; topical joke coin, very early, very high risk.",
+      "url": "https://x.com/bitecong/status/2119860275688214839",
+      "followers": 38605
+    },
     {
       "coin": "Unnamed NVDA-logo coin (ticker not given)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "283 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; fast graduation (~13 min). Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118880898901033166",
-      "followers": 38571
-    },
-    {
-      "coin": "Market Makers ($MAKERS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FMgNvuPfnFpnfD6YrTiEbL4W3ea7Ldxm9P8krDAhMKRS (pump.fun / pumpfun bonding curve; signal notes deployer has graduated two of three tokens in its launch index since September).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:20 Berlin an AI Signal that Market Makers ($MAKERS) just launched on pumpfun on Solana; the sharpest fact it flags is the deployer track record: two of its three tokens, including this one, have graduated in the signal's launch index since September (text cut off).",
-      "engagement": "0 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; zero engagement at scan; deployer has prior graduated launches. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118876169336652251",
       "followers": 38571
     }
   ],
