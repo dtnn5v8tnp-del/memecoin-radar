@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 22:44 Berlin time (UTC+01:00)",
-  "newestPostId": "2119908904238759957",
-  "note": "Window: X posts since 2119907750243107224 (1 page of 1 recency query, 20 posts; covered about 22:39 to 22:44 Berlin). Added nothing new. Seen but skipped: @zandyor (103K followers) promising an airdrop of an upcoming memecoin to followers (no ticker yet); CREW post on Trump's crypto wealth; $MAYA 10x and $HWAN 18.6x calls; $HUNG and $Snowboard bot signals; $Vonspeed on Elysium; $TREMP, $HarisB, $GLU, $TROLL, Neon Coon promos; Anza durable-nonces repost. DELIVERED: the user has been sent the $HODLER, Elizabeth Warren and $牛逼 alerts (the 牛逼 alert was re-sent at 22:44 after the 22:40 send aborted), plus earlier North Korea and Cupsey alerts; do not re-send them.",
+  "lastUpdated": "Monday 9 Nov 2026, 22:49 Berlin time (UTC+01:00)",
+  "newestPostId": "2119910206562025775",
+  "note": "Window: X posts since 2119908904238759957 (1 page of 1 recency query, 21 posts; covered about 22:44 to 22:49 Berlin). Added 1 news item (XXYY terminal winding down, per a recap post). Seen but skipped: @KytroCrypto (133K followers) announcing a $KYTRO launch 'today at 1 PM EST' with 'we're finally safe' wording (pattern seen in hacked-account scams, posted after that time had passed); $ORBIT 28.2x, $MAYA 20.9x, $CAT 8.1x, $Unison 4x, $ANTHROPIG 2.4x, $NATO 2x calls; $DOINK, $JENSENHUNG bot signals; $NEET, $SHOKU, $dacity promos; $PUMP near $1.66B (down about 2%) per a small account; unverified Binance 335M-records sale claim. DELIVERED: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts were sent. The $牛逼 alert handoff was attempted at 22:40 and 22:44 but both attempts returned 'Aborted', so its delivery is unconfirmed; do not keep retrying it.",
   "launches": [
     {
       "coin": "牛逼 / NIUBI ($牛逼)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Platform shutdown",
+      "headline": "Solana memecoin terminal XXYY reportedly winding down",
+      "coins": "Solana memecoin trading (XXYY users)",
+      "detail": "A 22:49 Berlin recap by @OnTheBlokkchain (985 followers) says XXYY announced on 9 Nov that it is winding down: trading runs through 30 Nov, then only private-key export until 31 Jan. The post says it joins Zap and BullX as terminals that have shut. Not yet confirmed from XXYY's own account in this sweep; very low engagement at scan.",
+      "updated": "Monday 9 Nov 2026, 22:49 Berlin",
+      "url": "https://x.com/OnTheBlokkchain/status/2119910176023343354"
+    },
+    {
       "topic": "Narrative",
       "headline": "Traders call for a return of 'bagworking' as memecoin market cools",
       "coins": "$BAGWORK (new token riding the theme)",
@@ -536,14 +544,6 @@
       "detail": "@0rdlibrary (22,430 followers) posted at 00:17 Berlin that $CLAWD graduated on @pumpfun on Solana, and that @pumpfun shipped create_v2 pump-coin quotes so a new coin can be priced in an existing pump coin instead of SOL; a follow-up at 00:15 Berlin says the first @pumpfun token designed by a @bot was designed, coded, tested and deployed by Toly, a Grok Bot agent, aiming to launch a pumpfun coin paired with another pump coin ($CLAWD). Early engagement: about 110–117 impressions, 0 likes, 0 reposts at scan time. Primary posts, not a filing.",
       "updated": "7 Nov 2026, 00:22 Berlin",
       "url": "https://x.com/0rdlibrary/status/2118845285522985036"
-    },
-    {
-      "topic": "KOL / celebrity memecoin drama",
-      "headline": "@StarPlatinum_ summarizes Sahil Files claims on Ansem and Iggy Azalea $MOTHER deals",
-      "coins": "$MOTHER",
-      "detail": "@StarPlatinum_ (112,237 followers) posted at 00:14 Berlin that Sahil (behind 2024 celebrity memecoin launches) is \"exposing\" undisclosed KOL deals; the post alleges Ansem received $100K to promote Iggy Azalea's $MOTHER and that Sahil paid Ansem three separate times (thread continues via link). Unverified claims; thin engagement so far (565 impressions, 0 likes at scan).",
-      "updated": "7 Nov 2026, 00:15 Berlin",
-      "url": "https://x.com/StarPlatinum_/status/2118844557240504468"
     }
   ],
   "hourly": [
