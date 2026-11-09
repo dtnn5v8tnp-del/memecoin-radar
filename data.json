@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:20 Berlin time (UTC+01:00)",
-  "newestPostId": "2119842430287544778",
-  "note": "Window: X posts since 2119841867307286800 (1 broad recency query). Added 0 launches and 0 news items. Seen but skipped: call/VIP accounts on $GTA, $HODL, $BMT, $LASTTRUCK, $AGENTDOM; @GemChaserSOL automated $MLC migration alert; Atlantis Exchange HOTDOG presale ad; $MEMEK (16 fol), $SUPRA, Meme Maxxers promos; @BigE_sol note on Solana proposal SIMD-0723 to retire durable nonces (1 impr, not memecoin-specific).",
+  "lastUpdated": "Monday 9 Nov 2026, 18:25 Berlin time (UTC+01:00)",
+  "newestPostId": "2119843802022056352",
+  "note": "Window: X posts since 2119842430287544778 (1 broad recency query). Added 1 launch ($HODL, promoter-reported run) and 0 news items. Seen but skipped: @Ging1y note that the $MAGGIE deployer wallet has launched 20,000+ pump.fun tokens (106 impr); @enzocooks unnamed-memecoin '$54 to $11.7M' gains post (442k fol, no ticker, 751 impr); @trapmapdotfun $TMAP tool token launch; @speedyswimmerr $PUSSY 2.0 shill; call accounts on $AIB, $GTA, $BRUCE, $WIFE; $NHEX (2 fol), $BROKE, $BBTC, Vyra, Parity promos.",
   "launches": [
+    {
+      "coin": "HODL ($HODL)",
+      "chain": "Solana",
+      "chainNote": "Posts give contract address 4N1pRfEMnWAUE8rhyhqwnsWe6TNjuQFhgvNB3Nr9pump (pump.fun).",
+      "buzz": "Several call accounts tracked a fast run between about 18:16 and 18:25 Berlin: @AlphaPulsevw (2,365 followers) posted market-cap updates of $143K, $242K, $321K, $1.0M, $2.2M and then $3.8M (from an $11K start); @EarlyChad_ and @SolMoh0x also posted about it.",
+      "engagement": "Very low: 0 to 35 impressions per update, 0 to 1 likes at scan time.",
+      "flags": "All figures come from promoter/call accounts, not independently verified. Extremely fast move on a fresh pump.fun coin; very high risk of a sharp reversal.",
+      "url": "https://x.com/AlphaPulsevw/status/2119843802022056352",
+      "followers": 2365
+    },
     {
       "coin": "WIFE ($WIFE)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "288 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; no clear theme flagged in signal. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118871441336926215",
-      "followers": 38573
-    },
-    {
-      "coin": "Work Coin ($Work)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 7jRGjc5W7Dmfs9NVQQqA8SzDGqi8PQQQdXeRAjgwpump (pump.fun / pumpfun bonding curve; signal says already off the bonding curve on PumpSwap).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 01:53 Berlin an AI Signal that Work Coin ($Work) is a pumpfun launch on Solana, roughly a quarter of an hour old at signal, and already off the bonding curve on PumpSwap; it says the theme is work and there is no description or links giving a story (text cut off).",
-      "engagement": "268 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; generic work theme with no story. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118869294838857926",
       "followers": 38573
     }
   ],
