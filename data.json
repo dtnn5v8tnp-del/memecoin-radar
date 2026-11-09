@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 20:48 Berlin time (UTC+01:00)",
-  "newestPostId": "2119879717805605341",
-  "note": "Window: X posts since 2119878565881880683 (1 page of 1 recency query; covered 20:43 to 20:48 Berlin, full window). Added nothing new. Seen but skipped: @woibilly (1,906 followers) saying @torpornet deleted its X account and website after rugging its token on @TheKleos_ (about 31 impressions); a 180-follower claim that Schroders launched a product on Solana; XTP listing on a second exchange (Biconomy); $NEET culture-coin post again; $BROKE promo; call claims on $MYWAY (~$639K peak), $GTA.",
+  "lastUpdated": "Monday 9 Nov 2026, 20:57 Berlin time (UTC+01:00)",
+  "newestPostId": "2119881876361904237",
+  "note": "Window: X posts since 2119879717805605341 (1 page of 1 recency query plus 1 news search; covered about 20:50 to 20:56 Berlin). Added $FAIR call-account pump claim. Seen but skipped: @jackthewolff link saying Binance calls a 335.9M-record data-sale listing likely a scam with no breach found; Elliptic/TraderTraitor NEAR memecoin laundering and PercolatorTrade token switch (already listed); $PAYDAY, $PILL, $RIGBY, $CLMFND, $Hannah, $PUSSY, $TREMP calls and promos; rug-call posts by @lykttrades.",
   "launches": [
+    {
+      "coin": "$FAIR",
+      "chain": "Solana",
+      "chainNote": "Contract FairDR2UmRqHxsVPdPcetePCjFaDqVYv3oQX9fcQTpTg (as posted by call accounts).",
+      "buzz": "@universolumina claimed at 20:53 Berlin that $FAIR went from about $15K to $129K market cap in under 18 minutes (about 8.6x). @_Shonsol and @degen_piilot posted the same 'watch your entry, gamble for now' call at 20:55 Berlin.",
+      "engagement": "Call posts: 0 to 1 likes, 4 to 58 impressions at scan.",
+      "flags": "Move figures come from a Telegram-promo call account and are unverified; copy-paste call posts; very new token; very high risk.",
+      "url": "https://x.com/universolumina/status/2119881065904951489",
+      "followers": 657
+    },
     {
       "coin": "Last Truck ($LASTTRUCK)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "307 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; still on bonding curve near graduation. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118880920656838795",
-      "followers": 38571
-    },
-    {
-      "coin": "ReleaseTheOdds ($ODDS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BKvjmtidJCeDNtryFyVgJaVu8oLdKZMix9xW61Sepump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:39 Berlin an AI Signal that #ReleaseTheOdds ($ODDS) was 75% of the way to graduation on the pumpfun bonding curve within minutes of opening on Solana; the name points at the #ReleaseTheOdds hashtag (text cut off).",
-      "engagement": "308 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; hashtag-theme launch. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118880913673310671",
       "followers": 38571
     }
   ],
