@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 22:33 Berlin time (UTC+01:00)",
-  "newestPostId": "2119906193988575304",
-  "note": "Window: X posts since 2119905115859513778 (1 page of 1 recency query, 19 posts; covered about 22:29 to 22:33 Berlin). Added nothing new. Seen but skipped: $FAIR 11.9x call ($16.7K to $198.3K); $Unison and LINIEL TG calls; Binance spot memecoin gainers all under 1% (ACT, 1000CAT, PEPE, DOGE); promos for $HarisB, $MOON giveaway, $BYTE, $PERPS, $neet (Thanksgiving launch), Zork; '$2 to $2.6M' copy-paste. DELIVERED: the user has already been sent the $HODLER and Elizabeth Warren alerts (and earlier North Korea, Cupsey alerts); do not re-send them.",
+  "lastUpdated": "Monday 9 Nov 2026, 22:40 Berlin time (UTC+01:00)",
+  "newestPostId": "2119907750243107224",
+  "note": "Window: X posts since 2119906193988575304 (1 page of 1 recency query, 25 posts; covered about 22:34 to 22:39 Berlin) plus one check search on 牛逼. Added 1 launch (Elon-inspired $牛逼 on BNB Chain, Gate perp listing; story dates from about 13:00 Berlin today). Seen but skipped: $MAYA 46.4x to 165.4x calls; $RETARDIO 144x copy-paste calls; $ORBIT 36.1x and $BigPussy 3.3x calls; $Unison 6x call; $SVQ and $ANTHROPIG bot signals; TGMB launch tomorrow 20:00 CET; $MOON airdrop launch; complaint about a whale buying 40% of a coin's supply (no ticker); Pump.fun about 36K launches per day recap. DELIVERED: the user has already been sent the $HODLER, Elizabeth Warren and $牛逼 alerts (and earlier North Korea, Cupsey alerts); do not re-send them.",
   "launches": [
+    {
+      "coin": "牛逼 / NIUBI ($牛逼)",
+      "chain": "BNB Chain (BSC)",
+      "chainNote": "Several copycat contracts exist. Contracts posted on X include 0xAB9Cc25FBc05e1EBf3C73340A084E042b89A7777, 0x9665f094d862f4d5c221843e019b463d3c607777 and 0xe9320db4ddfc689470d09c768a4cb9b05cf97777; @NiubiBsc and @Awesomebsc (a BNB launchpad project) are pushing versions of it. None is confirmed as 'the' token.",
+      "buzz": "Spawned by an Elon Musk post saying 'Chinese X is 牛逼' (Chinese slang for 'awesome'). Posts say a deployer minted copies within seconds and a 牛逼 token cleared about $5M market cap in two hours; a whale tracker logged a buy at $3.2M MC around 15:29 Berlin, and Chinese-language posts claim the related launchpad gained $8M. Gate Web3 (@GateDEX, 346K followers, verified) listed a $牛逼/USDT perpetual on its Perp DEX meme zone with 1 to 10x leverage at 13:41 Berlin. The story resurfaced at 22:36 Berlin.",
+      "engagement": "Moderate: @NiubiBsc post about 1.9K impressions, Gate listing about 2.2K impressions, Chinese mint promos up to about 1.3K impressions; most posts single-digit likes.",
+      "flags": "Musk's post doesn't name any token or contract (noted by @amandasfranca); multiple copycat contracts; market-cap figures are from promo and tracker posts, not verified; very high risk.",
+      "url": "https://x.com/GateDEX/status/2119772261963985192",
+      "followers": 346275
+    },
     {
       "coin": "Unnamed token from @_rise (ticker not stated in the post)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; third leap-theme launch today (serial-theme risk); early wallets and bundlers already gone. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118899534776746333",
       "followers": 38568
-    },
-    {
-      "coin": "Ponzi ($Ponzi)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 7wXSFoENnY1jBQAJwmk54bPB6ndv6HvToC125io2pump (pump.fun / pumpfun; signal says already graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,566 followers) posted at 03:25 Berlin an AI Signal that Ponzi ($Ponzi) launched on pumpfun about two and a half minutes earlier and had already graduated to PumpSwap; name and ticker state the theme as ponzi, with no researched story behind the contract (text cut off).",
-      "engagement": "226 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; second distinct Ponzi-named CA in this window (serial-theme risk); instant graduation. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118892463700181044",
-      "followers": 38566
     }
   ],
   "news": [
