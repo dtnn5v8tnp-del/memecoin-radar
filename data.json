@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:29 Berlin time (UTC+01:00)",
-  "newestPostId": "2119844595018486088",
-  "note": "Window: X posts since 2119843802022056352 (1 broad recency query). Added 0 launches and 0 news items; updated the $HODL row with an unverified $68.8M claim. Seen but skipped: @OldmanScalping post that Charles Schwab now lets clients trade $SOL, $AVAX and $LINK (157k fol, 1,177 impr, not memecoin-specific); @CrypttraderDave recap of the already-listed North Korea/NEAR meme-coin laundering story; @bitecong signals for $Osaru and $BabyPunch; call accounts on $LASTTRUCK, $MYWAY, $POVERTY, $AGENTDOM, $GNOSIS, $GTA; Elysium-chain $EDOGE and $VONSPEED promos.",
+  "lastUpdated": "Monday 9 Nov 2026, 18:34 Berlin time (UTC+01:00)",
+  "newestPostId": "2119846032167121208",
+  "note": "Window: X posts since 2119844595018486088 (1 broad recency query). Added 1 launch ($HODLER, promoter-reported) and 0 news items; added a follow-up detail to the Cupsey/Bubblemaps row. Seen but skipped: @pakhayok Slingoor recap claiming 620M Big Titty Coin tokens dumped in 42 seconds and his account going private (2,017 fol, 0 impr, already covered); @bitecong signals for $MERLYN; scanner posts on $NOVOS; call accounts on $GTA, $QUAKE, $CUPSEY; $WNO (BSC), $HIM, $LUCKYSLP and Moonshot promos.",
   "launches": [
+    {
+      "coin": "HODLER ($HODLER)",
+      "chain": "Solana",
+      "chainNote": "Posts give contract address 8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump (pump.fun). Different contract from the $HODL row below.",
+      "buzz": "Call accounts @WestmarkCalls (2,529 followers) and @DegenFlow_ (6,858 followers) posted between 18:32 and 18:34 Berlin that $HODLER ran from about $14K to $11.5M market cap (claimed 750x to 821x).",
+      "engagement": "31 to 153 impressions per post, 0 to 1 likes at scan time.",
+      "flags": "Figures only from promoter/call accounts and unverified; similar ticker to $HODL may cause confusion. Extremely fast move; very high risk.",
+      "url": "https://x.com/WestmarkCalls/status/2119846006389129510",
+      "followers": 2529
+    },
     {
       "coin": "HODL ($HODL)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; second same-day scamsem-name launch (serial-theme risk); instant graduation. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118873900239204591",
       "followers": 38573
-    },
-    {
-      "coin": "Pibblemas ($Pibblemas)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FRCpQFvy2mj2X2T3n4NvR5GvyUcmHXQaF6KpvCi1pump (pump.fun / pumpfun bonding curve; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 02:01 Berlin an AI Signal that Pibblemas ($Pibblemas) has no clear theme in its name or links; it graduated from pumpfun to PumpSwap about twenty-two minutes thirty-four seconds after launch, so graduation landed before the signal (text cut off).",
-      "engagement": "288 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; no clear theme flagged in signal. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118871441336926215",
-      "followers": 38573
     }
   ],
   "news": [
@@ -309,7 +309,7 @@
       "topic": "Insider dump allegation",
       "headline": "Bubblemaps alleges Solana trader Cupsey dumped on followers via ~30 hidden wallets",
       "coins": "Various Solana memecoins (unnamed in post)",
-      "detail": "@AlphaWireHQ (23,200 followers) reported at 18:06 Berlin that blockchain analytics firm @bubblemaps alleges Cupsey used about 30 hidden wallets to buy memecoins early, promote them publicly and sell into followers' buying, for about $1.74M. Allegation only; post text was cut off. Unrelated to the $cupsey ticker being shilled by call accounts.",
+      "detail": "@AlphaWireHQ (23,200 followers) reported at 18:06 Berlin that blockchain analytics firm @bubblemaps alleges Cupsey used about 30 hidden wallets to buy memecoins early, promote them publicly and sell into followers' buying, for about $1.74M. Allegation only; post text was cut off. Unrelated to the $cupsey ticker being shilled by call accounts. Follow-up from @CryptoNews_op (5,340 followers, 18:32 Berlin): the alleged wallets have traded over 27,000 times since 7 May (post text cut off).",
       "updated": "Monday 9 Nov 2026, 18:06 Berlin",
       "url": "https://x.com/AlphaWireHQ/status/2119839013464871035"
     },
