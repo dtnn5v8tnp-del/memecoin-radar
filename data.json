@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 23:54 Berlin time (UTC+01:00)",
-  "newestPostId": "2119926628021309827",
-  "note": "Window: X posts since 2119926203364888689 (1 recency query, 4 posts; about 23:53 to 23:54 Berlin). Nothing new added. Seen but skipped: $CNTC 5.2x call (@erykdiamond, call account), @OzyRana rug-claim law-firm promos, @RenoCzarr hypothetical launchpad idea. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 00:00 Berlin time (UTC+01:00)",
+  "newestPostId": "2119928121159803095",
+  "note": "Window: X posts since 2119926628021309827 (1 recency query, 21 posts; about 23:54 to 00:00 Berlin) plus 1 X News search. Added $BEEPZ (Beepz inscription platform on Robinhood Chain, from X News). Seen but skipped: call-account posts on $PMURT 157.5x, $HYPEPE 8x, $Infinite, $BOBINA, $CUPSEY 2x; @bitecong AI-signal on a third $FART; $DACAT brand-new account promo; @OzyRana law-firm promos; Percolator -90% comment; News stories on North Korea memecoin laundering and $BAGWORK already covered. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
+    {
+      "coin": "Beepz ($BEEPZ)",
+      "chain": "Robinhood Chain",
+      "chainNote": "Official $BEEPZ inscription contract per X News summary: 0x88081347e712749a2d01e6c597b13fe0cc2478a5 (beepz-20 inscription standard, 21M max supply).",
+      "buzz": "X News story (updated 23:22 Berlin) says the Beepz inscription platform went live on Robinhood Chain, letting creators make free beepz-20 inscriptions and trade them on a built-in marketplace. Whitelist users got free inscribes and some flipped them quickly.",
+      "engagement": "Per the X News summary: about 145 holders and $25.5K market cap in the first half hour.",
+      "flags": "Summary warns of fake tokens and urges verifying the contract; figures come from an AI-generated X News summary, not verified on-chain; very early and high risk.",
+      "url": "https://x.com/i/trending/2119916748170551788",
+      "followers": null
+    },
     {
       "coin": "Diamond Ape HODLER ($HODLER)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "302 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; deployer already fully sold; news-joke / Nvidia-China theme. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118902532680700116",
-      "followers": 38568
-    },
-    {
-      "coin": "Leap ($Leap)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address DhZ9LaH9TqEi4JCdPZ961hCcBABfhcYm7kNdqkyTLeap (pump.fun / pumpfun bonding curve; signal says 99% to graduation).",
-      "buzz": "Signal account @bitecong (38,568 followers) posted at 03:53 Berlin an AI Signal that Leap ($Leap) is the third leap-themed launch on Solana today and was already 99% of the way to graduation on the pumpfun bonding curve; it flags that none of the early buying wallets stuck around and mentions two bundlers (text cut off).",
-      "engagement": "311 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; third leap-theme launch today (serial-theme risk); early wallets and bundlers already gone. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118899534776746333",
       "followers": 38568
     }
   ],
