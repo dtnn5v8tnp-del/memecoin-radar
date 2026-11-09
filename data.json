@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:01 Berlin time (UTC+01:00)",
-  "newestPostId": "2119837704569676284",
-  "note": "Window: X posts since 2119836607817584768 (1 broad recency query) plus X News search (6h). Added 1 launch(es) and 3 news item(s). Seen but skipped: repeated call/VIP accounts (@Sol_Gems00 $ELON2028, @Botched_caller $QUAKE, @CipherEdgeCalls $LASTTRUCK, @SOLANALYST01/@SOLEARLYINSIGHT $POVERTY, @DegenFlow_ $MYWAY); new low-follower launchpad/tool accounts (Flux, LaunchSafe, Soltimeline, ApesHaveFun); @0xfamzy_ $WIN on Uphold (not a memecoin, low engagement).",
+  "lastUpdated": "Monday 9 Nov 2026, 18:08 Berlin time (UTC+01:00)",
+  "newestPostId": "2119839361214841003",
+  "note": "Window: X posts since 2119837704569676284 (1 broad recency query). Added 0 launches and 1 news item (Cupsey/Bubblemaps allegation). Seen but skipped: @bitecong automated signals for $SINU, $CHILL, $FUK (bonding-curve, ~200-270 impr, no likes); call/VIP accounts on $GTA, $BANK, $shiken, $cupsey, $POLARIS, $Bruce, $GINGATO, $WIFE; $TIGRINO self-reported Kraken listing *application* (76 fol); Tree Guardians $TG launch (62 fol); @blknoiz06_wtf impersonation-style post.",
   "launches": [
     {
       "coin": "WIFE ($WIFE)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Insider dump allegation",
+      "headline": "Bubblemaps alleges Solana trader Cupsey dumped on followers via ~30 hidden wallets",
+      "coins": "Various Solana memecoins (unnamed in post)",
+      "detail": "@AlphaWireHQ (23,200 followers) reported at 18:06 Berlin that blockchain analytics firm @bubblemaps alleges Cupsey used about 30 hidden wallets to buy memecoins early, promote them publicly and sell into followers' buying, for about $1.74M. Allegation only; post text was cut off. Unrelated to the $cupsey ticker being shilled by call accounts.",
+      "updated": "Monday 9 Nov 2026, 18:06 Berlin",
+      "url": "https://x.com/AlphaWireHQ/status/2119839013464871035"
+    },
+    {
       "topic": "Exploit / laundering",
       "headline": "X News: North Korean hackers mint meme coins to launder Binance heist funds",
       "coins": "Throwaway NEAR tokens (one touting 'Elon 2028 President')",
@@ -536,14 +544,6 @@
       "detail": "X news summary (updated ~21:27 Berlin): Bubblemaps said it plans to expose a major KOL for allegedly drawing copy traders to public wallets while selling via hidden side wallets, farming rewards, and bundling tokens. Community speculation centered on trader @blknoiz06 (Ansem), with talk of Pump.fun trading, large shorts, and past paid promos. Unverified accusations from the X news summary, not a primary disclosure; continues earlier Ansem / Pump.fun reward speculation already on the board.",
       "updated": "6 Nov 2026, 22:08 Berlin",
       "url": "https://x.com/i/trending/2118761302281822240"
-    },
-    {
-      "topic": "Regulatory / India exchanges",
-      "headline": "BeInCrypto: India ED raids CoinDCX and Delta Exchange over offshore crypto routing",
-      "coins": "USDT, CoinDCX, Delta Exchange",
-      "detail": "Verified @beincrypto (87,615 followers) posted at 20:18 Berlin that India's Enforcement Directorate searched three offices tied to CoinDCX and Delta Exchange over alleged foreign exchange violations, claiming customer rupee deposits were converted into $USDT for offshore routing (text cut off). Outlet-reported regulatory action, not a memecoin-specific event.",
-      "updated": "6 Nov 2026, 20:19 Berlin",
-      "url": "https://x.com/beincrypto/status/2118785188222341443"
     }
   ],
   "hourly": [
