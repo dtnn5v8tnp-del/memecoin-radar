@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 21:08 Berlin time (UTC+01:00)",
-  "newestPostId": "2119884698394787937",
-  "note": "Window: X posts since 2119883823152320914 (1 page of 1 recency query; covered about 21:04 to 21:08 Berlin). Added $ORBIT call-account pump claims. Seen but skipped: $BEAUTY 40x and $HODL 25.5x call claims, $CLMFND snapshot (~$55.7K MC per an 8-follower account), $CAT and CATECOIN micro launches, $AUDOGE launch teaser for 15 Nov, a repeat of the Blumenthal story (already listed), DataFortis spam.",
+  "lastUpdated": "Monday 9 Nov 2026, 21:15 Berlin time (UTC+01:00)",
+  "newestPostId": "2119886395057549376",
+  "note": "Window: X posts since 2119884698394787937 (1 page of 1 recency query; covered about 21:09 to 21:14 Berlin). Added the Vibecoin rug allegation. Seen but skipped: @thegaboeth thread on Elysium, Kinetiq's new Hyperliquid L2; a 0-follower claim that one network ran 4 Meteora rugs (~187 SOL); a 61-follower post saying SHIB volume rose 97.7% to ~$62.9M; $TROLL and $USELESS cheerleading; $SPY (Nvidia-spy meme) pump.fun launch; call claims on $FAIR, $HWAN, $CAP, $SI; a repeat of the Elliptic story (already listed); DataFortis spam.",
   "launches": [
     {
       "coin": "$ORBIT",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Rug / scam allegation",
+      "headline": "Vibecoin token dev accused of taking about $23,000 from the community",
+      "coins": "Vibecoin",
+      "detail": "@Cryptoceleb1 (11,430 followers) posted at 21:10 Berlin that a 'baby rug-puller' took and hid about $23,000 from the community through the Vibecoin token. The post says the claim comes from an on-chain investigation tracing wallet activity, but the investigation details aren't in what the search returned. 2 likes and about 324 impressions at scan.",
+      "updated": "Monday 9 Nov 2026, 21:15 Berlin",
+      "url": "https://x.com/Cryptoceleb1/status/2119885458108776782"
+    },
+    {
       "topic": "Regulation",
       "headline": "Senator Blumenthal demands records from Binance, Tether and the $TRUMP meme coin firm, with a 4 January 2027 deadline",
       "coins": "$TRUMP (Fight Fight Fight LLC), plus Binance, Tether and World Liberty Financial",
@@ -536,14 +544,6 @@
       "detail": "X News story (updated ~23:48 Berlin) says comedian Theo Von shared an AI clip of his face rising from a fiery mushroom cloud, captioning it as AI, nodding to the viral meme format that inspired Solana memecoin $NIO (Pump.fun launch around 21 Oct; story cites market cap near $1.5M amid volatile swings). Community reactions mixed surprise at his engagement with jokes echoing the meme punchline. Unverified beyond the X News summary.",
       "updated": "6 Nov 2026, 23:52 Berlin",
       "url": "https://x.com/i/trending/2118794398783979545"
-    },
-    {
-      "topic": "Paid shill / KOL drama",
-      "headline": "@Zaynnode urges dumping KOLs paid by @villainmonkey to shill memecoins",
-      "coins": "memecoins (general)",
-      "detail": "Verified trader @Zaynnode (48,683 followers) posted at 23:47 Berlin telling followers to dump KOLs who get paid by @villainmonkey to shill memecoins, saying he never accepted that account's message request (with screenshot). Ties into ongoing Pump.fun / paid-callout / influencer drama already on the board. Primary post, not a rug or exploit report.",
-      "updated": "6 Nov 2026, 23:52 Berlin",
-      "url": "https://x.com/Zaynnode/status/2118837604267536470"
     }
   ],
   "hourly": [
