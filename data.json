@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 21:05 Berlin time (UTC+01:00)",
-  "newestPostId": "2119883823152320914",
-  "note": "Window: X posts since 2119883044475580709 (1 page of 1 recency query plus 1 news search; covered about 21:01 to 21:04 Berlin). Added the Blumenthal records-request story and updated $FAIR with newer call claims. Seen but skipped: $ORBIT (claimed 17x, $16K to $276K top), $TJR and $KAV promos, Robinhood joining the OKX-ICE tokenization venture headline, CryptoThro shill-your-ticker posts, DataFortis claim spam.",
+  "lastUpdated": "Monday 9 Nov 2026, 21:08 Berlin time (UTC+01:00)",
+  "newestPostId": "2119884698394787937",
+  "note": "Window: X posts since 2119883823152320914 (1 page of 1 recency query; covered about 21:04 to 21:08 Berlin). Added $ORBIT call-account pump claims. Seen but skipped: $BEAUTY 40x and $HODL 25.5x call claims, $CLMFND snapshot (~$55.7K MC per an 8-follower account), $CAT and CATECOIN micro launches, $AUDOGE launch teaser for 15 Nov, a repeat of the Blumenthal story (already listed), DataFortis spam.",
   "launches": [
+    {
+      "coin": "$ORBIT",
+      "chain": "Solana",
+      "chainNote": "Pump.fun contract 6USthxiSZFoCJWhd5bUTcStagAJ2rFd8q8SiF2kupump (as posted by call accounts).",
+      "buzz": "Called by several Solana call accounts from about 20:59 Berlin at roughly $16K to $18K MC. Their claimed gains kept climbing: @WestmarkCalls said $18K to $342K (about 19x) at 21:04, and @EarlyChad_ said $18K to $388K (21.6x) at 21:06 Berlin.",
+      "engagement": "Call posts: 0 to 2 likes, about 60 to 175 impressions at scan.",
+      "flags": "All figures come from call accounts selling Telegram groups and are unverified; no project account seen; very high risk.",
+      "url": "https://x.com/EarlyChad_/status/2119884406034772099",
+      "followers": 6178
+    },
     {
       "coin": "$FAIR",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; theme is literally scam. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118886473164595654",
       "followers": 38570
-    },
-    {
-      "coin": "LuckyCoin ($LKY)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Ey4YG29k4hQmTPfRr3aRrpzSx8THEeSWbgCo2yWypump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 02:39 Berlin an AI Signal that LuckyCoin ($LKY) is a pumpfun launch on Solana that, roughly half an hour in, still sat on the bonding curve, most of the way to graduation; the story comes from a researched report on this exact contract (text cut off).",
-      "engagement": "307 impressions, 0 likes, 0 reposts, 1 reply at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; still on bonding curve near graduation. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118880920656838795",
-      "followers": 38571
     }
   ],
   "news": [
