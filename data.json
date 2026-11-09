@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 18:55 Berlin time (UTC+01:00)",
-  "newestPostId": "2119851350205071388",
-  "note": "Window: X posts since 2119850426279309589 (1 broad recency query, no news search this run). Added 1 launch (Solana NVDA-logo/'Chinese spy' joke coin via @Viking4Eth) and 1 news item ($TRUMP reported new all-time low ~$1.12). Seen but skipped: call accounts on $Cupsey, $LASTTRUCK, $LAMPORT, $BMT; $TANUKI and NEON COON shills; Trady bonus spam; 'Grok turned $100 into $214K' bait; e/accrime rug accusations against Elysium-linked launchpads (5-follower account); $WNO BSC launch from a brand-new 0-follower account.",
+  "lastUpdated": "Monday 9 Nov 2026, 19:01 Berlin time (UTC+01:00)",
+  "newestPostId": "2119852664926138660",
+  "note": "Window: X posts since 2119851350205071388 (1 broad recency query) plus X News search (2h). Added 0 launches and 1 news item (@gumsays: $1.8M lost on Percolator and Big Titty Coin). X News returned only stories already listed (North Korea NEAR coins, Percolator, Slingoor, 'NOT a Chinese spy') or off-topic. Seen but skipped: @CipherEdgeCalls claiming $Cupsey 18x; @bitecong scanner signals for $Bones and $MEME; FOBO launch model on Robinhood Chain (promo); $MRACE launchpad promo; SweetyFox and pipis shills.",
   "launches": [
     {
       "coin": "Unnamed NVDA-logo coin (ticker not given)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Rug / dump",
+      "headline": "@gumsays: Percolator and Big Titty Coin holders down $1.8M in 24 hours",
+      "coins": "PERCOLATOR ($PERCOLATOR), Big Titty Coin ($BTC)",
+      "detail": "@gumsays (67,623 followers) posted at 19:00 Berlin that holders of the two Solana memecoins lost about $1.8M in 24 hours after the Percolator team 'rugged' (moving to a new token) and a top Big Titty Coin holder sold. The post says three wallets alone are down about half a million dollars on PERCOLATOR. Follow-up to the two X News stories already listed below; figures come from that post.",
+      "updated": "Monday 9 Nov 2026, 19:01 Berlin",
+      "url": "https://x.com/gumsays/status/2119852523712634917"
+    },
+    {
       "topic": "Price move",
       "headline": "$TRUMP reportedly hits a new all-time low near $1.12",
       "coins": "TRUMP ($TRUMP)",
@@ -536,14 +544,6 @@
       "detail": "X news summary (updated ~22:04 Berlin): Sahil posted photos of a couple plus WhatsApp messages tied to his public accusations against trader Ansem (@blknoiz06), with reactions ranging from shock and doxxing concerns to jokes about relationship drama in Solana memecoin circles. Continues the Ansem / Pump.fun speculation already on the board. Unverified drama summary from X news, not a primary disclosure.",
       "updated": "6 Nov 2026, 22:41 Berlin",
       "url": "https://x.com/i/trending/2118809984326672805"
-    },
-    {
-      "topic": "Exchange / app listing",
-      "headline": "X News: Thinking Cat $HMM token joins Robinhood app assets",
-      "coins": "$HMM",
-      "detail": "X news summary (updated ~21:52 Berlin): $HMM (Thinking Cat), launched in July on Robinhood Chain via the Pons ecosystem, was added to Robinhood app assets for users to view. Influencers including CryptoKaleo cheered the visibility; the summary cites price near $0.01 with about a $12M market cap, and notes some caution that this is visibility (like past tokens $AI and $PRIORS) rather than full trading.",
-      "updated": "6 Nov 2026, 22:21 Berlin",
-      "url": "https://x.com/i/trending/2118806657606283558"
     }
   ],
   "hourly": [
