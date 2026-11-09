@@ -1,7 +1,7 @@
 {
   "lastUpdated": "Monday 9 Nov 2026, 19:52 Berlin time (UTC+01:00)",
   "newestPostId": "2119865612298305827",
-  "note": "Window: X posts since 2119863936379982116 (2 pages of 1 recency query; covered 19:47 to 19:52 Berlin, about 2 minutes short at the start). Added 1 news item ($HODLER ~$10.4M MC claim, unverified). Seen but skipped: $ARKHAM launch on Elysium via arkhampad; $BBBW 'Bring Back BagWorking' on Float and $KIMBOWL North Korea joke coin teaser (both brand-new tiny accounts); call claims on $Pepetide (~$688K), $BEAUTY, $TREMP, $GTA, $GIGAINU, $LASTTRUCK; paid DEXScreener flag on $ATLAS; second $SINU contract (63GvNqZ5...) flagged by Autorun; Pump.fun's Noah Tweedale on 'moonshot experiments' like Bounties; 'comment CA' engagement bait from big accounts.",
+  "note": "Window: X posts since 2119863936379982116 (2 pages of 1 recency query; covered 19:47 to 19:52 Berlin, about 2 minutes short at the start). Added nothing new ($HODLER, already listed under launches, drew more call claims of ~$10.4M MC). Seen but skipped: $ARKHAM launch on Elysium via arkhampad; $BBBW 'Bring Back BagWorking' on Float and $KIMBOWL North Korea joke coin teaser (both brand-new tiny accounts); call claims on $Pepetide (~$688K), $BEAUTY, $TREMP, $GTA, $GIGAINU, $LASTTRUCK; paid DEXScreener flag on $ATLAS; second $SINU contract (63GvNqZ5...) flagged by Autorun; Pump.fun's Noah Tweedale on 'moonshot experiments' like Bounties; 'comment CA' engagement bait from big accounts.",
   "launches": [
     {
       "coin": "Stolen Inu ($SINU)",
@@ -305,14 +305,6 @@
     }
   ],
   "news": [
-    {
-      "topic": "Big move (unverified)",
-      "headline": "$HODLER claimed to run from ~$62K to ~$10.4M market cap",
-      "coins": "HODLER ($HODLER), Solana, contract 8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump",
-      "detail": "Several call accounts posted between 19:47 and 19:52 Berlin about the same contract: @captain_meme1 (3,370 followers) claimed a move from $62K to $10.4M market cap, and @Sol_Ficra (5,663 followers) posted escalating '750X' to '814.3X' call claims. These are paid-group promo accounts, not independent data, and engagement is near zero; treat the numbers as unconfirmed.",
-      "updated": "Monday 9 Nov 2026, 19:52 Berlin",
-      "url": "https://x.com/captain_meme1/status/2119864898306142604"
-    },
     {
       "topic": "Platform",
       "headline": "@alexxxx: Pump.fun stops callout rewards for Slingoor",
