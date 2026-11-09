@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Monday 9 Nov 2026, 22:18 Berlin time (UTC+01:00)",
-  "newestPostId": "2119902440434876862",
-  "note": "Window: X posts since 2119901747845959943 (1 page of 1 recency query, 9 posts; covered about 22:15 to 22:18 Berlin). Added nothing new. Seen but skipped: $HWAN 19x to 49x calls; $MAYA $58K to $966K call; $DOPE $5K to $401K call; $AIB 12.8x call; $SUNK TG call; $SPY pumpfun promo (Nvidia CEO spy-affair meme, unverified claim); Trady referral post. DELIVERED: the user has already been sent the $HODLER and Elizabeth Warren alerts (and earlier North Korea, Cupsey alerts); do not re-send them.",
+  "lastUpdated": "Monday 9 Nov 2026, 22:28 Berlin time (UTC+01:00)",
+  "newestPostId": "2119904774803902649",
+  "note": "Window: X posts since 2119902440434876862 (2 pages of 1 recency query, 36 posts; covered about 22:18 to 22:27 Berlin). Added 1 launch (@_rise pump.fun token D6MB...pump). Seen but skipped: $DOPE $5K to $2.0M MC call; $HWAN 78x call; $ELYSIUM 21.5x call; $RETARDIO 144x call (copy-paste); $HyperEdge, $HELIOS, $CIA, $SUNK TG calls; bot signals for $Unison (graduated in ~12 min), $ANTHROPIG, $CHADLON; promos for $IDEADOG, $BYTE, $PUSHBEAN, $BOXINU, $STWC (CoinGecko listing), $CON, wikifork $FORK launchpad, Gotcha!, SunPump, Trady referrals. DELIVERED: the user has already been sent the $HODLER and Elizabeth Warren alerts (and earlier North Korea, Cupsey alerts); do not re-send them.",
   "launches": [
+    {
+      "coin": "Unnamed token from @_rise (ticker not stated in the post)",
+      "chain": "Solana",
+      "chainNote": "Pump.fun contract D6MBjXdLwKcn2RhEMH75oWCDfEiuHhTzMF7aKHcBpump.",
+      "buzz": "@_rise (about 19.9K followers) posted at 22:24 Berlin that 'my version of a memecoin is now live on Pump Fun', saying 60% of supply will be airdropped to the top 15 holders at bonding and that he would add a $7,000 buy in 15 minutes.",
+      "engagement": "Low so far: 2 likes, 3 quotes, 1 reply, about 265 impressions at scan.",
+      "flags": "Creator-launched token with a holder-airdrop promise; the planned buy and airdrop are the creator's own claims, not verified; very early and very high risk.",
+      "url": "https://x.com/_rise/status/2119903924547191169",
+      "followers": 19906
+    },
     {
       "coin": "Diamond Ape HODLER ($HODLER)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; second distinct Ponzi-named CA in this window (serial-theme risk); instant graduation. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118892463700181044",
       "followers": 38566
-    },
-    {
-      "coin": "Ponzi ($Ponzi)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 6HKV8fXQEchEsrTYSrsXdxd5n8kWLyxzr26TXRPopump (pump.fun / pumpfun bonding curve).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 03:15 Berlin an AI Signal that Ponzi ($Ponzi) on Solana was only about 48 seconds old when tracking picked it up; it says the name and ticker are on-the-nose with no clear theme beyond the word itself, and flags an odd deployer figure (text cut off at \"deployer: 251\").",
-      "engagement": "334 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; theme is literally ponzi. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118890056618483720",
-      "followers": 38570
     }
   ],
   "news": [
