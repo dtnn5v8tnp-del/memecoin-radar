@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 02:55 Berlin time (UTC+01:00)",
-  "newestPostId": "2119972061179531735",
-  "note": "Window: X posts since 2119970686898999571 (1 recency query, original posts only, 25 posts; about 02:52 to 02:55 Berlin). Nothing new added: all results were templated 'airdrop discovery' CA-spam from low-engagement accounts (@wemmas34, @bz4Christ, @Tmaia_, @saggerdudemax, @climamonterrey, @unconquerablee, @nishantjeph, @lagesjullia) plus a 1-like $BBW promo from @BTCGeek09. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 02:59 Berlin time (UTC+01:00)",
+  "newestPostId": "2119973045817475090",
+  "note": "Window: X posts since 2119972061179531735 (1 recency query, airdrop spam excluded, 9 posts; about 02:55 to 02:59 Berlin). Added $BORLY (likely paid promo; not alerted). Skipped: 'SP500 Super Pussy 500' card promo, @_hillscaller TG pitch, @sh47crypto $牛逼 commentary (already covered), BTC weekly-close commentary. Previous run's window 02:49 to 02:52 Berlin was only partly read. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
+    {
+      "coin": "Borly ($BORLY)",
+      "chain": "Solana",
+      "chainNote": "Contract per @universolumina post: F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump (pump.fun address).",
+      "buzz": "@MaxelRowan (126K followers) put $BORLY on watch at 02:55 Berlin, describing Borlypad as AI-powered token launches on Solana with trading fees funding compute. Call account @universolumina claims it went from $61K to $1.3M market cap (about 21x).",
+      "engagement": "@MaxelRowan post: about 94.9K impressions but only 13 likes, 3 replies, 2 reposts. Call post: 1 like.",
+      "flags": "Impressions far outweigh likes, which looks like a paid or boosted promo; the 21x figure comes from a 'DM for private TG' call account and is unverified. Very high risk.",
+      "url": "https://x.com/MaxelRowan/status/2119972177923719645",
+      "followers": 126198
+    },
     {
       "coin": "Beepz ($BEEPZ)",
       "chain": "Robinhood Chain",
@@ -291,16 +301,6 @@
       "engagement": "343 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; second Alice-theme launch today (serial-theme risk); near graduation. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118902558077100485",
-      "followers": 38568
-    },
-    {
-      "coin": "Alice ($Alice)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump (pump.fun / pumpfun; signal says seconds old).",
-      "buzz": "Signal account @bitecong (38,568 followers) posted at 04:05 Berlin an AI Signal that The Nvidia Spy (Alice) is a pumpfun launch seconds old and the deployer has already sold its whole balance; the name and a linked Verge story about Nvidia's CEO and China suggest a news-joke theme (text cut off).",
-      "engagement": "302 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; deployer already fully sold; news-joke / Nvidia-China theme. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118902532680700116",
       "followers": 38568
     }
   ],
