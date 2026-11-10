@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 11:38 Berlin time (UTC+01:00)",
-  "newestPostId": "2120103671593583068",
+  "lastUpdated": "Tuesday 10 Nov 2026, 11:44 Berlin time (UTC+01:00)",
+  "newestPostId": "2120105154536182206",
   "note": "Window: X posts since 2120090982779625849 (1 recency query with call-spam phrases filtered out, 15 posts; about 10:49 to 10:51 Berlin). Nothing new added. @coinranking (20K) repeated the Upbit/Bithumb HYPE listing already on the board and noted ZetaChain holders voted to shut its L1 on Dec 9 with $ZETA converting to a Solana token (not a memecoin). Skipped: call brags on $DERP404, $BLOB, $NB, $HODL and $P; an AI-signal post on $LEVER; $CHOMP, $CATCH and wikifork promos; an ETH value-narrative post. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Price move",
+      "headline": "$MONTRA reportedly at an $18M market cap after a 12,082% 24-hour run",
+      "coins": "$MONTRA, Elysium",
+      "detail": "@copytop_xbt (424 followers) posted at 11:42 Berlin that the Elysium launchpad token $MONTRA sits at an $18M market cap, up 12,082% in 24 hours, and that 15 top wallets put in $167K in the last day, all through the FOMO app rather than Pump.fun. Single small account with very low engagement; figures unverified. See the earlier rows on the CASHCAT holder threatening to dump $MONTRA.",
+      "updated": "Tuesday 10 Nov 2026, 11:42 Berlin",
+      "url": "https://x.com/copytop_xbt/status/2120104722577182800"
+    },
+    {
       "topic": "Market",
       "headline": "Traders share heavy memecoin losses as the sector sits about 79% below early 2025",
       "coins": "Memecoin sector, $TRUMP",
@@ -325,7 +333,7 @@
       "topic": "Security",
       "headline": "Binance reportedly warns of an iOS flaw that lets malicious apps read wallet seed phrases",
       "coins": "All self-custody wallets on iPhone",
-      "detail": "@open4profit (148K followers) posted at 11:15 Berlin that Binance warns malicious apps can exploit an iOS security flaw to access seed phrases and private keys stored by other apps on the same device. This is a repost of the warning, not Binance's own post, so check Binance's official channels before acting. Update 11:30 Berlin: @cryptoamanclub (88K) names the malicious app as FomoPeek.",
+      "detail": "@open4profit (148K followers) posted at 11:15 Berlin that Binance warns malicious apps can exploit an iOS security flaw to access seed phrases and private keys stored by other apps on the same device. This is a repost of the warning, not Binance's own post, so check Binance's official channels before acting. Update 11:30 Berlin: @cryptoamanclub (88K) names the malicious app as FomoPeek. Update 11:38 Berlin: @DasEvas1 posted that, per SlowMist, a public exploit called 'worse_query' lets a malicious app escape its sandbox and read other apps' data, including wallet data stored in plain text, on iOS 26.0 to 26.7.2 and 27.2.",
       "updated": "Tuesday 10 Nov 2026, 11:15 Berlin",
       "url": "https://x.com/open4profit/status/2120097986466496862"
     },
@@ -536,14 +544,6 @@
       "detail": "X News story says Pump.fun's head of content claims checking top holders gives better insight than other apps thanks to its social graph, while traders push back with examples of losses after following prominent wallets or KOL calls such as Ansem's. The story says 95% of the platform's revenue comes from coins under $250K market cap, amid concerns about fake volume on migrated tokens.",
       "updated": "Monday 9 Nov 2026, 20:08 Berlin",
       "url": "https://x.com/i/trending/2119226750626669031"
-    },
-    {
-      "topic": "Platform",
-      "headline": "@alexxxx: Pump.fun stops callout rewards for Slingoor",
-      "coins": "Big Titty Coin ($BTC) context",
-      "detail": "@alexxxx (12,960 followers) posted at 19:40 Berlin that Pump.fun has taken action and stopped callout rewards for Slingoor, the Solana influencer accused of dumping his Big Titty Coin stake (see the X News item below). Single post; no Pump.fun statement seen in the sources yet.",
-      "updated": "Monday 9 Nov 2026, 19:43 Berlin",
-      "url": "https://x.com/alexxxx/status/2119862822800924935"
     }
   ],
   "hourly": [
