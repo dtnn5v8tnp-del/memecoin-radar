@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 09:43 Berlin time (UTC+01:00)",
-  "newestPostId": "2120074720582279191",
+  "lastUpdated": "Tuesday 10 Nov 2026, 09:49 Berlin time (UTC+01:00)",
+  "newestPostId": "2120076273229742131",
   "note": "Window: X posts since 2120014592411652230 (1 recency query, 25 posts; about 05:44 to 05:52 Berlin). Nothing new added. @CryptoGorilla (190K followers) posted a TLDR of the $MONTRA/$CASHCAT drama (1.3K views, 6 likes; story already on the board). Skipped: $BORLY/$KAWAENER/$GROXIE/$FORGIVENESS call and sniper brags, $FORGIVENESS AI-signal post, Zeru zETH and wikifork $FORK farming posts, $YESSAH, $SMEME, $BOOBIRDS and Snail promos, an Upbit HYPE listing claim from a 1-follower account (HYPE is not a memecoin; unverified here), a Schwab SOL take, and an Elon 'Chinese X' recap already on the board. Watching: @MCGlive 'SAHIL Files' exposé due tomorrow; 'Haris Meme Coin' launch tonight. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
+    {
+      "coin": "KYTRO ($KYTRO)",
+      "chain": "Solana",
+      "chainNote": "Not launched yet and no CA posted. Ignore any CA until @KytroCrypto posts one himself.",
+      "buzz": "@KytroCrypto (133.6K followers) said at 09:45 Berlin that he will launch his own memecoin $KYTRO today at 1 PM EST (19:00 Berlin), calling it 'the biggest Solana memecoin'.",
+      "engagement": "About 1.8K views, 6 likes, 2 reposts and 4 replies at time of sweep.",
+      "flags": "Influencer self-launch with heavy hype ('people will retire from this') and weak engagement for the follower count. Influencer launches often get sniped and dumped early; fake CAs usually circulate before launch. Very high risk.",
+      "url": "https://x.com/KytroCrypto/status/2120075237093998847",
+      "followers": 133576
+    },
     {
       "coin": "ASSCOIN ($ASS)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; distinct CA from an earlier Slingfolio signal in this window (serial-theme / redeploy risk); instant graduation; deployer history flagged. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118930167913718236",
       "followers": 38571
-    },
-    {
-      "coin": "cr*pto ($CR*PTO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 4HKFBG2289TRVNfE9SJ7UnwekEAkcWTApTHEPjiupump (pump.fun / pumpfun bonding curve; signal says 84% to graduation).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 05:22 Berlin an AI Signal that cr*pto (CR*PTO), which spells its name with an asterisk in place of a letter, was about six minutes old and 84% of the way along the pumpfun bonding curve to graduation on Solana.",
-      "engagement": "369 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; name stylized with asterisk. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118922056511508799",
-      "followers": 38570
     }
   ],
   "news": [
