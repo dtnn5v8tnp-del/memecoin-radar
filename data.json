@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 13:06 Berlin time (UTC+01:00)",
-  "newestPostId": "2120125939870847483",
+  "lastUpdated": "Tuesday 10 Nov 2026, 13:08 Berlin time (UTC+01:00)",
+  "newestPostId": "2120126330604044487",
   "note": "Window: X posts since 2120120433609519600 (25 posts, about 12:45 to 12:49 Berlin) plus an X News check of the last 3 hours. No new items: every memecoin story X News returned (Cupsey wallets, PEPE vs SHIB, 2025-26 losses, North Korean laundering memecoins, Montra holder dispute, bagworking nostalgia, Upbit HYPE) is already on the board. Skipped: $TILLY, $BOB, $BAGWORKING and $GTA call brags, $HypnoKat, $ELYS, a Chinese-doge BNB token, Trady and DogeOS referral posts, a wikifork launchpad promo, and a small account's unverified claim that MEXC tagged $musebook for delisting on 13 Nov. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
+    {
+      "coin": "Kim Jong Un Coin ($KIM)",
+      "chain": "Solana",
+      "chainNote": "CA per the post: FVtYCvthmsdx61EiK2nRAfCypiZgmMSJfCjbkEwGpump (Pump.fun launch).",
+      "buzz": "Signal account @bitecong (38.6K followers) flagged it at 13:07 Berlin as a Pump.fun launch about five minutes old, with no price history yet. Per the post, the project links to a 'kim jong un' post by FolkPepe200.",
+      "engagement": "About 194 views, no likes at time of sweep.",
+      "flags": "Minutes-old token with nothing to go on, flagged by an automated signal account. Extremely early and very high risk.",
+      "url": "https://x.com/bitecong/status/2120126255500870046",
+      "followers": 38632
+    },
     {
       "coin": "MEOW ($MEOW)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; thin engagement; cash-and-dog / Cashcat-pair narrative. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118950543636967823",
       "followers": 38573
-    },
-    {
-      "coin": "Ze ($Ze)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Cpwk3gwyWd9whTasJjiQDjwaSV3ZF1VGYEL93MCqoBHW (pump.fun / pumpfun). Signal also says the same coin launched natively on Robinhood Chain (Twine mirror).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 07:00 Berlin an AI Signal that Ze ($Ze) is a pumpfun token on Solana that, 39 seconds after launch, already carried 150 bundler wallets, and that this is a Twine mirror launch also live natively on Robinhood Chain (text cut off).",
-      "engagement": "394 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; heavy bundler presence flagged at launch; Twine / Robinhood Chain mirror. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118946776883601458",
-      "followers": 38574
     }
   ],
   "news": [
+    {
+      "topic": "Pump.fun rug rates",
+      "headline": "Claim: 82.5% of Pump.fun coins that hit a $100K market cap in early November had rugged by Nov 9",
+      "coins": "Pump.fun tokens, $PREDICT",
+      "detail": "@EarthOptional (137 followers) wrote at 13:07 Berlin, citing Anceta data, that 82.5% of Pump.fun coins reaching $100K market cap in the first 9 days of November had rugged by Nov 9. The same thread said $PREDICT is today's most traded new Solana memecoin at $72.75M volume on about a $3.14M market cap with only about $158K liquidity, which the author reads as bot churn. Small account, secondhand data; verify before relying on it.",
+      "updated": "Tuesday 10 Nov 2026, 13:08 Berlin",
+      "url": "https://x.com/EarthOptional/status/2120126261234385101"
+    },
     {
       "topic": "Political memecoins",
       "headline": "Hunter Biden-themed LAPTOP memecoin down 26% after midterms despite a burn, citing Benzinga",
@@ -536,14 +544,6 @@
       "detail": "X's news summary (updated 20:56 Berlin) says traders are nostalgic for 'bagworking', holding and promoting a single memecoin like a full-time job, as in early Solana days, with posts like 'We need to make bag working great again'. It says new tokens such as $BAGWORK aim to revive the idea, while some doubt it can return amid fast flips. No price or market-cap figures were given.",
       "updated": "Monday 9 Nov 2026, 22:05 Berlin",
       "url": "https://x.com/i/trending/2119453397216821660"
-    },
-    {
-      "topic": "Regulation",
-      "headline": "Warren set to chair Senate Banking, with Trump-family crypto and prediction markets as first targets",
-      "coins": "Trump-family crypto ventures (incl. the $TRUMP meme coin ecosystem); prediction markets Polymarket and Kalshi",
-      "detail": "X's news summary (updated 21:36 Berlin) says Elizabeth Warren, as the incoming Banking Committee chair, plans to go after a 'Wild West-style lack of oversight' in prediction markets. It also says she is warning Trump-family crypto businesses, reportedly earning at least $2.3B, to keep their documents, and that hearings with subpoena power could start in January. It surfaced in the sweep via a @Morosaki headline at 21:33 Berlin.",
-      "updated": "Monday 9 Nov 2026, 21:37 Berlin",
-      "url": "https://x.com/i/trending/2119889818381668465"
     }
   ],
   "hourly": [
