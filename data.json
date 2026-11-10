@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 14:01 Berlin time (UTC+01:00)",
-  "newestPostId": "2120139605898821842",
-  "note": "Window: 25 X posts from about 13:57 to 14:00 Berlin. No new items. Skipped: call-account brags on $X (claimed 88x to 120x), $NOTHING, $MAX, $DINGA and $BP, a @KytroCrypto 'comment CA' teaser for an unnamed $10K-cap coin, $ACCENT, $CHILLT, $JAMAL, $BOXINU, Trady referral spam, an Anthropic 'coin' post, and the North Korean memecoin laundering story already on the board. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 14:04 Berlin time (UTC+01:00)",
+  "newestPostId": "2120140514981015607",
+  "note": "Window: 25 X posts from about 14:01 to 14:04 Berlin plus an X News check of the last 2 hours. Added the X News story on SPX6900. Skipped: a wave of call accounts posting the same $X contract (already on the board) with claimed gains up to 172x, $BP and $KEYFO call brags, $DIP, $DOGSEER and $HIPPO self-promos, a $CTFVO signal-bot post, an Elysium mainnet day-one recap from a small account, and repeat X News stories already on the board (PEPE vs SHIB, North Korean laundering, Upbit HYPE, bagworking). Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
       "coin": "HWAN ($HWAN)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "SPX6900",
+      "headline": "X News: SPX6900 holders bet on community belief, with the token around $0.35 and a $330M market cap",
+      "coins": "$SPX",
+      "detail": "An X News story updated at 13:57 Berlin says SPX6900, an Ethereum memecoin from August 2023 that parodies the S&P 500, has over 242,000 holders and trades around $0.35 with a $330 million market cap, down from a $2.27 peak in 2025. It notes liquidity locked for 69 years and no team or roadmap, with promoter Murad framing it as a wealth-redistribution play, while critics point to volatility and concentration among top holders. This is an AI summary of X posts; verify the figures.",
+      "updated": "Tuesday 10 Nov 2026, 14:04 Berlin",
+      "url": "https://x.com/i/trending/2119543936289055026"
+    },
+    {
       "topic": "TRUMP memecoin dinners",
       "headline": "Jeff Stein: entry cost for a Trump memecoin dinner has fallen from about $59,000 (May 2025) to about $700 after the midterms",
       "coins": "$TRUMP",
@@ -536,14 +544,6 @@
       "detail": "A 22:57 Berlin post by @CKJCryptonews (60.7K followers) says Pump.fun bought back and burned $4,353,500 worth of $PUMP over the past 7 days. Figure is from that post only, not verified on-chain in this sweep; low engagement at scan (about 200 impressions).",
       "updated": "Monday 9 Nov 2026, 22:58 Berlin",
       "url": "https://x.com/CKJCryptonews/status/2119912225507020909"
-    },
-    {
-      "topic": "Platform shutdown",
-      "headline": "Solana memecoin terminal XXYY reportedly winding down",
-      "coins": "Solana memecoin trading (XXYY users)",
-      "detail": "A 22:49 Berlin recap by @OnTheBlokkchain (985 followers) says XXYY announced on 9 Nov that it is winding down: trading runs through 30 Nov, then only private-key export until 31 Jan. The post says it joins Zap and BullX as terminals that have shut. Not yet confirmed from XXYY's own account in this sweep; very low engagement at scan.",
-      "updated": "Monday 9 Nov 2026, 22:49 Berlin",
-      "url": "https://x.com/OnTheBlokkchain/status/2119910176023343354"
     }
   ],
   "hourly": [
