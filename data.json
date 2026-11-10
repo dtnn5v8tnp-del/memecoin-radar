@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 12:35 Berlin time (UTC+01:00)",
-  "newestPostId": "2120118002918015044",
-  "note": "Window: X posts since 2120116484466958405 (1 recency query, 25 posts; about 12:31 to 12:35 Berlin). Nothing new added. @BitcoinStrat (7K) says $PEPE is up 39% against BTC in 30 days and out-traded $DOGE on Binance for 12 straight days (fits the PEPE story on the board); @Hodl_fm (10K) quoted Murad saying buy-and-hold ETH holders will beat 99.9% of memecoin and perp traders. Skipped: $P, $Catbal and other call brags, @Theblackbullxxx's $OnlyCats and $ARNOLD posts, AI-signal post on $jobcat, Hypesium bot and wikifork promos, 'which memecoin next' engagement bait. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 12:40 Berlin time (UTC+01:00)",
+  "newestPostId": "2120118987031728156",
+  "note": "Window: X posts since 2120118002918015044 (1 recency query, 19 posts; about 12:35 to 12:39 Berlin). Added $CWS (Cat Wif Sock) on BSC, riding a Douyin 'Catephant' meme, as a very early, low-engagement launch. Also seen: @0xGoldilocks says $FARTCOIN is +7% at $119M per CoinGecko vs $WIF at $157M. Skipped: @koop0x 'comment CA' bait, AI-signal posts on AssCoin and an 'Anthropic' $ANT token, WNO and $MOCHI/BUNCHI promos, a $DOGE explainer, spam hashtag lists. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
+    {
+      "coin": "$CWS (Cat Wif Sock)",
+      "chain": "BNB Chain (BSC)",
+      "chainNote": "Launched on the Flap launchpad. Contract 0xd17c900728c6328873a2e61134352996898e7777, as given in both posts.",
+      "buzz": "@pissmogger67 (209 followers) wrote at 12:37 Berlin that a Douyin 'Catephant' meme is going viral and the coin sat at about $23K market cap, pitching it as a sequel to $WIF. @bitecong's AI-signal feed (38.6K followers) said at 12:35 Berlin that it hit 56% of its bonding curve about a minute after launch.",
+      "engagement": "About 18 views on the pitch and 330 on the AI-signal post at time of sweep.",
+      "flags": "Brand-new micro-cap with almost no organic engagement yet; the 'viral' claim comes from the promoter. Very high risk.",
+      "url": "https://x.com/pissmogger67/status/2120118618663055537",
+      "followers": 209
+    },
     {
       "coin": "Second unnamed token from @_rise (ticker not stated in the post)",
       "chain": "Solana",
@@ -292,16 +302,6 @@
       "flags": "Only an automated signal account so far; thin engagement; second memecoin-theme launch today; near graduation; deployer oddity flagged. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118943250174427384",
       "followers": 38574
-    },
-    {
-      "coin": "Verified ($VERIFIED)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 2boGZeUcMN73VrcG6XJQEBAg4cP1KbYUFuNR3Swipump (pump.fun / pumpfun bonding curve; signal says close to graduation).",
-      "buzz": "Signal account @bitecong (38,572 followers) posted at 06:32 Berlin an AI Signal that Verified ($VERIFIED) launched on pumpfun on Solana, is minutes old and still on the bonding curve close to graduation; it says there is no clear theme and the description names a deployment tool (text cut off / image).",
-      "engagement": "348 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; no clear theme beyond the ticker; near graduation. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118939614715253053",
-      "followers": 38572
     }
   ],
   "news": [
