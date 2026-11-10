@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 14:22 Berlin time (UTC+01:00)",
-  "newestPostId": "2120145022804971848",
-  "note": "Window: 25 X posts from about 14:19 to 14:22 Berlin. Added a small account's unverified claim that Bubblemaps tied @beaverd's wallets to the $SIAS rug and others. Skipped: a $BOTZO airdrop launch set for 15:00 Berlin tomorrow, $ELYTHORIA (Elypad's token on Elysium), $NOSLEEP, $SANDCOIN, $ZYNQ, $PØLSE and $WEALTH self-promos, a $Dinga call brag, paid $SAI posts, @AndrewCryptoHQ's buy-zone post on a token he didn't name, @TheCryptoKazi's 'next 100x is utility' tease, a Binance roundup repeating the North Korean laundering story, and off-topic hits. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 14:32 Berlin time (UTC+01:00)",
+  "newestPostId": "2120147589781930184",
+  "note": "Window: X posts from about 14:30 to 14:32 Berlin (X rate-limited the 14:27 sweep, so some posts from 14:22 to 14:30 may have been missed). Updated the $X (apeonx) row with a RugCheck flag of 50 insiders. Skipped: more $X call brags (claims up to about 243x), a @Theblackbullxxx $CUPSEY engagement post, an unnamed Elysium launch from the 'Billy ember' dev, a $Meme ticker pitch, FusedPad and $VLCALD promos, and off-topic hits. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
       "coin": "HWAN ($HWAN)",
@@ -19,7 +19,7 @@
       "chainNote": "CA per the posts: 9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump (Pump.fun).",
       "buzz": "Between 13:39 and 13:42 Berlin, call accounts @DegenFlow_ (6.9K followers), @vheranievhe (1.1K) and @SOLANACHAD009 (4.7K) posted near-identical brags claiming 71.3x, 58.3x and 9x on their $X call, all with the same contract. Update 13:44 Berlin: tracker account @pumpviewfun (312 followers) put it at about $315.4K market cap, up from a $15.1K entry, and more call accounts (@_Shonsol, @Great_Meme02) posted the same contract.",
       "engagement": "Best post (@DegenFlow_): about 230 views, 1 like.",
-      "flags": "Repeated 'call' accounts posting templated gains, which often happens after a run-up as buyers are drawn in. Gains are self-reported and unverified. Very high risk.",
+      "flags": "Repeated 'call' accounts posting templated gains, which often happens after a run-up as buyers are drawn in. Gains are self-reported and unverified. Very high risk. Update 14:32 Berlin: @jbstrategy's alert bot says RugCheck flags 50 insiders on this token, and that it hit about $842K on its main pool. Dozens of call accounts are posting the same contract with gain claims, a classic shill-farm pattern.",
       "url": "https://x.com/DegenFlow_/status/2120134259813822925",
       "followers": 6876
     },
