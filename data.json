@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 02:25 Berlin time (UTC+01:00)",
-  "newestPostId": "2119964393257467981",
+  "lastUpdated": "Tuesday 10 Nov 2026, 02:32 Berlin time (UTC+01:00)",
+  "newestPostId": "2119965369666322452",
   "note": "Window: X posts since 2119954715337543948 (1 recency query, original posts only, 5 posts; about 01:46 to 01:49 Berlin). Nothing new added. Seen but skipped: @Drayzor223571 unnamed '$20M drained from a mid-cap Solana DEX' claim (1 view, no protocol named, unverified; like the earlier unverified $270M claim), @Great_Meme02 '332x on $HODLER' call brag ($HODLER already delivered), $FROG, Inu and NEONCOON promos. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
     {
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Launchpad drama",
+      "headline": "Top CASHCAT holder snipes 5% of new Elysium launchpad token $MONTRA, alleging a rug",
+      "coins": "$MONTRA, $CASHCAT",
+      "detail": "Posts from @YakuzaDaddy (about 36K followers) and others say a top $CASHCAT holder claims CASHCAT lead @spinor_ sold out of CASHCAT to start the Montra launchpad on Elysium, and that he sniped 5% of the launchpad token $MONTRA in revenge. These are unproven claims from X posts with modest engagement (7 likes on the main post).",
+      "updated": "Tuesday 10 Nov 2026, 02:32 Berlin",
+      "url": "https://x.com/YakuzaDaddy/status/2119965030527754294"
+    },
+    {
+      "topic": "Insider accusation",
+      "headline": "Bubblemaps accuses Solana trader Cupsey of a $1.7M side-wallet scheme",
+      "coins": "Solana memecoins (copy trading)",
+      "detail": "X News story (updated 01:30 Berlin): Bubblemaps mapped about 30 wallets it links to Cupsey (about 234K followers), saying side wallets bought early, his public wallet followed to pull in copy traders, and the side wallets sold into the pump for about $1.74M since May 7. It also ties the wallets to a deployer that launched and rugged thousands of tokens. Cupsey answered with a meme. AI-generated summary; allegations, not verified.",
+      "updated": "Tuesday 10 Nov 2026, 02:32 Berlin",
+      "url": "https://x.com/i/trending/2119832885569974509"
+    },
+    {
       "topic": "Buyback",
       "headline": "World Liberty Financial starts WLFI token buybacks on Aster",
       "coins": "$WLFI, USD1",
@@ -528,22 +544,6 @@
       "detail": "Watcher @dex_kolwatcher (8,981 followers) posted at 07:41 Berlin detecting a paid DEXScreener listing for $notion (CA 4C6LMX3q8iwShzW6j6A71NAUCgZ9G72T93hh4bKDpump) on Pumpfun Solana; it cited ~$13.4K buy / ~$11.2K sell volume over 24h, $0 liquidity, and ~$8.2K market cap at scan. Thin engagement on the alert itself (217 impressions, 0 likes).",
       "updated": "Saturday 7 Nov 2026, 07:43 Berlin",
       "url": "https://x.com/dex_kolwatcher/status/2118956932992307409"
-    },
-    {
-      "topic": "Investigative / KOL dumping",
-      "headline": "X News: Bubblemaps to expose crypto KOL dumping on followers",
-      "coins": "n/a (KOL / copy-trading)",
-      "detail": "X News story (updated ~07:35 Berlin) says Bubblemaps will soon unmask a major KOL for luring copy traders with public wallets while dumping via hidden side wallets. Context cites FOMO-style leaderboards and one-tap copy trading, community calls for launchpad audits/bans, and prior exposé teases. Continues Ansem / Pump.fun / KOL drama already on the board; unverified pending reveal from the X News summary.",
-      "updated": "Saturday 7 Nov 2026, 07:37 Berlin",
-      "url": "https://x.com/i/trending/2118954262374015147"
-    },
-    {
-      "topic": "Upcoming launch / KOL",
-      "headline": "Fluffy (@fluffycrypt) teases Solana memecoin launch today 7PM UTC",
-      "coins": "FLUFFY (unnamed ticker yet)",
-      "detail": "@fluffycrypt (155,856 followers) posted at 07:32 Berlin a FAQ for an upcoming \"FLUFFY MEME COIN\" launch: Solana chain, 70% supply detail cut off in post text, timed for today 7PM UTC. Early engagement at scan: about 2,091 impressions, 11 likes, 3 reposts, 10 replies, 1 bookmark. No contract address in the post yet; promotional KOL announce, not a live graduated coin.",
-      "updated": "Saturday 7 Nov 2026, 07:37 Berlin",
-      "url": "https://x.com/fluffycrypt/status/2118954763073008083"
     }
   ],
   "hourly": [
