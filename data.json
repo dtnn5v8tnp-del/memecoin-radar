@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 13:50 Berlin time (UTC+01:00)",
-  "newestPostId": "2120136893367026126",
-  "note": "Window: X posts since 2120120433609519600 (25 posts, about 12:45 to 12:49 Berlin) plus an X News check of the last 3 hours. No new items: every memecoin story X News returned (Cupsey wallets, PEPE vs SHIB, 2025-26 losses, North Korean laundering memecoins, Montra holder dispute, bagworking nostalgia, Upbit HYPE) is already on the board. Skipped: $TILLY, $BOB, $BAGWORKING and $GTA call brags, $HypnoKat, $ELYS, a Chinese-doge BNB token, Trady and DogeOS referral posts, a wikifork launchpad promo, and a small account's unverified claim that MEXC tagged $musebook for delisting on 13 Nov. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 13:57 Berlin time (UTC+01:00)",
+  "newestPostId": "2120138772029260269",
+  "note": "Window: 25 X posts from about 13:53 to 13:57 Berlin. Added Jeff Stein's post on the collapsing cost of Trump memecoin dinners. Skipped: $NOTHING 400x/533x call brags, $SANTACOIN, $BIG, $USELESS, $KEYFO and $GIN signal-bot posts, paid #ad $SAI promos, wikifork $FORK point farming, Hachiko, $HIPPO, a $MEME Pangea post, and off-topic hits. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
       "coin": "HWAN ($HWAN)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "TRUMP memecoin dinners",
+      "headline": "Jeff Stein: entry cost for a Trump memecoin dinner has fallen from about $59,000 (May 2025) to about $700 after the midterms",
+      "coins": "$TRUMP",
+      "detail": "@jstein_sun (166K followers) posted at 13:53 Berlin that getting into one of Trump's memecoin dinners cost roughly $59,000 in May 2025 versus a rough $700 now in November 2026, post midterms. Early engagement: about 880 views, 3 likes, 4 reposts. The figures are the author's own rough estimates.",
+      "updated": "Tuesday 10 Nov 2026, 13:57 Berlin",
+      "url": "https://x.com/jstein_sun/status/2120137795230413215"
+    },
+    {
       "topic": "Pump.fun rug rates",
       "headline": "Claim: 82.5% of Pump.fun coins that hit a $100K market cap in early November had rugged by Nov 9",
       "coins": "Pump.fun tokens, $PREDICT",
@@ -536,14 +544,6 @@
       "detail": "A 22:49 Berlin recap by @OnTheBlokkchain (985 followers) says XXYY announced on 9 Nov that it is winding down: trading runs through 30 Nov, then only private-key export until 31 Jan. The post says it joins Zap and BullX as terminals that have shut. Not yet confirmed from XXYY's own account in this sweep; very low engagement at scan.",
       "updated": "Monday 9 Nov 2026, 22:49 Berlin",
       "url": "https://x.com/OnTheBlokkchain/status/2119910176023343354"
-    },
-    {
-      "topic": "Narrative",
-      "headline": "Traders call for a return of 'bagworking' as memecoin market cools",
-      "coins": "$BAGWORK (new token riding the theme)",
-      "detail": "X's news summary (updated 20:56 Berlin) says traders are nostalgic for 'bagworking', holding and promoting a single memecoin like a full-time job, as in early Solana days, with posts like 'We need to make bag working great again'. It says new tokens such as $BAGWORK aim to revive the idea, while some doubt it can return amid fast flips. No price or market-cap figures were given.",
-      "updated": "Monday 9 Nov 2026, 22:05 Berlin",
-      "url": "https://x.com/i/trending/2119453397216821660"
     }
   ],
   "hourly": [
