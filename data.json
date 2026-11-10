@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 02:59 Berlin time (UTC+01:00)",
-  "newestPostId": "2119973045817475090",
-  "note": "Window: X posts since 2119972061179531735 (1 recency query, airdrop spam excluded, 9 posts; about 02:55 to 02:59 Berlin). Added $BORLY (likely paid promo; not alerted). Skipped: 'SP500 Super Pussy 500' card promo, @_hillscaller TG pitch, @sh47crypto $牛逼 commentary (already covered), BTC weekly-close commentary. Previous run's window 02:49 to 02:52 Berlin was only partly read. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 03:08 Berlin time (UTC+01:00)",
+  "newestPostId": "2119975286427287639",
+  "note": "Window: X posts since 2119973045817475090 (1 recency query plus 1 news search, 23 posts; about 02:59 to 03:08 Berlin). Added $Xcoin launch and HawkFi's $PUSSY / Big Titty Coin dump note. Skipped: @DegenFlow_ and @ASTRAsol4 call brags ($BORLY 257x, $BILLIE, $MEOW, $HODL), @universolumina $ONLYCATS brag, $GRIX follow-for-airdrop launch promo (14:00 UTC), @popmemecoin $RNJ +2142% bot alert, @MaxelRowan $Impeach promo (4 likes). News search: Elliptic/North Korea (already delivered), PEPE +7% and Percolator/Backable (already listed). DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
+    {
+      "coin": "Xcoin ($Xcoin)",
+      "chain": "Solana",
+      "chainNote": "Contract per @bitecong post: KhMyQbLBpeAGo9HurAY82QYYGBeFvBW8YJGJEnJpump (pump.fun bonding curve).",
+      "buzz": "@bitecong (38,611 followers) AI signal at 03:00 Berlin: the second Xcoin-themed launch on Solana today, under a minute old when flagged and already most of the way along the pump.fun bonding curve.",
+      "engagement": "About 421 views and 1 like on the signal post.",
+      "flags": "Automated signal account; copycat-name launch (second Xcoin today); minutes old; very high risk.",
+      "url": "https://x.com/bitecong/status/2119973459795247348",
+      "followers": 38611
+    },
     {
       "coin": "Borly ($BORLY)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Self-announced relaunch from an established community account; very thin engagement so far; second CA named for paired $REX. Early, high risk.",
       "url": "https://x.com/GorillaeDAO/status/2118904367382511639",
       "followers": 8297
-    },
-    {
-      "coin": "Alice ($ALICE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address JDShCRwfPyWUbDEbxDXXK4wstWNEhadpN7gJ9NL6AZfj (pump.fun / pumpfun bonding curve; signal says 98% to graduation).",
-      "buzz": "Signal account @bitecong (38,568 followers) posted at 04:05 Berlin an AI Signal that Alice ($ALICE), branded The Chinese Spy (ALICE), is the second launch under that name on its radar today and sits on the pumpfun bonding curve at 98% of the way to graduation; it flags something odd in the wallet record (text cut off).",
-      "engagement": "343 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; second Alice-theme launch today (serial-theme risk); near graduation. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118902558077100485",
-      "followers": 38568
     }
   ],
   "news": [
+    {
+      "topic": "Price move",
+      "headline": "Jensen Huang joke coins cool off: $PUSSY down 55%, Big Titty Coin down 31% in 24h",
+      "coins": "$PUSSY, Big Titty Coin ($BTC)",
+      "detail": "@HawkFi_ (68,283 followers) posted its 24-hour trending list at 03:00 Berlin: $PUSSY, a meme riffing on the Jensen Huang affair story, is down 55% on the day after an all-time-high market cap of $3.33M; Big Titty Coin ($BTC), an older meme revived by the same joke, is down 31% after an ATH market cap of $21.9M. Figures as posted, not verified.",
+      "updated": "Tuesday 10 Nov 2026, 03:08 Berlin",
+      "url": "https://x.com/HawkFi_/status/2119973316681425163"
+    },
     {
       "topic": "Platform update",
       "headline": "Pump.fun adds \"Diamond\" callout rewards that favor bigger caps and longer holds",
@@ -536,14 +544,6 @@
       "detail": "X News story (updated ~07:54 Berlin) summarizes chatter that memecoins may have run their course: fatigue from repeated narratives, launchpads, and mechanics that drain liquidity without lasting value; sector total value cited around $27–31B vs peaks, with Pump.fun seeing far fewer new users/launches than 2025 highs. Some call it the logical end of extraction plays; others hold out for revivals via real community and memes like Pepe.",
       "updated": "Saturday 7 Nov 2026, 07:56 Berlin",
       "url": "https://x.com/i/trending/2118959279361417526"
-    },
-    {
-      "topic": "Whale / Pumpfun positions",
-      "headline": "@jussy_world: Ansem (@blknoiz06) shorting SOL and ETH on Pumpfun after \"60k 1500 60\" post",
-      "coins": "SOL, ETH (via Pumpfun)",
-      "detail": "Tracker @jussy_world (76,563 followers) posted at 07:44 Berlin that Ansem is already short on Pumpfun: about $957K of SOL at 20x (entry ~$92.9, +~$29K) and about $501K of ETH at 10x (entry ~$2,221, added overnight), tying it to Ansem's overnight \"60k 1500 60\" call. Engagement at scan: 1,089 impressions, 5 likes, 1 reply.",
-      "updated": "Saturday 7 Nov 2026, 07:47 Berlin",
-      "url": "https://x.com/jussy_world/status/2118957640655225064"
     }
   ],
   "hourly": [
