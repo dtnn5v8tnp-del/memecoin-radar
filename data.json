@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 11:13 Berlin time (UTC+01:00)",
-  "newestPostId": "2120097462241112161",
+  "lastUpdated": "Tuesday 10 Nov 2026, 11:20 Berlin time (UTC+01:00)",
+  "newestPostId": "2120099177325600807",
   "note": "Window: X posts since 2120090982779625849 (1 recency query with call-spam phrases filtered out, 15 posts; about 10:49 to 10:51 Berlin). Nothing new added. @coinranking (20K) repeated the Upbit/Bithumb HYPE listing already on the board and noted ZetaChain holders voted to shut its L1 on Dec 9 with $ZETA converting to a Solana token (not a memecoin). Skipped: call brags on $DERP404, $BLOB, $NB, $HODL and $P; an AI-signal post on $LEVER; $CHOMP, $CATCH and wikifork promos; an ETH value-narrative post. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Security",
+      "headline": "Binance reportedly warns of an iOS flaw that lets malicious apps read wallet seed phrases",
+      "coins": "All self-custody wallets on iPhone",
+      "detail": "@open4profit (148K followers) posted at 11:15 Berlin that Binance warns malicious apps can exploit an iOS security flaw to access seed phrases and private keys stored by other apps on the same device. This is a repost of the warning, not Binance's own post, so check Binance's official channels before acting.",
+      "updated": "Tuesday 10 Nov 2026, 11:15 Berlin",
+      "url": "https://x.com/open4profit/status/2120097986466496862"
+    },
+    {
       "topic": "Platform backlash",
       "headline": "Pump.fun faces backlash over insider tactics after the Cupsey side-wallet findings",
       "coins": "Pump.fun memecoins",
@@ -536,14 +544,6 @@
       "detail": "@Crypto_Retardio (4,157 followers) posted at 19:33 Berlin that users who imported a wallet into the Pump.fun app have 20 more days to add a social login before web3 login is sunsetted; the same post says the Pump.fun app can be used to trade on Elysium. Single post, not yet confirmed by Pump.fun in the sources seen.",
       "updated": "Monday 9 Nov 2026, 19:34 Berlin",
       "url": "https://x.com/Crypto_Retardio/status/2119861008470856027"
-    },
-    {
-      "topic": "Launch teaser",
-      "headline": "@raid100x teases launching 'the BIGGEST memecoin of 2026'",
-      "coins": "n/a (no ticker or contract given)",
-      "detail": "@raid100x (907,767 followers) posted at 19:07 Berlin: 'I am launching the BIGGEST memecoin of 2026. Are you in?' No name, chain, or date given. Early engagement was modest (4 likes, 2 replies, about 1,064 impressions at scan time). Big-account teasers like this often draw copycat contracts, so treat any CA claiming to be it with caution.",
-      "updated": "Monday 9 Nov 2026, 19:09 Berlin",
-      "url": "https://x.com/raid100x/status/2119854492917387678"
     }
   ],
   "hourly": [
