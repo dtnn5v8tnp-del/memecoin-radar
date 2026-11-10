@@ -1,13 +1,33 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 13:16 Berlin time (UTC+01:00)",
-  "newestPostId": "2120128356259918266",
+  "lastUpdated": "Tuesday 10 Nov 2026, 13:22 Berlin time (UTC+01:00)",
+  "newestPostId": "2120129779450212548",
   "note": "Window: X posts since 2120120433609519600 (25 posts, about 12:45 to 12:49 Berlin) plus an X News check of the last 3 hours. No new items: every memecoin story X News returned (Cupsey wallets, PEPE vs SHIB, 2025-26 losses, North Korean laundering memecoins, Montra holder dispute, bagworking nostalgia, Upbit HYPE) is already on the board. Skipped: $TILLY, $BOB, $BAGWORKING and $GTA call brags, $HypnoKat, $ELYS, a Chinese-doge BNB token, Trady and DogeOS referral posts, a wikifork launchpad promo, and a small account's unverified claim that MEXC tagged $musebook for delisting on 13 Nov. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
+    {
+      "coin": "Unnamed @_rise launch (ticker not stated)",
+      "chain": "Solana",
+      "chainNote": "CA per the creator's post: B2bR3gyMpTVraLyCKbd5FVrWDaWfakQpNDg5Cru3pump (Pump.fun).",
+      "buzz": "@_rise (19.9K followers) posted at 13:16 Berlin that 'my version of a memecoin' is live on Pump.fun, saying 60% of supply will be airdropped to the top 15 holders at bonding and that they would add a $7,000 buy in 15 minutes.",
+      "engagement": "About 391 views, 4 likes, 7 quotes and 3 replies at time of sweep.",
+      "flags": "A creator-promoted launch with a promised dev buy and a big airdrop to top holders, which can concentrate supply. Unverified claims; very high risk.",
+      "url": "https://x.com/_rise/status/2120128470122459219",
+      "followers": 19898
+    },
+    {
+      "coin": "Super Artificial Intelligence ($SAI)",
+      "chain": "Not stated",
+      "chainNote": "No contract address in the posts.",
+      "buzz": "Between 13:07 and 13:21 Berlin, at least eight accounts posted near-identical pitches opening '$SAI = Super Artificial Intelligence', describing an AI-only social network with a prediction game, 1B supply, 0% tax and 0% team allocation. Posters include @Somed07 (8.7K followers), @_CrownDEX (7.4K), @Lo_seyiii (3.0K), @festusblaqe (2.7K) and @holachain (1.9K).",
+      "engagement": "Best post (@holachain): 17 views, 5 likes, 4 reposts. Others had 2 to 21 views.",
+      "flags": "Looks like a coordinated paid writing campaign: same opening line and talking points across many accounts with very little engagement. Treat as a shill campaign.",
+      "url": "https://x.com/holachain/status/2120128678709363146",
+      "followers": 1890
+    },
     {
       "coin": "Kim Jong Un Coin ($KIM)",
       "chain": "Solana",
       "chainNote": "CA per the post: FVtYCvthmsdx61EiK2nRAfCypiZgmMSJfCjbkEwGpump (Pump.fun launch).",
-      "buzz": "Signal account @bitecong (38.6K followers) flagged it at 13:07 Berlin as a Pump.fun launch about five minutes old, with no price history yet. Per the post, the project links to a 'kim jong un' post by FolkPepe200.",
+      "buzz": "Signal account @bitecong (38.6K followers) flagged it at 13:07 Berlin as a Pump.fun launch about five minutes old, with no price history yet. Per the post, the project links to a 'kim jong un' post by FolkPepe200. Update 13:17 Berlin: @SolTokenScan (3.3K followers) reported a paid Dexscreener listing, about $34.5K market cap, $10.7K liquidity, 249 holders and 163 bundlers at 14 minutes old.",
       "engagement": "About 194 views, no likes at time of sweep.",
       "flags": "Minutes-old token with nothing to go on, flagged by an automated signal account. Extremely early and very high risk.",
       "url": "https://x.com/bitecong/status/2120126255500870046",
@@ -282,26 +302,6 @@
       "flags": "Only an automated signal account so far; thin organic engagement. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2119836217068191747",
       "followers": 38602
-    },
-    {
-      "coin": "Morgano ($Morgano)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address FpUtpHmLH37zEym49jqYYq3TcKCVDMsEm1KnQKFRpump (pump.fun / pumpfun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 07:37 Berlin an AI Signal that Morgano ($Morgano), full name \"0.2 SOL and a Dream\", graduated from pumpfun to PumpSwap about 7 min 46 s after launch; it flags something odd about the wallet lineup (text cut off).",
-      "engagement": "420 impressions, 1 like, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; unusual wallet lineup flagged at graduation. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118955863868309892",
-      "followers": 38574
-    },
-    {
-      "coin": "Cash Dog ($CASHDOG)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address AR282rBKsxZbhXsYvjcgF5UuS4ckQtRM5KU7k9DHpump (pump.fun / pumpfun bonding curve; signal says most of the way to graduation).",
-      "buzz": "Signal account @bitecong (38,573 followers) posted at 07:15 Berlin an AI Signal that Cash Dog ($CASHDOG) is a pumpfun memecoin still on its bonding curve and most of the way to graduation, with a cash-and-dog theme. Nearby posts also pitch pairing Cashdog with $Cashcat (Robinhood-savior narrative flipped to Sol).",
-      "engagement": "425 impressions, 0 likes, 0 reposts at scan time on the signal; related chatter still thin (low single-digit likes).",
-      "flags": "Only an automated signal account so far; thin engagement; cash-and-dog / Cashcat-pair narrative. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118950543636967823",
-      "followers": 38573
     }
   ],
   "news": [
