@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 12:53 Berlin time (UTC+01:00)",
-  "newestPostId": "2120122582405988508",
+  "lastUpdated": "Tuesday 10 Nov 2026, 13:01 Berlin time (UTC+01:00)",
+  "newestPostId": "2120124621806502076",
   "note": "Window: X posts since 2120120433609519600 (25 posts, about 12:45 to 12:49 Berlin) plus an X News check of the last 3 hours. No new items: every memecoin story X News returned (Cupsey wallets, PEPE vs SHIB, 2025-26 losses, North Korean laundering memecoins, Montra holder dispute, bagworking nostalgia, Upbit HYPE) is already on the board. Skipped: $TILLY, $BOB, $BAGWORKING and $GTA call brags, $HypnoKat, $ELYS, a Chinese-doge BNB token, Trady and DogeOS referral posts, a wikifork launchpad promo, and a small account's unverified claim that MEXC tagged $musebook for delisting on 13 Nov. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
+    {
+      "coin": "MEOW ($MEOW)",
+      "chain": "Solana",
+      "chainNote": "No contract address in the posts, only chart links. Verify the contract before trusting any link.",
+      "buzz": "A new Solana cat token pitched as 'just launched' with a volatile early chart. Pushed at 13:00 Berlin in near-identical posts by @voidsatoshi_x (30.8K followers), @ClockworkCqs (15.7K) and @Udyrg_Defi (1.5K).",
+      "engagement": "Best post (@voidsatoshi_x): about 25 views and 1 like. The others had 9 and 2 views.",
+      "flags": "Looks like a coordinated paid promo: same wording, same minute, and almost no engagement. Very high risk.",
+      "url": "https://x.com/voidsatoshi_x/status/2120124367250305246",
+      "followers": 30847
+    },
+    {
+      "coin": "Money Laundering Coin ($MLC)",
+      "chain": "BSC",
+      "chainNote": "CA per the post: 0xce292620963b9c091457762d80995598d0b97777 (still on the Flap bonding curve).",
+      "buzz": "Signal account @bitecong (38.6K followers) wrote at 12:58 Berlin that this was the sixth money-themed launch on BSC today. Per the post, it was a couple of minutes old and not far short of halfway to graduating from the bonding curve.",
+      "engagement": "About 335 views, no likes at time of sweep.",
+      "flags": "Brand-new bonding-curve token flagged by an automated signal account. Extremely early and very high risk.",
+      "url": "https://x.com/bitecong/status/2120123923824251012",
+      "followers": 38632
+    },
     {
       "coin": "OnlyCats relaunch ($OnlyCats)",
       "chain": "Solana",
@@ -281,26 +301,6 @@
       "engagement": "394 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; heavy bundler presence flagged at launch; Twine / Robinhood Chain mirror. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118946776883601458",
-      "followers": 38574
-    },
-    {
-      "coin": "Hakutaku ($Hakutaku)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 21azpu32qfuNZR6TkKdUZKVnDtmvTUSBrXxhRFE5pump (pump.fun / pumpfun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 06:57 Berlin an AI Signal that Hakutaku ($Hakutaku / HAKUTAKU) carries a dog theme (one post says a dog's owner replied to it; another calls the dog the new model for Yahoo Auctions) and that Hakutakucoin graduated from pumpfun to PumpSwap.",
-      "engagement": "396 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; dog / Yahoo Auctions meme theme; already graduated. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118945929747472584",
-      "followers": 38574
-    },
-    {
-      "coin": "mem ($mem)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address B1qsF4nwxbRz2mhgAv7mGsP1xbVfPeP39RDHtcx5pump (pump.fun / pumpfun bonding curve; signal says 84% to graduation).",
-      "buzz": "Signal account @bitecong (38,574 followers) posted at 06:46 Berlin an AI Signal that mem ($mem) is the second memecoin-themed launch on Solana today and reached 84% of the way to graduation on the pumpfun bonding curve within about two minutes of launch; it flags something unusual about the deployer (text cut off).",
-      "engagement": "443 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; second memecoin-theme launch today; near graduation; deployer oddity flagged. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118943250174427384",
       "followers": 38574
     }
   ],
