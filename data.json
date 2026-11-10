@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 03:29 Berlin time (UTC+01:00)",
-  "newestPostId": "2119980619480592566",
-  "note": "Window: X posts since 2119979064509579638 (1 recency query, 11 posts; about 03:23 to 03:29 Berlin). Nothing new added. Skipped: @bitecong automated signals (a Chinese-named Flap/BSC token and an unthemed pump.fun token, 0 to 1 likes), @DegenFlow_ $BORLY 300x brags, @Sol_b33y $Xcoin 4x brag, @CoinWingsIO $BEN (Flap) whale holding 28% of supply note (4 likes), $LEEROY shill, Tiny Hats coming-soon promo, Elysium launchpad promo, @tryperks perps pitch, @sal_ash_ 'memecoin games are dead' commentary. Earlier at 03:08 added $Xcoin and HawkFi's $PUSSY / Big Titty Coin dump note. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 03:38 Berlin time (UTC+01:00)",
+  "newestPostId": "2119982787617067453",
+  "note": "Window: X posts since 2119980619480592566 (1 recency query, 20 posts; about 03:29 to 03:37 Berlin). Added $GPU (likely paid promo) and the Hens.farm rug report; neither alerted. Skipped: $BORLY and $HOLDER call brags (@DegenFlow_, @Alpha_calls10, @AxisAlpha_), $BILLIE and $OnlyCats calls, @TrenchRadarLive $HELL -84% crash bot (21 followers), @widfiretoad Elysium Pair ($EP) launchpad shill (1 like), @popmemecoin $GTA4 bot alert, $PEND, Bianca, Hachiko and $VOLT promos. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
+    {
+      "coin": "GPU Girl ($GPU)",
+      "chain": "Solana",
+      "chainNote": "No contract address given in the post; verify before trusting any CA.",
+      "buzz": "@MaxelRowan (126K followers) promoted $GPU at 03:30 Berlin as a 'GPU Girl' internet-culture meme with its own personality, the same account that pushed $BORLY and $Impeach tonight.",
+      "engagement": "About 66.1K impressions but only 31 likes, 2 replies, 2 reposts.",
+      "flags": "Impressions far outweigh likes, which looks like a paid or boosted promo; no CA in the post; very high risk.",
+      "url": "https://x.com/MaxelRowan/status/2119980998259790142",
+      "followers": 126201
+    },
     {
       "coin": "Xcoin ($Xcoin)",
       "chain": "Solana",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; thin engagement; no clear theme beyond the name. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118910564890239027",
       "followers": 38568
-    },
-    {
-      "coin": "Gorillae ($GORILLAE)",
-      "chain": "Solana",
-      "chainNote": "Project account posts contract address 3xdJo9mxpjQcRkfDuieBHemCRoNkxYgarUQbUUZCpump (pump.fun / pumpfun; also names a paired token BvAFW1yio8GiM2ptXBsTB4n5SVnAdFJ2rYPcsk45pump for $REX and says holder rewards are on pumpfun).",
-      "buzz": "Project account @GorillaeDAO (8,297 followers) posted at 04:12 Berlin that The Gorilla is officially live again on Solana, with $GORILLAE paired with $REX and holder rewards on pumpfun; a follow-up at 04:10 Berlin repeats the same CA and comeback framing.",
-      "engagement": "23 impressions, 0 likes, 0 reposts, 1 quote on the main live post at scan time; follow-up had 24 impressions.",
-      "flags": "Self-announced relaunch from an established community account; very thin engagement so far; second CA named for paired $REX. Early, high risk.",
-      "url": "https://x.com/GorillaeDAO/status/2118904367382511639",
-      "followers": 8297
     }
   ],
   "news": [
+    {
+      "topic": "Rug",
+      "headline": "Hens.farm rug: on-chain report traces funds to a known Chikn whale",
+      "coins": "Hens.farm",
+      "detail": "@_lilrag (1,630 followers) published an X article titled 'Hens.farm rug | The full report' at 03:36 Berlin, saying it follows the money to a known Chikn whale. Small reach so far (about 43 views, 3 likes); claims not independently verified.",
+      "updated": "Tuesday 10 Nov 2026, 03:38 Berlin",
+      "url": "https://x.com/_lilrag/status/2119982434322436227"
+    },
     {
       "topic": "Price move",
       "headline": "Jensen Huang joke coins cool off: $PUSSY down 55%, Big Titty Coin down 31% in 24h",
@@ -536,14 +544,6 @@
       "detail": "X News story says PercolatorTrade moved to MetaDAO's Backable platform for a $250,000 raise with a new PERC token, leaving old $PERCOLATOR holders with no migration or airdrop beyond $50,000 reserved for eligible holders; the old token reportedly fell 90%. Critics call it a rug; the team says the old token was a community takeover and the work stays open source.",
       "updated": "Monday 9 Nov 2026, 17:49 Berlin",
       "url": "https://x.com/i/trending/2119243490630746435"
-    },
-    {
-      "topic": "Sector / sentiment",
-      "headline": "X News: Memecoin debate questions if the era has ended",
-      "coins": "n/a (sector)",
-      "detail": "X News story (updated ~07:54 Berlin) summarizes chatter that memecoins may have run their course: fatigue from repeated narratives, launchpads, and mechanics that drain liquidity without lasting value; sector total value cited around $27–31B vs peaks, with Pump.fun seeing far fewer new users/launches than 2025 highs. Some call it the logical end of extraction plays; others hold out for revivals via real community and memes like Pepe.",
-      "updated": "Saturday 7 Nov 2026, 07:56 Berlin",
-      "url": "https://x.com/i/trending/2118959279361417526"
     }
   ],
   "hourly": [
