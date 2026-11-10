@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 05:33 Berlin time (UTC+01:00)",
-  "newestPostId": "2120011779980054609",
-  "note": "Window: X posts since 2120010173406212395 (1 recency query, 18 posts; about 05:26 to 05:33 Berlin). Nothing new added; engagement stayed low. Watching: @MCGlive (23K followers) teased 'The SAHIL Files', an exposé on celebrity coin rug pulls dropping tomorrow (no engagement yet). Skipped: @Alpharadarp $PEPETIDE/$WIENER/$RWO calls, $WEINER AI-signal bot post, $BOTZO/$MONDAY airdrop-for-follows teasers, $NIKEDOG, $JAMAL, $AAPLCAT, $YESSAH, $Puppies and $GRAM promos, Trady referral spam, Baby Doge airdrop spam. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 05:36 Berlin time (UTC+01:00)",
+  "newestPostId": "2120012448669307197",
+  "note": "Window: X posts since 2120011779980054609 (1 recency query, 6 posts; about 05:33 to 05:35 Berlin). Added $AICOIN launch row (@SolanaElites, AI/Anthropic-name meta, poster claims 2,500+ holders). Skipped: $ALCOIN call (@Alpharadarp), $KAWAENE trending-bot post, another 'Haris Meme Coin in 14 hours' shill (still no ticker or CA), a vague 'vibecoin rug' reply, Coinbase giveaway spam. Watching: @MCGlive 'SAHIL Files' celebrity-rug exposé due tomorrow. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
+    {
+      "coin": "AICoin ($AICOIN)",
+      "chain": "Solana",
+      "chainNote": "CA posted: B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump (pump.fun). Verify before trusting any CA.",
+      "buzz": "@SolanaElites at 05:34 Berlin called it an hours-old coin riding an AI meta, saying the name 'AICoin' comes from Anthropic researchers in a public GitHub safety write-up. @MemeGameAlpha had called the same CA at 04:33 Berlin and claimed 2.4x by 04:50.",
+      "engagement": "Post claims about $300K to $400K market cap (all-time high about $444K), 2,500+ holders and $1M+ volume; the post itself had 13 views and no likes. Figures are the poster's, not verified.",
+      "flags": "Small promo accounts only, no big-account pickup yet; hours-old pump.fun coin; very high risk.",
+      "url": "https://x.com/SolanaElites/status/2120012178346635302",
+      "followers": 773
+    },
     {
       "coin": "GPU Girl ($GPU)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "199 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; third Alice-theme launch today (serial-theme risk); near graduation. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118911617064902665",
-      "followers": 38568
-    },
-    {
-      "coin": "Goon Rips ($GOONRIPS)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address AvevqixX6G3RFwRFsy6a5rtjQVN7V4Xn9y6Fpmifpump (pump.fun / pumpfun bonding curve; signal says 90% to graduation).",
-      "buzz": "Signal account @bitecong (38,568 followers) posted at 04:37 Berlin an AI Signal that Goon Rips ($GOONRIPS) launched on pumpfun about five minutes earlier and was still on the bonding curve at 90% of the way to graduation; it says there is no clear theme beyond the name and that the description says fees go (text cut off).",
-      "engagement": "385 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; no clear theme beyond the name. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118910564890239027",
       "followers": 38568
     }
   ],
