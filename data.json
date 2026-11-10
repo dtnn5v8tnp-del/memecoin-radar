@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 03:41 Berlin time (UTC+01:00)",
-  "newestPostId": "2119983443727552765",
-  "note": "Window: X posts since 2119982787617067453 (1 recency query, 2 posts; about 03:39 to 03:40 Berlin). Nothing new added. Skipped: @Bullish_WoIf $ONLYCATS 10x call brag and an off-topic X clipping post. Earlier at 03:37 added $GPU (likely paid promo) and the Hens.farm rug report. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 03:47 Berlin time (UTC+01:00)",
+  "newestPostId": "2119984954507657375",
+  "note": "Window: X posts since 2119983443727552765 (1 recency query, 9 posts; about 03:41 to 03:46 Berlin). Added @remusofmars 'Spinor files' $CASHCAT accusation (not alerted; low engagement so far). Skipped: $OnlyCats and $BORLY call brags (@CipherEdgeCalls, @Bullish_WoIf), $EPICSOL pre-launch pitch (0 followers), Hachiko birthday promo, PactSwap and Vaultfire posts. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
     {
       "coin": "GPU Girl ($GPU)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Rug accusation",
+      "headline": "@remusofmars: 'Spinor' talked me into $2M+ of $CASHCAT, then launched another launchpad",
+      "coins": "$CASHCAT, Let'sCash launchpad, Elysium",
+      "detail": "@remusofmars (39,012 followers) posted 'Spinor files' at 03:41 Berlin, saying Spinor convinced them to put over $2M into $CASHCAT on the promise that his Let'sCash launchpad would build a flywheel around the token, and that less than two months later Spinor announced another launchpad on Elysium. One side of the story; not verified. About 579 views, 8 likes so far.",
+      "updated": "Tuesday 10 Nov 2026, 03:47 Berlin",
+      "url": "https://x.com/remusofmars/status/2119983856757395850"
+    },
+    {
       "topic": "Rug",
       "headline": "Hens.farm rug: on-chain report traces funds to a known Chikn whale",
       "coins": "Hens.farm",
@@ -536,14 +544,6 @@
       "detail": "X News story says Slingoor (about 190,000 followers, a top Pump.fun earner with over $526,000 in rewards) heavily promoted the coin, then his wallet sold 62% of supply in under a minute, taking it from millions to near zero. He cited extortion attempts and death threats and said he had lost money overall through earlier buybacks.",
       "updated": "Monday 9 Nov 2026, 17:38 Berlin",
       "url": "https://x.com/i/trending/2119481829040259480"
-    },
-    {
-      "topic": "Rug accusation",
-      "headline": "X News: PercolatorTrade abandons its pump.fun token for a new $250K raise",
-      "coins": "$PERCOLATOR (old), PERC (new)",
-      "detail": "X News story says PercolatorTrade moved to MetaDAO's Backable platform for a $250,000 raise with a new PERC token, leaving old $PERCOLATOR holders with no migration or airdrop beyond $50,000 reserved for eligible holders; the old token reportedly fell 90%. Critics call it a rug; the team says the old token was a community takeover and the work stays open source.",
-      "updated": "Monday 9 Nov 2026, 17:49 Berlin",
-      "url": "https://x.com/i/trending/2119243490630746435"
     }
   ],
   "hourly": [
