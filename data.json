@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 07:59 Berlin time (UTC+01:00)",
-  "newestPostId": "2120048527942300033",
+  "lastUpdated": "Tuesday 10 Nov 2026, 08:08 Berlin time (UTC+01:00)",
+  "newestPostId": "2120050672414646400",
   "note": "Window: X posts since 2120014592411652230 (1 recency query, 25 posts; about 05:44 to 05:52 Berlin). Nothing new added. @CryptoGorilla (190K followers) posted a TLDR of the $MONTRA/$CASHCAT drama (1.3K views, 6 likes; story already on the board). Skipped: $BORLY/$KAWAENER/$GROXIE/$FORGIVENESS call and sniper brags, $FORGIVENESS AI-signal post, Zeru zETH and wikifork $FORK farming posts, $YESSAH, $SMEME, $BOOBIRDS and Snail promos, an Upbit HYPE listing claim from a 1-follower account (HYPE is not a memecoin; unverified here), a Schwab SOL take, and an Elon 'Chinese X' recap already on the board. Watching: @MCGlive 'SAHIL Files' exposé due tomorrow; 'Haris Meme Coin' launch tonight. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
+    {
+      "coin": "ASSCOIN ($ASS)",
+      "chain": "Solana",
+      "chainNote": "CA posted: BYurrzk6JV3YaqwwVDAq7rvZC7mBGY1xCTE8PG5dpump (pump.fun). Verify before trusting any CA.",
+      "buzz": "@bitecong (38.6K followers), an automated AI-signal account, said at 08:07 Berlin that ASSCOIN is the second asscoin-themed launch on Solana today and got most of the way along the pump.fun bonding curve in under nine minutes.",
+      "engagement": "About 225 views and no likes or reposts at time of sweep.",
+      "flags": "Brand-new pump.fun launch flagged by a bot-style signal account; no organic engagement yet; very high risk.",
+      "url": "https://x.com/bitecong/status/2120050672414646400",
+      "followers": 38618
+    },
     {
       "coin": "Unnamed coin (ticker not given in post)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "369 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; name stylized with asterisk. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118922056511508799",
-      "followers": 38570
-    },
-    {
-      "coin": "Slingfolio ($Slingfolio)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address Bhe7zAmLTxsV2JiiibujUX4yHJbKjPFYTLSGTQUzpump (pump.fun / pumpfun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,570 followers) posted at 05:06 Berlin an AI Signal that Slingfolio ($Slingfolio) is a pumpfun token on Solana about eight and a half minutes old and had already graduated from pumpfun to PumpSwap shortly before the signal; it says the links point to a site (text cut off / image).",
-      "engagement": "340 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; instant graduation. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118918088141988273",
       "followers": 38570
     }
   ],
