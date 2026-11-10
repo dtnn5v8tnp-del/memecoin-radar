@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 12:13 Berlin time (UTC+01:00)",
-  "newestPostId": "2120112499668258973",
-  "note": "Window: X posts since 2120111695829832190 (1 recency query, 22 posts; about 12:10 to 12:13 Berlin). Nothing new added. @pepetoshi (74K) repeated that $PEPE ($2.18B) is about 16.9% from flipping $SHIB ($2.61B), already on the board. Skipped: @Theblackbullxxx's continued $OnlyCats shilling (likely engagement-farmed), call brags on $MAX and $DERP404, a $BORLY trade signal, a spammy $JOKER account posting four different contract addresses, Trady and Wenshot bot promos, an $SPX explainer, a small account's 18:00 UTC 'new meme coin' teaser. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 12:20 Berlin time (UTC+01:00)",
+  "newestPostId": "2120114203583496389",
+  "note": "Window: X posts since 2120112499668258973 (1 recency query, 25 posts; about 12:13 to 12:20 Berlin). Added @_rise's second Pump.fun token (same pitch as last night, new contract) and a Benzinga-cited report that the LAPTOP memecoin fell 26% after the midterms. Also seen: @DeepBlueAlpha says 23 tracked whale wallets pulled $23.1M of $SHIB off exchanges this week; @enzocooks (442K) thinks the next memecoin run will be bigger. Skipped: copy-paste $WIF trade setups from several signal accounts, AI-signal post on $TRIED, $JAMC, $ROCKP and $MAX shills, Trady referral posts. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
+    {
+      "coin": "Second unnamed token from @_rise (ticker not stated in the post)",
+      "chain": "Solana",
+      "chainNote": "Pump.fun contract 71gB45u61asjo6DnwGwxJiuosGdFmSnFu97CHVuEpump. This is a different contract from the one he posted last night (D6MBjX...pump).",
+      "buzz": "@_rise (about 19.9K followers) posted at 12:16 Berlin, word for word the same pitch as last night: 'my version of a memecoin is now live on Pump Fun', 60% of supply airdropped to the top 15 holders at bonding, and a $7,000 buy promised in 15 minutes.",
+      "engagement": "About 330 views, 2 likes, 4 quotes and 2 replies at time of sweep.",
+      "flags": "Same pitch reused on a new contract about 14 hours after the first one, which is a warning sign. The airdrop and the $7K buy are only his promises. Very high risk.",
+      "url": "https://x.com/_rise/status/2120113313669583259",
+      "followers": 19901
+    },
     {
       "coin": "Elysium day-1 runners ($CHAMELEON, $EACCAT, $TESTICLES)",
       "chain": "Elysium (Hyperliquid L2)",
@@ -292,19 +302,17 @@
       "flags": "Only an automated signal account so far; thin engagement; no clear theme beyond the ticker; near graduation. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118939614715253053",
       "followers": 38572
-    },
-    {
-      "coin": "Slingfolio ($Slingfolio)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 48PmG4973KKSLqYt5RVzfyFcVbaTVsB2u3vG7X3Kpump (pump.fun / pumpfun bonding curve; signal says only minutes old).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 06:15 Berlin an AI Signal that Slingfolio ($Slingfolio) is the fourth Slingfolio token launched today and was only minutes old on the pumpfun bonding curve; it flags the deployer's history of 1057 tokens (text cut off).",
-      "engagement": "367 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; fourth Slingfolio-theme launch today with a distinct CA from earlier entries (serial-theme / redeploy risk); deployer mass-deploy history flagged. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118935312537964613",
-      "followers": 38571
     }
   ],
   "news": [
+    {
+      "topic": "Political memecoins",
+      "headline": "Hunter Biden-themed LAPTOP memecoin down 26% after midterms despite a burn, citing Benzinga",
+      "coins": "$LAPTOP",
+      "detail": "@bsktradernft (10K followers) wrote at 12:14 Berlin that, per Benzinga, the LAPTOP memecoin fell 26% right after the Democrats' midterm win even after burning part of its supply. About 86 views at time of sweep; secondhand report, verify with the original article.",
+      "updated": "Tuesday 10 Nov 2026, 12:20 Berlin",
+      "url": "https://x.com/bsktradernft/status/2120112796507451626"
+    },
     {
       "topic": "Exchange",
       "headline": "Upbit holds over $1.1B in $DOGE and $SHIB, per Arkham data",
@@ -536,14 +544,6 @@
       "detail": "X's news summary (updated 21:36 Berlin) says Elizabeth Warren, as the incoming Banking Committee chair, plans to go after a 'Wild West-style lack of oversight' in prediction markets. It also says she is warning Trump-family crypto businesses, reportedly earning at least $2.3B, to keep their documents, and that hearings with subpoena power could start in January. It surfaced in the sweep via a @Morosaki headline at 21:33 Berlin.",
       "updated": "Monday 9 Nov 2026, 21:37 Berlin",
       "url": "https://x.com/i/trending/2119889818381668465"
-    },
-    {
-      "topic": "Rug / scam allegation",
-      "headline": "Vibecoin token dev accused of taking about $23,000 from the community",
-      "coins": "Vibecoin",
-      "detail": "@Cryptoceleb1 (11,430 followers) posted at 21:10 Berlin that a 'baby rug-puller' took and hid about $23,000 from the community through the Vibecoin token. The post says the claim comes from an on-chain investigation tracing wallet activity, but the investigation details aren't in what the search returned. 2 likes and about 324 impressions at scan.",
-      "updated": "Monday 9 Nov 2026, 21:15 Berlin",
-      "url": "https://x.com/Cryptoceleb1/status/2119885458108776782"
     }
   ],
   "hourly": [
