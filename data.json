@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 14:48 Berlin time (UTC+01:00)",
-  "newestPostId": "2120151502530437378",
-  "note": "Window: 25 X posts from about 14:45 to 14:48 Berlin. No new items. Skipped: more $X call brags (claimed up to $867K market cap, already on the board), $TRUMP-ticker pump.fun, $BEAUTY and $fomo call or signal-bot posts, another @Theblackbullxxx $ONLY_CATS push (already on the board), Cloaked Entities moving its Robinhood Chain memecoin launch to 14:00 Berlin tomorrow, $CAPYA and $TABBO pre-launch promos, and more repeats of the North Korean laundering story. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin (a promoter's post lists wrapped SOL's address as the 'CA', so beware fake contracts); @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 14:55 Berlin time (UTC+01:00)",
+  "newestPostId": "2120153166415032807",
+  "note": "Window: 25 X posts from about 14:52 to 14:55 Berlin. Added BSCN's $PEPE monthly-gain report. Skipped: more $X and $TRUMP-ticker call brags (already on the board), @CipherEdgeCalls $Nothing '400x' call posts, $pairless, $GINGATO, $HODL and $DIP call or signal-bot posts, and unrelated job and AI-model posts. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin (a promoter's post lists wrapped SOL's address as the 'CA', so beware fake contracts); @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
       "coin": "HWAN ($HWAN)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Price move",
+      "headline": "BSCN: $PEPE up about 33% over the past month while peers like $SHIB fall",
+      "coins": "$PEPE, $SHIB",
+      "detail": "@BSCNews (1.37M followers) posted at 14:53 Berlin that, per CoinGecko, $PEPE rose roughly 33% over the last month, one of the few big memecoins climbing while $SHIB and others fell. The post cites wallets linked to Justin Sun accumulating about $51 million as one reason (the rest of the post is cut off). About 3.4K views at time of sweep.",
+      "updated": "Tuesday 10 Nov 2026, 14:55 Berlin",
+      "url": "https://x.com/BSCNews/status/2120152747765113008"
+    },
+    {
       "topic": "Rug allegations",
       "headline": "Claim: Bubblemaps tied @beaverd's wallets to several memecoin rugs, including $SIAS",
       "coins": "$SIAS",
@@ -536,14 +544,6 @@
       "detail": "X News story (updated 23:22 Berlin): Schwab Crypto now offers SOL, AVAX and LINK alongside BTC and ETH for eligible clients, at a 0.75% fee per trade, per the summary. Not a memecoin listing, but SOL is the main memecoin chain.",
       "updated": "Tuesday 10 Nov 2026, 00:52 Berlin",
       "url": "https://x.com/i/trending/2119799343062327352"
-    },
-    {
-      "topic": "Exchange listing",
-      "headline": "CoinJar lists Pump.fun's $PUMP",
-      "coins": "$PUMP",
-      "detail": "CoinJar (@GetCoinJar, 13.8K followers, verified) posted at 23:00 Berlin that PUMP can now be bought and sold on CoinJar and CoinJar Exchange. Low engagement at scan (16 impressions).",
-      "updated": "Monday 9 Nov 2026, 23:03 Berlin",
-      "url": "https://x.com/GetCoinJar/status/2119913008847585487"
     }
   ],
   "hourly": [
