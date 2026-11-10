@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 11:53 Berlin time (UTC+01:00)",
-  "newestPostId": "2120107135191089497",
-  "note": "Window: X posts since 2120090982779625849 (1 recency query with call-spam phrases filtered out, 15 posts; about 10:49 to 10:51 Berlin). Nothing new added. @coinranking (20K) repeated the Upbit/Bithumb HYPE listing already on the board and noted ZetaChain holders voted to shut its L1 on Dec 9 with $ZETA converting to a Solana token (not a memecoin). Skipped: call brags on $DERP404, $BLOB, $NB, $HODL and $P; an AI-signal post on $LEVER; $CHOMP, $CATCH and wikifork promos; an ETH value-narrative post. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 11:56 Berlin time (UTC+01:00)",
+  "newestPostId": "2120108045565075670",
+  "note": "Window: X posts since 2120107135191089497 (1 recency query, 21 posts; about 11:52 to 11:55 Berlin). Added @cryptodotnews on Upbit's $1.1B DOGE/SHIB holdings (Arkham). Skipped: @Theblackbullxxx $OnlyCats shills, call brags on $DERP404, $X, $STARCAT and $1OT, a Trady referral promo, $CHM, $SANDCOIN and WNO self-promos, a $DOGE short signal. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
       "coin": "Elysium day-1 runners ($CHAMELEON, $EACCAT, $TESTICLES)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Exchange",
+      "headline": "Upbit holds over $1.1B in $DOGE and $SHIB, per Arkham data",
+      "coins": "$DOGE, $SHIB",
+      "detail": "@cryptodotnews (130K followers, verified) reported at 11:54 Berlin that Arkham data shows Upbit holding $819.8M in DOGE and $284.15M in SHIB, its largest holdings after BTC, ETH and SOL. About 735 views at time of sweep.",
+      "updated": "Tuesday 10 Nov 2026, 11:56 Berlin",
+      "url": "https://x.com/cryptodotnews/status/2120107945333862518"
+    },
+    {
       "topic": "Platform",
       "headline": "X News: Pump.fun pays $1.5M to top squad in its Squads Competition, sparking backlash",
       "coins": "Pump.fun, Slingoor's $BTC and $LMAO",
@@ -536,14 +544,6 @@
       "detail": "@Cryptoceleb1 (11,430 followers) posted at 21:10 Berlin that a 'baby rug-puller' took and hid about $23,000 from the community through the Vibecoin token. The post says the claim comes from an on-chain investigation tracing wallet activity, but the investigation details aren't in what the search returned. 2 likes and about 324 impressions at scan.",
       "updated": "Monday 9 Nov 2026, 21:15 Berlin",
       "url": "https://x.com/Cryptoceleb1/status/2119885458108776782"
-    },
-    {
-      "topic": "Regulation",
-      "headline": "Senator Blumenthal demands records from Binance, Tether and the $TRUMP meme coin firm, with a 4 January 2027 deadline",
-      "coins": "$TRUMP (Fight Fight Fight LLC), plus Binance, Tether and World Liberty Financial",
-      "detail": "@Cointurknews (8,509 followers) posted the headline at 21:03 Berlin. X's news summary says Blumenthal, who is set to chair the Senate Permanent Subcommittee on Investigations, renewed the requests on 5 November. The probes cover alleged Iran- and Russia-linked transactions at Binance and Tether and ethics questions around Trump-family crypto projects. He has no subpoena power until the new Congress meets, and no wrongdoing has been found. Low engagement at scan (0 likes, 14 impressions).",
-      "updated": "Monday 9 Nov 2026, 21:05 Berlin",
-      "url": "https://x.com/i/trending/2119598374324425037"
     }
   ],
   "hourly": [
