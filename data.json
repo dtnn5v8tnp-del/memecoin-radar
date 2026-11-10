@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 02:11 Berlin time (UTC+01:00)",
-  "newestPostId": "2119960920659001579",
+  "lastUpdated": "Tuesday 10 Nov 2026, 02:14 Berlin time (UTC+01:00)",
+  "newestPostId": "2119961597992947721",
   "note": "Window: X posts since 2119954715337543948 (1 recency query, original posts only, 5 posts; about 01:46 to 01:49 Berlin). Nothing new added. Seen but skipped: @Drayzor223571 unnamed '$20M drained from a mid-cap Solana DEX' claim (1 view, no protocol named, unverified; like the earlier unverified $270M claim), @Great_Meme02 '332x on $HODLER' call brag ($HODLER already delivered), $FROG, Inu and NEONCOON promos. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
     {
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Buyback",
+      "headline": "World Liberty Financial starts WLFI token buybacks on Aster",
+      "coins": "$WLFI, USD1",
+      "detail": "X News story (updated 00:25 Berlin): the Trump-linked project loaded $10M in USD1 into a public wallet and began gradual WLFI buybacks, funded by part of USD1 revenue. Purchases are live onchain at around $0.0499 to $0.0500 per token; co-founder Zak Folkman confirmed the start. AI-generated summary; not verified.",
+      "updated": "Tuesday 10 Nov 2026, 02:14 Berlin",
+      "url": "https://x.com/i/trending/2119893154157486341"
+    },
+    {
+      "topic": "Rug accusation",
+      "headline": "Backable pulls PercolatorTrade's $250K raise after holder backlash",
+      "coins": "$PERCOLATOR, $PERC",
+      "detail": "X News story (updated 02:13 Berlin): MetaDAO's Solana fundraising platform Backable delisted the raise for the new $PERC token because the team abandoned $PERCOLATOR holders with no swap or airdrop. The old token fell about 90% in hours and ZachXBT called it a rug. Backable changed its stance from permissionless to open to allow basic moderation; a developer plans to fork the open-source code. AI-generated summary; not verified.",
+      "updated": "Tuesday 10 Nov 2026, 02:14 Berlin",
+      "url": "https://x.com/i/trending/2119959480767074450"
+    },
+    {
       "topic": "Price move",
       "headline": "PEPE up about 7% while most crypto dipped",
       "coins": "$PEPE, $DOGE, $SHIB",
@@ -528,22 +544,6 @@
       "detail": "@fluffycrypt (155,856 followers) posted at 07:32 Berlin a FAQ for an upcoming \"FLUFFY MEME COIN\" launch: Solana chain, 70% supply detail cut off in post text, timed for today 7PM UTC. Early engagement at scan: about 2,091 impressions, 11 likes, 3 reposts, 10 replies, 1 bookmark. No contract address in the post yet; promotional KOL announce, not a live graduated coin.",
       "updated": "Saturday 7 Nov 2026, 07:37 Berlin",
       "url": "https://x.com/fluffycrypt/status/2118954763073008083"
-    },
-    {
-      "topic": "Chain / memecoins",
-      "headline": "X News: Robinhood Chain sees memecoins and duck NFTs driving volume",
-      "coins": "$ROBINHOOD / Robinhood Chain",
-      "detail": "X News story (updated ~05:52 Berlin) says Robinhood's Ethereum L2 (launched July 2026 on Arbitrum for tokenized stocks/RWAs) is seeing fresh volume and TVL from memecoins like $ROBINHOOD and NFT projects such as Mallard Order (duck-themed collectibles tied to on-chain stock vaults), with community spaces under StreetHood discussing pumps and tips.",
-      "updated": "Saturday 7 Nov 2026, 05:56 Berlin time (UTC+01:00)",
-      "url": "https://x.com/i/trending/2118928415889731705"
-    },
-    {
-      "topic": "Platform / rewards",
-      "headline": "X News: Pump.fun launches Diamond rewards to boost bigger token calls",
-      "coins": "PUMP / Pump.fun",
-      "detail": "X News story (updated ~03:10 Berlin) says Pump.fun is updating Callout Rewards with a Diamond algorithm that increases payouts for calls on higher market-cap tokens, perps, and non-Solana assets while keeping the Degen system; leaderboards split Degen and Diamond, with cited top callout earners in six figures and the platform having disbursed tens of millions total.",
-      "updated": "Saturday 7 Nov 2026, 03:26 Berlin time (UTC+01:00)",
-      "url": "https://x.com/i/trending/2118735317964648644"
     }
   ],
   "hourly": [
