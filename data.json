@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 11:44 Berlin time (UTC+01:00)",
-  "newestPostId": "2120105154536182206",
+  "lastUpdated": "Tuesday 10 Nov 2026, 11:53 Berlin time (UTC+01:00)",
+  "newestPostId": "2120107135191089497",
   "note": "Window: X posts since 2120090982779625849 (1 recency query with call-spam phrases filtered out, 15 posts; about 10:49 to 10:51 Berlin). Nothing new added. @coinranking (20K) repeated the Upbit/Bithumb HYPE listing already on the board and noted ZetaChain holders voted to shut its L1 on Dec 9 with $ZETA converting to a Solana token (not a memecoin). Skipped: call brags on $DERP404, $BLOB, $NB, $HODL and $P; an AI-signal post on $LEVER; $CHOMP, $CATCH and wikifork promos; an ETH value-narrative post. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Platform",
+      "headline": "X News: Pump.fun pays $1.5M to top squad in its Squads Competition, sparking backlash",
+      "coins": "Pump.fun, Slingoor's $BTC and $LMAO",
+      "detail": "X's trending summary says the two-week Pump.fun Squads Competition drew nearly 1,000 squads and 4,700 participants. OGCALLERS won $1.5M, LarpFnF $750K and DRAINEDD $250K. Critics say the winners bundled and dumped tiny coins averaging about $2.9K market cap, and some squads were disqualified for rule breaks. The backlash ties in the accusations that featured KOL Slingoor rugged the BTC and LMAO coins. Co-founder Alon said there are lessons for future events. AI summary of X posts; verify.",
+      "updated": "Tuesday 10 Nov 2026, 11:53 Berlin",
+      "url": "https://x.com/i/trending/2120103559111066077"
+    },
+    {
+      "topic": "Exchange security",
+      "headline": "Binance and CZ call ShinyHunters' sale of 'Binance user records' a scam",
+      "coins": "$BNB",
+      "detail": "@BSCNWire (about 571K followers) reported at 11:48 Berlin that Binance is pushing back on the ShinyHunters hacking crew, which claims to be selling its user records. CZ called the listing a scam, and Binance says it has found no evidence of a breach of its systems.",
+      "updated": "Tuesday 10 Nov 2026, 11:53 Berlin",
+      "url": "https://x.com/BSCNWire/status/2120106332430708893"
+    },
+    {
       "topic": "Price move",
       "headline": "$MONTRA reportedly at an $18M market cap after a 12,082% 24-hour run",
       "coins": "$MONTRA, Elysium",
@@ -528,22 +544,6 @@
       "detail": "@Cointurknews (8,509 followers) posted the headline at 21:03 Berlin. X's news summary says Blumenthal, who is set to chair the Senate Permanent Subcommittee on Investigations, renewed the requests on 5 November. The probes cover alleged Iran- and Russia-linked transactions at Binance and Tether and ethics questions around Trump-family crypto projects. He has no subpoena power until the new Congress meets, and no wrongdoing has been found. Low engagement at scan (0 likes, 14 impressions).",
       "updated": "Monday 9 Nov 2026, 21:05 Berlin",
       "url": "https://x.com/i/trending/2119598374324425037"
-    },
-    {
-      "topic": "Price move / listing pump",
-      "headline": "Pieverse token reportedly up 500% since Fourtis listing (MC ~$63M → ~$383.3M)",
-      "coins": "Pieverse (@pieverse_io)",
-      "detail": "@fourtislisting (67,336 followers) posted at 20:00 Berlin a Pump Alert that the Pieverse token is up 500% since listing on Fourtis, citing first MC $63M and last MC $383.3M. Fourtis is the listing service's own promo account; no contract address in the post. About 7,418 impressions and 4 likes at scan.",
-      "updated": "Monday 9 Nov 2026, 20:08 Berlin",
-      "url": "https://x.com/fourtislisting/status/2119867853239091528"
-    },
-    {
-      "topic": "Platform",
-      "headline": "X News: Pump.fun traders question the 'check top holders' strategy",
-      "coins": "Pump.fun tokens (general)",
-      "detail": "X News story says Pump.fun's head of content claims checking top holders gives better insight than other apps thanks to its social graph, while traders push back with examples of losses after following prominent wallets or KOL calls such as Ansem's. The story says 95% of the platform's revenue comes from coins under $250K market cap, amid concerns about fake volume on migrated tokens.",
-      "updated": "Monday 9 Nov 2026, 20:08 Berlin",
-      "url": "https://x.com/i/trending/2119226750626669031"
     }
   ],
   "hourly": [
