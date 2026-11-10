@@ -1,8 +1,28 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 13:34 Berlin time (UTC+01:00)",
-  "newestPostId": "2120132875349549072",
+  "lastUpdated": "Tuesday 10 Nov 2026, 13:43 Berlin time (UTC+01:00)",
+  "newestPostId": "2120135112192938152",
   "note": "Window: X posts since 2120120433609519600 (25 posts, about 12:45 to 12:49 Berlin) plus an X News check of the last 3 hours. No new items: every memecoin story X News returned (Cupsey wallets, PEPE vs SHIB, 2025-26 losses, North Korean laundering memecoins, Montra holder dispute, bagworking nostalgia, Upbit HYPE) is already on the board. Skipped: $TILLY, $BOB, $BAGWORKING and $GTA call brags, $HypnoKat, $ELYS, a Chinese-doge BNB token, Trady and DogeOS referral posts, a wikifork launchpad promo, and a small account's unverified claim that MEXC tagged $musebook for delisting on 13 Nov. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
+    {
+      "coin": "HWAN ($HWAN)",
+      "chain": "Solana",
+      "chainNote": "No contract address in the post.",
+      "buzz": "@whalealphaa (47.2K followers) flagged $HWAN at 13:42 Berlin as a fresh Solana launch with $322K volume, 4,283 transactions, 778 traders and a $229K fully diluted value.",
+      "engagement": "About 58 views, no likes at time of sweep.",
+      "flags": "Single promo post with no contract address and almost no engagement; the on-chain numbers are the poster's own claims. Verify the token before trusting any link. Very high risk.",
+      "url": "https://x.com/whalealphaa/status/2120135020799299822",
+      "followers": 47160
+    },
+    {
+      "coin": "X ($X)",
+      "chain": "Solana",
+      "chainNote": "CA per the posts: 9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump (Pump.fun).",
+      "buzz": "Between 13:39 and 13:42 Berlin, call accounts @DegenFlow_ (6.9K followers), @vheranievhe (1.1K) and @SOLANACHAD009 (4.7K) posted near-identical brags claiming 71.3x, 58.3x and 9x on their $X call, all with the same contract.",
+      "engagement": "Best post (@DegenFlow_): about 230 views, 1 like.",
+      "flags": "Repeated 'call' accounts posting templated gains, which often happens after a run-up as buyers are drawn in. Gains are self-reported and unverified. Very high risk.",
+      "url": "https://x.com/DegenFlow_/status/2120134259813822925",
+      "followers": 6876
+    },
     {
       "coin": "Third unnamed token from @_rise (ticker not stated in the post)",
       "chain": "Solana",
@@ -282,26 +302,6 @@
       "flags": "All figures come from one promoter account (@AlphaPulsevw) and are unverified; the jump from $4.1M to $68.8M within about a minute looks implausible. Treat as unconfirmed; very high risk.",
       "url": "https://x.com/AlphaPulsevw/status/2119844401769828727",
       "followers": 2365
-    },
-    {
-      "coin": "WIFE ($WIFE)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 9nm9PkqnMegygdH3P3XUsM57AZKtsDqMuhNGt7chpWwD (graduated from pumpfun to PumpSwap). A second $WIFE (CA 8DairKVq88C3T7rFP5prre2rhB8UuNGha1gbKFfPzYYh, float launch) was flagged a minute later with a 65% bundler share.",
-      "buzz": "Signal account @bitecong (38,602 followers) posted at 17:59 Berlin that this was the second wife-themed Solana launch today, about eleven minutes old, graduating to PumpSwap just before the signal.",
-      "engagement": "276 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Copycat tickers; one version has a 65% bundler share. Automated signal only, no organic engagement. Very high risk.",
-      "url": "https://x.com/bitecong/status/2119837400893628421",
-      "followers": 38602
-    },
-    {
-      "coin": "Loom Terminal ($LOOM)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address 89X3ncKEjkdhkZfMQeogYYQ8D6d5Jie2Vtt84tFiB3Xm (launched on pumpfun; signal says graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,602 followers) posted at 17:55 Berlin an AI Signal that Loom Terminal ($LOOM), about an hour old, launched on pumpfun and graduated to PumpSwap a minute after the signal; nine X accounts had posted about it, only one above 10K followers.",
-      "engagement": "315 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin organic engagement. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2119836217068191747",
-      "followers": 38602
     }
   ],
   "news": [
