@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 05:53 Berlin time (UTC+01:00)",
-  "newestPostId": "2120017006384865652",
+  "lastUpdated": "Tuesday 10 Nov 2026, 06:01 Berlin time (UTC+01:00)",
+  "newestPostId": "2120018917037088973",
   "note": "Window: X posts since 2120014592411652230 (1 recency query, 25 posts; about 05:44 to 05:52 Berlin). Nothing new added. @CryptoGorilla (190K followers) posted a TLDR of the $MONTRA/$CASHCAT drama (1.3K views, 6 likes; story already on the board). Skipped: $BORLY/$KAWAENER/$GROXIE/$FORGIVENESS call and sniper brags, $FORGIVENESS AI-signal post, Zeru zETH and wikifork $FORK farming posts, $YESSAH, $SMEME, $BOOBIRDS and Snail promos, an Upbit HYPE listing claim from a 1-follower account (HYPE is not a memecoin; unverified here), a Schwab SOL take, and an Elon 'Chinese X' recap already on the board. Watching: @MCGlive 'SAHIL Files' exposé due tomorrow; 'Haris Meme Coin' launch tonight. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
     {
@@ -306,6 +306,22 @@
   ],
   "news": [
     {
+      "topic": "Exchange listing",
+      "headline": "Bitrue lists $牛逼, $GM and $STANK on Bitrue Alpha",
+      "coins": "$牛逼, $GM, $STANK",
+      "detail": "@BitrueOfficial (409K followers) announced at 06:00 Berlin that the three tokens are live on its Bitrue Alpha section. It says $牛逼 rides the hype around Elon Musk's viral 'Chinese X is 牛逼' post, and $GM is a BSC-based meme coin. Alpha is Bitrue's early-stage on-chain section, not a main spot listing.",
+      "updated": "Tuesday 10 Nov 2026, 06:01 Berlin",
+      "url": "https://x.com/BitrueOfficial/status/2120018621355151717"
+    },
+    {
+      "topic": "Exploit / laundering",
+      "headline": "Elliptic: North Korea-linked Binance hackers used homemade NEAR memecoins to move stolen funds",
+      "coins": "Six unnamed new memecoins on NEAR",
+      "detail": "A post from small aggregator @Prowlytics (276 followers) cites blockchain analytics firm Elliptic as saying attackers linked to North Korea created six memecoins on NEAR and used them to move about $430,000 tied to the Binance hack. Secondhand report; check Elliptic's own write-up.",
+      "updated": "Tuesday 10 Nov 2026, 06:01 Berlin",
+      "url": "https://x.com/Prowlytics/status/2120017815457472696"
+    },
+    {
       "topic": "Launchpad drama",
       "headline": "X News: top $MONTRA holder threatens to dump over CASHCAT rug accusations",
       "coins": "$MONTRA, $CASHCAT, Elysium",
@@ -528,22 +544,6 @@
       "detail": "X News story (updated ~17:16 Berlin) says crypto journalist Tiffany Fong started it on 9 Nov with a selfie captioned 'I am NOT a Chinese spy', drawing thousands of likes; influencer Irene Zhao and others joined with variants ('NOT a CIA spy'). It riffs on recent OpenAI warnings about romance 'honeypot' spies. Fresh crypto-native meme that could spawn coins; none reported in the sources so far.",
       "updated": "Monday 9 Nov 2026, 17:16 Berlin",
       "url": "https://x.com/i/trending/2119771688799707597"
-    },
-    {
-      "topic": "Insider dump allegation",
-      "headline": "Bubblemaps alleges Solana trader Cupsey dumped on followers via ~30 hidden wallets",
-      "coins": "Various Solana memecoins (unnamed in post)",
-      "detail": "@AlphaWireHQ (23,200 followers) reported at 18:06 Berlin that blockchain analytics firm @bubblemaps alleges Cupsey used about 30 hidden wallets to buy memecoins early, promote them publicly and sell into followers' buying, for about $1.74M. Allegation only; post text was cut off. Unrelated to the $cupsey ticker being shilled by call accounts. Follow-up from @CryptoNews_op (5,340 followers, 18:32 Berlin): the alleged wallets have traded over 27,000 times since 7 May (post text cut off).",
-      "updated": "Monday 9 Nov 2026, 18:06 Berlin",
-      "url": "https://x.com/AlphaWireHQ/status/2119839013464871035"
-    },
-    {
-      "topic": "Exploit / laundering",
-      "headline": "X News: North Korean hackers mint meme coins to launder Binance heist funds",
-      "coins": "Throwaway NEAR tokens (one touting 'Elon 2028 President')",
-      "detail": "X News story says the TraderTraitor group, blamed by the FBI for the 29 Oct Binance hack (reported as a record $6.4B heist), created at least six tokens on NEAR between 5 and 7 Nov and funneled about $430,000 in stolen NEAR through their liquidity pools using separate wallet clusters. Elliptic spotted the tactic; each token cost about $90 to make, and almost no real traders joined in. Story spreading at 18:41 Berlin: @blocknewsdotcom (87,446 followers) posted it; @MarketSignalMK adds that similar activity appeared on Tron and Solana.",
-      "updated": "Monday 9 Nov 2026, 16:35 Berlin",
-      "url": "https://x.com/i/trending/2119814869281378384"
     }
   ],
   "hourly": [
