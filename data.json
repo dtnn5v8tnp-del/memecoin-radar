@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 10:57 Berlin time (UTC+01:00)",
-  "newestPostId": "2120093318042251294",
+  "lastUpdated": "Tuesday 10 Nov 2026, 11:00 Berlin time (UTC+01:00)",
+  "newestPostId": "2120094187261706635",
   "note": "Window: X posts since 2120090982779625849 (1 recency query with call-spam phrases filtered out, 15 posts; about 10:49 to 10:51 Berlin). Nothing new added. @coinranking (20K) repeated the Upbit/Bithumb HYPE listing already on the board and noted ZetaChain holders voted to shut its L1 on Dec 9 with $ZETA converting to a Solana token (not a memecoin). Skipped: call brags on $DERP404, $BLOB, $NB, $HODL and $P; an AI-signal post on $LEVER; $CHOMP, $CATCH and wikifork promos; an ETH value-narrative post. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Platform backlash",
+      "headline": "Pump.fun faces backlash over insider tactics after the Cupsey side-wallet findings",
+      "coins": "Pump.fun memecoins",
+      "detail": "An X news story (updated 09:59 Berlin) says critics such as TheS◎Lstice and Mystral argue Pump.fun has shifted memecoins from community culture to coordinated hype and fees, after investigations found Cupsey-linked wallets traded over 27,000 tokens since May and extracted about $1.74M. Traders say they are checking holder lists more closely and eyeing alternatives like StonkFun. This is a summary of posts on X and the allegations are unproven.",
+      "updated": "Tuesday 10 Nov 2026, 09:59 Berlin",
+      "url": "https://x.com/i/trending/2119444073945891224"
+    },
+    {
       "topic": "Price move",
       "headline": "BSCN: $TROLL and $HAROLD up while the Solana memecoin market stays flat",
       "coins": "$TROLL, $HAROLD",
@@ -536,14 +544,6 @@
       "detail": "@raid100x (907,767 followers) posted at 19:07 Berlin: 'I am launching the BIGGEST memecoin of 2026. Are you in?' No name, chain, or date given. Early engagement was modest (4 likes, 2 replies, about 1,064 impressions at scan time). Big-account teasers like this often draw copycat contracts, so treat any CA claiming to be it with caution.",
       "updated": "Monday 9 Nov 2026, 19:09 Berlin",
       "url": "https://x.com/raid100x/status/2119854492917387678"
-    },
-    {
-      "topic": "Rug / dump",
-      "headline": "@gumsays: Percolator and Big Titty Coin holders down $1.8M in 24 hours",
-      "coins": "PERCOLATOR ($PERCOLATOR), Big Titty Coin ($BTC)",
-      "detail": "@gumsays (67,623 followers) posted at 19:00 Berlin that holders of the two Solana memecoins lost about $1.8M in 24 hours after the Percolator team 'rugged' (moving to a new token) and a top Big Titty Coin holder sold. The post says three wallets alone are down about half a million dollars on PERCOLATOR. Follow-up to the two X News stories already listed below; figures come from that post.",
-      "updated": "Monday 9 Nov 2026, 19:01 Berlin",
-      "url": "https://x.com/gumsays/status/2119852523712634917"
     }
   ],
   "hourly": [
