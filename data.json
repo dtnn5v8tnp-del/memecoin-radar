@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 02:43 Berlin time (UTC+01:00)",
-  "newestPostId": "2119968820127490332",
+  "lastUpdated": "Tuesday 10 Nov 2026, 02:44 Berlin time (UTC+01:00)",
+  "newestPostId": "2119969379979055448",
   "note": "Window: X posts since 2119954715337543948 (1 recency query, original posts only, 5 posts; about 01:46 to 01:49 Berlin). Nothing new added. Seen but skipped: @Drayzor223571 unnamed '$20M drained from a mid-cap Solana DEX' claim (1 view, no protocol named, unverified; like the earlier unverified $270M claim), @Great_Meme02 '332x on $HODLER' call brag ($HODLER already delivered), $FROG, Inu and NEONCOON promos. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Platform update",
+      "headline": "Pump.fun adds \"Diamond\" callout rewards that favor bigger caps and longer holds",
+      "coins": "Pump.fun (Solana)",
+      "detail": "X News story (updated 01:51 Berlin): Pump.fun rolled out a Diamond Callout Rewards algorithm next to its original Degen version, paying more for calls on larger market cap tokens and longer holds to cut spam. Co-founder Alon called it an experiment; the program has paid millions in USDC since early 2026. Analyst dethective says top callers' followers lost $2.4M overall, fuelling debate about protecting copy traders. AI-generated summary; not verified.",
+      "updated": "Tuesday 10 Nov 2026, 02:44 Berlin",
+      "url": "https://x.com/i/trending/2119903297511239837"
+    },
+    {
       "topic": "Launchpad drama",
       "headline": "Top CASHCAT holder snipes 5% of new Elysium launchpad token $MONTRA, alleging a rug",
       "coins": "$MONTRA, $CASHCAT",
@@ -536,14 +544,6 @@
       "detail": "Tracker @jussy_world (76,563 followers) posted at 07:44 Berlin that Ansem is already short on Pumpfun: about $957K of SOL at 20x (entry ~$92.9, +~$29K) and about $501K of ETH at 10x (entry ~$2,221, added overnight), tying it to Ansem's overnight \"60k 1500 60\" call. Engagement at scan: 1,089 impressions, 5 likes, 1 reply.",
       "updated": "Saturday 7 Nov 2026, 07:47 Berlin",
       "url": "https://x.com/jussy_world/status/2118957640655225064"
-    },
-    {
-      "topic": "Paid promo / DEXScreener",
-      "headline": "Paid DEXScreener boost flagged for $notion on Pumpfun Solana",
-      "coins": "$notion",
-      "detail": "Watcher @dex_kolwatcher (8,981 followers) posted at 07:41 Berlin detecting a paid DEXScreener listing for $notion (CA 4C6LMX3q8iwShzW6j6A71NAUCgZ9G72T93hh4bKDpump) on Pumpfun Solana; it cited ~$13.4K buy / ~$11.2K sell volume over 24h, $0 liquidity, and ~$8.2K market cap at scan. Thin engagement on the alert itself (217 impressions, 0 likes).",
-      "updated": "Saturday 7 Nov 2026, 07:43 Berlin",
-      "url": "https://x.com/dex_kolwatcher/status/2118956932992307409"
     }
   ],
   "hourly": [
