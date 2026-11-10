@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 06:47 Berlin time (UTC+01:00)",
-  "newestPostId": "2120030410855870534",
+  "lastUpdated": "Tuesday 10 Nov 2026, 06:50 Berlin time (UTC+01:00)",
+  "newestPostId": "2120031130753658984",
   "note": "Window: X posts since 2120014592411652230 (1 recency query, 25 posts; about 05:44 to 05:52 Berlin). Nothing new added. @CryptoGorilla (190K followers) posted a TLDR of the $MONTRA/$CASHCAT drama (1.3K views, 6 likes; story already on the board). Skipped: $BORLY/$KAWAENER/$GROXIE/$FORGIVENESS call and sniper brags, $FORGIVENESS AI-signal post, Zeru zETH and wikifork $FORK farming posts, $YESSAH, $SMEME, $BOOBIRDS and Snail promos, an Upbit HYPE listing claim from a 1-follower account (HYPE is not a memecoin; unverified here), a Schwab SOL take, and an Elon 'Chinese X' recap already on the board. Watching: @MCGlive 'SAHIL Files' exposé due tomorrow; 'Haris Meme Coin' launch tonight. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Price move",
+      "headline": "BSCN: $TROLL and $HAROLD up while the Solana memecoin market stays flat",
+      "coins": "$TROLL, $HAROLD",
+      "detail": "@BSCNews (1.37M followers) reported at 06:47 Berlin that $TROLL rose 7% and $HAROLD 10% over 24 hours while, citing CoinGecko, the wider memecoin market was largely flat. Modest moves.",
+      "updated": "Tuesday 10 Nov 2026, 06:50 Berlin",
+      "url": "https://x.com/BSCNews/status/2120030538002313575"
+    },
+    {
       "topic": "Exchange listing",
       "headline": "Upbit and Bithumb list Hyperliquid's HYPE",
       "coins": "$HYPE, $CARDS",
@@ -536,14 +544,6 @@
       "detail": "@gumsays (67,623 followers) posted at 19:00 Berlin that holders of the two Solana memecoins lost about $1.8M in 24 hours after the Percolator team 'rugged' (moving to a new token) and a top Big Titty Coin holder sold. The post says three wallets alone are down about half a million dollars on PERCOLATOR. Follow-up to the two X News stories already listed below; figures come from that post.",
       "updated": "Monday 9 Nov 2026, 19:01 Berlin",
       "url": "https://x.com/gumsays/status/2119852523712634917"
-    },
-    {
-      "topic": "Price move",
-      "headline": "$TRUMP reportedly hits a new all-time low near $1.12",
-      "coins": "TRUMP ($TRUMP)",
-      "detail": "@Millon_Sancet (3,201 followers) posted at 18:53 Berlin that $TRUMP is around $1.12, about 1.5% of its $73.43 all-time high and down 31% this week. Figures come from that single post and weren't independently confirmed; low engagement so far.",
-      "updated": "Monday 9 Nov 2026, 18:55 Berlin",
-      "url": "https://x.com/Millon_Sancet/status/2119850919240048653"
     }
   ],
   "hourly": [
