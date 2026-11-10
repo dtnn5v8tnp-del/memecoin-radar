@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 14:15 Berlin time (UTC+01:00)",
-  "newestPostId": "2120143153978073399",
-  "note": "Window: 25 X posts from about 14:12 to 14:15 Berlin. No new items. Skipped: more call accounts posting the $X contract already on the board (claimed up to about 219x), $DERP404, $Big and $NOTHING call brags, @nexocooker's '$22 turned into $11.4M' post (no coin named), small-account complaints that the Elysium chain memecoin trend has already died, $VLCALD, $PROEX and Lulu self-promos, and off-topic hits. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 14:22 Berlin time (UTC+01:00)",
+  "newestPostId": "2120145022804971848",
+  "note": "Window: 25 X posts from about 14:19 to 14:22 Berlin. Added a small account's unverified claim that Bubblemaps tied @beaverd's wallets to the $SIAS rug and others. Skipped: a $BOTZO airdrop launch set for 15:00 Berlin tomorrow, $ELYTHORIA (Elypad's token on Elysium), $NOSLEEP, $SANDCOIN, $ZYNQ, $PØLSE and $WEALTH self-promos, a $Dinga call brag, paid $SAI posts, @AndrewCryptoHQ's buy-zone post on a token he didn't name, @TheCryptoKazi's 'next 100x is utility' tease, a Binance roundup repeating the North Korean laundering story, and off-topic hits. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
     {
       "coin": "HWAN ($HWAN)",
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Rug allegations",
+      "headline": "Claim: Bubblemaps tied @beaverd's wallets to several memecoin rugs, including $SIAS",
+      "coins": "$SIAS",
+      "detail": "@skeletronJV (227 followers) posted at 14:21 Berlin that Bubblemaps linked @beaverd's wallets to multiple alleged memecoin rugs, saying $SIAS hit a $6M market cap before collapsing and four alleged side wallets pulled out nearly $600K. The post has no engagement yet and doesn't link the Bubblemaps findings, so this is an unverified secondhand claim. Check Bubblemaps directly before relying on it.",
+      "updated": "Tuesday 10 Nov 2026, 14:22 Berlin",
+      "url": "https://x.com/skeletronJV/status/2120144897642528838"
+    },
+    {
       "topic": "SPX6900",
       "headline": "X News: SPX6900 holders bet on community belief, with the token around $0.35 and a $330M market cap",
       "coins": "$SPX",
@@ -536,14 +544,6 @@
       "detail": "CoinJar (@GetCoinJar, 13.8K followers, verified) posted at 23:00 Berlin that PUMP can now be bought and sold on CoinJar and CoinJar Exchange. Low engagement at scan (16 impressions).",
       "updated": "Monday 9 Nov 2026, 23:03 Berlin",
       "url": "https://x.com/GetCoinJar/status/2119913008847585487"
-    },
-    {
-      "topic": "Buyback",
-      "headline": "Pump.fun bought back and burned about $4.35M of $PUMP over the past 7 days",
-      "coins": "$PUMP",
-      "detail": "A 22:57 Berlin post by @CKJCryptonews (60.7K followers) says Pump.fun bought back and burned $4,353,500 worth of $PUMP over the past 7 days. Figure is from that post only, not verified on-chain in this sweep; low engagement at scan (about 200 impressions).",
-      "updated": "Monday 9 Nov 2026, 22:58 Berlin",
-      "url": "https://x.com/CKJCryptonews/status/2119912225507020909"
     }
   ],
   "hourly": [
