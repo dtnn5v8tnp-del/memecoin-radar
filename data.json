@@ -1,15 +1,25 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 11:30 Berlin time (UTC+01:00)",
-  "newestPostId": "2120101553675612246",
+  "lastUpdated": "Tuesday 10 Nov 2026, 11:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2120103114917224874",
   "note": "Window: X posts since 2120090982779625849 (1 recency query with call-spam phrases filtered out, 15 posts; about 10:49 to 10:51 Berlin). Nothing new added. @coinranking (20K) repeated the Upbit/Bithumb HYPE listing already on the board and noted ZetaChain holders voted to shut its L1 on Dec 9 with $ZETA converting to a Solana token (not a memecoin). Skipped: call brags on $DERP404, $BLOB, $NB, $HODL and $P; an AI-signal post on $LEVER; $CHOMP, $CATCH and wikifork promos; an ETH value-narrative post. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; 'Haris Meme Coin' launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow.",
   "launches": [
+    {
+      "coin": "Elysium day-1 runners ($CHAMELEON, $EACCAT, $TESTICLES)",
+      "chain": "Elysium (Hyperliquid L2)",
+      "chainNote": "Launched via the Montra launchpad on Elysium's first day. No contract addresses were in the post; verify on Montra before trusting any.",
+      "buzz": "@Bancrypto__ (31.5K followers) wrote at 11:34 Berlin that the top three runners on day one of Elysium and Montra are $CHAMELEON, $EACCAT and $TESTICLES.",
+      "engagement": "About 627 views, 2 likes and 3 replies at time of sweep.",
+      "flags": "The same post says $CHAMELEON and $EACCAT look heavily bundled and likely to rug, and only $TESTICLES looks organic. Brand-new chain, thin liquidity, very high risk.",
+      "url": "https://x.com/Bancrypto__/status/2120102800319496684",
+      "followers": 31460
+    },
     {
       "coin": "OnlyCats relaunch ($OnlyCats)",
       "chain": "Solana",
       "chainNote": "CA posted by promoters: C96iP2opG9fzo5BEyURciKfxbzbmcUFau7JcuGGm9DCE (live on PumpSwap per the posts). Not an official team post; verify before trusting.",
       "buzz": "A 'new launch' of $OnlyCats at about $10K market cap, pitched as a second chance at the original OnlyCats that promoters say hit $2M. Pushed between 10:21 and 10:34 Berlin in near-identical posts by @Theblackbullxxx (183.5K followers), @Viking4Eth (65.5K) and @speedyswimmerr (44.8K). Update 11:01 Berlin: @Pinky_memecoin (1.4K followers) posted that $OnlyCats is up 529% in 24h at a $272K market cap with $1.58M volume but only $41K of liquidity.",
       "engagement": "Best post (@Theblackbullxxx): about 159 views, 18 likes, 19 reposts, 22 replies. The other two had 22 and 67 views.",
-      "flags": "Looks like a coordinated paid shill: same CA and talking points across big accounts within minutes, with engagement far below their follower counts. Relaunches of old names at tiny caps are frequently dumped on buyers. Very high risk. Per that same post, RugCheck shows mint and freeze revoked but the LP is largely unlocked with few LP providers, so one whale exit could drain it. Watch for copycats: at 11:22 Berlin, call accounts @SOLANALYST01 and @MEGCRYPT0 claimed a 233.3x run on $ONLYCATS but posted a different contract (BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump), so more than one token is trading under this name.",
+      "flags": "Looks like a coordinated paid shill: same CA and talking points across big accounts within minutes, with engagement far below their follower counts. Relaunches of old names at tiny caps are frequently dumped on buyers. Very high risk. Per that same post, RugCheck shows mint and freeze revoked but the LP is largely unlocked with few LP providers, so one whale exit could drain it. Watch for copycats: at 11:22 Berlin, call accounts @SOLANALYST01 and @MEGCRYPT0 claimed a 233.3x run on $ONLYCATS but posted a different contract (BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump), so more than one token is trading under this name. At 11:34 Berlin, @speedyswimmerr (44.8K) pushed $OnlyCats again with yet another contract (6wUzNEnaZSmHzxV53isoYKeWweWMbipiNfYkiZg8kpTF), so at least three different contracts are being promoted under this name.",
       "url": "https://x.com/Theblackbullxxx/status/2120087656566575303",
       "followers": 183507
     },
@@ -292,24 +302,30 @@
       "flags": "Only an automated signal account so far; thin engagement; fourth Slingfolio-theme launch today with a distinct CA from earlier entries (serial-theme / redeploy risk); deployer mass-deploy history flagged. Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118935312537964613",
       "followers": 38571
-    },
-    {
-      "coin": "Slingfolio ($Slingfolio)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address EMSpXbsxHbmGwb2oHMBVacGVoFc4L1Uz3PsZC41qsoNs (pump.fun / pumpfun bonding curve; signal says about four fifths of the way to graduation).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 06:11 Berlin an AI Signal that Slingfolio ($Slingfolio) is the third launch today carrying its own name as the theme, about two minutes old and still on the pumpfun bonding curve roughly four fifths of the way to graduation (text cut off).",
-      "engagement": "323 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; third Slingfolio-theme launch today with a distinct CA from earlier entries in this window (serial-theme / redeploy risk). Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118934243116261572",
-      "followers": 38571
     }
   ],
   "news": [
     {
+      "topic": "Market",
+      "headline": "Traders share heavy memecoin losses as the sector sits about 79% below early 2025",
+      "coins": "Memecoin sector, $TRUMP",
+      "detail": "An X news story (updated 11:18 Berlin) says the memecoin category is down about 78.74% from early 2025 to roughly $26B market cap, and the Trump-branded token fell from a $72B peak to $340M. It is a summary of user posts, so treat the figures as approximate.",
+      "updated": "Tuesday 10 Nov 2026, 11:18 Berlin",
+      "url": "https://x.com/i/trending/2120097586312814640"
+    },
+    {
+      "topic": "Ecosystem",
+      "headline": "Solana leads L1s with 19.1M monthly active addresses while SOL trades near $86",
+      "coins": "$SOL, Solana memecoins",
+      "detail": "An X news story (updated 09:47 Berlin) cites Token Terminal data showing 19.1M monthly active Solana addresses, a 46.3% share among L1s, while SOL trades around $86 to $88 after a 20% monthly drop ahead of Breakpoint London on November 15 to 17.",
+      "updated": "Tuesday 10 Nov 2026, 09:47 Berlin",
+      "url": "https://x.com/i/trending/2120074580798906658"
+    },
+    {
       "topic": "Security",
       "headline": "Binance reportedly warns of an iOS flaw that lets malicious apps read wallet seed phrases",
       "coins": "All self-custody wallets on iPhone",
-      "detail": "@open4profit (148K followers) posted at 11:15 Berlin that Binance warns malicious apps can exploit an iOS security flaw to access seed phrases and private keys stored by other apps on the same device. This is a repost of the warning, not Binance's own post, so check Binance's official channels before acting.",
+      "detail": "@open4profit (148K followers) posted at 11:15 Berlin that Binance warns malicious apps can exploit an iOS security flaw to access seed phrases and private keys stored by other apps on the same device. This is a repost of the warning, not Binance's own post, so check Binance's official channels before acting. Update 11:30 Berlin: @cryptoamanclub (88K) names the malicious app as FomoPeek.",
       "updated": "Tuesday 10 Nov 2026, 11:15 Berlin",
       "url": "https://x.com/open4profit/status/2120097986466496862"
     },
@@ -528,22 +544,6 @@
       "detail": "@alexxxx (12,960 followers) posted at 19:40 Berlin that Pump.fun has taken action and stopped callout rewards for Slingoor, the Solana influencer accused of dumping his Big Titty Coin stake (see the X News item below). Single post; no Pump.fun statement seen in the sources yet.",
       "updated": "Monday 9 Nov 2026, 19:43 Berlin",
       "url": "https://x.com/alexxxx/status/2119862822800924935"
-    },
-    {
-      "topic": "New chain",
-      "headline": "X News: Elysium mainnet launches for the Hyperliquid ecosystem",
-      "coins": "HYPE (gas), KNTQ; new Elysium memecoins",
-      "detail": "X News story (updated 19:39 Berlin) says Kinetiq launched the Elysium Layer 2 mainnet on 9 Nov (chain ID 99901, HYPE as gas, an Arbitrum Orbit chain settling to HyperEVM), with a perps-backed launchpad and 50% of sequencer fees funding KNTQ buybacks and burns. Memecoin launches on Elysium are already showing up in the X feed, alongside rug accusations against some Elysium launchpads.",
-      "updated": "Monday 9 Nov 2026, 19:39 Berlin",
-      "url": "https://x.com/i/trending/2119780041781563418"
-    },
-    {
-      "topic": "Platform",
-      "headline": "Pump.fun reportedly sunsetting web3 wallet login in about 20 days",
-      "coins": "n/a (Pump.fun platform)",
-      "detail": "@Crypto_Retardio (4,157 followers) posted at 19:33 Berlin that users who imported a wallet into the Pump.fun app have 20 more days to add a social login before web3 login is sunsetted; the same post says the Pump.fun app can be used to trade on Elysium. Single post, not yet confirmed by Pump.fun in the sources seen.",
-      "updated": "Monday 9 Nov 2026, 19:34 Berlin",
-      "url": "https://x.com/Crypto_Retardio/status/2119861008470856027"
     }
   ],
   "hourly": [
