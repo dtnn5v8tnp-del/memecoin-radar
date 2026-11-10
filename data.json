@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 06:04 Berlin time (UTC+01:00)",
-  "newestPostId": "2120019702223163413",
+  "lastUpdated": "Tuesday 10 Nov 2026, 06:11 Berlin time (UTC+01:00)",
+  "newestPostId": "2120021345383932373",
   "note": "Window: X posts since 2120014592411652230 (1 recency query, 25 posts; about 05:44 to 05:52 Berlin). Nothing new added. @CryptoGorilla (190K followers) posted a TLDR of the $MONTRA/$CASHCAT drama (1.3K views, 6 likes; story already on the board). Skipped: $BORLY/$KAWAENER/$GROXIE/$FORGIVENESS call and sniper brags, $FORGIVENESS AI-signal post, Zeru zETH and wikifork $FORK farming posts, $YESSAH, $SMEME, $BOOBIRDS and Snail promos, an Upbit HYPE listing claim from a 1-follower account (HYPE is not a memecoin; unverified here), a Schwab SOL take, and an Elon 'Chinese X' recap already on the board. Watching: @MCGlive 'SAHIL Files' exposé due tomorrow; 'Haris Meme Coin' launch tonight. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
     {
@@ -307,6 +307,14 @@
   "news": [
     {
       "topic": "Exchange listing",
+      "headline": "Upbit to list Hyperliquid's HYPE today",
+      "coins": "$HYPE",
+      "detail": "Small accounts @bluewingdex (111 followers) and @CoinXview (19 followers) report that Upbit, Korea's biggest exchange, scheduled HYPE trading for 15:00 KST (07:00 Berlin) today on its KRW, BTC and USDT markets, with deposits and withdrawals on HyperEVM only. Not a memecoin; unconfirmed here against Upbit's own notice.",
+      "updated": "Tuesday 10 Nov 2026, 06:11 Berlin",
+      "url": "https://x.com/bluewingdex/status/2120020816775549408"
+    },
+    {
+      "topic": "Exchange listing",
       "headline": "Bitrue lists $牛逼, $GM and $STANK on Bitrue Alpha",
       "coins": "$牛逼, $GM, $STANK",
       "detail": "@BitrueOfficial (409K followers) announced at 06:00 Berlin that the three tokens are live on its Bitrue Alpha section. It says $牛逼 rides the hype around Elon Musk's viral 'Chinese X is 牛逼' post, and $GM is a BSC-based meme coin. Alpha is Bitrue's early-stage on-chain section, not a main spot listing.",
@@ -315,11 +323,11 @@
     },
     {
       "topic": "Exploit / laundering",
-      "headline": "Elliptic: North Korea-linked Binance hackers used homemade NEAR memecoins to move stolen funds",
-      "coins": "Six unnamed new memecoins on NEAR",
-      "detail": "A post from small aggregator @Prowlytics (276 followers) cites blockchain analytics firm Elliptic as saying attackers linked to North Korea created six memecoins on NEAR and used them to move about $430,000 tied to the Binance hack. Secondhand report; check Elliptic's own write-up.",
-      "updated": "Tuesday 10 Nov 2026, 06:01 Berlin",
-      "url": "https://x.com/Prowlytics/status/2120017815457472696"
+      "headline": "X News: North Korea-linked Binance hackers launched memecoins to launder stolen funds",
+      "coins": "Short-lived memecoins on NEAR, Tron and Solana",
+      "detail": "X's trending summary says Elliptic found that the TraderTraitor group, which the FBI blames for the 29 Oct 2026 Binance hack (put at $6.4B), minted memecoins for about $90 each, paired them with liquidity pools and pushed about $430,000 of stolen NEAR through fake trades. The same tactic was seen after the 2025 Bybit hack. Binance has pledged to cover user losses. First seen via a small account, @Prowlytics, at 05:56 Berlin.",
+      "updated": "Tuesday 10 Nov 2026, 06:11 Berlin",
+      "url": "https://x.com/i/trending/2119814869281378384"
     },
     {
       "topic": "Launchpad drama",
@@ -536,14 +544,6 @@
       "detail": "@Millon_Sancet (3,201 followers) posted at 18:53 Berlin that $TRUMP is around $1.12, about 1.5% of its $73.43 all-time high and down 31% this week. Figures come from that single post and weren't independently confirmed; low engagement so far.",
       "updated": "Monday 9 Nov 2026, 18:55 Berlin",
       "url": "https://x.com/Millon_Sancet/status/2119850919240048653"
-    },
-    {
-      "topic": "Viral meme",
-      "headline": "X News: 'I am NOT a Chinese spy' meme spreads through crypto circles",
-      "coins": "n/a (no coin cited yet)",
-      "detail": "X News story (updated ~17:16 Berlin) says crypto journalist Tiffany Fong started it on 9 Nov with a selfie captioned 'I am NOT a Chinese spy', drawing thousands of likes; influencer Irene Zhao and others joined with variants ('NOT a CIA spy'). It riffs on recent OpenAI warnings about romance 'honeypot' spies. Fresh crypto-native meme that could spawn coins; none reported in the sources so far.",
-      "updated": "Monday 9 Nov 2026, 17:16 Berlin",
-      "url": "https://x.com/i/trending/2119771688799707597"
     }
   ],
   "hourly": [
