@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 10:28 Berlin time (UTC+01:00)",
-  "newestPostId": "2120085878575870409",
-  "note": "Window: X posts since 2120085334394654878 (1 recency query with call-spam phrases filtered out, 7 posts; about 10:25 to 10:27 Berlin). Nothing new added. Skipped: @gio_bioo reposting copied $X and $AMPED call-brag text, a repeated GEKKO launchpad promo, and a recap of the North Korea memecoin-laundering story already on the board. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow; 'Haris Meme Coin' launch tonight.",
+  "lastUpdated": "Tuesday 10 Nov 2026, 10:37 Berlin time (UTC+01:00)",
+  "newestPostId": "2120088391849332889",
+  "note": "Window: X posts since 2120085878575870409 (1 recency query with call-spam phrases filtered out, 25 newest posts; about 10:32 to 10:37 Berlin). Added: the $OnlyCats relaunch, now pushed by three large accounts in what looks like a coordinated shill (flagged very high risk). Skipped: call brags on $X, $BORLY, $DACITY, $DERP404 and $WAXIE; tiny-account teasers ($TRUMPO, $Worstcoin, $SPY, Lulz); $AARK listing spam; wikifork $FORK farming; a HYPE/NYSE take; $Turbo promo. Watching: @KytroCrypto $KYTRO launch at 19:00 Berlin; @MCGlive 'SAHIL Files' expose due tomorrow; 'Haris Meme Coin' launch tonight.",
   "launches": [
+    {
+      "coin": "OnlyCats relaunch ($OnlyCats)",
+      "chain": "Solana",
+      "chainNote": "CA posted by promoters: C96iP2opG9fzo5BEyURciKfxbzbmcUFau7JcuGGm9DCE (live on PumpSwap per the posts). Not an official team post; verify before trusting.",
+      "buzz": "A 'new launch' of $OnlyCats at about $10K market cap, pitched as a second chance at the original OnlyCats that promoters say hit $2M. Pushed between 10:21 and 10:34 Berlin in near-identical posts by @Theblackbullxxx (183.5K followers), @Viking4Eth (65.5K) and @speedyswimmerr (44.8K).",
+      "engagement": "Best post (@Theblackbullxxx): about 159 views, 18 likes, 19 reposts, 22 replies. The other two had 22 and 67 views.",
+      "flags": "Looks like a coordinated paid shill: same CA and talking points across big accounts within minutes, with engagement far below their follower counts. Relaunches of old names at tiny caps are frequently dumped on buyers. Very high risk.",
+      "url": "https://x.com/Theblackbullxxx/status/2120087656566575303",
+      "followers": 183507
+    },
     {
       "coin": "KYTRO ($KYTRO)",
       "chain": "Solana",
@@ -291,16 +301,6 @@
       "engagement": "323 impressions, 0 likes, 0 reposts at scan time.",
       "flags": "Only an automated signal account so far; thin engagement; third Slingfolio-theme launch today with a distinct CA from earlier entries in this window (serial-theme / redeploy risk). Very early, high risk.",
       "url": "https://x.com/bitecong/status/2118934243116261572",
-      "followers": 38571
-    },
-    {
-      "coin": "Slingfolio ($SLINGFOLIO)",
-      "chain": "Solana",
-      "chainNote": "Post gives contract address GoqdpMVvqawNUvdfTmqXvvoSaDRrqDQexzG7wzf2pump (pump.fun / pumpfun; signal says already graduated to PumpSwap).",
-      "buzz": "Signal account @bitecong (38,571 followers) posted at 05:54 Berlin an AI Signal that Slingfolio ($SLINGFOLIO) trades on Solana after graduating from pumpfun to PumpSwap before the signal; it notes the deployer's earlier tokens have never graduated and the name carries no stated theme beyond itself.",
-      "engagement": "273 impressions, 0 likes, 0 reposts at scan time.",
-      "flags": "Only an automated signal account so far; thin engagement; distinct CA from an earlier Slingfolio signal in this window (serial-theme / redeploy risk); instant graduation; deployer history flagged. Very early, high risk.",
-      "url": "https://x.com/bitecong/status/2118930167913718236",
       "followers": 38571
     }
   ],
