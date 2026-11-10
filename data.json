@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 01:56 Berlin time (UTC+01:00)",
-  "newestPostId": "2119957162374169069",
+  "lastUpdated": "Tuesday 10 Nov 2026, 01:59 Berlin time (UTC+01:00)",
+  "newestPostId": "2119957967655292931",
   "note": "Window: X posts since 2119954715337543948 (1 recency query, original posts only, 5 posts; about 01:46 to 01:49 Berlin). Nothing new added. Seen but skipped: @Drayzor223571 unnamed '$20M drained from a mid-cap Solana DEX' claim (1 view, no protocol named, unverified; like the earlier unverified $270M claim), @Great_Meme02 '332x on $HODLER' call brag ($HODLER already delivered), $FROG, Inu and NEONCOON promos. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts. The $牛逼 alert handoff returned 'Aborted' twice; delivery unconfirmed, do not retry.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Price move",
+      "headline": "PEPE up about 7% while most crypto dipped",
+      "coins": "$PEPE, $DOGE, $SHIB",
+      "detail": "X News story (updated 01:30 Berlin): on Nov 9 PEPE gained about 7% to trade near $0.00000534 with a $2.15B market cap and high volume, outperforming Dogecoin and Shiba Inu, which fell. Traders shared breakout charts; at least one shorted it, calling it range-bound. AI-generated summary; not verified.",
+      "updated": "Tuesday 10 Nov 2026, 01:59 Berlin",
+      "url": "https://x.com/i/trending/2119949230089654665"
+    },
+    {
       "topic": "Launchpad drama",
       "headline": "Float launchpad accused of 'vamping' existing Solana memecoins",
       "coins": "$FLOAT, $DOPE",
@@ -536,14 +544,6 @@
       "detail": "X News story (updated ~03:10 Berlin) says Pump.fun is updating Callout Rewards with a Diamond algorithm that increases payouts for calls on higher market-cap tokens, perps, and non-Solana assets while keeping the Degen system; leaderboards split Degen and Diamond, with cited top callout earners in six figures and the platform having disbursed tens of millions total.",
       "updated": "Saturday 7 Nov 2026, 03:26 Berlin time (UTC+01:00)",
       "url": "https://x.com/i/trending/2118735317964648644"
-    },
-    {
-      "topic": "Community / memecoin loyalty",
-      "headline": "X News: SPX6900 community sticks with daily memecoin buys",
-      "coins": "$SPX6900",
-      "detail": "X News story (updated ~01:36 Berlin) summarizes SPX6900 holders dollar-cost averaging daily (one cited streak of 502 straight days), with the satirical Ethereum S&P-parody memecoin described around a ~$330M market cap / ~$0.36; community memes like Persist Forever and claims of large holder upside circulate alongside the buys.",
-      "updated": "Saturday 7 Nov 2026, 03:26 Berlin time (UTC+01:00)",
-      "url": "https://x.com/i/trending/2118878937040429414"
     }
   ],
   "hourly": [
