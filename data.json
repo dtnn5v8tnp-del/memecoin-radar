@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "Tuesday 10 Nov 2026, 04:40 Berlin time (UTC+01:00)",
-  "newestPostId": "2119998265018180074",
+  "lastUpdated": "Tuesday 10 Nov 2026, 04:47 Berlin time (UTC+01:00)",
+  "newestPostId": "2120000160038375442",
   "note": "Window: X posts since 2119984954507657375 (1 recency query, 7 posts; about 03:49 to 03:51 Berlin). Nothing new added. Skipped: $BORLY and $HODLER call brags (@JEREMYhboo, @Bullish_WoIf), $e/acc Elysium shill, Elysium L2 explainer, 5-follower IONON CoinMarketCap application post, Hachiko promo. Earlier at 03:47 added @remusofmars 'Spinor files' $CASHCAT accusation. DELIVERED earlier: $HODLER, Elizabeth Warren, North Korea and Cupsey alerts.",
   "launches": [
     {
@@ -306,6 +306,14 @@
   ],
   "news": [
     {
+      "topic": "Launchpad drama",
+      "headline": "X News: top $MONTRA holder threatens to dump over CASHCAT rug accusations",
+      "coins": "$MONTRA, $CASHCAT, Elysium",
+      "detail": "X's trending summary says a holder posting as igotruggedoncashcat, who claims a $2M loss after Spinor left the $CASHCAT takeover to build $MONTRA on Elysium, holds around 5% of $MONTRA supply across wallets and has vowed to dump to block any rise. Analysts warn of selling pressure and the price has swung wildly. One side of a dispute; unverified. Builds on the earlier @remusofmars and @YakuzaDaddy rows.",
+      "updated": "Tuesday 10 Nov 2026, 04:47 Berlin",
+      "url": "https://x.com/i/trending/2119987057544020292"
+    },
+    {
       "topic": "Rug accusation",
       "headline": "@remusofmars: 'Spinor' talked me into $2M+ of $CASHCAT, then launched another launchpad",
       "coins": "$CASHCAT, Let'sCash launchpad, Elysium",
@@ -536,14 +544,6 @@
       "detail": "X News story says the TraderTraitor group, blamed by the FBI for the 29 Oct Binance hack (reported as a record $6.4B heist), created at least six tokens on NEAR between 5 and 7 Nov and funneled about $430,000 in stolen NEAR through their liquidity pools using separate wallet clusters. Elliptic spotted the tactic; each token cost about $90 to make, and almost no real traders joined in. Story spreading at 18:41 Berlin: @blocknewsdotcom (87,446 followers) posted it; @MarketSignalMK adds that similar activity appeared on Tron and Solana.",
       "updated": "Monday 9 Nov 2026, 16:35 Berlin",
       "url": "https://x.com/i/trending/2119814869281378384"
-    },
-    {
-      "topic": "Dump / influencer",
-      "headline": "X News: Solana influencer Slingoor dumps Big Titty Coin stake",
-      "coins": "Big Titty Coin (Solana)",
-      "detail": "X News story says Slingoor (about 190,000 followers, a top Pump.fun earner with over $526,000 in rewards) heavily promoted the coin, then his wallet sold 62% of supply in under a minute, taking it from millions to near zero. He cited extortion attempts and death threats and said he had lost money overall through earlier buybacks.",
-      "updated": "Monday 9 Nov 2026, 17:38 Berlin",
-      "url": "https://x.com/i/trending/2119481829040259480"
     }
   ],
   "hourly": [
